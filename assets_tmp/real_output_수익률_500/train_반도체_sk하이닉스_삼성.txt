@@ -1,0 +1,133 @@
+Date: 2018-11-23
+Most Influencial News: 한경로보뉴스 전일 기관 거래소에서 삼성전자 1 64 SK하이닉스 0 89 등 순매수
+True Value: 0.0
+Predicted Without: -0.396
+Predicted With: -0.15
+
+
+Date: 2019-01-04
+Most Influencial News: 코스피 보합권서 맴맴 삼성전자·SK하이닉스하락
+True Value: 1.04
+Predicted Without: -1.571
+Predicted With: 0.155
+
+
+Date: 2019-01-09
+Most Influencial News: 삼성전자 어닝쇼크 에 코스피 하락 2020선 후퇴
+True Value: 7.432
+Predicted Without: 2.905
+Predicted With: 8.179
+
+
+Date: 2019-01-23
+Most Influencial News: 코스피 개인 매물에 하락 배당 증가 기대 삼성물산 2 상승
+True Value: 0.3
+Predicted Without: 0.9
+Predicted With: 0.384
+
+
+Date: 2019-04-17
+Most Influencial News: 전일 외국인 거래소에서 삼성전자 0 43 KODEX 200TR 0 33 등 순매수
+True Value: -0.249
+Predicted Without: 0.444
+Predicted With: -0.101
+
+
+Date: 2019-04-25
+Most Influencial News: 특징주 삼성전자·SK하이닉스 기관·외인 쌍끌이 매도에 주르르
+True Value: 2.166
+Predicted Without: 1.202
+Predicted With: 1.037
+
+
+Date: 2019-08-13
+Most Influencial News: 12일 외국인 거래소에서 삼성전기 3 02 SK하이닉스 1 64 등 순매수
+True Value: 0.0
+Predicted Without: -1.008
+Predicted With: 0.485
+
+
+Date: 2019-09-02
+Most Influencial News: 8월 외국인 韓주식 2 6조원 순매도 절반은 삼성전자
+True Value: 0.258
+Predicted Without: 0.459
+Predicted With: 0.353
+
+
+Date: 2020-05-07
+Most Influencial News: 06일 외국인 거래소에서 삼성전자 1 44 KB금융 0 91 등 순매도
+True Value: 0.0
+Predicted Without: -0.491
+Predicted With: -0.081
+
+
+Date: 2020-07-15
+Most Influencial News: 14일 기관 거래소에서 삼성전자 0 75 NAVER 3 37 등 순매도
+True Value: 0.121
+Predicted Without: -1.552
+Predicted With: -0.715
+
+
+Date: 2020-07-21
+Most Influencial News: 외국인 경기민감주로 이동 네이버 팔고 삼성전자 샀다
+True Value: 2.311
+Predicted Without: 1.827
+Predicted With: 2.519
+
+
+Date: 2021-08-24
+Most Influencial News: 외국인 매도세 변화 이젠 삼성전자만 때린다
+True Value: 1.942
+Predicted Without: 0.939
+Predicted With: 1.207
+
+
+Date: 2022-03-08
+Most Influencial News: 코스피 2 가까이 하락 삼성전자 장중 7만전자 무너져
+True Value: -1.255
+Predicted Without: 1.937
+Predicted With: -1.948
+
+
+Date: 2022-03-21
+Most Influencial News: 개미들 외국인 떠난 삼성전자 줍줍 한달간 3조원 순매수
+True Value: -1.613
+Predicted Without: -0.432
+Predicted With: -0.753
+
+
+Date: 2022-11-30
+Most Influencial News: 특징주 삼성전자 장초반 6만원 밑돌다 소폭 반등 마감 종합
+True Value: 1.553
+Predicted Without: 0.601
+Predicted With: 1.109
+
+
+Date: 2023-02-01
+Most Influencial News: 특징주 어닝쇼크 삼성전자 주가 약세
+True Value: 3.277
+Predicted Without: 1.799
+Predicted With: 3.105
+
+
+Date: 2023-05-17
+Most Influencial News: 외국인 삼성전자·SK하이닉스 줍줍 코스피 강세 출발
+True Value: 1.659
+Predicted Without: -1.116
+Predicted With: 1.515
+
+
+Date: 2023-07-10
+Most Influencial News: 외국인 바이 코리아 정점 지났나 삼성전자 빼면 순매도 전환
+True Value: -1.342
+Predicted Without: -0.445
+Predicted With: -1.077
+
+
+Date: 2023-08-31
+Most Influencial News: 이달만 삼성전자 1조 넘게 팔더니 기관 이 종목 은 담았다
+True Value: 2.01
+Predicted Without: 0.587
+Predicted With: 2.113
+
+

@@ -1,0 +1,182 @@
+Date: 2018-11-09
+Most Influencial News: 독일어·스페인어까지 알아듣는 빅스비 AI 스피커 갤럭시홈 도 첫 선
+True Value: 0.568
+Predicted Without: 0.989
+Predicted With: 1.084
+
+
+Date: 2019-03-27
+Most Influencial News: 삼성전자 6 7인치 大화면 갤럭시A70 공개
+True Value: 0.221
+Predicted Without: 0.215
+Predicted With: 0.195
+
+
+Date: 2019-05-13
+Most Influencial News: 갤럭시폴드 재출격 임박 삼성 수뇌부 심야회동
+True Value: -0.583
+Predicted Without: -0.779
+Predicted With: -0.185
+
+
+Date: 2019-06-24
+Most Influencial News: 갤럭시S10 5G 80일새 100만대 팔았다
+True Value: -0.438
+Predicted Without: -0.390
+Predicted With: -0.865
+
+
+Date: 2019-07-01
+Most Influencial News: 아시아나 23위로상승 삼성 갤럭시 1위
+True Value: -0.851
+Predicted Without: -0.276
+Predicted With: -0.601
+
+
+Date: 2019-07-03
+Most Influencial News: 갤럭시·TV·세탁기 삼성전자 6개상품 15년째 고객만족 1위
+True Value: -1.838
+Predicted Without: -0.803
+Predicted With: -2.212
+
+
+Date: 2019-10-22
+Most Influencial News: 갤럭시폰 지문 인식 오류 사태에 증권사들도 공인인증서 이용을
+True Value: 1.789
+Predicted Without: 0.269
+Predicted With: 0.298
+
+
+Date: 2020-02-18
+Most Influencial News: 갤럭시Z플립 vs 레이저 낙하실험 승자는
+True Value: -2.764
+Predicted Without: -1.396
+Predicted With: -1.771
+
+
+Date: 2020-03-11
+Most Influencial News: 갤럭시 버즈 핑크·레드 출시
+True Value: -4.579
+Predicted Without: -1.103
+Predicted With: -3.770
+
+
+Date: 2020-04-08
+Most Influencial News: 코로나에 빛바랜 갤럭시S20 하반기엔 노트20·폴드2에 기대 삼성전자 1분기 잠정실적
+True Value: -2.016
+Predicted Without: -0.862
+Predicted With: -1.070
+
+
+Date: 2020-05-04
+Most Influencial News: 황금빛 갤럭시 Z 플립’ 미러골드 색상 추가
+True Value: -3.000
+Predicted Without: -1.387
+Predicted With: -2.979
+
+
+Date: 2020-06-15
+Most Influencial News: 화면 30 이상 커진 갤럭시폴드2 나온다
+True Value: -4.589
+Predicted Without: -2.108
+Predicted With: -3.424
+
+
+Date: 2020-08-06
+Most Influencial News: 원격 화면 조작 S펜 갤노트20 7 7인치 대화면 갤Z폴드2 사상 첫 온라인 갤럭시 언팩 2020
+True Value: 1.933
+Predicted Without: -0.700
+Predicted With: 1.473
+
+
+Date: 2020-09-02
+Most Influencial News: 게임 체인저 노리는 삼성전자 야심작 갤폴드2 꺼냈다 갤럭시Z폴드2 온라인 언팩
+True Value: 0.369
+Predicted Without: -0.933
+Predicted With: -1.031
+
+
+Date: 2020-09-28
+Most Influencial News: 3200만 화소 전면 카메라 탑재 MZ세대 홀리는 갤럭시S20 FE
+True Value: 0.518
+Predicted Without: -0.795
+Predicted With: -0.012
+
+
+Date: 2021-04-29
+Most Influencial News: 삼성 갤럭시북으로 애플과 맞짱뜬다
+True Value: -0.487
+Predicted Without: -0.383
+Predicted With: -0.290
+
+
+Date: 2021-05-20
+Most Influencial News: 갤럭시워치4에 구글 삼성’ 통합 OS 탑재
+True Value: -0.126
+Predicted Without: -0.386
+Predicted With: -0.843
+
+
+Date: 2021-08-12
+Most Influencial News: 두뇌 바꾼 갤럭시워치4 속도 30 상승 갤럭시버즈2는 가격 확 낮춰
+True Value: -1.911
+Predicted Without: -0.934
+Predicted With: -2.131
+
+
+Date: 2021-11-18
+Most Influencial News: 단독 삼성 갤럭시탭 A8 연내 출시 미국서 아이패드와 경쟁
+True Value: -0.707
+Predicted Without: 0.742
+Predicted With: -1.150
+
+
+Date: 2022-01-05
+Most Influencial News: 세계가 접었다 폈다 폴더블폰 갤럭시Z 판매량 4배 급증
+True Value: -1.652
+Predicted Without: 0.766
+Predicted With: 0.247
+
+
+Date: 2022-02-15
+Most Influencial News: 갤럭시S22 흥행에 삼성 구미공장 생산 늘린다
+True Value: 0.000
+Predicted Without: 0.773
+Predicted With: -0.249
+
+
+Date: 2022-02-18
+Most Influencial News: 삼성 갤럭시북도 새모델 출격 갤럭시 생태계’ 더 강력해진다
+True Value: -0.933
+Predicted Without: -1.411
+Predicted With: -1.893
+
+
+Date: 2022-02-21
+Most Influencial News: 따끈따끈한 갤럭시S22 삼성카드로 사면 10 할인
+True Value: -0.135
+Predicted Without: 1.287
+Predicted With: -0.379
+
+
+Date: 2022-05-16
+Most Influencial News: KB자산운용 벨기에 노스갤럭시타워 지분인수
+True Value: -0.301
+Predicted Without: -0.783
+Predicted With: -0.083
+
+
+Date: 2023-02-20
+Most Influencial News: 가성비 갤럭시 북3 돌풍 판 커진 노트북 시장
+True Value: 0.160
+Predicted Without: 0.239
+Predicted With: 0.429
+
+
+Date: 2023-06-20
+Most Influencial News: 삼성 갤럭시 울트라 2억화소가 선보이는 완벽한 경험
+True Value: 0.281
+Predicted Without: -0.703
+Predicted With: -0.797
+
+

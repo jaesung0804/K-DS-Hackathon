@@ -1,0 +1,182 @@
+Date: 2018-12-07
+Most Influencial News: SK하이닉스 단기부진 여전히 저평가 매수 이베스트투자證
+True Value: 1.212
+Predicted Without: -1.363
+Predicted With: 1.634
+
+
+Date: 2019-02-15
+Most Influencial News: 코스피 기관 대규모 순매수에 고공행진
+True Value: -4.651
+Predicted Without: -1.787
+Predicted With: -4.754
+
+
+Date: 2019-12-11
+Most Influencial News: 코스피 2090선 회복 기관 매수 힘입어 상승 마감
+True Value: -0.124
+Predicted Without: 0.723
+Predicted With: -0.037
+
+
+Date: 2020-01-30
+Most Influencial News: 코스피 신종 코로나 패닉 의 반발 매수세에도 2190선 탈환 실패
+True Value: -3.984
+Predicted Without: -1.018
+Predicted With: -4.024
+
+
+Date: 2020-02-07
+Most Influencial News: 06일 외국인 거래소에서 SK하이닉스 2 87 삼성전자 2 69 등 순매수
+True Value: -1.194
+Predicted Without: 0.691
+Predicted With: -1.103
+
+
+Date: 2020-02-14
+Most Influencial News: 13일 기관 거래소에서 셀트리온 2 59 SK하이닉스 2 등 순매수
+True Value: 2.451
+Predicted Without: 1.386
+Predicted With: 2.299
+
+
+Date: 2020-04-09
+Most Influencial News: 08일 외국인 거래소에서 삼성전자 2 02 KODEX 200TR 1 27 등 순매수
+True Value: 0.592
+Predicted Without: 0.636
+Predicted With: 0.639
+
+
+Date: 2020-05-19
+Most Influencial News: 18일 외국인 거래소에서 삼성전자 1 99 삼성전자우 1 59 등 순매수
+True Value: 1.973
+Predicted Without: 0.783
+Predicted With: 1.829
+
+
+Date: 2020-07-13
+Most Influencial News: SK바이오팜 외인 매도 폭탄에도 기관 계속 매수 왜
+True Value: 0.242
+Predicted Without: 0.008
+Predicted With: -0.169
+
+
+Date: 2020-08-14
+Most Influencial News: fn오전시황 코스피 동학 개미 매수에 강세 지속
+True Value: -0.62
+Predicted Without: -1.056
+Predicted With: -0.712
+
+
+Date: 2020-09-03
+Most Influencial News: fn오전시황 코스피 개인 매수에 2360선 상승세
+True Value: 4.238
+Predicted Without: 1.297
+Predicted With: 4.182
+
+
+Date: 2021-02-03
+Most Influencial News: 개인 매수에 코스피 2 1 상승 3100선 재돌파
+True Value: 0.0
+Predicted Without: -1.36
+Predicted With: 0.097
+
+
+Date: 2021-04-12
+Most Influencial News: 국민연금이 팔아치웠던 대형주 외인 매수세에 상승 탄력 붙나
+True Value: -1.786
+Predicted Without: -0.706
+Predicted With: -1.557
+
+
+Date: 2021-09-15
+Most Influencial News: 코스피 기관 매수에 상승 마감 상생안 발표한 카카오 낙폭 축소
+True Value: 0.0
+Predicted Without: 0.46
+Predicted With: 0.178
+
+
+Date: 2021-10-05
+Most Influencial News: 저가매수’ vs 인버스’ 조정장 속 개미들 투자 선택은
+True Value: -2.1
+Predicted Without: -1.446
+Predicted With: -2.289
+
+
+Date: 2021-12-10
+Most Influencial News: fn마감시황 기관 매수에 코스피 3020선으로 코스닥도 상승
+True Value: -2.429
+Predicted Without: -1.016
+Predicted With: -2.336
+
+
+Date: 2022-01-12
+Most Influencial News: 코스피 외인 매수에 상승 출발 2940선 등락
+True Value: 0.391
+Predicted Without: 0.482
+Predicted With: 0.031
+
+
+Date: 2022-04-05
+Most Influencial News: 리스크 정점 지났다 코스피 외국인 순매수 전환에 2750선 회복
+True Value: -0.427
+Predicted Without: -0.475
+Predicted With: -0.374
+
+
+Date: 2022-07-21
+Most Influencial News: 코스피 개인 매수에 0 67 상승 마감 2 380선 회복 종합
+True Value: 0.49
+Predicted Without: -0.529
+Predicted With: 0.646
+
+
+Date: 2022-08-02
+Most Influencial News: 코스피 2 450 안팎 보합권 등락 개인 홀로 순매수 종합
+True Value: -0.618
+Predicted Without: 1.378
+Predicted With: -1.147
+
+
+Date: 2022-11-22
+Most Influencial News: SK하이닉스 주가 하락시 분할 매수 대응이 적절 하이證
+True Value: -1.275
+Predicted Without: -1.654
+Predicted With: -1.396
+
+
+Date: 2022-11-25
+Most Influencial News: 코스피 외인·기관 쌍끌이 순매수에 상승 2 440대 종합2보
+True Value: -2.071
+Predicted Without: -0.695
+Predicted With: -1.969
+
+
+Date: 2022-12-27
+Most Influencial News: 한산한 연말 증시 배당 노린 금융투자 순매수세에 코스피 소폭 상승
+True Value: 0.0
+Predicted Without: -0.577
+Predicted With: -0.014
+
+
+Date: 2023-04-28
+Most Influencial News: 반도체 장기 업사이클 초기 SK하이닉스 저점 매수 하이투자증권
+True Value: 0.788
+Predicted Without: -1.757
+Predicted With: 0.405
+
+
+Date: 2023-05-18
+Most Influencial News: 코스피·코스닥 외인·기관 쌍끌이 매수에 상승 2차전지·인터넷 강세
+True Value: 1.85
+Predicted Without: 1.544
+Predicted With: 1.824
+
+
+Date: 2023-09-05
+Most Influencial News: fn오후시황 코스피 외인 순매수 자금 늘자 상승폭 확대
+True Value: 0.168
+Predicted Without: -0.8
+Predicted With: 0.057
+
+

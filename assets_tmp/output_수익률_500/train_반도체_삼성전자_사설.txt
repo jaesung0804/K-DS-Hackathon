@@ -1,0 +1,147 @@
+Date: 2019-02-07
+Most Influencial News: fn사설 냉랭한 설 경제민심 겸허히 받아들여야
+True Value: -0.324
+Predicted Without: -0.969
+Predicted With: -0.314
+
+
+Date: 2019-06-11
+Most Influencial News: fn사설 전환점에 선 암호화폐 정부 민첩한 대응을
+True Value: 0.112
+Predicted Without: -0.347
+Predicted With: 0.035
+
+
+Date: 2019-09-26
+Most Influencial News: 사설 세계지식포럼 20년 인류 번영을 위한 통찰력을 기대한다
+True Value: 0.613
+Predicted Without: 0.828
+Predicted With: 0.518
+
+
+Date: 2020-02-25
+Most Influencial News: fn사설 대구·경북에 마스크 보낸 이마트 훈장감이다
+True Value: 1.937
+Predicted Without: 2.347
+Predicted With: 2.189
+
+
+Date: 2020-06-23
+Most Influencial News: 사설 팬데믹시대 위기 속에 기회 찾는 글로벌 기업들
+True Value: -1.154
+Predicted Without: 0.934
+Predicted With: -0.361
+
+
+Date: 2020-09-07
+Most Influencial News: fn사설 토종 전기화물차 디피코가 일군 코로나 특수
+True Value: 1.619
+Predicted Without: 1.394
+Predicted With: 1.957
+
+
+Date: 2021-04-26
+Most Influencial News: fn사설 삼성家 상속 징벌적 세율은 시대착오
+True Value: 0.845
+Predicted Without: 0.839
+Predicted With: 0.385
+
+
+Date: 2021-06-09
+Most Influencial News: 마이크론 최첨단 D램 한국 추월 투자 적기 놓쳐선 안된다 사설
+True Value: -0.977
+Predicted Without: -1.715
+Predicted With: -0.734
+
+
+Date: 2021-07-06
+Most Influencial News: 사설 유엔 최초 선진국 진입 기업의 공이 가장 크다
+True Value: 0.995
+Predicted Without: 0.777
+Predicted With: 1.074
+
+
+Date: 2021-07-23
+Most Influencial News: 사설 고개 드는 스태그플레이션 우려 성장·세수 낙관 못한다
+True Value: -0.502
+Predicted Without: -0.448
+Predicted With: -0.445
+
+
+Date: 2021-09-28
+Most Influencial News: fn사설 자율주행 플랫폼도 美 독식 기술 종속 우려
+True Value: -1.802
+Predicted Without: -1.972
+Predicted With: -1.553
+
+
+Date: 2021-12-10
+Most Influencial News: 사설 나라 안팎이 격랑 기업들 비상한 각오 다져야
+True Value: -1.662
+Predicted Without: 0.984
+Predicted With: -1.782
+
+
+Date: 2022-05-20
+Most Influencial News: fn사설 한국 오자마자 반도체 공장 가는 바이든 대통령
+True Value: 0.741
+Predicted Without: 1.054
+Predicted With: 0.819
+
+
+Date: 2022-05-26
+Most Influencial News: fn사설 중기중앙회 창립 60년 생산성 제고가 과제
+True Value: -0.753
+Predicted Without: -0.390
+Predicted With: -0.732
+
+
+Date: 2022-11-04
+Most Influencial News: 사설 어떤 위기가 와도 인재와 기술 만 있으면 두려울 것이 없다
+True Value: 0.338
+Predicted Without: -0.853
+Predicted With: 0.263
+
+
+Date: 2023-03-14
+Most Influencial News: fn사설 한국 경제 위협하는 시진핑 3기 차이나 리스크
+True Value: -1.667
+Predicted Without: -0.795
+Predicted With: -1.387
+
+
+Date: 2023-03-15
+Most Influencial News: 사설 5대 그룹 총수 일본 총출동 한일 경제 협력 기폭제 되길
+True Value: 1.356
+Predicted Without: 1.722
+Predicted With: 1.597
+
+
+Date: 2023-04-27
+Most Influencial News: 싸늘하게 식은 수출·투자 외환위기 초입 상황 닮았다 사설
+True Value: 0.780
+Predicted Without: -0.733
+Predicted With: 0.554
+
+
+Date: 2023-07-03
+Most Influencial News: fn사설 에너지값 내린 덕 본 무역흑자 문제는 수출 체력
+True Value: 1.108
+Predicted Without: 1.643
+Predicted With: 1.492
+
+
+Date: 2023-07-27
+Most Influencial News: 현대차의 놀라운 질주 정의선 리더십 통했다 사설
+True Value: 2.722
+Predicted Without: 1.423
+Predicted With: 2.598
+
+
+Date: 2023-10-13
+Most Influencial News: 미국서 처음 열린 한상대회 한미 경제동맹의 첨병 기대 사설
+True Value: -1.306
+Predicted Without: 0.929
+Predicted With: -1.104
+
+

@@ -1,0 +1,35 @@
+Date: 2019-01-02
+Most Influencial News: 삼성전자 특허군 출원 세계 2위
+True Value: 0.129
+Predicted Without: 1.384
+Predicted With: 0.082
+
+
+Date: 2021-01-20
+Most Influencial News: 세계시장 급변하는데 삼성은 방향타 잃어
+True Value: 0.23
+Predicted Without: -2.338
+Predicted With: 0.031
+
+
+Date: 2023-02-22
+Most Influencial News: 초대형 프리미엄 TV 통했다 삼성 17년째 세계 1위
+True Value: -1.61
+Predicted Without: -0.498
+Predicted With: -1.344
+
+
+Date: 2023-09-26
+Most Influencial News: 기고 K 디스플레이 세계 1위 향한 과제
+True Value: -1.153
+Predicted Without: -1.012
+Predicted With: -1.215
+
+
+Date: 2023-10-27
+Most Influencial News: V낸드 세계 첫 개발 경계현 삼성전자 사장 금탑훈장
+True Value: 0.9
+Predicted Without: 0.76
+Predicted With: 0.877
+
+

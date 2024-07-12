@@ -1,0 +1,42 @@
+Date: 2019-06-18
+Most Influencial News: 갤럭시 모델명 끝에 s 성능 강화형 라인 추가
+True Value: 1.025
+Predicted Without: 2.747
+Predicted With: 0.909
+
+
+Date: 2021-08-17
+Most Influencial News: 애플 샤오미 물리칠 비장의 무기 삼성 갤럭시 폴드 탄생 뒤엔 이 기술이
+True Value: -0.269
+Predicted Without: 0.555
+Predicted With: -0.322
+
+
+Date: 2021-11-11
+Most Influencial News: 내년 갤럭시 시간표 나왔다 1월 S21보급형 2월 S22 공개
+True Value: -0.427
+Predicted Without: 0.564
+Predicted With: -0.461
+
+
+Date: 2022-02-23
+Most Influencial News: 갤럭시S22 사전판매 신기록 S펜 탑재한 울트라가 견인
+True Value: -0.545
+Predicted Without: 0.594
+Predicted With: -0.734
+
+
+Date: 2022-08-11
+Most Influencial News: 갤럭시도 보라해♥ BTS컬러 공식색상으로
+True Value: 1.354
+Predicted Without: 1.413
+Predicted With: 1.3
+
+
+Date: 2023-04-28
+Most Influencial News: 적자위기 속 구원투수는 갤럭시 S23 삼성전자 감산으로 불황 돌파
+True Value: 1.393
+Predicted Without: 0.603
+Predicted With: 1.091
+
+

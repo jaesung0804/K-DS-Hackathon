@@ -1,0 +1,175 @@
+Date: 2018-11-19
+Most Influencial News: 감사위원 분리선임 입법땐 세계 최초의 사례
+True Value: -0.795
+Predicted Without: -0.618
+Predicted With: -1.154
+
+
+Date: 2019-01-04
+Most Influencial News: 신세계로부터 들으며 기해년 힘차게 여세요
+True Value: -0.399
+Predicted Without: 0.904
+Predicted With: -0.747
+
+
+Date: 2019-06-04
+Most Influencial News: LG전자 8K 올레드TV 세계 첫 출시
+True Value: -0.799
+Predicted Without: -0.495
+Predicted With: -0.703
+
+
+Date: 2019-06-11
+Most Influencial News: 신세계 네이버 앱 디자인 진실게임
+True Value: 0.112
+Predicted Without: 0.097
+Predicted With: -0.146
+
+
+Date: 2019-09-26
+Most Influencial News: 사설 세계지식포럼 20년 인류 번영을 위한 통찰력을 기대한다
+True Value: 0.613
+Predicted Without: 0.505
+Predicted With: 0.100
+
+
+Date: 2019-10-18
+Most Influencial News: 삼성 브랜드가치 72조 세계 6위
+True Value: -1.188
+Predicted Without: -0.378
+Predicted With: -0.042
+
+
+Date: 2019-11-05
+Most Influencial News: 악재 가득한 세계 경제 품질경영만이 살 길
+True Value: 0.765
+Predicted Without: 0.462
+Predicted With: 0.099
+
+
+Date: 2020-02-05
+Most Influencial News: 삼성 1초에 풀HD 영화 82편 전송할 D램 세계 첫 출시
+True Value: 1.019
+Predicted Without: -0.432
+Predicted With: -0.716
+
+
+Date: 2020-03-13
+Most Influencial News: 삼성TV 세계 최대 북미시장서 독주
+True Value: -1.673
+Predicted Without: -0.904
+Predicted With: -1.018
+
+
+Date: 2020-06-22
+Most Influencial News: 삼성 과외 두 달 방호복 호흡기로 세계를 살린 中企
+True Value: -1.701
+Predicted Without: -0.191
+Predicted With: 0.006
+
+
+Date: 2020-08-19
+Most Influencial News: 삼성 세계최고 제품 만들려면 보안·프라이버시 가장 중요
+True Value: -1.027
+Predicted Without: 0.769
+Predicted With: -1.232
+
+
+Date: 2020-09-10
+Most Influencial News: 세계최고 게이밍 모니터 삼성 오디세이 G9 호평
+True Value: 1.370
+Predicted Without: 0.656
+Predicted With: 1.941
+
+
+Date: 2020-12-21
+Most Influencial News: 전고체 배터리 누가 먼저 세계전쟁 시작
+True Value: 0.000
+Predicted Without: 0.647
+Predicted With: 0.079
+
+
+Date: 2021-03-05
+Most Influencial News: 특별기고 기업 세계에서 국경은 무의미
+True Value: -0.364
+Predicted Without: 0.407
+Predicted With: 0.407
+
+
+Date: 2021-03-15
+Most Influencial News: 한국의 메모리 경쟁력 세계 1위 더 이상 통하지 않는 상황 올 것
+True Value: -1.208
+Predicted Without: -0.920
+Predicted With: -1.191
+
+
+Date: 2021-04-20
+Most Influencial News: 사설 세계는 반도체 전쟁 이재용 사면 머뭇거릴 이유 없다
+True Value: 0.720
+Predicted Without: -0.612
+Predicted With: -0.667
+
+
+Date: 2021-11-26
+Most Influencial News: 사설 美 선벨트가 세계 기업 다 끌어들이는 비결
+True Value: -1.900
+Predicted Without: -0.788
+Predicted With: -2.228
+
+
+Date: 2022-01-05
+Most Influencial News: 세계가 접었다 폈다 폴더블폰 갤럭시Z 판매량 4배 급증
+True Value: -1.652
+Predicted Without: 0.766
+Predicted With: 0.247
+
+
+Date: 2022-06-08
+Most Influencial News: 진화한 비스포크 홈 으로 삼성 전세계 공략
+True Value: -0.305
+Predicted Without: 0.338
+Predicted With: -0.033
+
+
+Date: 2022-06-30
+Most Influencial News: 세계 제조업 재고 산더미 경기 침체 경고음
+True Value: -1.724
+Predicted Without: 0.432
+Predicted With: -0.569
+
+
+Date: 2022-09-05
+Most Influencial News: 삼성 프리미엄폰 세계 점유율 올랐다
+True Value: -0.696
+Predicted Without: -0.646
+Predicted With: -0.169
+
+
+Date: 2022-09-21
+Most Influencial News: 사설 23회 세계지식포럼 개막 위기후 더 강해지는 길 제시한다
+True Value: -0.896
+Predicted Without: -0.489
+Predicted With: -0.693
+
+
+Date: 2023-07-20
+Most Influencial News: 삼성전자 세계 첫 32Gbps GDDR7 D램 개발
+True Value: -0.976
+Predicted Without: -0.859
+Predicted With: -1.038
+
+
+Date: 2023-08-10
+Most Influencial News: SK하이닉스 세계 첫 321단 낸드’· 삼성 최고성능 SSD’ 공개
+True Value: -1.306
+Predicted Without: 0.326
+Predicted With: 0.130
+
+
+Date: 2023-09-26
+Most Influencial News: 기고 K 디스플레이 세계 1위 향한 과제
+True Value: -1.153
+Predicted Without: 0.203
+Predicted With: -0.057
+
+

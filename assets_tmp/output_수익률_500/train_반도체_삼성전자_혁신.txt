@@ -1,0 +1,91 @@
+Date: 2018-11-22
+Most Influencial News: 원재희 이사장 中企 혁신기회 놓치지 않게 스마트공장 구축 지원할 것
+True Value: 0.831
+Predicted Without: 0.528
+Predicted With: 1.100
+
+
+Date: 2019-09-11
+Most Influencial News: 갤럭시폴드는 완전히 새로운 기술혁신 성공한 도전이었다
+True Value: 0.319
+Predicted Without: -0.997
+Predicted With: 0.364
+
+
+Date: 2019-10-11
+Most Influencial News: 현장 돋보기 디지털혁신 파도 이제부터가 시작이다
+True Value: 1.236
+Predicted Without: 2.511
+Predicted With: 0.895
+
+
+Date: 2020-01-13
+Most Influencial News: 윤중로 1인치의 장벽을 넘는 혁신
+True Value: 0.840
+Predicted Without: 0.625
+Predicted With: 1.257
+
+
+Date: 2020-01-21
+Most Influencial News: 이건호의 데스크 시각 초경쟁 시대의 기업과 규제 혁신
+True Value: -1.603
+Predicted Without: -0.968
+Predicted With: -1.533
+
+
+Date: 2021-03-15
+Most Influencial News: 좋은 세상을 향한 AI 혁신 생태계 이끌 브레인 150명 뭉쳤다
+True Value: -1.208
+Predicted Without: -1.111
+Predicted With: -1.536
+
+
+Date: 2021-05-25
+Most Influencial News: 지방도 AI혁신 불량 줄이고 생산성 쑥
+True Value: 0.251
+Predicted Without: -0.645
+Predicted With: 0.573
+
+
+Date: 2021-06-29
+Most Influencial News: 대표 CTO들이 뽑았다 5년 후 한국 먹여살릴 혁신기술은
+True Value: -1.099
+Predicted Without: -0.469
+Predicted With: -1.094
+
+
+Date: 2021-07-01
+Most Influencial News: CEO 9명 쿠팡이 혁신기업 마켓컬리·카뱅도 지목
+True Value: -0.743
+Predicted Without: -1.856
+Predicted With: -1.053
+
+
+Date: 2022-04-19
+Most Influencial News: 디지털 트랜스포메이션 가속 공장 자동화·일하는 방식 혁신
+True Value: 0.900
+Predicted Without: 1.202
+Predicted With: 0.423
+
+
+Date: 2022-11-18
+Most Influencial News: CES의 혁신상 나를 돕는 제품 이 뽑혔다
+True Value: 0.651
+Predicted Without: 1.563
+Predicted With: 0.965
+
+
+Date: 2022-12-22
+Most Influencial News: 웹툰으로 뜬 리디 농축수산 혁신한 트릿지 한국 스타트업 빛냈다
+True Value: 1.897
+Predicted Without: 1.886
+Predicted With: 2.395
+
+
+Date: 2023-03-08
+Most Influencial News: 구미전자공고 찾은 이재용 회장 기술 인재가 제조업 혁신 좌우
+True Value: -0.659
+Predicted Without: -0.779
+Predicted With: -0.610
+
+

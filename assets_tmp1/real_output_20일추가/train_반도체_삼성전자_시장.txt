@@ -1,0 +1,28 @@
+Date: 2018-11-27
+Most Influencial News: 삼성 AI’ LG 고화질’로 의료기기 시장 공략
+True Value: 1.056
+Predicted Without: 0.827
+Predicted With: 0.99
+
+
+Date: 2020-11-23
+Most Influencial News: 고급품 시장선 더 강한 삼성 파운드리 내년 시장 점유율 40
+True Value: 4.328
+Predicted Without: 2.62
+Predicted With: 4.455
+
+
+Date: 2021-01-20
+Most Influencial News: 세계시장 급변하는데 삼성은 방향타 잃어
+True Value: 0.23
+Predicted Without: -2.338
+Predicted With: 0.031
+
+
+Date: 2021-07-14
+Most Influencial News: 메모리 절대강자 삼성전자 비메모리 영토 확장 車이미지센터 시장진출
+True Value: -0.376
+Predicted Without: -0.279
+Predicted With: -0.556
+
+

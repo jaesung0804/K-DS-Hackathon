@@ -1,0 +1,343 @@
+Date: 2018-11-21
+Most Influencial News: 코스피 뉴욕증시 약세에 1 대 하락 출발
+True Value: 0.889
+Predicted Without: 1.763
+Predicted With: -0.172
+
+
+Date: 2018-12-06
+Most Influencial News: 코스피 미국발 한파에 이틀째 하락 2 100선 턱걸이 종합
+True Value: -3.226
+Predicted Without: -1.326
+Predicted With: -3.911
+
+
+Date: 2019-01-04
+Most Influencial News: 코스피 보합권서 맴맴 삼성전자·SK하이닉스하락
+True Value: 1.040
+Predicted Without: -1.571
+Predicted With: 0.155
+
+
+Date: 2019-01-07
+Most Influencial News: 하락장서 선방한 동일가중 펀드
+True Value: 0.686
+Predicted Without: 1.219
+Predicted With: 0.669
+
+
+Date: 2019-01-09
+Most Influencial News: 삼성전자 어닝쇼크 에 코스피 하락 2020선 후퇴
+True Value: 7.432
+Predicted Without: 2.905
+Predicted With: 8.179
+
+
+Date: 2019-01-23
+Most Influencial News: 코스피 개인 매물에 하락 배당 증가 기대 삼성물산 2 상승
+True Value: 0.300
+Predicted Without: 0.900
+Predicted With: 0.384
+
+
+Date: 2019-02-11
+Most Influencial News: 코스피 올랐는데 개인 매수 상위 종목 20개 중 13개 하락
+True Value: 0.816
+Predicted Without: -0.336
+Predicted With: -0.028
+
+
+Date: 2019-02-13
+Most Influencial News: 우진아이엔에스 지난해 영업익 175억원 전년비 23 7 하락
+True Value: 0.395
+Predicted Without: -0.483
+Predicted With: 0.151
+
+
+Date: 2019-02-20
+Most Influencial News: 코스피 지수 하락에도 2200선 지켜내 2205 63
+True Value: 2.714
+Predicted Without: 2.068
+Predicted With: 2.207
+
+
+Date: 2019-03-20
+Most Influencial News: 수출품목 편중 심각 반도체 10 하락 생산유발액 20조 손실
+True Value: 3.676
+Predicted Without: 1.027
+Predicted With: 3.183
+
+
+Date: 2019-06-04
+Most Influencial News: 대차잔고 55 4조 증시 하락에 한달새 2 8조 증가
+True Value: -2.252
+Predicted Without: -0.664
+Predicted With: -2.619
+
+
+Date: 2019-06-25
+Most Influencial News: 산업연구원 미·중 무역분쟁 등 악재 올 수출 5 9 하락
+True Value: -0.299
+Predicted Without: 1.448
+Predicted With: 0.284
+
+
+Date: 2019-10-25
+Most Influencial News: 코스피 외국인 매수에 하락 딛고 상승 마감 코스닥은 개인이 낙폭 만회
+True Value: 3.625
+Predicted Without: -1.539
+Predicted With: 4.216
+
+
+Date: 2019-11-12
+Most Influencial News: 코스피 미중 무역협상 불확실성에 하락 마감 2120선 후퇴
+True Value: 2.337
+Predicted Without: 0.706
+Predicted With: 2.646
+
+
+Date: 2019-12-04
+Most Influencial News: 코스피 뉴욕증시 부진에 하락 출발 1 대 약세
+True Value: -1.271
+Predicted Without: 0.802
+Predicted With: -0.698
+
+
+Date: 2020-01-03
+Most Influencial News: fn마감증시 새해 첫 거래일 코스피 1 대 하락
+True Value: -0.211
+Predicted Without: -0.928
+Predicted With: -0.671
+
+
+Date: 2020-02-28
+Most Influencial News: 한국은행마저 증시 연일 하락 코스닥 손절매에 2 5 급락
+True Value: -5.280
+Predicted Without: -3.485
+Predicted With: -5.089
+
+
+Date: 2020-03-17
+Most Influencial News: 국내증시 오후 들어 하락세 신용경색 우려상승
+True Value: -0.248
+Predicted Without: 1.895
+Predicted With: -0.283
+
+
+Date: 2020-03-27
+Most Influencial News: 코스피 하락 출발했다 반등 장중 1 730선 회복 종합
+True Value: 3.222
+Predicted Without: 1.831
+Predicted With: 3.648
+
+
+Date: 2020-04-02
+Most Influencial News: 코스피 코로나19 우려 재확산에 하락 원화 약세
+True Value: 2.041
+Predicted Without: -2.444
+Predicted With: 3.135
+
+
+Date: 2020-05-15
+Most Influencial News: 코스피 파월의 경기 우려 및 미중 갈등 격화 조짐에 하락 출발
+True Value: 1.613
+Predicted Without: 0.735
+Predicted With: 0.624
+
+
+Date: 2020-06-19
+Most Influencial News: 코스피 소폭 하락 출발 초반부터 여전한 개미의 힘
+True Value: -0.928
+Predicted Without: -0.408
+Predicted With: -0.952
+
+
+Date: 2020-08-21
+Most Influencial News: 하락장에 나타나는 개미 방어군 또 1조원 순매수
+True Value: 3.760
+Predicted Without: 2.839
+Predicted With: 4.288
+
+
+Date: 2020-09-23
+Most Influencial News: 美 제재로 화웨이폰 생산량 10 하락 최대 수혜는 샤오미
+True Value: 2.829
+Predicted Without: 2.927
+Predicted With: 2.424
+
+
+Date: 2020-10-20
+Most Influencial News: 빅히트 물린 개미들 어쩌나 오늘도 하락세 20만원 붕괴
+True Value: -1.730
+Predicted Without: -0.636
+Predicted With: -1.914
+
+
+Date: 2020-10-23
+Most Influencial News: 코스피 나흘만에 하락 마감 2 350대로 밀려 종합
+True Value: 0.720
+Predicted Without: 0.492
+Predicted With: 0.926
+
+
+Date: 2020-11-25
+Most Influencial News: 역사 고점 뚫은 코스피 하락 베팅하는 개미
+True Value: -1.420
+Predicted Without: -0.817
+Predicted With: -1.086
+
+
+Date: 2020-12-04
+Most Influencial News: 코스피 美 고용지표 부진과 대중국 갈등 우려 고조로 하락 전환
+True Value: 3.139
+Predicted Without: -1.429
+Predicted With: 2.198
+
+
+Date: 2021-03-11
+Most Influencial News: 코스피 3000선 회복 금리 하락에 1 대 반등
+True Value: 3.008
+Predicted Without: 1.015
+Predicted With: 2.799
+
+
+Date: 2021-05-18
+Most Influencial News: 코스피 0 6 하락 마감 3 130대로 뒷걸음 종합
+True Value: 2.979
+Predicted Without: 1.244
+Predicted With: 3.221
+
+
+Date: 2021-06-10
+Most Influencial News: 코스피 외인·기관 매도에 하락 출발 3230선까지 하락
+True Value: 0.408
+Predicted Without: 0.994
+Predicted With: 0.339
+
+
+Date: 2021-06-17
+Most Influencial News: fn오전시황 코스피 장중 최고 3270선 유지 코스닥은 소폭 하락 전환
+True Value: -2.317
+Predicted Without: -1.488
+Predicted With: -2.226
+
+
+Date: 2021-10-12
+Most Influencial News: 주가 하락에 목표주가 하향 리포트 비율 올해 들어 최고
+True Value: -2.660
+Predicted Without: -1.080
+Predicted With: -2.957
+
+
+Date: 2021-10-19
+Most Influencial News: 코스피 기관 팔자 에 소폭 하락 3000선 회복
+True Value: 0.618
+Predicted Without: 0.748
+Predicted With: 0.225
+
+
+Date: 2021-12-20
+Most Influencial News: SK스퀘어 분할상장 후 주가 30 하락
+True Value: -1.230
+Predicted Without: -0.740
+Predicted With: -0.844
+
+
+Date: 2022-01-06
+Most Influencial News: 코스피 장 초반 소폭 하락 기관 1500억 순매도 중
+True Value: -0.398
+Predicted Without: -0.533
+Predicted With: -0.623
+
+
+Date: 2022-02-23
+Most Influencial News: 우크라이나 전쟁 공포에 아시아 증시 출렁 코스피 1 35 하락
+True Value: 0.000
+Predicted Without: -0.576
+Predicted With: 0.090
+
+
+Date: 2022-03-08
+Most Influencial News: 코스피 2 가까이 하락 삼성전자 장중 7만전자 무너져
+True Value: -1.255
+Predicted Without: 1.937
+Predicted With: -1.948
+
+
+Date: 2022-09-30
+Most Influencial News: 삼전·SK하닉에 몰린 공매도 하락장서도 뜬 종목 공통점은
+True Value: 2.847
+Predicted Without: -0.710
+Predicted With: 3.020
+
+
+Date: 2022-10-04
+Most Influencial News: 9월 하락장서 공매도 40 급증 삼전·LG엔솔 1∼2위
+True Value: 3.730
+Predicted Without: 1.302
+Predicted With: 3.346
+
+
+Date: 2022-12-12
+Most Influencial News: 시총상위주 목표가 연초보다 17 하락 네이버·카카오는 반토막
+True Value: -0.491
+Predicted Without: 0.556
+Predicted With: -0.163
+
+
+Date: 2023-01-04
+Most Influencial News: 개미들 “어 우리만 반대로 가네” 기관·외국인 증시 하락’ 베팅
+True Value: 7.143
+Predicted Without: 2.833
+Predicted With: 8.143
+
+
+Date: 2023-01-18
+Most Influencial News: 10거래일 만에 숨고르기 기관 팔자 에 코스피 하락
+True Value: -1.047
+Predicted Without: -0.435
+Predicted With: -1.123
+
+
+Date: 2023-02-07
+Most Influencial News: fn오전시황 코스피 외인·기관 동반 매도에 하락 2450선
+True Value: 1.908
+Predicted Without: 0.852
+Predicted With: 2.661
+
+
+Date: 2023-03-17
+Most Influencial News: 코스피 CS 우려 완화에 하락폭 축소 코스닥은 상승
+True Value: 6.329
+Predicted Without: 1.683
+Predicted With: 6.702
+
+
+Date: 2023-04-06
+Most Influencial News: 하이닉스 문제 있나 2조 교환사채에 주가하락 증권가 시각은 달랐다
+True Value: -0.946
+Predicted Without: 1.185
+Predicted With: -0.837
+
+
+Date: 2023-04-07
+Most Influencial News: fn오전시황 코스피 2477선 외인·기관 팔자 에 하락
+True Value: 6.325
+Predicted Without: 1.855
+Predicted With: 6.865
+
+
+Date: 2023-10-20
+Most Influencial News: fn마감시황 코스피 이틀 만에 다시 하락 전환
+True Value: 0.398
+Predicted Without: 0.302
+Predicted With: 0.121
+
+
+Date: 2023-10-24
+Most Influencial News: 또다시 불공정거래 되풀이되는 악몽에 코스피·코스닥 동반 하락
+True Value: 2.258
+Predicted Without: -1.376
+Predicted With: 3.306
+
+

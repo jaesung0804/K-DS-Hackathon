@@ -1,0 +1,77 @@
+Date: 2019-10-25
+Most Influencial News: 코스피 외국인 매수에 하락 딛고 상승 마감 코스닥은 개인이 낙폭 만회
+True Value: 3.625
+Predicted Without: -1.539
+Predicted With: 4.216
+
+
+Date: 2019-11-12
+Most Influencial News: 코스피 미중 무역협상 불확실성에 하락 마감 2120선 후퇴
+True Value: 2.337
+Predicted Without: 0.706
+Predicted With: 2.646
+
+
+Date: 2020-01-03
+Most Influencial News: fn마감증시 새해 첫 거래일 코스피 1 대 하락
+True Value: -0.211
+Predicted Without: -0.928
+Predicted With: -0.671
+
+
+Date: 2021-05-18
+Most Influencial News: 코스피 0 6 하락 마감 3 130대로 뒷걸음 종합
+True Value: 2.979
+Predicted Without: 1.244
+Predicted With: 3.221
+
+
+Date: 2021-09-15
+Most Influencial News: 코스피 기관 매수에 상승 마감 상생안 발표한 카카오 낙폭 축소
+True Value: 0.0
+Predicted Without: 1.027
+Predicted With: -0.109
+
+
+Date: 2021-11-25
+Most Influencial News: 뒷심 부족 코스피 3000선 밑에서 마감 시총 톱10 등락률 1 안팎
+True Value: -1.674
+Predicted Without: -1.097
+Predicted With: -1.71
+
+
+Date: 2022-06-17
+Most Influencial News: 코스피 2 450대 강보합 마감 FOMC 불확실성 해소에도 상승 제한 종합
+True Value: -1.027
+Predicted Without: -0.695
+Predicted With: -0.905
+
+
+Date: 2022-11-02
+Most Influencial News: 외인·기관 쌍끌이 매수에 코스피 1 8 오른 2 330대 마감 종합
+True Value: 0.715
+Predicted Without: -0.815
+Predicted With: 0.78
+
+
+Date: 2022-11-30
+Most Influencial News: 특징주 삼성전자 장초반 6만원 밑돌다 소폭 반등 마감 종합
+True Value: 1.553
+Predicted Without: 0.601
+Predicted With: 1.109
+
+
+Date: 2023-09-27
+Most Influencial News: 코스피 2500도 깨졌다 6개월 만에 최저 fn마감시황
+True Value: -0.261
+Predicted Without: 1.649
+Predicted With: 0.51
+
+
+Date: 2023-10-20
+Most Influencial News: fn마감시황 코스피 이틀 만에 다시 하락 전환
+True Value: 0.398
+Predicted Without: 0.302
+Predicted With: 0.121
+
+

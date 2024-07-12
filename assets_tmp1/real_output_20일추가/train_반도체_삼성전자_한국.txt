@@ -1,0 +1,14 @@
+Date: 2019-09-25
+Most Influencial News: 특파원 칼럼 한국 대기업 닮아가는 실리콘밸리 기업들
+True Value: -1.212
+Predicted Without: -1.239
+Predicted With: -1.086
+
+
+Date: 2023-03-16
+Most Influencial News: 반도체 중심은 美·中 아닌 한국 삼성 300兆 파운드리 승부수
+True Value: 0.167
+Predicted Without: -1.377
+Predicted With: 0.372
+
+

@@ -1,0 +1,105 @@
+Date: 2019-04-17
+Most Influencial News: 코스피 하락 출발 후 혼조세 2 240대 등락 종합2보
+True Value: -0.249
+Predicted Without: -0.653
+Predicted With: -0.423
+
+
+Date: 2019-06-05
+Most Influencial News: 코스피 하락 출발 후 2 060대 혼조세 코스닥은 소폭 상승 종합
+True Value: 0.0
+Predicted Without: 0.58
+Predicted With: 0.185
+
+
+Date: 2019-06-21
+Most Influencial News: 코스피 하락 출발 2 120대 등락 종합
+True Value: -2.08
+Predicted Without: -0.573
+Predicted With: -2.115
+
+
+Date: 2019-06-26
+Most Influencial News: 코스피 보합권 등락 장중 2 130선 회복 종합
+True Value: 3.298
+Predicted Without: 0.997
+Predicted With: 2.848
+
+
+Date: 2019-11-08
+Most Influencial News: 코스피 미중협상 불안에 하락 출발 장중 2 140선 내줘 종합
+True Value: -1.555
+Predicted Without: -0.306
+Predicted With: -0.385
+
+
+Date: 2020-02-25
+Most Influencial News: 증시는 검은 월요일 코스피 3 9 폭락에 시총 67조 줄어 종합
+True Value: -1.508
+Predicted Without: -2.277
+Predicted With: -1.046
+
+
+Date: 2020-09-10
+Most Influencial News: 美기술주 조정에 코스피 1 대 하락 출발 2 370대 종합
+True Value: -0.906
+Predicted Without: -0.8
+Predicted With: -0.805
+
+
+Date: 2020-12-16
+Most Influencial News: 코스피 장 초반 하락세 장중 2 730대로 뒷걸음 종합
+True Value: 0.0
+Predicted Without: -1.204
+Predicted With: -0.115
+
+
+Date: 2022-01-26
+Most Influencial News: 코스피 이틀째 1 넘게 하락 2 750선도 붕괴 종합
+True Value: -0.424
+Predicted Without: -0.98
+Predicted With: -0.641
+
+
+Date: 2022-07-21
+Most Influencial News: 코스피 개인 매수에 0 67 상승 마감 2 380선 회복 종합
+True Value: 0.49
+Predicted Without: -0.529
+Predicted With: 0.646
+
+
+Date: 2022-08-02
+Most Influencial News: 코스피 2 450 안팎 보합권 등락 개인 홀로 순매수 종합
+True Value: -0.618
+Predicted Without: 1.378
+Predicted With: -1.147
+
+
+Date: 2022-11-17
+Most Influencial News: 지정학적 위험 고조에 코스피 소폭 하락·환율 7 4원 상승 종합
+True Value: -4.153
+Predicted Without: -1.26
+Predicted With: -3.923
+
+
+Date: 2022-11-25
+Most Influencial News: 코스피 외인·기관 쌍끌이 순매수에 상승 2 440대 종합2보
+True Value: -2.071
+Predicted Without: -0.695
+Predicted With: -1.969
+
+
+Date: 2023-01-18
+Most Influencial News: 코스피 소폭 하락 출발 원 달러 환율은 강보합권 종합
+True Value: -1.047
+Predicted Without: -0.383
+Predicted With: -0.645
+
+
+Date: 2023-07-04
+Most Influencial News: 코스피 장 초반 1 올라 美물가상승 둔화·韓무역흑자 영향 종합
+True Value: 0.255
+Predicted Without: 0.681
+Predicted With: 0.159
+
+

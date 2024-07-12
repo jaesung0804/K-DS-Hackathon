@@ -1,0 +1,21 @@
+Date: 2018-11-26
+Most Influencial News: 멀티카메라·폴더블폰·5G·2차전지 등 4차 산업혁명 관련 혁신기술株에 기회
+True Value: 0.472
+Predicted Without: -0.723
+Predicted With: 0.299
+
+
+Date: 2020-01-06
+Most Influencial News: 5G·디스플레이·IoT가전 선도기술 뽐내는 韓기업
+True Value: 0.0
+Predicted Without: -0.745
+Predicted With: -0.115
+
+
+Date: 2021-08-17
+Most Influencial News: 애플 샤오미 물리칠 비장의 무기 삼성 갤럭시 폴드 탄생 뒤엔 이 기술이
+True Value: -0.269
+Predicted Without: 0.555
+Predicted With: -0.322
+
+

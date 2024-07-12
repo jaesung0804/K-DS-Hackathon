@@ -1,0 +1,7 @@
+Date: 2021-06-14
+Most Influencial News: 코스피 시총 TOP10·레버리지 지수 나온다
+True Value: -0.617
+Predicted Without: -0.323
+Predicted With: -0.55
+
+

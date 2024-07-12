@@ -1,0 +1,14 @@
+Date: 2020-01-20
+Most Influencial News: 삼성전자 시스템반도체·카메라모듈 수요 확대 등
+True Value: 1.794
+Predicted Without: 1.181
+Predicted With: 2.152
+
+
+Date: 2020-07-21
+Most Influencial News: 외국인 경기민감주로 이동 네이버 팔고 삼성전자 샀다
+True Value: 2.03
+Predicted Without: 1.37
+Predicted With: 2.304
+
+

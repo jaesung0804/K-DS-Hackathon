@@ -1,0 +1,28 @@
+Date: 2019-09-25
+Most Influencial News: 삼성 지원 연구들 세계 학술지 잇따라 게재
+True Value: -1.212
+Predicted Without: -1.635
+Predicted With: -1.048
+
+
+Date: 2020-01-03
+Most Influencial News: 삼성 세계최초 3나노 미세공정 개발
+True Value: 0.543
+Predicted Without: 1.079
+Predicted With: 0.24
+
+
+Date: 2020-03-13
+Most Influencial News: 삼성TV 세계 최대 북미시장서 독주
+True Value: -1.673
+Predicted Without: -1.115
+Predicted With: -1.302
+
+
+Date: 2021-08-26
+Most Influencial News: 삼성 지원 반도체연구 세계적 학술지에 게재
+True Value: -1.453
+Predicted Without: -1.438
+Predicted With: -1.077
+
+

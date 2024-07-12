@@ -1,0 +1,469 @@
+Date: 2018-11-22
+Most Influencial News: 미국발 악재에 코스피·코스닥도 상승분 반납 1980선 열어놔야
+True Value: 1.762
+Predicted Without: 2.486
+Predicted With: 2.383
+
+
+Date: 2018-12-20
+Most Influencial News: 코스피 소폭 상승 개인 홀로 사자
+True Value: -2.819
+Predicted Without: -0.873
+Predicted With: -2.761
+
+
+Date: 2019-01-22
+Most Influencial News: 코스피 막판 상승 전환 호·악재 대립·차익실현 매물 출회
+True Value: -0.597
+Predicted Without: -1.680
+Predicted With: 0.258
+
+
+Date: 2019-01-23
+Most Influencial News: 코스피 개인 매물에 하락 배당 증가 기대 삼성물산 2 상승
+True Value: 0.300
+Predicted Without: 0.900
+Predicted With: 0.384
+
+
+Date: 2019-02-08
+Most Influencial News: 2차 북미 정상회담 소식에 코스피·코스닥 상승세
+True Value: -4.172
+Predicted Without: -1.374
+Predicted With: -4.544
+
+
+Date: 2019-08-23
+Most Influencial News: 코스피 상승 출발 후 1 960대 보합권 등락 종합
+True Value: 0.813
+Predicted Without: -0.802
+Predicted With: 1.123
+
+
+Date: 2019-09-03
+Most Influencial News: fn오후시황 코스피 외국인 매도에도 1970선 상승세
+True Value: -0.773
+Predicted Without: -0.670
+Predicted With: -0.840
+
+
+Date: 2019-10-01
+Most Influencial News: SK하이닉스 내년 메모리 수요 증가 목표가상승 미래에셋대우
+True Value: -0.243
+Predicted Without: -0.459
+Predicted With: 0.108
+
+
+Date: 2019-10-02
+Most Influencial News: 코스피 기관 매수에 2 070선 회복 코스닥은 1 7 상승 종합2보
+True Value: -3.049
+Predicted Without: -1.273
+Predicted With: -2.488
+
+
+Date: 2019-10-25
+Most Influencial News: 코스피 외국인 매수에 하락 딛고 상승 마감 코스닥은 개인이 낙폭 만회
+True Value: 3.625
+Predicted Without: -1.539
+Predicted With: 4.216
+
+
+Date: 2019-11-01
+Most Influencial News: 원익IPS 대장주의 질주 목표가상승 한국
+True Value: 1.341
+Predicted Without: 0.857
+Predicted With: 1.184
+
+
+Date: 2019-12-24
+Most Influencial News: 특징주 주성엔지니어링 9일째 강세 1 19 상승
+True Value: -0.846
+Predicted Without: -2.105
+Predicted With: -0.413
+
+
+Date: 2020-03-17
+Most Influencial News: 국내증시 오후 들어 하락세 신용경색 우려상승
+True Value: -0.248
+Predicted Without: 1.895
+Predicted With: -0.283
+
+
+Date: 2020-04-21
+Most Influencial News: fn 오전시황 코스피 개인 매수에 1920선 상승세
+True Value: -0.854
+Predicted Without: -1.076
+Predicted With: -1.096
+
+
+Date: 2020-06-23
+Most Influencial News: 유진테크 10 이상 상승 눈앞으로 다가온 새로운 기회 한국투자증권 BUY 유지
+True Value: -0.942
+Predicted Without: -1.530
+Predicted With: -0.709
+
+
+Date: 2020-07-02
+Most Influencial News: 코스피 0 8 상승중 이틀 연속 강세
+True Value: -1.055
+Predicted Without: -0.992
+Predicted With: -0.633
+
+
+Date: 2020-07-07
+Most Influencial News: 스마트폰 판매 회복에 반도체 영업익 전망 3 7 상승
+True Value: -1.395
+Predicted Without: -1.022
+Predicted With: -1.189
+
+
+Date: 2020-07-22
+Most Influencial News: fn오후시황 코스피 장중 2230선 돌파 상승세 지속
+True Value: -1.070
+Predicted Without: -0.294
+Predicted With: -0.648
+
+
+Date: 2020-08-06
+Most Influencial News: 코스피 개인 매수에 상승 출발 2290선 회복
+True Value: 0.496
+Predicted Without: 0.536
+Predicted With: 0.840
+
+
+Date: 2020-08-18
+Most Influencial News: 올 10대그룹 현금성자산 45조상승
+True Value: -2.618
+Predicted Without: -0.400
+Predicted With: -0.657
+
+
+Date: 2020-09-01
+Most Influencial News: 코스피 1 안팎 상승 출발 장중 2 380선 회복 종합
+True Value: 0.133
+Predicted Without: -1.311
+Predicted With: 1.191
+
+
+Date: 2020-09-09
+Most Influencial News: SK하이닉스 D램 현물가 8일간 상승세 4분기 바닥 KB證
+True Value: -2.645
+Predicted Without: -0.763
+Predicted With: -1.058
+
+
+Date: 2020-10-29
+Most Influencial News: 코스피 개미·외국인 매수에 상승 코스닥은 800선 회복
+True Value: -1.448
+Predicted Without: -1.202
+Predicted With: -1.316
+
+
+Date: 2020-11-04
+Most Influencial News: 코스피 美 대선 앞두고 1 상승 출발 코스닥 1 3 상승
+True Value: 2.211
+Predicted Without: 1.077
+Predicted With: 1.834
+
+
+Date: 2020-11-16
+Most Influencial News: 코리아프리미엄 한국 ETF 질주 뉴욕증시 3대지수 상승세 따돌려
+True Value: 9.253
+Predicted Without: 1.816
+Predicted With: 8.798
+
+
+Date: 2020-11-20
+Most Influencial News: 코스피 2 547 42로 상승 마감 이틀째 연고점 종합
+True Value: -1.426
+Predicted Without: -1.138
+Predicted With: -1.389
+
+
+Date: 2020-12-02
+Most Influencial News: 코스피 상승폭 확대 수출 기업들에 자금 유입될 듯
+True Value: 8.458
+Predicted Without: 1.711
+Predicted With: 8.313
+
+
+Date: 2020-12-15
+Most Influencial News: SK하이닉스 목표가 상향 상승에 베팅할 시기 신한
+True Value: 0.427
+Predicted Without: -1.426
+Predicted With: -0.092
+
+
+Date: 2020-12-24
+Most Influencial News: 코스피 장중 2750선 회복 원·달러 환율 4거래일째 상승
+True Value: 1.724
+Predicted Without: 0.858
+Predicted With: 1.438
+
+
+Date: 2021-01-05
+Most Influencial News: 코스피 새해 첫거래일 상승세 2 890선 접근 종합
+True Value: 3.571
+Predicted Without: 1.531
+Predicted With: 3.884
+
+
+Date: 2021-02-23
+Most Influencial News: SK하이닉스 DRAM 계약가 4분기까지 상승 하나
+True Value: 1.465
+Predicted Without: -1.227
+Predicted With: 1.425
+
+
+Date: 2021-02-25
+Most Influencial News: 주총 온라인 생중계로 보세요 코로나에 비대면 주총상승
+True Value: 9.191
+Predicted Without: 3.482
+Predicted With: 9.506
+
+
+Date: 2021-04-13
+Most Influencial News: 코스피 3 130대 상승 마감 개인 6천억 순매수 종합
+True Value: 1.455
+Predicted Without: 2.401
+Predicted With: 2.189
+
+
+Date: 2021-07-01
+Most Influencial News: D램·낸드플래시 가격 6월 보합세 하반기 추가 상승 전망
+True Value: -2.353
+Predicted Without: 1.934
+Predicted With: -1.666
+
+
+Date: 2021-07-09
+Most Influencial News: 시총 1兆클럽 270여곳 카카오 시총 28조상승 돌풍
+True Value: -1.646
+Predicted Without: -0.881
+Predicted With: -1.420
+
+
+Date: 2021-08-05
+Most Influencial News: 반갑다 외국인 코스피 3280선 회복 삼전·SK하이닉스 3일째 상승
+True Value: -0.826
+Predicted Without: -1.000
+Predicted With: 0.124
+
+
+Date: 2021-09-15
+Most Influencial News: 코스피 기관 매수에 상승 마감 상생안 발표한 카카오 낙폭 축소
+True Value: 0.000
+Predicted Without: 1.027
+Predicted With: -0.109
+
+
+Date: 2021-09-23
+Most Influencial News: 당분간 상승 모멘텀 안보여 종목별 차별화 심해질 듯
+True Value: -1.402
+Predicted Without: -0.352
+Predicted With: -0.546
+
+
+Date: 2021-09-24
+Most Influencial News: 3분기 상장사 영업이익 49 상승 전망 4분기도 72 성장 기대
+True Value: -1.422
+Predicted Without: -1.932
+Predicted With: -1.511
+
+
+Date: 2021-10-01
+Most Influencial News: 한숨돌린 코스피 악재 완화 기대감에 상승 코스닥도상승
+True Value: -2.913
+Predicted Without: -1.183
+Predicted With: -2.050
+
+
+Date: 2021-10-15
+Most Influencial News: 코스피 이틀 연속 상승 3000선 다시 탈환할까
+True Value: 4.904
+Predicted Without: 2.185
+Predicted With: 5.324
+
+
+Date: 2021-10-20
+Most Influencial News: 코스피 실적 시즌 기대감에 상승 출발 7만전자 안착할까
+True Value: 0.205
+Predicted Without: 1.466
+Predicted With: 0.089
+
+
+Date: 2022-01-20
+Most Influencial News: 삼성·SK도 줄서는 ASML 작년 최대실적 냈다 순이익 66 상승
+True Value: -1.575
+Predicted Without: -0.763
+Predicted With: -1.789
+
+
+Date: 2022-02-11
+Most Influencial News: 미래산업 작년 영업익 88억원 전년比 596 상승 상보
+True Value: 1.931
+Predicted Without: -2.224
+Predicted With: 2.140
+
+
+Date: 2022-03-04
+Most Influencial News: 코스피 미 금리인상 불확실성 완화에 상승 출발 2 730대 종합
+True Value: -3.488
+Predicted Without: -1.804
+Predicted With: -3.039
+
+
+Date: 2022-03-17
+Most Influencial News: 코스피 4거래일 만에 1 넘게 상승 2650선 회복
+True Value: 6.438
+Predicted Without: 2.355
+Predicted With: 5.817
+
+
+Date: 2022-03-30
+Most Influencial News: 코스피 우크라이나 협상 기대감에 상승세 2 740대 회복 종합
+True Value: 0.833
+Predicted Without: 0.945
+Predicted With: 0.953
+
+
+Date: 2022-04-21
+Most Influencial News: 테크윙 1분기 비수기 구간에도 역대 최대 실적 달성 목표가상승 DB
+True Value: 0.444
+Predicted Without: 0.710
+Predicted With: 0.744
+
+
+Date: 2022-06-10
+Most Influencial News: 강남도 매물 쌓여 상승 멈췄는데 오름세 탄탄한 이천·평택·안성
+True Value: -1.896
+Predicted Without: -1.486
+Predicted With: -2.079
+
+
+Date: 2022-06-17
+Most Influencial News: 코스피 2 450대 강보합 마감 FOMC 불확실성 해소에도 상승 제한 종합
+True Value: -1.027
+Predicted Without: -0.695
+Predicted With: -0.905
+
+
+Date: 2022-07-19
+Most Influencial News: 코스피 장 초반 외인 매수에 1 대 상승 2 360선 터치 종합
+True Value: -0.990
+Predicted Without: 0.415
+Predicted With: -0.307
+
+
+Date: 2022-07-29
+Most Influencial News: 코스피 장 초반 1 대 상승 시총 상위주 들썩
+True Value: -1.509
+Predicted Without: 1.445
+Predicted With: -1.293
+
+
+Date: 2022-08-09
+Most Influencial News: 코스피 4거래일 연속 상승 마감 2490선 사수
+True Value: -1.246
+Predicted Without: 0.920
+Predicted With: -1.513
+
+
+Date: 2022-08-25
+Most Influencial News: 코스피·코스닥 6거래일 만에 동반 상승 코스피 2450선 회복
+True Value: 0.966
+Predicted Without: -1.423
+Predicted With: 0.914
+
+
+Date: 2022-10-07
+Most Influencial News: 코스피 장초반 1 대 상승 2 230대 회복 종합
+True Value: 1.446
+Predicted Without: 0.778
+Predicted With: 1.207
+
+
+Date: 2022-11-08
+Most Influencial News: 코스피 장 초반 1 가까이 상승 2 360대 올라 종합
+True Value: 1.387
+Predicted Without: 0.963
+Predicted With: 1.274
+
+
+Date: 2023-01-17
+Most Influencial News: 리서치알음 오픈엣지테크놀로지 AI반도체 핵심기업 상승여력 102 상승“
+True Value: 0.233
+Predicted Without: -0.848
+Predicted With: 0.249
+
+
+Date: 2023-01-19
+Most Influencial News: 큰 손 팔자 에 무너진 대형주 코스피 상승세 9일 천하 로 끝
+True Value: 0.470
+Predicted Without: 1.321
+Predicted With: 0.421
+
+
+Date: 2023-03-17
+Most Influencial News: 코스피 CS 우려 완화에 하락폭 축소 코스닥은 상승
+True Value: 6.329
+Predicted Without: 1.683
+Predicted With: 6.702
+
+
+Date: 2023-03-23
+Most Influencial News: 속보 코스피 장 초반 2400선 회복 시총 상위주 일제히 상승
+True Value: 1.841
+Predicted Without: -0.938
+Predicted With: 1.839
+
+
+Date: 2023-03-24
+Most Influencial News: 위지트 지난해 순이익 137억원 전년比 35 상승
+True Value: -1.356
+Predicted Without: -3.533
+Predicted With: -1.539
+
+
+Date: 2023-04-17
+Most Influencial News: 상승세 이어갈까 美 실적 시즌·中 GDP에 쏠리는 눈 주간증시전망
+True Value: -0.896
+Predicted Without: -0.801
+Predicted With: -0.924
+
+
+Date: 2023-07-12
+Most Influencial News: 중국 경기 부양 소식에 코스피·코스닥 동반 상승 2560선 회복
+True Value: 1.764
+Predicted Without: 1.052
+Predicted With: 1.282
+
+
+Date: 2023-08-01
+Most Influencial News: 돈 많은 동학개미 코스피·코스닥 1 대 상승
+True Value: 1.378
+Predicted Without: -1.103
+Predicted With: 1.425
+
+
+Date: 2023-08-17
+Most Influencial News: 7 상승 엔비디아發 훈풍에 SK하이닉스도 장 초반 강세
+True Value: -0.864
+Predicted Without: -0.914
+Predicted With: -0.964
+
+
+Date: 2023-08-22
+Most Influencial News: 코스피 중국 우려 완화 속 7거래일 만에 상승 전환 2 520대 종합
+True Value: 0.086
+Predicted Without: -1.464
+Predicted With: 0.118
+
+
+Date: 2023-10-13
+Most Influencial News: 외인·기관 팔자 에도 반도체·이차전지 활약에 증시 상승 출발
+True Value: 0.403
+Predicted Without: -0.533
+Predicted With: 0.335
+
+

@@ -1,0 +1,196 @@
+Date: 2018-11-23
+Most Influencial News: 한경로보뉴스 전일 기관 거래소에서 삼성전자 1 64 SK하이닉스 0 89 등 순매수
+True Value: 0.0
+Predicted Without: -0.396
+Predicted With: -0.15
+
+
+Date: 2019-02-11
+Most Influencial News: 코스피 올랐는데 개인 매수 상위 종목 20개 중 13개 하락
+True Value: 0.816
+Predicted Without: -0.336
+Predicted With: -0.028
+
+
+Date: 2019-03-15
+Most Influencial News: 전일 외국인 거래소에서 KODEX 200TR 0 86 KODEX 코스닥 150 0 08 등 순매수
+True Value: 1.189
+Predicted Without: 1.061
+Predicted With: 1.648
+
+
+Date: 2019-04-17
+Most Influencial News: 전일 외국인 거래소에서 삼성전자 0 43 KODEX 200TR 0 33 등 순매수
+True Value: -0.249
+Predicted Without: 0.444
+Predicted With: -0.101
+
+
+Date: 2019-05-09
+Most Influencial News: 현대차·하이닉스 기관 저평가 대형주 매수
+True Value: -5.355
+Predicted Without: -2.428
+Predicted With: -5.78
+
+
+Date: 2019-08-13
+Most Influencial News: 12일 외국인 거래소에서 삼성전기 3 02 SK하이닉스 1 64 등 순매수
+True Value: 0.0
+Predicted Without: -1.008
+Predicted With: 0.485
+
+
+Date: 2019-10-02
+Most Influencial News: 코스피 기관 매수에 2 070선 회복 코스닥은 1 7 상승 종합2보
+True Value: -3.049
+Predicted Without: -1.273
+Predicted With: -2.488
+
+
+Date: 2019-10-25
+Most Influencial News: 코스피 외국인 매수에 하락 딛고 상승 마감 코스닥은 개인이 낙폭 만회
+True Value: 3.625
+Predicted Without: -1.539
+Predicted With: 4.216
+
+
+Date: 2020-04-21
+Most Influencial News: fn 오전시황 코스피 개인 매수에 1920선 상승세
+True Value: -0.854
+Predicted Without: -1.076
+Predicted With: -1.096
+
+
+Date: 2020-06-04
+Most Influencial News: 외국인 코스피 미니선물서 사상 최대 순매수
+True Value: -1.127
+Predicted Without: -1.403
+Predicted With: -1.196
+
+
+Date: 2020-07-13
+Most Influencial News: SK바이오팜 외인 매도 폭탄에도 기관 계속 매수 왜
+True Value: 0.242
+Predicted Without: -0.009
+Predicted With: -0.047
+
+
+Date: 2020-08-06
+Most Influencial News: 코스피 개인 매수에 상승 출발 2290선 회복
+True Value: 0.496
+Predicted Without: 0.536
+Predicted With: 0.84
+
+
+Date: 2020-08-21
+Most Influencial News: 하락장에 나타나는 개미 방어군 또 1조원 순매수
+True Value: 3.76
+Predicted Without: 2.839
+Predicted With: 4.288
+
+
+Date: 2020-09-25
+Most Influencial News: fn오후시황 코스피 개인 매수에도 2280선까지 밀려
+True Value: -1.661
+Predicted Without: -1.388
+Predicted With: -3.042
+
+
+Date: 2020-10-29
+Most Influencial News: 코스피 개미·외국인 매수에 상승 코스닥은 800선 회복
+True Value: -1.448
+Predicted Without: -1.202
+Predicted With: -1.316
+
+
+Date: 2021-01-14
+Most Influencial News: 코스피 사흘만에 0 7 반등 개인·외인 순매수 종합
+True Value: -1.88
+Predicted Without: -1.501
+Predicted With: -2.073
+
+
+Date: 2021-09-01
+Most Influencial News: 팔자 속 외국인 순매수한 종목 무턱대고 따라 샀다간
+True Value: 1.408
+Predicted Without: 1.094
+Predicted With: 1.675
+
+
+Date: 2021-09-14
+Most Influencial News: 외인·기관 매수 속 개인은 던졌다 카카오·네이버 연일 부진
+True Value: 0.939
+Predicted Without: 0.432
+Predicted With: 0.771
+
+
+Date: 2021-09-15
+Most Influencial News: 코스피 기관 매수에 상승 마감 상생안 발표한 카카오 낙폭 축소
+True Value: 0.0
+Predicted Without: 1.027
+Predicted With: -0.109
+
+
+Date: 2022-02-09
+Most Influencial News: fn오전시황 코스피 외국인·기관 동반 매수에 2770선 회복
+True Value: 0.8
+Predicted Without: 0.462
+Predicted With: 0.532
+
+
+Date: 2022-03-21
+Most Influencial News: 개미들 외국인 떠난 삼성전자 줍줍 한달간 3조원 순매수
+True Value: -1.613
+Predicted Without: -0.432
+Predicted With: -0.753
+
+
+Date: 2022-07-19
+Most Influencial News: 코스피 장 초반 외인 매수에 1 대 상승 2 360선 터치 종합
+True Value: -0.99
+Predicted Without: 0.415
+Predicted With: -0.307
+
+
+Date: 2022-08-16
+Most Influencial News: 베어마켓랠리서 개미만 손해 순매수 상위 10개종목 수익률 －
+True Value: 3.644
+Predicted Without: 2.772
+Predicted With: 2.919
+
+
+Date: 2022-11-02
+Most Influencial News: 외인·기관 쌍끌이 매수에 코스피 1 8 오른 2 330대 마감 종합
+True Value: 0.715
+Predicted Without: -0.815
+Predicted With: 0.78
+
+
+Date: 2022-11-23
+Most Influencial News: 코스피 보합권 등락 관망세 속 기관 매수세 종합
+True Value: 0.0
+Predicted Without: -0.307
+Predicted With: 0.13
+
+
+Date: 2022-12-06
+Most Influencial News: 코스피 장 초반 2 430대 보합권 등락 개인·기관 매수 종합
+True Value: 0.0
+Predicted Without: -1.148
+Predicted With: 0.306
+
+
+Date: 2023-07-05
+Most Influencial News: 반도체·2차전지가 이끈 증시 외국인 순매수 10년래 최고
+True Value: -1.018
+Predicted Without: 0.87
+Predicted With: -1.008
+
+
+Date: 2023-10-23
+Most Influencial News: 코스피 금리·중동발 충격 단기적 조정 시 매수 주간전망
+True Value: -1.743
+Predicted Without: 1.557
+Predicted With: -1.658
+
+

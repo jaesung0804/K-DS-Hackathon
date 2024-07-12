@@ -1,0 +1,154 @@
+Date: 2018-11-13
+Most Influencial News: fn마감시황 코스피 바이오주 급락에 유탄 이틀째 하락 마감
+True Value: -3.490
+Predicted Without: -0.635
+Predicted With: -1.673
+
+
+Date: 2018-11-20
+Most Influencial News: fn사설 반도체 경고음’ 귓등으로 듣지 말아야
+True Value: -3.295
+Predicted Without: -1.168
+Predicted With: -2.758
+
+
+Date: 2019-04-29
+Most Influencial News: fn사설 기업 영업익 반토막 맥빠진 한국 경제
+True Value: 1.781
+Predicted Without: 0.455
+Predicted With: 0.708
+
+
+Date: 2019-06-05
+Most Influencial News: fn마감시황 코스피 외인 매도에 4일만 하락 코스닥 700선 회복
+True Value: 0.000
+Predicted Without: -0.876
+Predicted With: -1.194
+
+
+Date: 2019-07-12
+Most Influencial News: fn사설 소재산업 육성 정치권만 분발하면 된다
+True Value: -1.060
+Predicted Without: 0.920
+Predicted With: -2.197
+
+
+Date: 2019-11-27
+Most Influencial News: fn오전시황 코스피 미·중 무역협상 기대감 2130선 회복
+True Value: 0.486
+Predicted Without: 0.200
+Predicted With: -0.129
+
+
+Date: 2020-01-15
+Most Influencial News: fn마감시황 코스피 4일 연속 상승세 0 43 상승
+True Value: -2.289
+Predicted Without: -0.517
+Predicted With: -2.027
+
+
+Date: 2020-10-23
+Most Influencial News: fn오전시황 코스피 외인·기관 매도에 하락 2350선 횡보
+True Value: 0.720
+Predicted Without: 0.476
+Predicted With: 0.327
+
+
+Date: 2020-12-24
+Most Influencial News: \xa0 fn마감시황 코스피 外人·기관 매수에 0 96 상승 LG그룹주상승
+True Value: 1.724
+Predicted Without: 0.380
+Predicted With: 1.127
+
+
+Date: 2021-01-08
+Most Influencial News: fn스트리트 대한상의 회장
+True Value: 2.602
+Predicted Without: -2.338
+Predicted With: 3.598
+
+
+Date: 2021-01-19
+Most Influencial News: fn오전시황 코스피 개인·외인 매도에 약세 3070선 등락
+True Value: 0.385
+Predicted Without: 0.385
+Predicted With: 0.348
+
+
+Date: 2021-05-11
+Most Influencial News: fn사설 반도체특별법 제정 머뭇거릴 시간 없다
+True Value: -5.385
+Predicted Without: -0.879
+Predicted With: -4.033
+
+
+Date: 2021-05-28
+Most Influencial News: fn마감시황 코스피 3160선에서 소폭 하락 코스닥은 상승
+True Value: -0.398
+Predicted Without: -0.797
+Predicted With: -0.340
+
+
+Date: 2021-06-17
+Most Influencial News: fn오전시황 코스피 장중 최고 3270선 유지 코스닥은 소폭 하락 전환
+True Value: -2.317
+Predicted Without: -0.927
+Predicted With: -2.142
+
+
+Date: 2021-09-14
+Most Influencial News: fn마감시황 코스피 5거래일만 돌아온 외인 상승 마감
+True Value: 0.939
+Predicted Without: -0.317
+Predicted With: -0.271
+
+
+Date: 2021-12-10
+Most Influencial News: fn마감시황 기관 매수에 코스피 3020선으로 코스닥도 상승
+True Value: -2.429
+Predicted Without: -0.717
+Predicted With: -0.598
+
+
+Date: 2022-05-20
+Most Influencial News: fn사설 한국 오자마자 반도체 공장 가는 바이든 대통령
+True Value: 1.351
+Predicted Without: 0.929
+Predicted With: 1.386
+
+
+Date: 2023-02-07
+Most Influencial News: fn오전시황 코스피 외인·기관 동반 매도에 하락 2450선
+True Value: 1.908
+Predicted Without: 0.489
+Predicted With: 1.517
+
+
+Date: 2023-02-09
+Most Influencial News: fn오전시황 코스피 외국인 매수에 2470선 회복
+True Value: -0.527
+Predicted Without: 0.342
+Predicted With: 0.055
+
+
+Date: 2023-05-04
+Most Influencial News: 단독 fn마켓워치 마스턴 용인 원삼 한미물류센터 매각 나서
+True Value: -1.225
+Predicted Without: 0.613
+Predicted With: -0.136
+
+
+Date: 2023-10-13
+Most Influencial News: fn오전시황 코스피·코스닥 동반 상승 2470선까지 회복
+True Value: 0.403
+Predicted Without: 0.672
+Predicted With: 0.274
+
+
+Date: 2023-10-25
+Most Influencial News: fn오전시황 코스피·코스닥 하락 전환 코스피 2330선까지 밀려
+True Value: 0.552
+Predicted Without: 0.335
+Predicted With: -0.597
+
+

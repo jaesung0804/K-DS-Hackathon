@@ -1,0 +1,35 @@
+Date: 2018-11-26
+Most Influencial News: 멀티카메라·폴더블폰·5G·2차전지 등 4차 산업혁명 관련 혁신기술株에 기회
+True Value: 0.472
+Predicted Without: -0.723
+Predicted With: 0.299
+
+
+Date: 2019-01-03
+Most Influencial News: 위기 마주한 재계 생존해법은 변화’ 혁신’ 미래경쟁력’
+True Value: -2.968
+Predicted Without: -1.376
+Predicted With: -2.706
+
+
+Date: 2019-11-27
+Most Influencial News: 스타트업 지킴이로 혁신 동행 나선 이재용
+True Value: 0.772
+Predicted Without: 0.545
+Predicted With: 0.532
+
+
+Date: 2021-10-27
+Most Influencial News: 포토 더 똑똑해졌네 식물도 키우네 삼성·LG 혁신가전 총출동
+True Value: -1.406
+Predicted Without: 0.359
+Predicted With: -0.657
+
+
+Date: 2023-07-18
+Most Influencial News: 삼성전자 혁신 스타트업에 1억 지원
+True Value: -1.774
+Predicted Without: -0.204
+Predicted With: -0.689
+
+

@@ -1,0 +1,196 @@
+Date: 2018-11-12
+Most Influencial News: 국내외 경기 둔화·신흥국 환율 불안에 韓 간판기업들까지 실적 흔들
+True Value: 2.032
+Predicted Without: 0.813
+Predicted With: 1.671
+
+
+Date: 2019-05-03
+Most Influencial News: 홍남기 기업실적 악화 내년 세금 덜 걷힐 수도
+True Value: -1.307
+Predicted Without: -0.593
+Predicted With: -0.927
+
+
+Date: 2019-07-25
+Most Influencial News: 週52시간제 기저효과 에스원 2분기 실적반등 예고
+True Value: 1.724
+Predicted Without: -0.544
+Predicted With: -0.230
+
+
+Date: 2019-08-09
+Most Influencial News: 폭락장에도 실적株 끌어모은 기관들
+True Value: 1.172
+Predicted Without: 0.610
+Predicted With: 0.621
+
+
+Date: 2019-10-31
+Most Influencial News: 기업실적 바닥쳤다 내년 코스피 2300 갈듯
+True Value: 0.000
+Predicted Without: 0.569
+Predicted With: -0.267
+
+
+Date: 2019-11-01
+Most Influencial News: 기업실적 급락에 지자체도 稅收 쇼크
+True Value: 1.587
+Predicted Without: 0.268
+Predicted With: 0.388
+
+
+Date: 2020-03-05
+Most Influencial News: 상장사 실적 악화에 배당금도 줄였다
+True Value: 0.697
+Predicted Without: -0.851
+Predicted With: 0.762
+
+
+Date: 2020-04-01
+Most Influencial News: 코로나發 실적 악화 하반기까지 갈 수도
+True Value: -4.084
+Predicted Without: -1.868
+Predicted With: -2.517
+
+
+Date: 2020-04-08
+Most Influencial News: 코로나에 빛바랜 갤럭시S20 하반기엔 노트20·폴드2에 기대 삼성전자 1분기 잠정실적
+True Value: -2.016
+Predicted Without: -0.862
+Predicted With: -1.070
+
+
+Date: 2020-04-29
+Most Influencial News: 삼성전기·LG이노텍 스마트폰 카메라 수요 늘어 실적 선방
+True Value: -0.200
+Predicted Without: 0.757
+Predicted With: -0.502
+
+
+Date: 2020-06-03
+Most Influencial News: 클릭 해외증시 이 종목 AI·클라우드 확산에 엔비디아 실적 쑥
+True Value: 6.031
+Predicted Without: 0.792
+Predicted With: 1.017
+
+
+Date: 2020-08-26
+Most Influencial News: 코로나 2차공습에 자영업 셧다운 공포 기업 실적전망도 뚝
+True Value: 0.000
+Predicted Without: -0.818
+Predicted With: -0.193
+
+
+Date: 2020-10-07
+Most Influencial News: 돌아온 실적 시즌 활짝 갠’ 車·화학 IT·반도체도 맑음’
+True Value: 1.525
+Predicted Without: 0.298
+Predicted With: 0.676
+
+
+Date: 2020-11-25
+Most Influencial News: 코로나에 실적 줄었지만 배당 더 늘리는 기업들
+True Value: -1.625
+Predicted Without: -0.772
+Predicted With: -1.905
+
+
+Date: 2021-01-04
+Most Influencial News: 1000 2000 위기때 버팀목은 실적장세
+True Value: 2.469
+Predicted Without: 0.910
+Predicted With: 2.604
+
+
+Date: 2021-04-27
+Most Influencial News: 코스피 실적장세 돌입 큰형님들’의 시간이 온다
+True Value: -0.719
+Predicted Without: 0.657
+Predicted With: -0.579
+
+
+Date: 2021-07-09
+Most Influencial News: 실적 장세 온다더니 BBIG 시즌2 열리나
+True Value: -0.626
+Predicted Without: -1.311
+Predicted With: -0.537
+
+
+Date: 2022-01-03
+Most Influencial News: FOMC 앞두고 코스피 관망세 삼성전자 4분기 실적발표 주목 주간 증시 전망
+True Value: 0.383
+Predicted Without: 0.479
+Predicted With: 1.475
+
+
+Date: 2022-09-26
+Most Influencial News: 바닥 뚫고 지하실까지 삼성 하이닉스 실적 또 먹구름
+True Value: -1.101
+Predicted Without: -0.343
+Predicted With: -0.189
+
+
+Date: 2022-10-25
+Most Influencial News: 경기침체 우려 확대 대형주 실적 내년까지 역성장할수도
+True Value: 0.348
+Predicted Without: 0.345
+Predicted With: 0.132
+
+
+Date: 2022-11-14
+Most Influencial News: 코로나 이후 경영실적 초과회복 상생에 달렸다
+True Value: -1.590
+Predicted Without: -0.216
+Predicted With: -0.341
+
+
+Date: 2023-01-13
+Most Influencial News: 실적시즌 이제 시작인데 커지는 어닝쇼크 경고음
+True Value: 0.496
+Predicted Without: 0.369
+Predicted With: 0.209
+
+
+Date: 2023-03-06
+Most Influencial News: 실적 올라탄 주가 현대차·기아 가속 페달
+True Value: 1.653
+Predicted Without: 0.394
+Predicted With: 0.611
+
+
+Date: 2023-03-24
+Most Influencial News: 사상 최고 실적 올린 정유사 평균급여 1억5천만원 훌쩍
+True Value: 1.124
+Predicted Without: 0.337
+Predicted With: 0.528
+
+
+Date: 2023-07-10
+Most Influencial News: 삼성 DDR5·HBM3·3나노 로 실적 반전 노린다 삼성 반도체 위기 극복 해법은
+True Value: -0.572
+Predicted Without: -0.538
+Predicted With: 0.179
+
+
+Date: 2023-07-24
+Most Influencial News: 전자업계 실적 2분기 바닥 찍었다 하반기 수요 회복·신제품 출시 기대
+True Value: 0.142
+Predicted Without: -0.138
+Predicted With: 0.035
+
+
+Date: 2023-10-04
+Most Influencial News: 4분기 쉽지 않네 상장사 40 실적 하향
+True Value: -1.316
+Predicted Without: -0.870
+Predicted With: -0.419
+
+
+Date: 2023-10-27
+Most Influencial News: 현대차 실적 신기록 올 영업익 벌써 11조
+True Value: 0.900
+Predicted Without: 0.564
+Predicted With: 0.013
+
+

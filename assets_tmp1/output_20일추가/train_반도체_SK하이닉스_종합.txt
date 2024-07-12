@@ -1,0 +1,266 @@
+Date: 2018-11-14
+Most Influencial News: 코스피 미국발 기술주 악재에 2 대 급락 종합2보
+True Value: -2.086
+Predicted Without: -0.853
+Predicted With: -2.257
+
+
+Date: 2019-01-04
+Most Influencial News: 애플 충격에 금융시장 출렁 엔화 급등·中기술주 급락 종합
+True Value: 1.040
+Predicted Without: -1.457
+Predicted With: 0.877
+
+
+Date: 2019-01-29
+Most Influencial News: 코스피 상승 출발 2 180선 전후 등락 종합2보
+True Value: 2.228
+Predicted Without: -1.229
+Predicted With: 2.215
+
+
+Date: 2019-04-17
+Most Influencial News: 코스피 하락 출발 후 혼조세 2 240대 등락 종합2보
+True Value: -0.249
+Predicted Without: -0.653
+Predicted With: -0.423
+
+
+Date: 2019-06-05
+Most Influencial News: 코스피 하락 출발 후 2 060대 혼조세 코스닥은 소폭 상승 종합
+True Value: 0.000
+Predicted Without: 0.580
+Predicted With: 0.185
+
+
+Date: 2019-06-21
+Most Influencial News: 코스피 하락 출발 2 120대 등락 종합
+True Value: -2.080
+Predicted Without: -0.573
+Predicted With: -2.115
+
+
+Date: 2019-06-26
+Most Influencial News: 코스피 보합권 등락 장중 2 130선 회복 종합
+True Value: 3.298
+Predicted Without: 0.997
+Predicted With: 2.848
+
+
+Date: 2019-06-28
+Most Influencial News: 코스피 반도체 기대에 2 130선 회복 코스닥은 700선 내줘 종합
+True Value: -0.997
+Predicted Without: -0.883
+Predicted With: -1.093
+
+
+Date: 2019-07-19
+Most Influencial News: 박영선 대기업 中企 불화수소 안써 최태원 품질의 문제 종합
+True Value: 2.811
+Predicted Without: 1.050
+Predicted With: 2.973
+
+
+Date: 2019-08-02
+Most Influencial News: 中 언론 한일 갈등으로 중국 반도체산업에 기회 왔다 종합
+True Value: -2.059
+Predicted Without: -0.666
+Predicted With: -1.770
+
+
+Date: 2019-08-27
+Most Influencial News: 코스피 G2발 악재에 1 910대 후퇴 코스닥은 4 대 급락 종합
+True Value: 1.671
+Predicted Without: 1.107
+Predicted With: 1.322
+
+
+Date: 2019-11-08
+Most Influencial News: 코스피 미중협상 불안에 하락 출발 장중 2 140선 내줘 종합
+True Value: -1.555
+Predicted Without: -0.306
+Predicted With: -0.385
+
+
+Date: 2020-02-25
+Most Influencial News: 증시는 검은 월요일 코스피 3 9 폭락에 시총 67조 줄어 종합
+True Value: -1.508
+Predicted Without: -2.277
+Predicted With: -1.046
+
+
+Date: 2020-03-26
+Most Influencial News: 개인 코스피 주식 10조 순매수 동학개미운동 성공할까 종합
+True Value: -4.497
+Predicted Without: 1.273
+Predicted With: -4.226
+
+
+Date: 2020-08-07
+Most Influencial News: 문답 SKT 5G가입 70만늘어 335만 실적 턴어라운드 종합
+True Value: -0.617
+Predicted Without: -0.532
+Predicted With: -0.663
+
+
+Date: 2020-09-10
+Most Influencial News: 美기술주 조정에 코스피 1 대 하락 출발 2 370대 종합
+True Value: -0.906
+Predicted Without: -0.800
+Predicted With: -0.805
+
+
+Date: 2020-09-16
+Most Influencial News: 코스피 美 증시 호조에 상승 출발 2 430선 위로 종합
+True Value: -0.488
+Predicted Without: -0.823
+Predicted With: -0.332
+
+
+Date: 2020-11-17
+Most Influencial News: 코스피 2 540선 돌파 2년 9개월여만의 최고치 종합
+True Value: 0.102
+Predicted Without: -0.683
+Predicted With: -0.047
+
+
+Date: 2020-12-16
+Most Influencial News: 코스피 장 초반 하락세 장중 2 730대로 뒷걸음 종합
+True Value: 0.000
+Predicted Without: -1.204
+Predicted With: -0.115
+
+
+Date: 2021-10-14
+Most Influencial News: 코스피 2 940대 회복 기관 7천억원 순매수 종합
+True Value: 1.957
+Predicted Without: -1.250
+Predicted With: 2.935
+
+
+Date: 2022-01-05
+Most Influencial News: 단독 현대차그룹 계열에서 현대종합설계 떼낸다
+True Value: -2.335
+Predicted Without: -2.098
+Predicted With: -2.363
+
+
+Date: 2022-01-26
+Most Influencial News: 코스피 이틀째 1 넘게 하락 2 750선도 붕괴 종합
+True Value: -0.424
+Predicted Without: -0.980
+Predicted With: -0.641
+
+
+Date: 2022-05-31
+Most Influencial News: 이종호 과기장관 반도체는 속도 경쟁 시급한 것은 바로 추진 종합
+True Value: 0.935
+Predicted Without: 0.652
+Predicted With: 1.057
+
+
+Date: 2022-06-08
+Most Influencial News: 코스피 1 66 떨어져 2 620대로 美 국채금리 급등 부담 종합
+True Value: 1.923
+Predicted Without: 1.213
+Predicted With: 1.627
+
+
+Date: 2022-06-17
+Most Influencial News: 특징주 삼성전자 8거래일만에 소폭 반등 6만원대 마감 종합
+True Value: -1.027
+Predicted Without: -0.704
+Predicted With: -0.923
+
+
+Date: 2022-07-19
+Most Influencial News: 긴축 우려 완화에 코스피 2 370선 회복 환율 1 310원대로 하락 종합2보
+True Value: -0.990
+Predicted Without: -0.737
+Predicted With: -0.962
+
+
+Date: 2022-07-21
+Most Influencial News: 코스피 개인 매수에 0 67 상승 마감 2 380선 회복 종합
+True Value: 0.490
+Predicted Without: -0.529
+Predicted With: 0.646
+
+
+Date: 2022-08-02
+Most Influencial News: 코스피 2 450 안팎 보합권 등락 개인 홀로 순매수 종합
+True Value: -0.618
+Predicted Without: 1.378
+Predicted With: -1.147
+
+
+Date: 2022-08-12
+Most Influencial News: 독거노인종합지원센터 SK하이닉스 무더위 취약 어르신 대상 냉방용품 지원
+True Value: 0.000
+Predicted Without: -1.854
+Predicted With: -0.110
+
+
+Date: 2022-08-24
+Most Influencial News: 美 긴축 우려에 코스피 2 430대로 하락 코스닥 780대로 후퇴 종합
+True Value: -0.427
+Predicted Without: -1.658
+Predicted With: -0.699
+
+
+Date: 2022-11-17
+Most Influencial News: 지정학적 위험 고조에 코스피 소폭 하락·환율 7 4원 상승 종합
+True Value: -4.153
+Predicted Without: -1.260
+Predicted With: -3.923
+
+
+Date: 2022-11-25
+Most Influencial News: 코스피 외인·기관 쌍끌이 순매수에 상승 2 440대 종합2보
+True Value: -2.071
+Predicted Without: -0.695
+Predicted With: -1.969
+
+
+Date: 2022-12-01
+Most Influencial News: 특징주 바이든 SK실트론 공장 방문에 SK그룹주 상승 종합
+True Value: -0.353
+Predicted Without: -1.029
+Predicted With: -0.451
+
+
+Date: 2023-01-18
+Most Influencial News: 코스피 소폭 하락 출발 원 달러 환율은 강보합권 종합
+True Value: -1.047
+Predicted Without: -0.383
+Predicted With: -0.645
+
+
+Date: 2023-02-09
+Most Influencial News: 코스피 장 초반 2 460대서 오름세 환율 1 250원대 후반 종합
+True Value: -0.527
+Predicted Without: -0.429
+Predicted With: -0.428
+
+
+Date: 2023-03-09
+Most Influencial News: 파월 매파 발언에 코스피 1 3 하락 원 달러 환율 22원 급등 종합
+True Value: -1.382
+Predicted Without: -1.067
+Predicted With: -1.000
+
+
+Date: 2023-07-04
+Most Influencial News: 코스피 장 초반 1 올라 美물가상승 둔화·韓무역흑자 영향 종합
+True Value: 0.255
+Predicted Without: 0.681
+Predicted With: 0.159
+
+
+Date: 2023-10-18
+Most Influencial News: 통상본부장 부산엑스포 충분히 승산 있는 게임 종합
+True Value: 0.000
+Predicted Without: -1.543
+Predicted With: 0.188
+
+

@@ -1,0 +1,210 @@
+Date: 2019-02-22
+Most Influencial News: 모디 이재용·정의선과 22일 靑 회동 깜짝 투자 나올까
+True Value: 0.426
+Predicted Without: -1.774
+Predicted With: 0.529
+
+
+Date: 2019-02-26
+Most Influencial News: 2주 만에 다시 만나는 UAE 왕세제·이재용 부회장
+True Value: -1.267
+Predicted Without: -2.004
+Predicted With: -0.616
+
+
+Date: 2019-03-04
+Most Influencial News: 이재용 경제외교 감초 역할’ 톡톡
+True Value: -0.554
+Predicted Without: 0.601
+Predicted With: -0.175
+
+
+Date: 2019-05-24
+Most Influencial News: 이재용 부시 前대통령과 회동 민간외교 광폭 행보
+True Value: -2.623
+Predicted Without: -1.615
+Predicted With: -2.346
+
+
+Date: 2019-10-08
+Most Influencial News: 인도로 간 이재용 5G망’ 따낼까
+True Value: 2.408
+Predicted Without: 0.952
+Predicted With: 2.188
+
+
+Date: 2020-01-28
+Most Influencial News: 이재용 20년만에 브라질行 도전하고 개척
+True Value: -3.289
+Predicted Without: -2.627
+Predicted With: -2.550
+
+
+Date: 2020-05-19
+Most Influencial News: 이재용 코로나 이후 글로벌 CEO로는 첫 中 방문 때를 놓치면 끝장
+True Value: 3.074
+Predicted Without: 1.542
+Predicted With: 3.334
+
+
+Date: 2020-05-26
+Most Influencial News: 이런 시위대 이재용 부회장 집 앞서 삼겹살 굽고 술판
+True Value: 0.819
+Predicted Without: -0.833
+Predicted With: 0.805
+
+
+Date: 2020-06-09
+Most Influencial News: 이재용 검찰수사심의위원회 소집 여부 11일 결정된다
+True Value: 1.093
+Predicted Without: 0.708
+Predicted With: 0.859
+
+
+Date: 2020-06-12
+Most Influencial News: 이재용 부회장 기소 여부 외부전문가 판단 받는다
+True Value: -3.683
+Predicted Without: -3.995
+Predicted With: -4.257
+
+
+Date: 2020-08-28
+Most Influencial News: 3년간 4만명 채용 약속 지킨 이재용 삼성 내달 공채
+True Value: -0.360
+Predicted Without: 1.021
+Predicted With: -0.027
+
+
+Date: 2020-09-02
+Most Influencial News: 檢 수사심의위 권고 뒤집고 이재용 기소
+True Value: 0.369
+Predicted Without: 1.459
+Predicted With: -0.497
+
+
+Date: 2020-10-19
+Most Influencial News: 이재용 이번엔 베트남 출장길 나선다
+True Value: 0.840
+Predicted Without: 1.750
+Predicted With: 1.280
+
+
+Date: 2020-10-20
+Most Influencial News: 이재용 이번엔 베트남 호찌민서 가전사업도 챙긴다
+True Value: 1.500
+Predicted Without: 1.824
+Predicted With: 1.851
+
+
+Date: 2020-10-21
+Most Influencial News: 삼성 성공이 베트남의 성공 손 꼭잡은 이재용·베트남 총리
+True Value: 0.000
+Predicted Without: 0.558
+Predicted With: 0.124
+
+
+Date: 2021-01-20
+Most Influencial News: 이재용 백신 확보하려 출국 준비했었다
+True Value: 0.230
+Predicted Without: 1.791
+Predicted With: 0.370
+
+
+Date: 2021-05-26
+Most Influencial News: 청와대 정책실장 이재용 사면 별도 고려 있을 것
+True Value: -0.125
+Predicted Without: 0.571
+Predicted With: 0.037
+
+
+Date: 2021-06-23
+Most Influencial News: 두번째 옥중생일 맞는 이재용 광복절 사면여론에 靑 화답할까
+True Value: 0.125
+Predicted Without: -1.001
+Predicted With: 0.002
+
+
+Date: 2021-07-21
+Most Influencial News: 이재명 이재용 재벌이라고 불이익 줄 필요없어
+True Value: -0.633
+Predicted Without: 1.053
+Predicted With: -0.482
+
+
+Date: 2021-11-22
+Most Influencial News: 백악관 간 이재용 깜짝 발표 예고 미국 반도체공장 이번주 확정된다
+True Value: 5.197
+Predicted Without: 2.216
+Predicted With: 6.148
+
+
+Date: 2021-12-14
+Most Influencial News: 이재용 홍라희 만난 그 스님 조계종 최고 지도자 됐다
+True Value: 0.260
+Predicted Without: 0.738
+Predicted With: 0.147
+
+
+Date: 2022-01-28
+Most Influencial News: TSMC 보고 있나 이재용의 통큰 결단 반도체에 최소 70조 투자
+True Value: 2.805
+Predicted Without: 0.809
+Predicted With: 2.748
+
+
+Date: 2022-05-04
+Most Influencial News: 이재용 등산 미팅’ 버라이즌 이어 디시’도 뚫었다
+True Value: 0.593
+Predicted Without: 1.129
+Predicted With: 0.386
+
+
+Date: 2022-09-02
+Most Influencial News: 보폭 넓히는 이재용 부산 엑스포 유치에 대통령 특사 나선다
+True Value: -1.541
+Predicted Without: -2.487
+Predicted With: -1.475
+
+
+Date: 2022-09-07
+Most Influencial News: 5년간 8만명 채용 약속 지키는 이재용 삼성그룹 하반기 공채 시작
+True Value: -1.926
+Predicted Without: -0.617
+Predicted With: -1.573
+
+
+Date: 2022-09-13
+Most Influencial News: 멕시코서 추석 보낸 이재용 동반진출 25년 협력사 챙겼다
+True Value: 4.496
+Predicted Without: 2.539
+Predicted With: 4.990
+
+
+Date: 2023-03-08
+Most Influencial News: 구미전자공고 찾은 이재용 회장 기술 인재가 제조업 혁신 좌우
+True Value: -0.659
+Predicted Without: -0.779
+Predicted With: -0.610
+
+
+Date: 2023-06-26
+Most Influencial News: 이재용 회장 하노이서 생일파티 뜻깊은 일정
+True Value: 1.117
+Predicted Without: 1.440
+Predicted With: 1.354
+
+
+Date: 2023-10-23
+Most Influencial News: 천리길 함께 간다 이재용 1년 기술·네트워크 광폭 경영
+True Value: -0.581
+Predicted Without: -0.625
+Predicted With: -0.380
+
+
+Date: 2023-10-25
+Most Influencial News: 윤 대통령·빈 살만 공식 오찬자리 이재용·정의선·김동관 동행
+True Value: -0.730
+Predicted Without: 1.057
+Predicted With: -0.869
+
+

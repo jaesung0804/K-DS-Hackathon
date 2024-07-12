@@ -1,0 +1,140 @@
+Date: 2019-01-31
+Most Influencial News: 코스피 외인 팔자 에 하락세 2180선서 등락
+True Value: -2.635
+Predicted Without: -1.104
+Predicted With: -0.686
+
+
+Date: 2019-04-23
+Most Influencial News: 오르긴 오르는데 다시 팔짱 낀 외인·기관
+True Value: 0.621
+Predicted Without: -0.381
+Predicted With: -0.155
+
+
+Date: 2019-06-05
+Most Influencial News: fn마감시황 코스피 외인 매도에 4일만 하락 코스닥 700선 회복
+True Value: 0.000
+Predicted Without: -0.876
+Predicted With: -1.194
+
+
+Date: 2019-08-21
+Most Influencial News: 코스피 외인 매수에 1 대 상승 코스닥은 600선 회복 종합2보
+True Value: -0.785
+Predicted Without: -0.368
+Predicted With: -0.860
+
+
+Date: 2019-09-23
+Most Influencial News: 지난달 외인 많이 산 10개 종목 주가 저점 대비 15 상승
+True Value: 0.730
+Predicted Without: -0.336
+Predicted With: -0.516
+
+
+Date: 2020-05-06
+Most Influencial News: 기관·외인에 안 진다 1 7조 또 쏟아붓고도 90조 남은 개미들
+True Value: 1.728
+Predicted Without: -0.186
+Predicted With: -0.293
+
+
+Date: 2020-07-13
+Most Influencial News: SK바이오팜 외인 매도 폭탄에도 기관 계속 매수 왜
+True Value: 0.242
+Predicted Without: 0.018
+Predicted With: -0.102
+
+
+Date: 2020-10-23
+Most Influencial News: fn오전시황 코스피 외인·기관 매도에 하락 2350선 횡보
+True Value: 0.720
+Predicted Without: 0.476
+Predicted With: 0.327
+
+
+Date: 2021-01-19
+Most Influencial News: fn오전시황 코스피 개인·외인 매도에 약세 3070선 등락
+True Value: 0.385
+Predicted Without: 0.385
+Predicted With: 0.348
+
+
+Date: 2021-02-17
+Most Influencial News: 코스피 돌아온 외인 2차 상승랠리 이끌까
+True Value: -1.887
+Predicted Without: -1.757
+Predicted With: -1.930
+
+
+Date: 2021-03-22
+Most Influencial News: 10조 내다 판 기관·외인 기아차·네이버는 샀다
+True Value: 0.000
+Predicted Without: -0.231
+Predicted With: -0.101
+
+
+Date: 2021-04-12
+Most Influencial News: 국민연금이 팔아치웠던 대형주 외인 매수세에 상승 탄력 붙나
+True Value: -1.786
+Predicted Without: -0.609
+Predicted With: -1.318
+
+
+Date: 2021-06-10
+Most Influencial News: 코스피 외인·기관 매도에 하락 출발 3230선까지 하락
+True Value: 0.408
+Predicted Without: 0.691
+Predicted With: -0.070
+
+
+Date: 2021-09-14
+Most Influencial News: fn마감시황 코스피 5거래일만 돌아온 외인 상승 마감
+True Value: 0.939
+Predicted Without: -0.317
+Predicted With: -0.271
+
+
+Date: 2021-11-17
+Most Influencial News: 사자 로 돌아선 외인 코스피 3000선 곧 탈환 흐름 바꿀 변수 있다
+True Value: -1.339
+Predicted Without: 0.535
+Predicted With: 0.712
+
+
+Date: 2022-05-03
+Most Influencial News: 카카오 2 대 급락 코스피 외인 기관 쌍끌이 매도에 약보합 마감
+True Value: -0.452
+Predicted Without: -0.481
+Predicted With: -0.285
+
+
+Date: 2022-06-21
+Most Influencial News: 외인 떠나 5만전자 신저가 찍어도 언젠간 올라 줍줍하는 개미들
+True Value: 0.741
+Predicted Without: 0.610
+Predicted With: 0.727
+
+
+Date: 2023-02-07
+Most Influencial News: fn오전시황 코스피 외인·기관 동반 매도에 하락 2450선
+True Value: 1.908
+Predicted Without: 0.489
+Predicted With: 1.517
+
+
+Date: 2023-04-19
+Most Influencial News: 코스피 외인·기관 매도에 장 초반 약보합 2 560대로 하락 종합
+True Value: 0.685
+Predicted Without: -0.408
+Predicted With: -0.818
+
+
+Date: 2023-09-01
+Most Influencial News: 코스피 기관·외인 매도에 하락 전환 코스닥은 상승
+True Value: -1.478
+Predicted Without: -0.712
+Predicted With: -1.475
+
+

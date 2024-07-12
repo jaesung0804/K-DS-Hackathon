@@ -1,0 +1,252 @@
+Date: 2018-11-27
+Most Influencial News: 삼성 AI’ LG 고화질’로 의료기기 시장 공략
+True Value: 1.056
+Predicted Without: 0.827
+Predicted With: 0.990
+
+
+Date: 2019-04-24
+Most Influencial News: 非메모리 시장 장악한 인텔·퀄컴·소니 AI·빅데이터 산업 쥐락펴락
+True Value: -0.996
+Predicted Without: 0.618
+Predicted With: -0.952
+
+
+Date: 2019-06-14
+Most Influencial News: 자본시장에 돈 돌면 세수는 당연히 늘어
+True Value: 0.571
+Predicted Without: 0.595
+Predicted With: 0.399
+
+
+Date: 2019-07-18
+Most Influencial News: 강소기업 캠시스 초소형 전기차 쎄보 출시 친환경車 틈새시장 진출
+True Value: 0.109
+Predicted Without: 0.734
+Predicted With: -0.055
+
+
+Date: 2019-09-20
+Most Influencial News: 통신시장 1위 SK텔레콤 5G 서비스 평판도 최고
+True Value: 0.102
+Predicted Without: -0.248
+Predicted With: -0.116
+
+
+Date: 2019-12-18
+Most Influencial News: 민·관 힘 합쳐 글로벌 시장 선도할 로봇기업 만들자 2019 미래 로봇 리더스 포럼
+True Value: -0.705
+Predicted Without: -0.572
+Predicted With: -0.972
+
+
+Date: 2020-02-12
+Most Influencial News: 인공지능 반도체 시장 GPU보다 IPU가 뜰 것
+True Value: 1.002
+Predicted Without: 0.817
+Predicted With: 0.875
+
+
+Date: 2020-07-30
+Most Influencial News: 한상춘의 world View 코로나로 궤도이탈 시장경제는 복원될 수 있을까
+True Value: 0.000
+Predicted Without: 0.803
+Predicted With: 0.005
+
+
+Date: 2020-09-07
+Most Influencial News: 세계 1위 크롬북 에이서 꿈틀대는 한국시장 잡을 것 인터뷰
+True Value: 1.619
+Predicted Without: -0.611
+Predicted With: 1.357
+
+
+Date: 2020-09-15
+Most Influencial News: “AI반도체 시장 52조로 팽창 한국 10년내 美中 추월할 것”
+True Value: 0.993
+Predicted Without: 1.050
+Predicted With: 1.078
+
+
+Date: 2020-11-04
+Most Influencial News: 아이폰12 알뜰폰 시장 판 흔들까
+True Value: -0.510
+Predicted Without: -1.145
+Predicted With: -0.377
+
+
+Date: 2020-11-09
+Most Influencial News: CEO 위니아전자 북·중미시장개척 앞장 삼성·LG와 가전3강 체제 구축할것
+True Value: 0.166
+Predicted Without: -0.654
+Predicted With: -0.268
+
+
+Date: 2020-11-23
+Most Influencial News: 고급품 시장선 더 강한 삼성 파운드리 내년 시장 점유율 40
+True Value: 4.328
+Predicted Without: 2.620
+Predicted With: 4.455
+
+
+Date: 2020-12-09
+Most Influencial News: 내년 코스피 3200 간다 JP모간 한국 시장 전망 보고서
+True Value: 3.068
+Predicted Without: 2.173
+Predicted With: 3.274
+
+
+Date: 2021-01-20
+Most Influencial News: 세계시장 급변하는데 삼성은 방향타 잃어
+True Value: 0.230
+Predicted Without: -2.338
+Predicted With: 0.031
+
+
+Date: 2021-02-09
+Most Influencial News: 재택·온라인 교육 확산 크롬북 시장 급성장
+True Value: -0.361
+Predicted Without: -0.329
+Predicted With: -0.596
+
+
+Date: 2021-06-15
+Most Influencial News: 글로벌 XR시장 5년내 10배 커져 대중화 급물살
+True Value: 0.497
+Predicted Without: 0.635
+Predicted With: 0.438
+
+
+Date: 2021-07-14
+Most Influencial News: 메모리 절대강자 삼성전자 비메모리 영토 확장 車이미지센터 시장진출
+True Value: -0.376
+Predicted Without: -0.279
+Predicted With: -0.556
+
+
+Date: 2021-10-19
+Most Influencial News: 토종 OTT 티빙 내년 日·대만시장 본격 진출 1년만에 유료가입자 3 5배 증가
+True Value: 0.570
+Predicted Without: -1.074
+Predicted With: 0.478
+
+
+Date: 2021-10-21
+Most Influencial News: 세경하이테크 美·日 폰케이스 시장에 깃발 꽂는다
+True Value: -0.142
+Predicted Without: 1.095
+Predicted With: -0.247
+
+
+Date: 2022-02-25
+Most Influencial News: 대응단계 상향 현지상황 실시간 대응 러 우크라 침공 금융시장 강타
+True Value: 0.559
+Predicted Without: 0.521
+Predicted With: 0.504
+
+
+Date: 2022-05-20
+Most Influencial News: 긴축 에 쪼그라드는 코스피 시총 톱10 올 평균 15 하락 금융시장 덮친 S공포
+True Value: 0.741
+Predicted Without: 0.731
+Predicted With: 0.796
+
+
+Date: 2022-06-17
+Most Influencial News: 가전시장 인플레 한파 패널 재고 쌓인다
+True Value: -1.806
+Predicted Without: -2.237
+Predicted With: -1.779
+
+
+Date: 2022-08-22
+Most Influencial News: PEF가 굴리는 돈만 116조 바디프랜드·쌍용차 주인도 그들 김기석의 자본시장 산책
+True Value: -1.478
+Predicted Without: -0.769
+Predicted With: -1.336
+
+
+Date: 2022-09-21
+Most Influencial News: 파두·아우토크립트·갤럭시코프 유망 기술기업 IPO 시장 몰려온다
+True Value: -0.896
+Predicted Without: -0.449
+Predicted With: -0.830
+
+
+Date: 2022-10-17
+Most Influencial News: 시장 따라 테마 변신 ETF 42개 기업에 액티브 투자
+True Value: 0.533
+Predicted Without: 0.544
+Predicted With: 0.567
+
+
+Date: 2022-11-22
+Most Influencial News: 한국은 뛰어난 혁신 국가 스웨덴 스타트업들 韓시장 진출 희망 북유럽 리포트
+True Value: -1.303
+Predicted Without: -0.914
+Predicted With: -1.315
+
+
+Date: 2023-01-06
+Most Influencial News: LCD 모니터 시장도 내리막 업계 OLED 전환 빨라진다
+True Value: 1.375
+Predicted Without: 1.064
+Predicted With: 1.476
+
+
+Date: 2023-02-02
+Most Influencial News: 印尼 법률시장 잡아라 김앤장도 진출
+True Value: 2.751
+Predicted Without: 1.931
+Predicted With: 2.547
+
+
+Date: 2023-04-04
+Most Influencial News: NIE 경제기사 이렇게 읽어요 애플페이 마침내 한국시장 상륙 카드·단말기 제한에 반쪽 출발
+True Value: 0.792
+Predicted Without: -1.718
+Predicted With: 1.012
+
+
+Date: 2023-04-17
+Most Influencial News: 韓 수출점유율 금융위기후 최저 中·대만에 세계시장 내줬다
+True Value: 0.307
+Predicted Without: 0.644
+Predicted With: 0.411
+
+
+Date: 2023-05-24
+Most Influencial News: 숙면 돕는 갤워치로 헬스시장 잡는다
+True Value: 0.146
+Predicted Without: -1.221
+Predicted With: 0.188
+
+
+Date: 2023-06-13
+Most Influencial News: 펨테크 시장 2030년 130조 종합 여성건강 서비스 제공 목표
+True Value: 1.408
+Predicted Without: 3.230
+Predicted With: 1.549
+
+
+Date: 2023-06-26
+Most Influencial News: 코스피 2800 간다 시장 주도주는 S·A·B·B
+True Value: 1.117
+Predicted Without: 0.804
+Predicted With: 1.019
+
+
+Date: 2023-07-12
+Most Influencial News: 유가증권시장 공시 한화시스템 HJ중공업 덕양산업 등
+True Value: 0.559
+Predicted Without: 0.768
+Predicted With: 0.263
+
+
+Date: 2023-07-19
+Most Influencial News: 갤럭시 언팩 특명 중국 시장 잡아라
+True Value: -0.417
+Predicted Without: 0.634
+Predicted With: -0.325
+
+

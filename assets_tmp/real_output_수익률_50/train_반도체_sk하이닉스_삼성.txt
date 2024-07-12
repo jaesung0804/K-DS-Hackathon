@@ -1,0 +1,84 @@
+Date: 2019-01-04
+Most Influencial News: 코스피 보합권서 맴맴 삼성전자·SK하이닉스하락
+True Value: 1.04
+Predicted Without: -0.789
+Predicted With: -0.299
+
+
+Date: 2019-04-17
+Most Influencial News: 전일 외국인 거래소에서 삼성전자 0 43 KODEX 200TR 0 33 등 순매수
+True Value: -0.249
+Predicted Without: 0.299
+Predicted With: -0.16
+
+
+Date: 2020-03-11
+Most Influencial News: 개미들 하락장에도 매수 행렬 투자금 40 가 삼성전자
+True Value: -4.04
+Predicted Without: -0.684
+Predicted With: -4.302
+
+
+Date: 2020-05-07
+Most Influencial News: 06일 외국인 거래소에서 삼성전자 1 44 KB금융 0 91 등 순매도
+True Value: 0.0
+Predicted Without: -0.233
+Predicted With: -0.231
+
+
+Date: 2020-07-21
+Most Influencial News: 외국인 경기민감주로 이동 네이버 팔고 삼성전자 샀다
+True Value: 2.311
+Predicted Without: 0.261
+Predicted With: 0.11
+
+
+Date: 2021-05-31
+Most Influencial News: 지난 한 달간 공매도 1위 삼성전자 2·3위는 HMM·LG화학
+True Value: 1.6
+Predicted Without: 0.306
+Predicted With: 0.604
+
+
+Date: 2021-09-03
+Most Influencial News: 코스피 기관·외국인 매도에 3175선까지 밀려 삼성SDI 4 7 하락
+True Value: 0.469
+Predicted Without: 0.225
+Predicted With: -0.151
+
+
+Date: 2021-11-24
+Most Influencial News: 코스피 하루만에 3000선 하회 삼성전자 3거래일간 7 상승
+True Value: 0.42
+Predicted Without: 0.648
+Predicted With: 0.128
+
+
+Date: 2022-03-21
+Most Influencial News: 개미들 외국인 떠난 삼성전자 줍줍 한달간 3조원 순매수
+True Value: -1.613
+Predicted Without: -0.082
+Predicted With: -0.228
+
+
+Date: 2022-04-19
+Most Influencial News: 삼성전자 SK하이닉스 모처럼 반등 코스피 약보합 마감
+True Value: 3.211
+Predicted Without: 0.794
+Predicted With: 2.484
+
+
+Date: 2023-02-01
+Most Influencial News: 특징주 어닝쇼크 삼성전자 주가 약세
+True Value: 3.277
+Predicted Without: 0.794
+Predicted With: 2.519
+
+
+Date: 2023-08-31
+Most Influencial News: 이달만 삼성전자 1조 넘게 팔더니 기관 이 종목 은 담았다
+True Value: 2.01
+Predicted Without: 1.0
+Predicted With: 3.047
+
+

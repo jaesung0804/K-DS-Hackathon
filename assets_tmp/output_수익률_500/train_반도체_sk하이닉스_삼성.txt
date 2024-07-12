@@ -1,0 +1,847 @@
+Date: 2018-11-02
+Most Influencial News: 삼성반도체 백혈병 보상 핵심은 최대한 많은 피해자 보상
+True Value: 6.296
+Predicted Without: 2.254
+Predicted With: 7.057
+
+
+Date: 2018-11-19
+Most Influencial News: 30대그룹 올들어 65조원 투자 삼성·SK하이닉스가 거의 절반
+True Value: -0.428
+Predicted Without: 0.417
+Predicted With: -0.295
+
+
+Date: 2018-11-20
+Most Influencial News: 반독점·특허訴까지 견제 당하는 삼성전자
+True Value: -3.295
+Predicted Without: -0.791
+Predicted With: -2.588
+
+
+Date: 2018-11-23
+Most Influencial News: 한경로보뉴스 전일 기관 거래소에서 삼성전자 1 64 SK하이닉스 0 89 등 순매수
+True Value: 0.000
+Predicted Without: -0.396
+Predicted With: -0.150
+
+
+Date: 2018-12-11
+Most Influencial News: 삼성전자 4만원대 위태 주가 바닥인가
+True Value: -0.916
+Predicted Without: 0.867
+Predicted With: -1.678
+
+
+Date: 2019-01-04
+Most Influencial News: 코스피 보합권서 맴맴 삼성전자·SK하이닉스하락
+True Value: 1.040
+Predicted Without: -1.571
+Predicted With: 0.155
+
+
+Date: 2019-01-08
+Most Influencial News: 삼성전자 반도체 매출 85조원 부동의 1위’
+True Value: 0.852
+Predicted Without: 0.804
+Predicted With: 1.349
+
+
+Date: 2019-01-09
+Most Influencial News: 삼성전자 어닝쇼크 에 코스피 하락 2020선 후퇴
+True Value: 7.432
+Predicted Without: 2.905
+Predicted With: 8.179
+
+
+Date: 2019-01-23
+Most Influencial News: 코스피 개인 매물에 하락 배당 증가 기대 삼성물산 2 상승
+True Value: 0.300
+Predicted Without: 0.900
+Predicted With: 0.384
+
+
+Date: 2019-02-07
+Most Influencial News: 설 연휴 中 시안 공장 찾은 이재용 삼성전자 부회장 반도체 성장 확신 中 투자속도 안 늦춘다
+True Value: 1.054
+Predicted Without: 0.707
+Predicted With: 1.033
+
+
+Date: 2019-02-21
+Most Influencial News: 삼성전자·한진칼 예탁원에 전자투표제도 문의
+True Value: 1.321
+Predicted Without: -1.301
+Predicted With: 1.334
+
+
+Date: 2019-03-26
+Most Influencial News: 삼성전자·SK하이닉스 서버용 반도체로 위기 돌파
+True Value: -0.274
+Predicted Without: -0.746
+Predicted With: -0.258
+
+
+Date: 2019-04-17
+Most Influencial News: 전일 외국인 거래소에서 삼성전자 0 43 KODEX 200TR 0 33 등 순매수
+True Value: -0.249
+Predicted Without: 0.444
+Predicted With: -0.101
+
+
+Date: 2019-04-25
+Most Influencial News: 특징주 삼성전자·SK하이닉스 기관·외인 쌍끌이 매도에 주르르
+True Value: 2.166
+Predicted Without: 1.202
+Predicted With: 1.037
+
+
+Date: 2019-06-05
+Most Influencial News: 中 매출 반토막 났는데 美 관세폭탄 까지 삼성·LG도 두 손 들었다
+True Value: 0.000
+Predicted Without: 0.983
+Predicted With: 0.216
+
+
+Date: 2019-06-20
+Most Influencial News: 남성 기업은 옛말 삼성전자 SK하이닉스 女친화 최고 수준
+True Value: 0.149
+Predicted Without: -0.888
+Predicted With: -0.022
+
+
+Date: 2019-07-04
+Most Influencial News: 단독 삼성전자 상반기 성과급 반도체 기본급 100
+True Value: 1.592
+Predicted Without: -1.492
+Predicted With: 1.524
+
+
+Date: 2019-07-19
+Most Influencial News: 삼성 초격차 5세대 모바일D램 세계 첫 양산
+True Value: 2.811
+Predicted Without: 1.702
+Predicted With: 3.321
+
+
+Date: 2019-07-31
+Most Influencial News: 대기업 아빠 출산휴가 늘어난다 삼성·한화 이어 SK도 확대
+True Value: -2.535
+Predicted Without: 1.153
+Predicted With: -2.843
+
+
+Date: 2019-08-06
+Most Influencial News: Hot Line 韓화이트리스트 제외 삼성전자·SK하이닉스 영향 제한적
+True Value: -4.509
+Predicted Without: 2.015
+Predicted With: -4.680
+
+
+Date: 2019-08-13
+Most Influencial News: 12일 외국인 거래소에서 삼성전기 3 02 SK하이닉스 1 64 등 순매수
+True Value: 0.000
+Predicted Without: -1.008
+Predicted With: 0.485
+
+
+Date: 2019-09-02
+Most Influencial News: 8월 외국인 韓주식 2 6조원 순매도 절반은 삼성전자
+True Value: 0.258
+Predicted Without: 0.459
+Predicted With: 0.353
+
+
+Date: 2019-10-30
+Most Influencial News: 삼성전자·SK하이닉스 실적부진에 경기남부 지자체 재정 비상
+True Value: -1.807
+Predicted Without: -1.210
+Predicted With: -1.973
+
+
+Date: 2019-11-11
+Most Influencial News: 삼성 68조 늘고 롯데 5조 줄고 10대그룹 시가총액 희비
+True Value: -1.215
+Predicted Without: -0.693
+Predicted With: -0.715
+
+
+Date: 2019-11-22
+Most Influencial News: 삼성 올 벌써 15조 R amp;D에 썼는데 세액공제는 0∼2 뿐
+True Value: 0.989
+Predicted Without: -1.382
+Predicted With: 0.621
+
+
+Date: 2020-01-20
+Most Influencial News: 삼성전자 시스템반도체·카메라모듈 수요 확대 등
+True Value: 0.909
+Predicted Without: 0.473
+Predicted With: 0.219
+
+
+Date: 2020-01-23
+Most Influencial News: 20년 연속 영업익 1兆 이상 국내기업은 삼성전자·포스코 2곳뿐
+True Value: -2.277
+Predicted Without: -1.363
+Predicted With: -2.665
+
+
+Date: 2020-02-12
+Most Influencial News: 공포에 산다 믿을 건 삼성전자·하이닉스 뿐
+True Value: 0.200
+Predicted Without: -1.794
+Predicted With: -0.913
+
+
+Date: 2020-03-20
+Most Influencial News: 현대·기아차 美·유럽공장 셧다운 삼성·SK는 유럽 물류망 끊길 위기
+True Value: 8.406
+Predicted Without: 3.971
+Predicted With: 7.973
+
+
+Date: 2020-03-25
+Most Influencial News: 외국인 돌아오나 2주 연속 팔던 삼성전자 다시 샀다 종합
+True Value: 7.370
+Predicted Without: 2.365
+Predicted With: 8.127
+
+
+Date: 2020-05-07
+Most Influencial News: 06일 외국인 거래소에서 삼성전자 1 44 KB금융 0 91 등 순매도
+True Value: 0.000
+Predicted Without: -0.491
+Predicted With: -0.081
+
+
+Date: 2020-05-08
+Most Influencial News: 개미씨 나 너무 믿지마 짝사랑 응답없는 삼성전자
+True Value: 3.155
+Predicted Without: 3.199
+Predicted With: 2.955
+
+
+Date: 2020-05-18
+Most Influencial News: 美의 화웨이 고사 작전 삼성·하이닉스도 초비상
+True Value: -0.977
+Predicted Without: -0.549
+Predicted With: -0.675
+
+
+Date: 2020-06-03
+Most Influencial News: 마켓인사이트 클로징 딜 매년 10건’ 삼성증권 M amp;A팀 “거래는 자문사가 포기할 때 깨지는 것”
+True Value: 6.483
+Predicted Without: 2.841
+Predicted With: 6.411
+
+
+Date: 2020-06-15
+Most Influencial News: 삼성바이오로직스·카카오 더 간다 반도체 수요도 증가할 것
+True Value: -3.756
+Predicted Without: -1.834
+Predicted With: -2.993
+
+
+Date: 2020-07-01
+Most Influencial News: 특징주 삼성전자·SK하이닉스 마이크론 호실적에 강세
+True Value: 0.235
+Predicted Without: 0.530
+Predicted With: -0.116
+
+
+Date: 2020-07-15
+Most Influencial News: 14일 기관 거래소에서 삼성전자 0 75 NAVER 3 37 등 순매도
+True Value: 0.121
+Predicted Without: -1.552
+Predicted With: -0.715
+
+
+Date: 2020-07-21
+Most Influencial News: 외국인 경기민감주로 이동 네이버 팔고 삼성전자 샀다
+True Value: 2.311
+Predicted Without: 1.827
+Predicted With: 2.519
+
+
+Date: 2020-07-31
+Most Influencial News: 외국인 덕에 장중 2280 터치 그런데 삼성전자만 산다
+True Value: -2.931
+Predicted Without: -1.122
+Predicted With: -2.480
+
+
+Date: 2020-08-19
+Most Influencial News: 美 화웨이 계열사 38곳 추가제재 삼성·하이닉스 긴장
+True Value: -3.969
+Predicted Without: -1.300
+Predicted With: -3.018
+
+
+Date: 2020-08-28
+Most Influencial News: D램 바닥 찍었다 삼성전자·하이닉스 반등 신호
+True Value: -1.643
+Predicted Without: -1.188
+Predicted With: -0.995
+
+
+Date: 2020-08-31
+Most Influencial News: “난 삼성전자만 팬다” 한달동안 팔아제낀 연기금의 속내는
+True Value: -3.470
+Predicted Without: -1.677
+Predicted With: -2.221
+
+
+Date: 2020-09-07
+Most Influencial News: SK·삼성물산 지배구조 개편 수혜株의 시간이 온다
+True Value: -0.381
+Predicted Without: 0.562
+Predicted With: -0.213
+
+
+Date: 2020-09-11
+Most Influencial News: 화웨이 제재 D 5 ① 삼성전자·SK하이닉스 등 국내 기업에 불똥
+True Value: 2.350
+Predicted Without: 1.526
+Predicted With: 2.297
+
+
+Date: 2020-11-02
+Most Influencial News: 재판 대응에 해외출장까지 쉴틈없는 일정 내달초 삼성 사장단 인사도 주목 뉴 삼성 이재용 시대
+True Value: -0.375
+Predicted Without: -0.754
+Predicted With: -0.113
+
+
+Date: 2020-11-17
+Most Influencial News: 삼성전자·SK하이닉스 코로나에도 R amp;D에 투자 역대 최대
+True Value: 0.102
+Predicted Without: 1.765
+Predicted With: 0.044
+
+
+Date: 2020-12-07
+Most Influencial News: 삼성전자 다음주 글로벌 전략회의 위기 속 기회 모색
+True Value: 2.609
+Predicted Without: 0.832
+Predicted With: 2.257
+
+
+Date: 2021-01-18
+Most Influencial News: UN인권보호지침 준수 평가서 삼성전자 199개사 중 50위
+True Value: 1.961
+Predicted Without: 0.621
+Predicted With: 2.046
+
+
+Date: 2021-01-19
+Most Influencial News: 패닉빠진 삼성 투자 중단 위기 성장시계 멈출 듯
+True Value: 0.385
+Predicted Without: 0.488
+Predicted With: 0.102
+
+
+Date: 2021-01-28
+Most Influencial News: 꺾이지 않는 개미들 한달만에 삼성전자 10조 샀다 떨어지면 더 산다
+True Value: -4.280
+Predicted Without: -1.718
+Predicted With: -3.574
+
+
+Date: 2021-03-10
+Most Influencial News: OLED 특허괴물 솔라스 삼성에 특허 소송 승리
+True Value: -2.564
+Predicted Without: -2.688
+Predicted With: -2.843
+
+
+Date: 2021-03-12
+Most Influencial News: 한국은행 작년 순이익 7조 사상 최대 법인세 2 8조 삼성전자 이어 2위
+True Value: 2.190
+Predicted Without: -2.083
+Predicted With: 3.062
+
+
+Date: 2021-03-16
+Most Influencial News: 게임체인저 EUV 확보 삼성 TSMC에 뒤졌다
+True Value: 2.930
+Predicted Without: 2.153
+Predicted With: 2.915
+
+
+Date: 2021-04-12
+Most Influencial News: 백악관 불려가는 삼성전자 어떤 청구서 받게 될까 황정수의 반도체 이슈 짚어보기
+True Value: -1.786
+Predicted Without: -0.852
+Predicted With: -1.347
+
+
+Date: 2021-04-28
+Most Influencial News: 삼성전자 SK하이닉스 반도체장비 가동 더 빨라진다
+True Value: -3.704
+Predicted Without: -1.561
+Predicted With: -4.012
+
+
+Date: 2021-05-31
+Most Influencial News: TSMC 삼성전자 시가총액 격차 더 커졌다
+True Value: 1.600
+Predicted Without: 0.686
+Predicted With: 1.652
+
+
+Date: 2021-07-06
+Most Influencial News: 단독 삼성전자 SK하이닉스 이어 현대차까지 디지털세 대상되나
+True Value: 1.626
+Predicted Without: 0.551
+Predicted With: 1.365
+
+
+Date: 2021-07-08
+Most Influencial News: 또 선반영 삼성전자 깜짝실적에도 못 웃는 개미들
+True Value: -1.619
+Predicted Without: -0.705
+Predicted With: -1.281
+
+
+Date: 2021-07-22
+Most Influencial News: 삼성 현대차 SK LG 다 누르고 대학생 일하고 싶은 기업 1위 차지한 카카오
+True Value: 2.137
+Predicted Without: 1.899
+Predicted With: 2.337
+
+
+Date: 2021-08-04
+Most Influencial News: 청년취업 지원 삼성전자·포스코 등 청년 교육생 규모 확대
+True Value: 0.833
+Predicted Without: 1.765
+Predicted With: 2.135
+
+
+Date: 2021-08-12
+Most Influencial News: 삼성전자·하이닉스 시총 하루 새 15兆 사라졌다
+True Value: -4.739
+Predicted Without: -2.508
+Predicted With: -3.489
+
+
+Date: 2021-08-20
+Most Influencial News: 올해 코스피 개인 순매수 70조 돌파 절반이 삼성전자
+True Value: 0.000
+Predicted Without: -0.896
+Predicted With: -0.054
+
+
+Date: 2021-08-24
+Most Influencial News: 외국인 매도세 변화 이젠 삼성전자만 때린다
+True Value: 1.942
+Predicted Without: 0.939
+Predicted With: 1.207
+
+
+Date: 2021-08-25
+Most Influencial News: 경총 청년고용 네트워크 출범 1700명 삼성·SK·포스코로
+True Value: -1.429
+Predicted Without: -1.040
+Predicted With: -0.553
+
+
+Date: 2021-08-26
+Most Influencial News: 미국이 아프간서 철수하자 삼성전자 팔아치운다 허란의 경제한끼
+True Value: 0.483
+Predicted Without: 0.662
+Predicted With: 0.868
+
+
+Date: 2021-09-16
+Most Influencial News: 삼성전자 등 20개사 동반성장 최우수 명예기업 등극
+True Value: -3.256
+Predicted Without: -1.712
+Predicted With: -2.783
+
+
+Date: 2021-10-25
+Most Influencial News: 삼천피 지켜낼까 실적발표 삼성전자 말고 이종목 도 주목
+True Value: 1.523
+Predicted Without: 0.599
+Predicted With: 1.115
+
+
+Date: 2021-11-03
+Most Influencial News: 눈치작전 들어간 삼성 하이닉스 TSMC만큼만 미국에 자료 내겠다
+True Value: -1.860
+Predicted Without: -1.284
+Predicted With: -1.544
+
+
+Date: 2021-11-04
+Most Influencial News: 중기부 K팹리스 생산물량 늘려야 삼성·하이닉스도 공감
+True Value: 0.474
+Predicted Without: 1.305
+Predicted With: 0.787
+
+
+Date: 2021-11-09
+Most Influencial News: 영진전문대 올해 졸업자 삼성 LG SK 등 대기업 취업 300명 돌파
+True Value: 1.395
+Predicted Without: 0.972
+Predicted With: 1.637
+
+
+Date: 2021-12-06
+Most Influencial News: 삼성전자·하이닉스 판 개미들 중국 전기차 ETF 샀다
+True Value: 0.424
+Predicted Without: 0.675
+Predicted With: 0.142
+
+
+Date: 2021-12-17
+Most Influencial News: 삼성 등 대기업 9곳 협력기업 임금격차 해소에 6조7천억원 지원
+True Value: -1.613
+Predicted Without: 0.842
+Predicted With: -1.086
+
+
+Date: 2021-12-27
+Most Influencial News: 올해 100조 넘게 산 개인 삼성전자 다음으로 많이 산 주식은
+True Value: -1.562
+Predicted Without: -1.459
+Predicted With: -0.878
+
+
+Date: 2021-12-28
+Most Influencial News: 삼성전자 홍라희 블록딜 나올까 상속세 우려에 주가 눈치보기
+True Value: 1.190
+Predicted Without: 0.904
+Predicted With: 1.103
+
+
+Date: 2022-01-20
+Most Influencial News: 삼성·SK도 줄서는 ASML 작년 최대실적 냈다 순이익 66 상승
+True Value: -1.575
+Predicted Without: -0.763
+Predicted With: -1.789
+
+
+Date: 2022-02-07
+Most Influencial News: 우크라 위기에 삼성·LG전자 불똥 튀나
+True Value: -1.205
+Predicted Without: -0.397
+Predicted With: -0.612
+
+
+Date: 2022-03-08
+Most Influencial News: 코스피 2 가까이 하락 삼성전자 장중 7만전자 무너져
+True Value: -1.255
+Predicted Without: 1.937
+Predicted With: -1.948
+
+
+Date: 2022-03-21
+Most Influencial News: 개미들 외국인 떠난 삼성전자 줍줍 한달간 3조원 순매수
+True Value: -1.613
+Predicted Without: -0.432
+Predicted With: -0.753
+
+
+Date: 2022-04-01
+Most Influencial News: 삼성전자 죽 쓰는데 반도체 장비주만 신났네
+True Value: -1.695
+Predicted Without: 3.086
+Predicted With: -1.565
+
+
+Date: 2022-04-12
+Most Influencial News: 최고 대우 보장한다더니 삼성 연봉 카카오 LG에 따라잡혔다
+True Value: -0.448
+Predicted Without: 1.017
+Predicted With: 0.242
+
+
+Date: 2022-05-04
+Most Influencial News: 이건호 칼럼 삼성은 TSMC를 따라잡을 수 있을까
+True Value: -0.455
+Predicted Without: 2.864
+Predicted With: 0.123
+
+
+Date: 2022-05-18
+Most Influencial News: 삼성·SK하이닉스 캐시카우 서버D램 4년뒤 2배 이상 큰다
+True Value: 0.889
+Predicted Without: 1.552
+Predicted With: 2.098
+
+
+Date: 2022-05-19
+Most Influencial News: 바이든 방한 첫 일정은 삼성전자 글로벌 반도체 전쟁의 단면
+True Value: -2.203
+Predicted Without: 2.392
+Predicted With: -1.404
+
+
+Date: 2022-06-07
+Most Influencial News: 삼성그룹 시총 5개월새 88조원 증발 640조원대 턱걸이
+True Value: -2.804
+Predicted Without: -1.473
+Predicted With: -2.641
+
+
+Date: 2022-06-24
+Most Influencial News: 오늘은 1분만 일하고 퇴근 최소 근무시간 없앤 삼성 반도체
+True Value: 1.552
+Predicted Without: -2.706
+Predicted With: 2.093
+
+
+Date: 2022-07-05
+Most Influencial News: 4거래일 만에 반등한 삼성전자·SK하이닉스
+True Value: 3.816
+Predicted Without: 0.920
+Predicted With: 2.919
+
+
+Date: 2022-07-13
+Most Influencial News: 마이크론 日공장 지진 여파로 가동 중단 삼성 호재일까 정지은의 산업노트
+True Value: 0.750
+Predicted Without: -0.977
+Predicted With: -0.088
+
+
+Date: 2022-07-18
+Most Influencial News: SK하이닉스 초임 5300만원 삼성전자 앞질렀다 반도체 임금 치킨게임 김경민의 적시타
+True Value: 2.330
+Predicted Without: 2.333
+Predicted With: 2.634
+
+
+Date: 2022-07-20
+Most Influencial News: 반도체 학과 정원 5702명 확대 삼성·SK 전문가도 교수로 채용
+True Value: 2.000
+Predicted Without: -1.175
+Predicted With: 1.375
+
+
+Date: 2022-07-27
+Most Influencial News: 마켓프로 Today s Pick 오스템임플란트 삼성카드 비에이치
+True Value: -0.498
+Predicted Without: -1.564
+Predicted With: -0.424
+
+
+Date: 2022-08-04
+Most Influencial News: 회식 자제가 사내 복지 삼성 나서자 MZ직장인 반색
+True Value: 0.000
+Predicted Without: -1.149
+Predicted With: -0.047
+
+
+Date: 2022-09-07
+Most Influencial News: 올해 상반기 배당금 26 증가 삼성가 4명이 상위 1 4위
+True Value: -1.525
+Predicted Without: 1.173
+Predicted With: -0.892
+
+
+Date: 2022-09-15
+Most Influencial News: 삼성전자·SK하이닉스 또 털썩
+True Value: -1.075
+Predicted Without: 1.289
+Predicted With: -2.196
+
+
+Date: 2022-09-21
+Most Influencial News: 반도체 겨울이 온다 삼성·SK하이닉스 실적 전망 서릿발
+True Value: 0.000
+Predicted Without: -0.309
+Predicted With: -0.120
+
+
+Date: 2022-09-22
+Most Influencial News: 동반위 삼성전자 SK텔레콤 등 24개사 최우수 명예기업 선정
+True Value: -2.273
+Predicted Without: 1.683
+Predicted With: -2.559
+
+
+Date: 2022-10-26
+Most Influencial News: “변동장 대응 삼성운용 국내 배당주 ETF 2종 분배금 분기 지급식 으로 전환
+True Value: 0.428
+Predicted Without: -0.859
+Predicted With: 0.858
+
+
+Date: 2022-10-31
+Most Influencial News: 인위적 감산 없다는 삼성전자 반도체 치킨게임 재연되나
+True Value: -0.839
+Predicted Without: -0.458
+Predicted With: -0.483
+
+
+Date: 2022-11-18
+Most Influencial News: 韓·네덜란드 정상 또 뭉쳤다 삼성·SK·ASML 총수도 참석
+True Value: 0.798
+Predicted Without: -1.485
+Predicted With: 1.210
+
+
+Date: 2022-11-30
+Most Influencial News: 특징주 삼성전자 장초반 6만원 밑돌다 소폭 반등 마감 종합
+True Value: 1.553
+Predicted Without: 0.601
+Predicted With: 1.109
+
+
+Date: 2022-12-27
+Most Influencial News: 삼전 주가 흔든다는 삼성생명법’ 온라인선 부정적 반응 속출
+True Value: 0.000
+Predicted Without: -0.646
+Predicted With: -0.022
+
+
+Date: 2023-02-01
+Most Influencial News: 특징주 어닝쇼크 삼성전자 주가 약세
+True Value: 3.277
+Predicted Without: 1.799
+Predicted With: 3.105
+
+
+Date: 2023-02-03
+Most Influencial News: 중국 내 반도체 사업 불확실성 확대 삼성·SK하이닉스 거점 다변화 고심 위기의 K반도체 上
+True Value: -1.285
+Predicted Without: 1.115
+Predicted With: -0.709
+
+
+Date: 2023-03-03
+Most Influencial News: 30년 글로벌 반도체 분업체제 깨졌다 외통수 몰린 삼성·SK
+True Value: -0.908
+Predicted Without: 0.866
+Predicted With: -0.998
+
+
+Date: 2023-03-06
+Most Influencial News: 삼성 세계 반도체 매출 1위 복귀 파운드리 포함땐 TSMC가 앞서
+True Value: 2.749
+Predicted Without: -0.983
+Predicted With: 2.623
+
+
+Date: 2023-03-13
+Most Influencial News: 삼성·SK 반도체 고졸인력 입도선매
+True Value: 1.200
+Predicted Without: 0.210
+Predicted With: 0.223
+
+
+Date: 2023-03-20
+Most Influencial News: 땅 보러 왔어요 삼성 오는 용인 남사읍 뜨겁네
+True Value: -0.357
+Predicted Without: -0.666
+Predicted With: -0.425
+
+
+Date: 2023-04-12
+Most Influencial News: 삼성 현대차 투자하면 통크게 지원 방한 포르투갈 총리 韓기업 유치 세일즈 단독 인터뷰
+True Value: -1.634
+Predicted Without: -1.174
+Predicted With: -1.685
+
+
+Date: 2023-05-02
+Most Influencial News: 삼성까지 감산 카드 꺼냈다 반도체 진짜 하반기 살아날까
+True Value: 0.782
+Predicted Without: 0.195
+Predicted With: 0.089
+
+
+Date: 2023-05-16
+Most Influencial News: 산업계 가뜩이나 힘든데 비용부담 급증 삼성전자 전기요금 年1645억원 더 내야 전기·가스요금 올랐다
+True Value: 4.630
+Predicted Without: 1.315
+Predicted With: 5.398
+
+
+Date: 2023-05-17
+Most Influencial News: 외국인 삼성전자·SK하이닉스 줍줍 코스피 강세 출발
+True Value: 1.659
+Predicted Without: -1.116
+Predicted With: 1.515
+
+
+Date: 2023-05-31
+Most Influencial News: “땡큐 엔비디아” 삼성전자·SK하이닉스 나란히 신고가
+True Value: -1.541
+Predicted Without: -1.805
+Predicted With: -2.391
+
+
+Date: 2023-06-23
+Most Influencial News: “그래도 삼성전자는 산다” 떠나는 외국인들 예외는 있었다
+True Value: -0.351
+Predicted Without: 1.151
+Predicted With: -0.176
+
+
+Date: 2023-07-03
+Most Influencial News: 7월 코스피는 박스피 유력 삼성전자 2Q 실적 발표 주목
+True Value: 2.083
+Predicted Without: 0.817
+Predicted With: 2.080
+
+
+Date: 2023-07-07
+Most Influencial News: 경계현의 자신감 삼성 HBM 시장점유율 50 이상
+True Value: -1.757
+Predicted Without: -1.268
+Predicted With: -1.168
+
+
+Date: 2023-07-10
+Most Influencial News: 외국인 바이 코리아 정점 지났나 삼성전자 빼면 순매도 전환
+True Value: -1.342
+Predicted Without: -0.445
+Predicted With: -1.077
+
+
+Date: 2023-07-18
+Most Influencial News: 與김학용 삼성·SK 반도체 협력업체 15곳 6000억 투자계획 유치
+True Value: 0.512
+Predicted Without: 0.908
+Predicted With: 0.548
+
+
+Date: 2023-08-10
+Most Influencial News: 삼성·SK·LG 공장 견학 제공 롯데 고척돔 야구 관람 초청
+True Value: 0.000
+Predicted Without: 1.637
+Predicted With: -0.041
+
+
+Date: 2023-08-31
+Most Influencial News: 이달만 삼성전자 1조 넘게 팔더니 기관 이 종목 은 담았다
+True Value: 2.010
+Predicted Without: 0.587
+Predicted With: 2.113
+
+
+Date: 2023-09-20
+Most Influencial News: KODEX반도체 지수 정기변경으로 삼성전자’ 편입
+True Value: -1.007
+Predicted Without: -2.151
+Predicted With: -0.606
+
+
+Date: 2023-10-04
+Most Influencial News: 인텔·TSMC·삼성 재고와의 전쟁 벌이는 글로벌 반도체 기업들
+True Value: 0.610
+Predicted Without: 0.588
+Predicted With: 0.301
+
+
+Date: 2023-10-12
+Most Influencial News: 삼성전자·SK하이닉스 폐기물 재활용률 사실상 과대 산출
+True Value: 4.195
+Predicted Without: 1.267
+Predicted With: 4.185
+
+

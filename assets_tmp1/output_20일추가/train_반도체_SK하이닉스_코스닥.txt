@@ -1,0 +1,189 @@
+Date: 2019-01-14
+Most Influencial News: 코스닥 개별종목에 승부 거는 개미
+True Value: -4.608
+Predicted Without: -1.885
+Predicted With: -4.042
+
+
+Date: 2019-03-14
+Most Influencial News: 코스피 기관 매도에 하락 출발 코스닥은 상승
+True Value: 0.749
+Predicted Without: -0.319
+Predicted With: 0.126
+
+
+Date: 2019-06-05
+Most Influencial News: 코스피 하락 출발 후 2 060대 혼조세 코스닥은 소폭 상승 종합
+True Value: 0.000
+Predicted Without: 0.580
+Predicted With: 0.185
+
+
+Date: 2019-06-28
+Most Influencial News: 코스피 반도체 기대에 2 130선 회복 코스닥은 700선 내줘 종합
+True Value: -0.997
+Predicted Without: -0.883
+Predicted With: -1.093
+
+
+Date: 2019-08-27
+Most Influencial News: 코스피 G2발 악재에 1 910대 후퇴 코스닥은 4 대 급락 종합
+True Value: 1.671
+Predicted Without: 1.107
+Predicted With: 1.322
+
+
+Date: 2019-09-11
+Most Influencial News: 코스닥 기업공시 10일 에이디테크놀로지 등
+True Value: -0.602
+Predicted Without: -0.495
+Predicted With: -0.894
+
+
+Date: 2019-09-25
+Most Influencial News: 코스닥 공시 오션브릿지
+True Value: -1.799
+Predicted Without: -0.693
+Predicted With: -1.472
+
+
+Date: 2020-06-03
+Most Influencial News: 단독 라온테크 기술성 평가 돌입 코스닥 이전 본격화
+True Value: 6.483
+Predicted Without: 1.992
+Predicted With: 6.385
+
+
+Date: 2020-08-19
+Most Influencial News: fn오전시황 코스피·코스닥 쌍둥이 하락세
+True Value: -3.969
+Predicted Without: -0.847
+Predicted With: -3.822
+
+
+Date: 2020-09-23
+Most Influencial News: 개인 매도 에 코스피1 ·코스닥2 하락
+True Value: 2.829
+Predicted Without: 1.212
+Predicted With: 2.841
+
+
+Date: 2020-11-27
+Most Influencial News: 마켓인사이트 PCB 전문회사 티엘비 다음달 코스닥 입성 4차 산업혁명 선도
+True Value: -0.604
+Predicted Without: -0.644
+Predicted With: -0.883
+
+
+Date: 2021-04-29
+Most Influencial News: 코스피 1 하락해 3100 마감 코스닥은 990선으로 밀려나
+True Value: 0.000
+Predicted Without: 1.487
+Predicted With: -0.096
+
+
+Date: 2021-12-10
+Most Influencial News: fn마감시황 기관 매수에 코스피 3020선으로 코스닥도 상승
+True Value: -2.429
+Predicted Without: -1.016
+Predicted With: -2.336
+
+
+Date: 2022-02-11
+Most Influencial News: 코스피 개인·외국인 사자 에 상승 코스닥은 소폭 하락
+True Value: 1.931
+Predicted Without: 0.989
+Predicted With: 2.188
+
+
+Date: 2022-06-21
+Most Influencial News: 6600억어치 팔아치운 외국인 코스피·코스닥 연저점 경신
+True Value: 0.741
+Predicted Without: 1.317
+Predicted With: 0.506
+
+
+Date: 2022-06-28
+Most Influencial News: 코스피 1 4 상승하며 2400선 회복 코스닥도 2 대 상승
+True Value: 0.316
+Predicted Without: -1.538
+Predicted With: 0.310
+
+
+Date: 2022-08-24
+Most Influencial News: 美 긴축 우려에 코스피 2 430대로 하락 코스닥 780대로 후퇴 종합
+True Value: -0.427
+Predicted Without: -1.658
+Predicted With: -0.699
+
+
+Date: 2022-09-22
+Most Influencial News: 코스피 FOMC 앞두고 불안심리에 흔들 코스닥도 하락
+True Value: -2.273
+Predicted Without: -1.310
+Predicted With: -2.022
+
+
+Date: 2022-09-23
+Most Influencial News: 큐알티 11월 코스닥 상장 시가총액 2500억원 도전
+True Value: -2.907
+Predicted Without: 2.009
+Predicted With: -2.910
+
+
+Date: 2022-10-25
+Most Influencial News: 기관 매수세에 코스피 2250선 코앞 코스닥도 2 넘는 강세
+True Value: 1.852
+Predicted Without: -0.886
+Predicted With: 1.718
+
+
+Date: 2023-02-22
+Most Influencial News: 코스피 외국인·기관 팔자 에 하락 코스닥도 하락
+True Value: -2.303
+Predicted Without: -0.949
+Predicted With: -2.296
+
+
+Date: 2023-05-18
+Most Influencial News: 코스피·코스닥 외인·기관 쌍끌이 매수에 상승 2차전지·인터넷 강세
+True Value: 1.850
+Predicted Without: 1.544
+Predicted With: 1.824
+
+
+Date: 2023-07-05
+Most Influencial News: 외인 기관 매도에도 코스피·코스닥 동반 상승 에코프로비엠 강세
+True Value: -1.018
+Predicted Without: 1.100
+Predicted With: -1.204
+
+
+Date: 2023-07-11
+Most Influencial News: 코스피 장 초반 2530대 강보합 코스닥은 약보합
+True Value: 2.811
+Predicted Without: 1.159
+Predicted With: 2.361
+
+
+Date: 2023-07-21
+Most Influencial News: 에코프로 없어도 괜찮아 코스닥 또 최고가
+True Value: -1.540
+Predicted Without: -1.193
+Predicted With: -1.839
+
+
+Date: 2023-08-02
+Most Influencial News: 코스피 모처럼 코스닥 대비 분발 소외됐던 대형주들 쑥
+True Value: -4.476
+Predicted Without: -1.721
+Predicted With: -4.281
+
+
+Date: 2023-09-27
+Most Influencial News: 코스피 기관 매도세에 하락 출발 코스닥은 0 5 상승
+True Value: -0.261
+Predicted Without: -0.472
+Predicted With: -0.057
+
+

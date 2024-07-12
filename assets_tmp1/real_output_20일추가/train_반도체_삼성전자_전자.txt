@@ -1,0 +1,21 @@
+Date: 2019-04-01
+Most Influencial News: 전기·전자 부품株 공략해야 올해 승부株는 파워로직스 작년 이어 최대 실적 기대
+True Value: 0.896
+Predicted Without: 1.164
+Predicted With: 1.221
+
+
+Date: 2020-03-23
+Most Influencial News: 현대車 230 상승 삼성전자 90 상승 반등때도 대장株
+True Value: -6.388
+Predicted Without: -3.196
+Predicted With: -6.044
+
+
+Date: 2020-07-21
+Most Influencial News: 외국인 경기민감주로 이동 네이버 팔고 삼성전자 샀다
+True Value: 2.03
+Predicted Without: 0.933
+Predicted With: 1.992
+
+

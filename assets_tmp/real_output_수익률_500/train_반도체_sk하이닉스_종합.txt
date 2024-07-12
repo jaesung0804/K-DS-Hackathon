@@ -1,0 +1,105 @@
+Date: 2018-11-15
+Most Influencial News: 코스피 국제유가 급락 여파로 혼조세 2 070선 등락 종합
+True Value: 1.989
+Predicted Without: 1.573
+Predicted With: 1.295
+
+
+Date: 2019-08-20
+Most Influencial News: 상반기 코스피 상장사 순익 43 줄어 9년 만의 최대 감소 종합
+True Value: 1.731
+Predicted Without: 2.744
+Predicted With: 1.796
+
+
+Date: 2019-08-23
+Most Influencial News: 코스피 상승 출발 후 1 960대 보합권 등락 종합
+True Value: 0.813
+Predicted Without: -0.802
+Predicted With: 1.123
+
+
+Date: 2019-10-02
+Most Influencial News: 코스피 기관 매수에 2 070선 회복 코스닥은 1 7 상승 종합2보
+True Value: -3.049
+Predicted Without: -1.273
+Predicted With: -2.488
+
+
+Date: 2020-03-27
+Most Influencial News: 코스피 하락 출발했다 반등 장중 1 730선 회복 종합
+True Value: 3.222
+Predicted Without: 1.831
+Predicted With: 3.648
+
+
+Date: 2021-01-14
+Most Influencial News: 코스피 사흘만에 0 7 반등 개인·외인 순매수 종합
+True Value: -1.88
+Predicted Without: -1.501
+Predicted With: -2.073
+
+
+Date: 2021-05-18
+Most Influencial News: 코스피 0 6 하락 마감 3 130대로 뒷걸음 종합
+True Value: 2.979
+Predicted Without: 1.244
+Predicted With: 3.221
+
+
+Date: 2021-11-18
+Most Influencial News: 코스피 장 초반 2 970대로 후퇴 기관 순매도 종합
+True Value: -0.452
+Predicted Without: 1.158
+Predicted With: -0.223
+
+
+Date: 2022-05-10
+Most Influencial News: 코스피 외인·기관 매도에 약세 출발 2 630대 등락 종합
+True Value: 2.326
+Predicted Without: 0.586
+Predicted With: 1.54
+
+
+Date: 2022-06-17
+Most Influencial News: 코스피 2 450대 강보합 마감 FOMC 불확실성 해소에도 상승 제한 종합
+True Value: -1.027
+Predicted Without: -0.695
+Predicted With: -0.905
+
+
+Date: 2022-07-19
+Most Influencial News: 코스피 장 초반 외인 매수에 1 대 상승 2 360선 터치 종합
+True Value: -0.99
+Predicted Without: 0.415
+Predicted With: -0.307
+
+
+Date: 2022-11-02
+Most Influencial News: 외인·기관 쌍끌이 매수에 코스피 1 8 오른 2 330대 마감 종합
+True Value: 0.715
+Predicted Without: -0.815
+Predicted With: 0.78
+
+
+Date: 2022-11-23
+Most Influencial News: 코스피 보합권 등락 관망세 속 기관 매수세 종합
+True Value: 0.0
+Predicted Without: -0.307
+Predicted With: 0.13
+
+
+Date: 2022-11-30
+Most Influencial News: 특징주 삼성전자 장초반 6만원 밑돌다 소폭 반등 마감 종합
+True Value: 1.553
+Predicted Without: 0.601
+Predicted With: 1.109
+
+
+Date: 2022-12-06
+Most Influencial News: 코스피 장 초반 2 430대 보합권 등락 개인·기관 매수 종합
+True Value: 0.0
+Predicted Without: -1.148
+Predicted With: 0.306
+
+

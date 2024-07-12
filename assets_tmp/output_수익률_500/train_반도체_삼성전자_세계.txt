@@ -1,0 +1,231 @@
+Date: 2018-11-20
+Most Influencial News: 상장사 내년 이익전망치 하락률 전세계 주요국 중 가장 크다
+True Value: -1.947
+Predicted Without: 1.238
+Predicted With: -1.321
+
+
+Date: 2018-12-21
+Most Influencial News: 세계 최초 후면 쿼드 카메라폰 갤 A9 국내 출시
+True Value: 0.000
+Predicted Without: -0.470
+Predicted With: -0.049
+
+
+Date: 2019-04-05
+Most Influencial News: 아이돌과 데이트 웹툰 장면 속으로 가상세계가 생생한 현실로
+True Value: -0.213
+Predicted Without: 0.701
+Predicted With: -0.276
+
+
+Date: 2019-04-19
+Most Influencial News: 팜느엇브엉 베트남 빈그룹 회장 베트남의 삼성 이끄는 세계 200대 부자
+True Value: -0.658
+Predicted Without: -0.424
+Predicted With: -0.756
+
+
+Date: 2019-05-30
+Most Influencial News: 세계 최초 5G 융합 자율주행차 내달 공개
+True Value: 1.794
+Predicted Without: 0.556
+Predicted With: 1.819
+
+
+Date: 2019-06-20
+Most Influencial News: 데이터규제 세계최악 한국서 구글처럼 일할 수 있나
+True Value: 0.331
+Predicted Without: 2.335
+Predicted With: 0.795
+
+
+Date: 2019-09-25
+Most Influencial News: 삼성 지원 연구들 세계 학술지 잇따라 게재
+True Value: -1.212
+Predicted Without: -1.635
+Predicted With: -1.048
+
+
+Date: 2019-09-26
+Most Influencial News: 사설 세계지식포럼 20년 인류 번영을 위한 통찰력을 기대한다
+True Value: 0.613
+Predicted Without: 0.828
+Predicted With: 0.518
+
+
+Date: 2019-11-05
+Most Influencial News: 악재 가득한 세계 경제 품질경영만이 살 길
+True Value: 0.765
+Predicted Without: 1.089
+Predicted With: 0.643
+
+
+Date: 2020-01-03
+Most Influencial News: 삼성 세계최초 3나노 미세공정 개발
+True Value: 0.543
+Predicted Without: 1.079
+Predicted With: 0.240
+
+
+Date: 2020-01-30
+Most Influencial News: 세계 최초 5G 지원 갤럭시 탭 S6 5G 출시
+True Value: -3.215
+Predicted Without: 0.989
+Predicted With: -2.965
+
+
+Date: 2020-02-05
+Most Influencial News: 골프IT 거리측정기·전세계 코스맵 한국 골프 IT 美서 돌풍
+True Value: 1.019
+Predicted Without: 0.758
+Predicted With: 0.961
+
+
+Date: 2020-03-13
+Most Influencial News: 삼성TV 세계 최대 북미시장서 독주
+True Value: -1.673
+Predicted Without: -1.115
+Predicted With: -1.302
+
+
+Date: 2020-06-01
+Most Influencial News: 레이 세계 유일 디지털 치과 솔루션 해외서 매출 94 주가도 쑥쑥
+True Value: 0.986
+Predicted Without: 1.410
+Predicted With: 0.940
+
+
+Date: 2020-06-22
+Most Influencial News: 삼성 과외 두 달 방호복 호흡기로 세계를 살린 中企
+True Value: -1.701
+Predicted Without: -1.111
+Predicted With: -1.463
+
+
+Date: 2020-07-03
+Most Influencial News: 무케시 암바니 릴라이언스 인더스트리 회장 세계 10대 부호 중 유일한 아시아人
+True Value: 1.323
+Predicted Without: 0.781
+Predicted With: 1.053
+
+
+Date: 2020-07-07
+Most Influencial News: 전세계 모든 법률·규제 담은 디지털 함무라비 법전 2년 뒤면 나온다 인터뷰
+True Value: -2.909
+Predicted Without: -1.043
+Predicted With: -2.960
+
+
+Date: 2020-12-21
+Most Influencial News: 전고체 배터리 누가 먼저 세계전쟁 시작
+True Value: 0.000
+Predicted Without: 1.456
+Predicted With: 0.241
+
+
+Date: 2021-01-14
+Most Influencial News: 삼성전기서 분사한 솔루엠 ESL 세계3위 전자부품社 코스피 노크
+True Value: 0.000
+Predicted Without: -1.561
+Predicted With: 0.680
+
+
+Date: 2021-01-26
+Most Influencial News: 車반도체 생산 좀 늘려줘 전세계가 대만에 SOS
+True Value: -3.020
+Predicted Without: -1.546
+Predicted With: -3.000
+
+
+Date: 2021-08-25
+Most Influencial News: 삼성 LG 대단하네 전세계서 팔린 TV 절반 차지 3위 소니 9 불과
+True Value: 0.132
+Predicted Without: -1.635
+Predicted With: 0.662
+
+
+Date: 2021-08-26
+Most Influencial News: 삼성 지원 반도체연구 세계적 학술지에 게재
+True Value: -1.453
+Predicted Without: -1.438
+Predicted With: -1.077
+
+
+Date: 2022-02-28
+Most Influencial News: 이화다이아몬드 다이아몬드공구 세계 1위 할 것
+True Value: 0.278
+Predicted Without: 0.884
+Predicted With: 0.402
+
+
+Date: 2022-03-17
+Most Influencial News: 美 제재 이겨낸 中 내수의 힘 화웨이 전세계 통신장비 1위
+True Value: 1.136
+Predicted Without: -1.316
+Predicted With: 1.257
+
+
+Date: 2022-05-10
+Most Influencial News: 3억명 메타버스 놀이터 제페토 세계 최강 로블록스 맹추격
+True Value: -0.605
+Predicted Without: -0.724
+Predicted With: -0.445
+
+
+Date: 2022-06-17
+Most Influencial News: 명차 뼈대 만드는 신라ENG 내년 금형로봇 세계 첫 도입
+True Value: -1.806
+Predicted Without: 1.255
+Predicted With: -1.586
+
+
+Date: 2022-06-29
+Most Influencial News: 일·휴가 같이 즐기는 부산의 매력 세계박람회 유치 자신있어
+True Value: -2.357
+Predicted Without: -0.639
+Predicted With: -1.908
+
+
+Date: 2022-07-26
+Most Influencial News: 세계 보안 전문가들 랜선으로 만난다
+True Value: 0.982
+Predicted Without: 0.918
+Predicted With: 0.950
+
+
+Date: 2023-01-13
+Most Influencial News: MK라씨로 기관 실적개선 기대 신세계 매수
+True Value: 0.496
+Predicted Without: 0.649
+Predicted With: 0.442
+
+
+Date: 2023-01-20
+Most Influencial News: 영업사원 자처한 尹 세계 1위 풍력터빈 공장 유치
+True Value: 0.488
+Predicted Without: 0.515
+Predicted With: 0.670
+
+
+Date: 2023-03-23
+Most Influencial News: 세계 1위 협동로봇이 생중계 맡고 AI 바리스타가 라테 수백잔 척척
+True Value: 1.964
+Predicted Without: 1.368
+Predicted With: 1.881
+
+
+Date: 2023-08-23
+Most Influencial News: 8K TV 전세계 판매량 30 꺾였다
+True Value: 0.751
+Predicted Without: 0.814
+Predicted With: 0.529
+
+
+Date: 2023-09-26
+Most Influencial News: 전세계 스마트폰 브랜드 3분의 1 토막
+True Value: -1.153
+Predicted Without: -1.206
+Predicted With: -1.267
+
+

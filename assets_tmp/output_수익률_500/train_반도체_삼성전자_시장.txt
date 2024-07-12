@@ -1,0 +1,182 @@
+Date: 2018-11-08
+Most Influencial News: 폴더블 OLED 시장 규모 5년후 28조원 고속성장
+True Value: 0.114
+Predicted Without: 0.428
+Predicted With: -0.030
+
+
+Date: 2018-11-19
+Most Influencial News: 삼성 갤럭시J로 인도시장 재탈환 시동
+True Value: -0.795
+Predicted Without: -0.744
+Predicted With: -0.468
+
+
+Date: 2019-01-14
+Most Influencial News: 시장 뒤흔들 대형 악재 가능성 당분간 없어 낙폭 컸던 철강·화학·금융株 눈여겨볼 만
+True Value: -1.111
+Predicted Without: -1.142
+Predicted With: -1.046
+
+
+Date: 2019-04-23
+Most Influencial News: 메모리의 2배 시장인 비메모리 韓점유율은 4 3 삼성 비메모리 집중 투자
+True Value: -0.331
+Predicted Without: 0.875
+Predicted With: -0.098
+
+
+Date: 2019-05-27
+Most Influencial News: 인선이엔티 車 재생용품 시장 확대 수혜 예상 등
+True Value: -0.117
+Predicted Without: 0.677
+Predicted With: -0.104
+
+
+Date: 2019-07-23
+Most Influencial News: 55형 TV도 8K로 삼성 8K시장 패권 잡는다
+True Value: 0.212
+Predicted Without: 0.819
+Predicted With: 0.264
+
+
+Date: 2019-08-27
+Most Influencial News: 美 어플라이드社 뚫은 로봇 전문업체 티로보틱스 서비스·의료용 로봇시장에 도전하겠다
+True Value: 1.032
+Predicted Without: 0.832
+Predicted With: 1.099
+
+
+Date: 2019-10-02
+Most Influencial News: 무선이어폰 시장 빅뱅 LG전자도 가세
+True Value: -2.559
+Predicted Without: -1.032
+Predicted With: -2.570
+
+
+Date: 2020-01-07
+Most Influencial News: SKT 차세대 미디어·모빌리티 시장 선도할 것
+True Value: 0.541
+Predicted Without: 1.429
+Predicted With: 0.753
+
+
+Date: 2020-03-13
+Most Influencial News: 삼성TV 세계 최대 북미시장서 독주
+True Value: -1.673
+Predicted Without: -1.115
+Predicted With: -1.302
+
+
+Date: 2020-04-21
+Most Influencial News: 슈퍼 與 규제강화 입법 우려되지만 기업인 출신 의원 親시장 입법 기대
+True Value: -1.697
+Predicted Without: -0.695
+Predicted With: -1.903
+
+
+Date: 2020-05-25
+Most Influencial News: 개별종목 시장을 대하는 자세
+True Value: 0.205
+Predicted Without: 1.783
+Predicted With: 0.315
+
+
+Date: 2020-07-31
+Most Influencial News: 확커지는 국내 스마트공장 시장 5년간 5G AI 공장 1000개 구축
+True Value: -1.864
+Predicted Without: -0.980
+Predicted With: -1.495
+
+
+Date: 2020-11-06
+Most Influencial News: LG전자 북미시장 선방 5G 스마트폰 K92 첫선
+True Value: -0.332
+Predicted Without: -0.418
+Predicted With: -0.127
+
+
+Date: 2021-08-05
+Most Influencial News: 음식물처리기도 가전 시장 1兆로 커진다
+True Value: -0.965
+Predicted Without: -0.886
+Predicted With: -0.807
+
+
+Date: 2021-12-06
+Most Influencial News: TV·전광판 우리가 접수한다 전통 광고시장 큰손 된 스타트업
+True Value: 0.926
+Predicted Without: 0.966
+Predicted With: 1.049
+
+
+Date: 2022-01-17
+Most Influencial News: 슈프리마 생체 인식 시장 제패
+True Value: 0.259
+Predicted Without: 0.541
+Predicted With: 0.077
+
+
+Date: 2022-03-30
+Most Influencial News: 원격 수업 늘자 크롬북 시장 폭발 성장
+True Value: -0.427
+Predicted Without: -1.326
+Predicted With: -0.319
+
+
+Date: 2022-04-12
+Most Influencial News: 韓 틈새시장 또 두드리는 中샤오미
+True Value: -1.325
+Predicted Without: -2.000
+Predicted With: -1.074
+
+
+Date: 2022-07-07
+Most Influencial News: 유가증권시장 공시 HSD엔진 DL건설 일성건설
+True Value: 3.191
+Predicted Without: 1.832
+Predicted With: 3.150
+
+
+Date: 2022-12-14
+Most Influencial News: 클라우드 시장 年 620조원 네트워크·보안 해결사 뜬다
+True Value: 1.340
+Predicted Without: 1.607
+Predicted With: 1.371
+
+
+Date: 2023-01-11
+Most Influencial News: 키옥시아·WD 합병논의 반도체시장 지각변동
+True Value: 0.166
+Predicted Without: 0.406
+Predicted With: 0.357
+
+
+Date: 2023-02-02
+Most Influencial News: 印尼 법률시장 잡아라 김앤장도 진출
+True Value: 2.751
+Predicted Without: 2.541
+Predicted With: 3.233
+
+
+Date: 2023-05-23
+Most Influencial News: 박희제 사장 콜러노비타 비데 시장 질적 변화 선도할 것
+True Value: -0.146
+Predicted Without: 0.465
+Predicted With: -0.486
+
+
+Date: 2023-09-04
+Most Influencial News: PC 수입 빗장거는 인도시장 고민 깊어지는 삼성전자
+True Value: 0.282
+Predicted Without: -1.638
+Predicted With: 0.699
+
+
+Date: 2023-10-05
+Most Influencial News: 갤S23FE 준프리미엄 틈새시장 정조준
+True Value: -1.185
+Predicted Without: 1.129
+Predicted With: -0.823
+
+

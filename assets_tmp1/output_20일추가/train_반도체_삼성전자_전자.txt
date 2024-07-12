@@ -1,0 +1,917 @@
+Date: 2018-11-19
+Most Influencial News: 삼성전자 아동보육시설서 김장축제’
+True Value: -0.795
+Predicted Without: -0.394
+Predicted With: -0.701
+
+
+Date: 2018-11-22
+Most Influencial News: 내년 실적전망 13조差 삼성전자 시계제로
+True Value: 0.831
+Predicted Without: 0.599
+Predicted With: 1.060
+
+
+Date: 2018-12-05
+Most Influencial News: 삼성전자가 끌어올린 중간·분기 배당 올해 9조원 훌쩍
+True Value: -1.661
+Predicted Without: 1.004
+Predicted With: -1.434
+
+
+Date: 2018-12-10
+Most Influencial News: 삼성전자 유일한 펠로우 승진 최정환 메모리 전문가 주목
+True Value: -1.832
+Predicted Without: -1.133
+Predicted With: -1.905
+
+
+Date: 2019-01-02
+Most Influencial News: 삼성전자 특허군 출원 세계 2위
+True Value: 0.129
+Predicted Without: 1.384
+Predicted With: 0.082
+
+
+Date: 2019-01-11
+Most Influencial News: CES 2019 조성진 LG전자 부회장 세계 기술기업 50곳 M amp;A 검토
+True Value: 1.759
+Predicted Without: 1.551
+Predicted With: 1.990
+
+
+Date: 2019-01-24
+Most Influencial News: 삼성전자 인터넷 연결 없이 작동하는 AI 연구
+True Value: 2.500
+Predicted Without: -2.009
+Predicted With: 2.562
+
+
+Date: 2019-01-28
+Most Influencial News: 플라스틱 대신 종이로 포장 지구를 위한 삼성전자의 선택
+True Value: 0.670
+Predicted Without: 1.622
+Predicted With: 0.942
+
+
+Date: 2019-02-01
+Most Influencial News: LG전자 작년 최대 실적 달성했지만 4분기 스마트폰만 3200억원 적자
+True Value: 0.433
+Predicted Without: 1.115
+Predicted With: 0.215
+
+
+Date: 2019-02-07
+Most Influencial News: 삼성전자·ETF에 베팅한 개미들 하하하
+True Value: -0.324
+Predicted Without: -1.055
+Predicted With: -0.472
+
+
+Date: 2019-02-11
+Most Influencial News: 삼성전자 급등에 놀란 증권사들의 뒷북
+True Value: 0.446
+Predicted Without: 0.892
+Predicted With: 0.572
+
+
+Date: 2019-02-18
+Most Influencial News: 삼성전자 현금 100조 돌파 반도체·AI 등 M amp;A설 솔솔
+True Value: 0.326
+Predicted Without: -1.104
+Predicted With: 0.404
+
+
+Date: 2019-02-20
+Most Influencial News: UAE 왕세제 5년만에 방한 삼성전자 방문해 협력논의
+True Value: 2.067
+Predicted Without: 0.694
+Predicted With: 2.023
+
+
+Date: 2019-03-08
+Most Influencial News: M amp;A 매물 뜨면 삼성전자만 본다
+True Value: -1.462
+Predicted Without: -1.384
+Predicted With: -1.355
+
+
+Date: 2019-03-27
+Most Influencial News: 삼성전자 6 7인치 大화면 갤럭시A70 공개
+True Value: 0.221
+Predicted Without: 0.611
+Predicted With: 0.240
+
+
+Date: 2019-04-01
+Most Influencial News: 전기·전자 부품株 공략해야 올해 승부株는 파워로직스 작년 이어 최대 실적 기대
+True Value: 0.896
+Predicted Without: 1.164
+Predicted With: 1.221
+
+
+Date: 2019-04-11
+Most Influencial News: 기업 포커스 美 2019 에너지 스타상 삼성·LG전자 최우수상
+True Value: -0.964
+Predicted Without: 1.018
+Predicted With: -0.884
+
+
+Date: 2019-04-17
+Most Influencial News: 삼성전자 서비스센터 운영시간 변경
+True Value: -0.423
+Predicted Without: -0.882
+Predicted With: -0.331
+
+
+Date: 2019-04-25
+Most Influencial News: 반도체 꿈나무 키우자 삼성전자 과학교실 확대
+True Value: -0.223
+Predicted Without: -0.577
+Predicted With: -0.390
+
+
+Date: 2019-05-28
+Most Influencial News: 포토 삼성전자TV 더 세로 온라인 사전 판매
+True Value: -0.234
+Predicted Without: -1.306
+Predicted With: -0.070
+
+
+Date: 2019-05-31
+Most Influencial News: 삼성전자 車반도체 아우디에 첫 탑재
+True Value: -0.118
+Predicted Without: 0.963
+Predicted With: 0.029
+
+
+Date: 2019-07-19
+Most Influencial News: 일본산 소재·부품 재고 90일치 확보해달라 삼성전자 全 협력사에 요청
+True Value: 1.518
+Predicted Without: 1.109
+Predicted With: 1.293
+
+
+Date: 2019-07-29
+Most Influencial News: 삼성전자 드림클래스’ 여름캠프
+True Value: -2.227
+Predicted Without: -1.815
+Predicted With: -2.216
+
+
+Date: 2019-07-31
+Most Influencial News: 日규제에도 삼성전자 신용등급 AA 유지
+True Value: -2.578
+Predicted Without: -1.468
+Predicted With: -2.579
+
+
+Date: 2019-10-17
+Most Influencial News: 삼성전자서비스 휴대폰 원격 상담 으로 고객 편의 UP
+True Value: -0.394
+Predicted Without: -0.728
+Predicted With: -0.424
+
+
+Date: 2019-10-29
+Most Influencial News: title id browse_title 삼성전자가 영화 만든다고 네이버 TV연예
+True Value: -0.390
+Predicted Without: 1.237
+Predicted With: -0.371
+
+
+Date: 2019-10-31
+Most Influencial News: 인재육성·상생’ 삼성式 사회공헌 박차 삼성전자 50돌’
+True Value: 0.000
+Predicted Without: -1.635
+Predicted With: -0.081
+
+
+Date: 2019-11-08
+Most Influencial News: 돌아온 외국인 장바구니 살펴보니 삼성전자 쓸어담았다
+True Value: -1.512
+Predicted Without: -0.707
+Predicted With: -1.334
+
+
+Date: 2019-12-11
+Most Influencial News: 삼성전자 여전히 저평가 현대모비스도 유망
+True Value: 0.777
+Predicted Without: 1.026
+Predicted With: 0.824
+
+
+Date: 2019-12-12
+Most Influencial News: 개인이 전자증명서 70종 직접 관리 필요할 때마다 꺼내 쓴다 블록체인 신분증 DID 시대가 온다
+True Value: 2.697
+Predicted Without: 1.492
+Predicted With: 2.584
+
+
+Date: 2019-12-20
+Most Influencial News: 최고가 넘보는 삼성전자 영업이익도 50조대 회복할까
+True Value: 0.000
+Predicted Without: 2.203
+Predicted With: -0.042
+
+
+Date: 2019-12-26
+Most Influencial News: 포토 삼성전자 업계 첫 8K HDMI 2 1 인증
+True Value: 0.727
+Predicted Without: 1.433
+Predicted With: 0.830
+
+
+Date: 2020-01-22
+Most Influencial News: 삼성전자 시총 30 상한제’ 수시적용 검토
+True Value: 1.466
+Predicted Without: 1.749
+Predicted With: 1.971
+
+
+Date: 2020-01-23
+Most Influencial News: 삼성전자 이번주 조직개편 단행 시스템반도체·5G에 힘 싣는다
+True Value: -2.408
+Predicted Without: -0.725
+Predicted With: -1.739
+
+
+Date: 2020-02-20
+Most Influencial News: 삼성전자 30 룰 수시적용 결국 안한다
+True Value: -0.332
+Predicted Without: 0.446
+Predicted With: -0.346
+
+
+Date: 2020-03-04
+Most Influencial News: 금융위 삼성전자 ETF 비중 30 캡 규제 폐지에도 지수 상한제 밀어붙이는 거래소
+True Value: 3.610
+Predicted Without: 1.787
+Predicted With: 3.628
+
+
+Date: 2020-03-09
+Most Influencial News: 中 한국인 비자 발급 사실상 중단 삼성전자·SK하이닉스 애가 탄다
+True Value: -4.071
+Predicted Without: -2.633
+Predicted With: -3.804
+
+
+Date: 2020-03-23
+Most Influencial News: 현대車 230 상승 삼성전자 90 상승 반등때도 대장株
+True Value: -6.388
+Predicted Without: -3.196
+Predicted With: -6.044
+
+
+Date: 2020-03-24
+Most Influencial News: 공학한림원상 대상에 조성진 LG전자 부회장 선정
+True Value: 10.471
+Predicted Without: 2.658
+Predicted With: 10.145
+
+
+Date: 2020-04-24
+Most Influencial News: 비트코인→갭투자→삼성전자→원유 투자 그 뒤엔 30대 투자자가 있다
+True Value: -1.003
+Predicted Without: -1.049
+Predicted With: -0.890
+
+
+Date: 2020-04-27
+Most Influencial News: 삼성전자 갤럭시 A31 사전판매 돌입
+True Value: 1.013
+Predicted Without: 0.770
+Predicted With: 0.906
+
+
+Date: 2020-05-21
+Most Influencial News: 삼성전자 화웨이 반사이익 주가는 미지근
+True Value: -0.100
+Predicted Without: 0.233
+Predicted With: -0.147
+
+
+Date: 2020-05-26
+Most Influencial News: 美·EU 추진하는 구글세에 삼성전자·현대차 유탄맞아
+True Value: 0.819
+Predicted Without: -0.633
+Predicted With: 0.562
+
+
+Date: 2020-06-05
+Most Influencial News: 포토 삼성전자 TV포장재 업사이클링 공모전
+True Value: 1.648
+Predicted Without: 2.227
+Predicted With: 1.672
+
+
+Date: 2020-06-16
+Most Influencial News: 삼성전자 무선청소기 제트 5중 청정시스템 미세먼지 99 999 완전 차단
+True Value: 4.409
+Predicted Without: 1.363
+Predicted With: 3.808
+
+
+Date: 2020-06-19
+Most Influencial News: 혈압관리 이젠 갤워치로 삼성전자 앱 출시
+True Value: 1.147
+Predicted Without: 0.631
+Predicted With: 1.135
+
+
+Date: 2020-07-21
+Most Influencial News: 외국인 경기민감주로 이동 네이버 팔고 삼성전자 샀다
+True Value: 2.030
+Predicted Without: 0.933
+Predicted With: 1.992
+
+
+Date: 2020-08-04
+Most Influencial News: 시론 삼성전자 같은 기업 더 나오게 해야
+True Value: 0.880
+Predicted Without: 0.984
+Predicted With: 0.839
+
+
+Date: 2020-08-07
+Most Influencial News: TSMC보다 싸보이는 삼성전자 더 갈까
+True Value: -0.862
+Predicted Without: 2.245
+Predicted With: -0.900
+
+
+Date: 2020-08-24
+Most Influencial News: 삼성전자 AI 연구자賞 만든다
+True Value: 0.358
+Predicted Without: -0.896
+Predicted With: -0.005
+
+
+Date: 2020-09-01
+Most Influencial News: 삼성전자·LG화학·NC 담아 KB證 언택트株 ETN 상장
+True Value: 0.370
+Predicted Without: -0.586
+Predicted With: 0.426
+
+
+Date: 2020-09-02
+Most Influencial News: 삼성전자·LG전자 올해의 녹색상품 수상
+True Value: 0.369
+Predicted Without: -1.420
+Predicted With: 0.201
+
+
+Date: 2020-09-29
+Most Influencial News: 삼성전자 일하기 좋은 뉴삼성 재량근무로 업무효율성 쑥쑥
+True Value: 0.000
+Predicted Without: -0.881
+Predicted With: 0.074
+
+
+Date: 2020-10-22
+Most Influencial News: 돌아온 외국인 삼성전자만 샀다
+True Value: -1.314
+Predicted Without: -1.027
+Predicted With: -1.065
+
+
+Date: 2020-11-09
+Most Influencial News: CEO 위니아전자 북·중미시장개척 앞장 삼성·LG와 가전3강 체제 구축할것
+True Value: 0.166
+Predicted Without: -0.654
+Predicted With: -0.268
+
+
+Date: 2020-11-18
+Most Influencial News: 삼성전자 그만두고 꿈찾아 베스트셀러 작가됐죠
+True Value: -1.370
+Predicted Without: -0.717
+Predicted With: -1.477
+
+
+Date: 2020-11-19
+Most Influencial News: 상장사 영업익 삼성전자 빼고도 15 늘었다
+True Value: -0.309
+Predicted Without: -0.775
+Predicted With: -0.239
+
+
+Date: 2020-11-24
+Most Influencial News: BBIG 코스피 반등 이끌고 삼성전자가 새 역사 축포 쐈다
+True Value: 0.296
+Predicted Without: -2.518
+Predicted With: 0.527
+
+
+Date: 2020-12-01
+Most Influencial News: 삼성전자 폐수 재활용해 반도체 생산 TV 상자→반려묘 집 업사이클링
+True Value: 1.649
+Predicted Without: 1.360
+Predicted With: 1.449
+
+
+Date: 2020-12-03
+Most Influencial News: 삼성전자 주가 10만원 고지 넘나
+True Value: 0.288
+Predicted Without: 1.116
+Predicted With: 0.379
+
+
+Date: 2020-12-04
+Most Influencial News: 7만전자 찍은 날 코스닥도 900 넘었다
+True Value: 2.582
+Predicted Without: 0.936
+Predicted With: 2.321
+
+
+Date: 2020-12-17
+Most Influencial News: 삼성전자 내년 영업이익 50조원
+True Value: -0.678
+Predicted Without: 1.275
+Predicted With: -0.615
+
+
+Date: 2021-01-12
+Most Influencial News: 9만전자 주역은 주식 초보 포모族
+True Value: -0.440
+Predicted Without: -1.891
+Predicted With: -0.462
+
+
+Date: 2021-02-23
+Most Influencial News: 현금 121조 장전한 삼성전자 車반도체기업 인수 나서나 삼성 M amp;A 다음 타깃은
+True Value: -0.243
+Predicted Without: -0.348
+Predicted With: -0.470
+
+
+Date: 2021-02-25
+Most Influencial News: 삼성전자 글로벌 청년리더 착한 성장 돕는다
+True Value: 4.024
+Predicted Without: 1.443
+Predicted With: 3.791
+
+
+Date: 2021-03-03
+Most Influencial News: 삼성전자 주춤한 사이 TSMC와 격차 더 벌어진다
+True Value: 0.478
+Predicted Without: -0.122
+Predicted With: -0.114
+
+
+Date: 2021-03-17
+Most Influencial News: 6G 표준화도 삼성전자가 이끈다
+True Value: -0.604
+Predicted Without: -0.652
+Predicted With: -0.655
+
+
+Date: 2021-03-26
+Most Influencial News: 사외이사 연봉 억소리 삼성전자 가장 두둑
+True Value: 0.369
+Predicted Without: -1.570
+Predicted With: 0.489
+
+
+Date: 2021-05-04
+Most Influencial News: 포토 삼성전자 비대면 커피 주문 솔루션
+True Value: 1.102
+Predicted Without: -2.196
+Predicted With: 0.972
+
+
+Date: 2021-05-20
+Most Influencial News: 폭염 예고에 에어컨 불티’ LG전자 생산량 1 5배 늘렸다
+True Value: -0.126
+Predicted Without: 0.395
+Predicted With: 0.162
+
+
+Date: 2021-05-25
+Most Influencial News: 포토 삼성전자 스마트 모니터 PC 없이 콘텐츠 즐겨요
+True Value: 0.251
+Predicted Without: -1.564
+Predicted With: 0.398
+
+
+Date: 2021-05-26
+Most Influencial News: 삼성전자서비스 차별화된 상담 서비스로 고객의 마음 얻어
+True Value: -0.125
+Predicted Without: -0.558
+Predicted With: -0.330
+
+
+Date: 2021-06-09
+Most Influencial News: 코스피 고배당50에 삼성전자 편입
+True Value: -0.977
+Predicted Without: -0.329
+Predicted With: -0.709
+
+
+Date: 2021-06-16
+Most Influencial News: 슈퍼브에이아이 AI로 AI용 데이터 만들어 삼성전자·현대차·카카오 거래
+True Value: 1.112
+Predicted Without: -0.684
+Predicted With: 0.964
+
+
+Date: 2021-06-24
+Most Influencial News: SK매직 삼성전자 가전 방문관리 서비스
+True Value: 1.373
+Predicted Without: 0.801
+Predicted With: 1.379
+
+
+Date: 2021-07-14
+Most Influencial News: 메모리 절대강자 삼성전자 비메모리 영토 확장 車이미지센터 시장진출
+True Value: -0.376
+Predicted Without: -0.279
+Predicted With: -0.556
+
+
+Date: 2021-07-15
+Most Influencial News: 포토 삼성전자 KAIST 평택시 반도체 인력양성’ 온라인 협약식
+True Value: 1.384
+Predicted Without: 1.127
+Predicted With: 1.496
+
+
+Date: 2021-07-28
+Most Influencial News: TSMC도 버거운데 인텔까지 코너 몰리는 삼성전자
+True Value: 0.892
+Predicted Without: 0.651
+Predicted With: 0.436
+
+
+Date: 2021-08-04
+Most Influencial News: 8만전자 회복한 삼성 이제부터 대장株 시간
+True Value: 1.843
+Predicted Without: 1.375
+Predicted With: 1.146
+
+
+Date: 2021-08-06
+Most Influencial News: 특별한 호재 없는데 삼성전자 반등한 진짜 이유는
+True Value: -0.731
+Predicted Without: -0.457
+Predicted With: -0.821
+
+
+Date: 2021-09-24
+Most Influencial News: 삼성전자 美 반도체 3차회의 참석 20조 공장부지 선정 촉각
+True Value: -0.129
+Predicted Without: 0.820
+Predicted With: -0.005
+
+
+Date: 2021-09-27
+Most Influencial News: 단독 삼성전자 어쩌나 백악관 청와대도 모르는 삼성반도체 기밀도 요구했다
+True Value: 0.517
+Predicted Without: -0.632
+Predicted With: 0.277
+
+
+Date: 2021-10-13
+Most Influencial News: 동학개미 어쩌나 7만전자 무너지자 코스피 2900도 위태
+True Value: -0.290
+Predicted Without: 0.349
+Predicted With: 0.027
+
+
+Date: 2021-10-18
+Most Influencial News: 삼성전자 SW 교육생 1150명 모집 역대 최대’
+True Value: 0.143
+Predicted Without: -0.822
+Predicted With: 0.178
+
+
+Date: 2021-11-12
+Most Influencial News: 또다시 7만전자 깨졌다 짐싸는 동학개미들
+True Value: 1.001
+Predicted Without: -1.065
+Predicted With: 1.039
+
+
+Date: 2021-11-16
+Most Influencial News: 삼성전자 동료평가·직급표시 폐지 도입하나
+True Value: -0.140
+Predicted Without: -0.418
+Predicted With: -0.164
+
+
+Date: 2021-11-17
+Most Influencial News: 삼성전자 전체 직원 11만명 중 임원 641명 확률 0 5
+True Value: -0.842
+Predicted Without: -0.881
+Predicted With: -0.966
+
+
+Date: 2021-11-23
+Most Influencial News: 삼성전자 120조원 실탄’ 비메모리 인수에 쏘나
+True Value: 0.534
+Predicted Without: -1.728
+Predicted With: 0.455
+
+
+Date: 2021-12-10
+Most Influencial News: 삼성디스플레이·SDI·전기·에스원 계열사도 40대 부사장 전성시대 삼성전자 세대교체
+True Value: -1.662
+Predicted Without: -1.616
+Predicted With: -1.431
+
+
+Date: 2021-12-17
+Most Influencial News: 삼성전자 비스포크 무풍에어컨 냉방 사각지대 없고 AI가 위생관리
+True Value: 0.257
+Predicted Without: -1.102
+Predicted With: 0.249
+
+
+Date: 2021-12-24
+Most Influencial News: 4개월 만에 8만전자 터치
+True Value: 0.751
+Predicted Without: 1.005
+Predicted With: 0.734
+
+
+Date: 2021-12-30
+Most Influencial News: 단독 삼성전자 사업지원TF 수원 떠나 서초사옥으로
+True Value: -0.635
+Predicted Without: -1.155
+Predicted With: -0.659
+
+
+Date: 2022-01-03
+Most Influencial News: FOMC 앞두고 코스피 관망세 삼성전자 4분기 실적발표 주목 주간 증시 전망
+True Value: 0.383
+Predicted Without: -0.947
+Predicted With: 0.165
+
+
+Date: 2022-01-13
+Most Influencial News: CJ제일제당·삼성전자 맛있는 만남
+True Value: -1.267
+Predicted Without: -1.440
+Predicted With: -1.259
+
+
+Date: 2022-01-19
+Most Influencial News: 삼성전자 SSAFY 7기 1150명 입학 1 5기 취업률 79
+True Value: -0.909
+Predicted Without: -0.781
+Predicted With: -0.973
+
+
+Date: 2022-01-26
+Most Influencial News: 삼성전자 지문 인증 IC 개발
+True Value: -0.946
+Predicted Without: 1.312
+Predicted With: -1.019
+
+
+Date: 2022-01-27
+Most Influencial News: 삼성전자 메모리사업부에 300 추가 보너스
+True Value: -2.729
+Predicted Without: -1.072
+Predicted With: -2.602
+
+
+Date: 2022-02-10
+Most Influencial News: 삼성전자 노사협 임금 15 이상 올려달라
+True Value: 0.937
+Predicted Without: 1.290
+Predicted With: 0.962
+
+
+Date: 2022-02-17
+Most Influencial News: 삼성전자 노조 최고경영진이 대화 나서라 거부땐 투쟁
+True Value: 0.267
+Predicted Without: -0.948
+Predicted With: 0.232
+
+
+Date: 2022-03-24
+Most Influencial News: 분양 하이라이트 평택 고덕 아팰리스 써밋파크 삼성전자 라인 인근 숲세권 오피스텔
+True Value: -0.993
+Predicted Without: -0.503
+Predicted With: -0.741
+
+
+Date: 2022-04-01
+Most Influencial News: 삼성전자 죽 쓰는데 반도체 장비주만 신났네
+True Value: -0.718
+Predicted Without: -0.548
+Predicted With: -0.704
+
+
+Date: 2022-04-13
+Most Influencial News: 삼성전자 상생협력아카데미 통해 협력사 인재 키워
+True Value: 2.537
+Predicted Without: -1.709
+Predicted With: 2.899
+
+
+Date: 2022-05-18
+Most Influencial News: 삼성전자 팔고 SK하이닉스 현대차 대신 기아 2등주 사는 외국인
+True Value: 0.740
+Predicted Without: 2.179
+Predicted With: 0.720
+
+
+Date: 2022-05-31
+Most Influencial News: 될성부른 스타트업 키운다 삼성전자 C랩통해 426곳 지원
+True Value: -0.443
+Predicted Without: -1.116
+Predicted With: -0.573
+
+
+Date: 2022-06-03
+Most Influencial News: 삼성전자에 무슨 일이 반도체 임원 20여명 교체
+True Value: 0.150
+Predicted Without: 1.514
+Predicted With: 0.502
+
+
+Date: 2022-06-13
+Most Influencial News: 삼성전자 5개大와 모바일 생태계 협력
+True Value: -2.665
+Predicted Without: -1.000
+Predicted With: -2.349
+
+
+Date: 2022-06-21
+Most Influencial News: 포토 삼성전자 고해상도 모니터 출시
+True Value: -0.341
+Predicted Without: 0.435
+Predicted With: -0.295
+
+
+Date: 2022-07-01
+Most Influencial News: 테슬라 산 서학개미 삼성전자 산 동학개미 승자는
+True Value: -1.404
+Predicted Without: -1.188
+Predicted With: -1.481
+
+
+Date: 2022-07-07
+Most Influencial News: 현대차·LG전자도 부산엑스포 유치전 뛰어들었다
+True Value: 3.191
+Predicted Without: 1.519
+Predicted With: 2.895
+
+
+Date: 2022-10-12
+Most Influencial News: 포토 삼성전자 감각적 디자인 복합기 MX 프로 내놔
+True Value: 0.722
+Predicted Without: 2.328
+Predicted With: 0.256
+
+
+Date: 2022-10-18
+Most Influencial News: 삼성전자 내가 일하는 곳이 사무실
+True Value: -0.177
+Predicted Without: 1.237
+Predicted With: -0.221
+
+
+Date: 2022-10-21
+Most Influencial News: 27일 이사회 앞둔 삼성전자 이재용 회장 승진’ 논의하나
+True Value: 0.721
+Predicted Without: -0.813
+Predicted With: 0.560
+
+
+Date: 2022-10-31
+Most Influencial News: 지배구조 암초 野 보험업법 개정안 20조 삼성전자 주식 강제 매각할 판
+True Value: 3.665
+Predicted Without: 1.510
+Predicted With: 4.049
+
+
+Date: 2022-11-01
+Most Influencial News: 삼성전자 이태원 비극’ 추모 창립기념식도 조촐히
+True Value: 1.010
+Predicted Without: 0.790
+Predicted With: 0.776
+
+
+Date: 2022-11-17
+Most Influencial News: fn사설 금융의 삼성전자 나오려면 금산 분리 족쇄 풀길
+True Value: -2.073
+Predicted Without: 1.736
+Predicted With: -2.104
+
+
+Date: 2022-11-24
+Most Influencial News: NH농협은행·삼성전자 겨울철 김장나눔 행사
+True Value: 0.656
+Predicted Without: 1.152
+Predicted With: 0.528
+
+
+Date: 2022-12-27
+Most Influencial News: 메모리 쇼크 삼성전자 영업이익률 8년만에 한자릿수 위기
+True Value: 0.345
+Predicted Without: 0.387
+Predicted With: 0.451
+
+
+Date: 2023-01-09
+Most Influencial News: 삼성전자는 해마다 PS·PI 준다는데 도대체 무슨 뜻인가요
+True Value: 2.881
+Predicted Without: 1.368
+Predicted With: 3.191
+
+
+Date: 2023-02-27
+Most Influencial News: 삼성전자 상생추구·정도경영 협력사 경쟁력 높여 함께 성장
+True Value: -1.305
+Predicted Without: -0.203
+Predicted With: -0.633
+
+
+Date: 2023-04-07
+Most Influencial News: 반도체 바닥 찍었나 삼성전자 다시 담는 외국인
+True Value: 4.334
+Predicted Without: 1.529
+Predicted With: 4.234
+
+
+Date: 2023-04-28
+Most Influencial News: 적자위기 속 구원투수는 갤럭시 S23 삼성전자 감산으로 불황 돌파
+True Value: 1.393
+Predicted Without: 0.603
+Predicted With: 1.091
+
+
+Date: 2023-05-12
+Most Influencial News: 삼성전자 4년 만에 뉴 비스포크 가전 선보인다
+True Value: -0.156
+Predicted Without: -0.987
+Predicted With: -0.353
+
+
+Date: 2023-06-14
+Most Influencial News: 삼성전자에 갑질한 브로드컴 공정위에 반성문 썼지만 퇴짜
+True Value: -0.139
+Predicted Without: 3.194
+Predicted With: 0.050
+
+
+Date: 2023-07-18
+Most Influencial News: 삼성전자 혁신 스타트업에 1억 지원
+True Value: -1.774
+Predicted Without: -0.204
+Predicted With: -0.689
+
+
+Date: 2023-09-08
+Most Influencial News: 김우준 삼성전자 사장 소프트웨어 기반 네트워크가 미래
+True Value: -0.142
+Predicted Without: -1.288
+Predicted With: -0.111
+
+
+Date: 2023-09-25
+Most Influencial News: 7만전자 깨졌는데 투자 고수 픽은 삼성전자
+True Value: 0.872
+Predicted Without: 0.425
+Predicted With: 0.873
+
+
+Date: 2023-10-13
+Most Influencial News: 이번에도 삼성전자 추월 현대차·기아 3분기 실적도 달린다 e종목은 왜
+True Value: -1.306
+Predicted Without: -1.049
+Predicted With: -1.337
+
+
+Date: 2023-10-27
+Most Influencial News: V낸드 세계 첫 개발 경계현 삼성전자 사장 금탑훈장
+True Value: 0.900
+Predicted Without: 0.760
+Predicted With: 0.877
+
+
+Date: 2023-10-30
+Most Influencial News: 네이버·삼성전자 英 AI 윤리 규제 회의’ 참석
+True Value: 0.000
+Predicted Without: -0.404
+Predicted With: -0.082
+
+
+Date: 2023-11-01
+Most Influencial News: 삼성전자 “매분기 20 씩 가격 올린다” 반도체 승부수’ 통할까
+True Value: 2.541
+Predicted Without: 2.422
+Predicted With: 2.708
+
+
+Date: 2023-11-08
+Most Influencial News: 이영희 삼성전자 사장 亞 가장 영향력있는 여성 꼽혀
+True Value: -1.410
+Predicted Without: -2.735
+Predicted With: -1.546
+
+

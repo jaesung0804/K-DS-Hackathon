@@ -1,0 +1,175 @@
+Date: 2018-11-05
+Most Influencial News: fn 이사람 연휴 반납하고 머신러닝 기초부터 공부
+True Value: -2.893
+Predicted Without: -1.535
+Predicted With: -2.749
+
+
+Date: 2018-11-30
+Most Influencial News: fn 마감시황 코스피 강보합 마감 0 28 상승
+True Value: -2.657
+Predicted Without: 1.199
+Predicted With: -2.729
+
+
+Date: 2019-07-16
+Most Influencial News: fn마감시황 코스피 개인 매도에 하락 0 20 하락
+True Value: -0.131
+Predicted Without: 0.923
+Predicted With: 0.292
+
+
+Date: 2020-01-15
+Most Influencial News: fn마감시황 코스피 4일 연속 상승세 0 43 상승
+True Value: -2.289
+Predicted Without: -1.000
+Predicted With: -2.267
+
+
+Date: 2020-02-05
+Most Influencial News: fn마켓워치 성장금융 5조4000억 규모 자펀드 조성
+True Value: 0.618
+Predicted Without: 1.508
+Predicted With: 0.686
+
+
+Date: 2020-02-11
+Most Influencial News: fn논단 국민연금 주주권 행사 신중해야
+True Value: 1.012
+Predicted Without: 1.587
+Predicted With: 0.791
+
+
+Date: 2020-08-14
+Most Influencial News: fn오전시황 코스피 동학 개미 매수에 강세 지속
+True Value: -0.620
+Predicted Without: -1.056
+Predicted With: -0.712
+
+
+Date: 2020-08-19
+Most Influencial News: fn오전시황 코스피·코스닥 쌍둥이 하락세
+True Value: -3.969
+Predicted Without: -0.847
+Predicted With: -3.822
+
+
+Date: 2020-08-27
+Most Influencial News: fn오전시황 코스피 2360대 등락 반복 혼조세
+True Value: 0.381
+Predicted Without: -1.034
+Predicted With: 0.470
+
+
+Date: 2020-09-03
+Most Influencial News: fn오전시황 코스피 개인 매수에 2360선 상승세
+True Value: 4.238
+Predicted Without: 1.297
+Predicted With: 4.182
+
+
+Date: 2020-10-16
+Most Influencial News: fn마감시황 코스피 2360선으로 후퇴 빅히트 4 하락
+True Value: -2.067
+Predicted Without: -0.968
+Predicted With: -2.113
+
+
+Date: 2020-11-16
+Most Influencial News: fn마켓워치 시장금리 오를까 기업들 사모채 발행 속도
+True Value: 9.253
+Predicted Without: 3.362
+Predicted With: 9.235
+
+
+Date: 2021-02-26
+Most Influencial News: fn마감시황 코스피 100포인트 넘게 급등 3099 69 마감
+True Value: -4.714
+Predicted Without: -1.217
+Predicted With: -4.013
+
+
+Date: 2021-12-10
+Most Influencial News: fn마감시황 기관 매수에 코스피 3020선으로 코스닥도 상승
+True Value: -2.429
+Predicted Without: -1.016
+Predicted With: -2.336
+
+
+Date: 2021-12-14
+Most Influencial News: fn오전시황 외국인·기관 사자’에 코스피 상승세
+True Value: -0.412
+Predicted Without: -0.577
+Predicted With: -0.690
+
+
+Date: 2021-12-20
+Most Influencial News: fn사설 글로벌 반도체 공급망 재편 국면을 기회 삼길
+True Value: -1.230
+Predicted Without: -0.701
+Predicted With: -1.415
+
+
+Date: 2022-07-18
+Most Influencial News: fn이사람 건설 현장에 버려진 목재 드럼 필요한 업체와 연결해줘
+True Value: 2.330
+Predicted Without: 1.491
+Predicted With: 2.175
+
+
+Date: 2022-08-22
+Most Influencial News: fn이사람 메모리 겨울이지만 고객 맞춤형 제품으로 활로 찾습니다
+True Value: -1.245
+Predicted Without: -1.030
+Predicted With: -1.382
+
+
+Date: 2022-08-30
+Most Influencial News: 잭슨홀이 뭐길래 코스피 2 대 하락 fn오전시황
+True Value: 0.757
+Predicted Without: -1.251
+Predicted With: 0.687
+
+
+Date: 2022-09-16
+Most Influencial News: fn오전시황 코스피 강보합 유지
+True Value: -0.870
+Predicted Without: 0.503
+Predicted With: -0.810
+
+
+Date: 2023-01-27
+Most Influencial News: 눈은 내려도 코스피는 오른다 오늘도 강보합으로 출발 fn개장시황
+True Value: -0.867
+Predicted Without: -0.705
+Predicted With: -0.566
+
+
+Date: 2023-05-30
+Most Influencial News: fn사설 격화되는 공급망 전쟁 초격차 기술만이 살 길
+True Value: 1.007
+Predicted Without: 0.718
+Predicted With: 1.055
+
+
+Date: 2023-09-05
+Most Influencial News: fn오후시황 코스피 외인 순매수 자금 늘자 상승폭 확대
+True Value: 0.168
+Predicted Without: -0.800
+Predicted With: 0.057
+
+
+Date: 2023-09-12
+Most Influencial News: fn마감시황 코스피 4거래일 연속 하락세 끊었다
+True Value: 0.690
+Predicted Without: 0.774
+Predicted With: 0.493
+
+
+Date: 2023-09-21
+Most Influencial News: fn오전시황 코스피 외국인·개인 Vs 기관·금투·연기금 힘겨루기
+True Value: -1.271
+Predicted Without: -1.024
+Predicted With: -1.463
+
+

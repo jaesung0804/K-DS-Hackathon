@@ -1,0 +1,91 @@
+Date: 2018-11-30
+Most Influencial News: fn 마감시황 코스피 강보합 마감 0 28 상승
+True Value: -2.657
+Predicted Without: 1.199
+Predicted With: -2.729
+
+
+Date: 2019-07-16
+Most Influencial News: fn마감시황 코스피 개인 매도에 하락 0 20 하락
+True Value: -0.131
+Predicted Without: 0.923
+Predicted With: 0.292
+
+
+Date: 2020-08-14
+Most Influencial News: fn오전시황 코스피 동학 개미 매수에 강세 지속
+True Value: -0.62
+Predicted Without: -1.056
+Predicted With: -0.712
+
+
+Date: 2020-08-19
+Most Influencial News: fn오전시황 코스피·코스닥 쌍둥이 하락세
+True Value: -3.969
+Predicted Without: -0.847
+Predicted With: -3.822
+
+
+Date: 2020-08-27
+Most Influencial News: fn오전시황 코스피 2360대 등락 반복 혼조세
+True Value: 0.381
+Predicted Without: -1.034
+Predicted With: 0.47
+
+
+Date: 2020-09-03
+Most Influencial News: fn오전시황 코스피 개인 매수에 2360선 상승세
+True Value: 4.238
+Predicted Without: 1.297
+Predicted With: 4.182
+
+
+Date: 2020-10-16
+Most Influencial News: fn마감시황 코스피 2360선으로 후퇴 빅히트 4 하락
+True Value: -2.067
+Predicted Without: -0.968
+Predicted With: -2.113
+
+
+Date: 2021-12-10
+Most Influencial News: fn마감시황 기관 매수에 코스피 3020선으로 코스닥도 상승
+True Value: -2.429
+Predicted Without: -1.016
+Predicted With: -2.336
+
+
+Date: 2021-12-14
+Most Influencial News: fn오전시황 외국인·기관 사자’에 코스피 상승세
+True Value: -0.412
+Predicted Without: -0.577
+Predicted With: -0.69
+
+
+Date: 2022-09-16
+Most Influencial News: fn오전시황 코스피 강보합 유지
+True Value: -0.87
+Predicted Without: 0.503
+Predicted With: -0.81
+
+
+Date: 2023-09-05
+Most Influencial News: fn오후시황 코스피 외인 순매수 자금 늘자 상승폭 확대
+True Value: 0.168
+Predicted Without: -0.8
+Predicted With: 0.057
+
+
+Date: 2023-09-12
+Most Influencial News: fn마감시황 코스피 4거래일 연속 하락세 끊었다
+True Value: 0.69
+Predicted Without: 0.774
+Predicted With: 0.493
+
+
+Date: 2023-09-21
+Most Influencial News: fn오전시황 코스피 외국인·개인 Vs 기관·금투·연기금 힘겨루기
+True Value: -1.271
+Predicted Without: -1.024
+Predicted With: -1.463
+
+

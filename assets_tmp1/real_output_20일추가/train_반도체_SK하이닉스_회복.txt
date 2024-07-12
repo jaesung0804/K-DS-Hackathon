@@ -1,0 +1,42 @@
+Date: 2019-06-26
+Most Influencial News: 코스피 보합권 등락 장중 2 130선 회복 종합
+True Value: 3.298
+Predicted Without: 0.997
+Predicted With: 2.848
+
+
+Date: 2019-12-11
+Most Influencial News: 코스피 2090선 회복 기관 매수 힘입어 상승 마감
+True Value: -0.124
+Predicted Without: 0.723
+Predicted With: -0.037
+
+
+Date: 2021-08-24
+Most Influencial News: 외국인 팔 만큼 팔았나 코스피 장중 3100선 회복
+True Value: 1.942
+Predicted Without: 1.79
+Predicted With: 1.687
+
+
+Date: 2021-12-16
+Most Influencial News: FOMC 앞둔 코스피 3000선 회복 실패 2780선까진 단단
+True Value: 0.405
+Predicted Without: 1.952
+Predicted With: 0.129
+
+
+Date: 2022-04-05
+Most Influencial News: 리스크 정점 지났다 코스피 외국인 순매수 전환에 2750선 회복
+True Value: -0.427
+Predicted Without: -0.475
+Predicted With: -0.374
+
+
+Date: 2022-07-21
+Most Influencial News: 코스피 개인 매수에 0 67 상승 마감 2 380선 회복 종합
+True Value: 0.49
+Predicted Without: -0.529
+Predicted With: 0.646
+
+

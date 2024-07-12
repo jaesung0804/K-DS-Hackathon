@@ -1,0 +1,266 @@
+Date: 2019-06-05
+Most Influencial News: fn마감시황 코스피 외인 매도에 4일만 하락 코스닥 700선 회복
+True Value: 0.000
+Predicted Without: -0.876
+Predicted With: -1.194
+
+
+Date: 2019-07-16
+Most Influencial News: 10월 대폭락 재현 공매도 대기물량 최고치
+True Value: -0.131
+Predicted Without: 0.692
+Predicted With: -0.206
+
+
+Date: 2019-08-06
+Most Influencial News: 코스피 외국인·개인 동반 매도에 1970선 붕괴 코스닥도 600선 위협
+True Value: -4.509
+Predicted Without: -0.613
+Predicted With: -2.150
+
+
+Date: 2019-12-02
+Most Influencial News: 외국인 11월 국내주식 3 5조 순매도 넉 달 연속 팔자
+True Value: -0.494
+Predicted Without: -0.216
+Predicted With: -0.251
+
+
+Date: 2020-05-07
+Most Influencial News: 06일 외국인 거래소에서 삼성전자 1 44 KB금융 0 91 등 순매도
+True Value: 0.000
+Predicted Without: -0.233
+Predicted With: -0.231
+
+
+Date: 2020-07-09
+Most Influencial News: 코스피 외국인·기관 매도 공세에 하락 마감 2150선 후퇴
+True Value: -0.836
+Predicted Without: 0.387
+Predicted With: 0.482
+
+
+Date: 2020-07-10
+Most Influencial News: 09일 거래소 기관 순매도상위에 금융업 업종 4종목
+True Value: -0.241
+Predicted Without: 1.076
+Predicted With: -1.145
+
+
+Date: 2020-07-13
+Most Influencial News: SK바이오팜 외인 매도 폭탄에도 기관 계속 매수 왜
+True Value: 0.242
+Predicted Without: 0.018
+Predicted With: -0.102
+
+
+Date: 2020-09-29
+Most Influencial News: 박광온 기관 금지 기간 중 일평균 204억원 공매도
+True Value: 1.818
+Predicted Without: 0.757
+Predicted With: 3.081
+
+
+Date: 2020-10-06
+Most Influencial News: 개미들 이래서 공매도 금지 간절히 원하나 1년간 공매도 무려 100조
+True Value: -0.240
+Predicted Without: 0.472
+Predicted With: 0.717
+
+
+Date: 2020-10-23
+Most Influencial News: fn오전시황 코스피 외인·기관 매도에 하락 2350선 횡보
+True Value: 0.720
+Predicted Without: 0.476
+Predicted With: 0.327
+
+
+Date: 2020-12-10
+Most Influencial News: 외국인 대량 매도 매수 신호 스마트 개미들의 필승전략
+True Value: -3.320
+Predicted Without: -1.469
+Predicted With: -2.927
+
+
+Date: 2021-01-18
+Most Influencial News: 3월 공매도 유령 이 돌아온다 OOOO 많은 종목 피하라
+True Value: 1.961
+Predicted Without: 0.606
+Predicted With: 0.902
+
+
+Date: 2021-01-19
+Most Influencial News: fn오전시황 코스피 개인·외인 매도에 약세 3070선 등락
+True Value: 0.385
+Predicted Without: 0.385
+Predicted With: 0.348
+
+
+Date: 2021-02-03
+Most Influencial News: 中 유동성 풀었다 안도랠리 속 反공매도 셀트리온만 하락
+True Value: 0.000
+Predicted Without: 0.847
+Predicted With: 0.916
+
+
+Date: 2021-03-02
+Most Influencial News: 국민연금 매도 공세 와중에도 담고 있는 주식은
+True Value: 2.120
+Predicted Without: 0.600
+Predicted With: 0.733
+
+
+Date: 2021-03-09
+Most Influencial News: 천스닥’ 맛만 본 후 공매도 암초 코스닥 대형주 투자 주의보
+True Value: 0.738
+Predicted Without: 1.061
+Predicted With: 3.293
+
+
+Date: 2021-03-11
+Most Influencial News: 코스피 5거래일째 하락 기관 매도에 3000선 안착 실패
+True Value: 3.008
+Predicted Without: 0.711
+Predicted With: 0.974
+
+
+Date: 2021-04-29
+Most Influencial News: 외국인과 기관 동반 매도 3200선 초반까지 하락
+True Value: 0.000
+Predicted Without: 0.568
+Predicted With: -1.992
+
+
+Date: 2021-05-04
+Most Influencial News: 공매도 쇼크 코스피는 없었다 코스닥은 2 대 하락
+True Value: 0.380
+Predicted Without: 0.339
+Predicted With: 0.372
+
+
+Date: 2021-05-31
+Most Influencial News: 지난 한 달간 공매도 1위 삼성전자 2·3위는 HMM·LG화학
+True Value: 1.600
+Predicted Without: 0.306
+Predicted With: 0.604
+
+
+Date: 2021-06-10
+Most Influencial News: 코스피 외인·기관 매도에 하락 출발 3230선까지 하락
+True Value: 0.408
+Predicted Without: 0.691
+Predicted With: -0.070
+
+
+Date: 2021-07-27
+Most Influencial News: 코스피 3 220대 후퇴 마감 외국인·기관 7천억 순매도 종합
+True Value: -0.855
+Predicted Without: 0.335
+Predicted With: -0.307
+
+
+Date: 2021-09-03
+Most Influencial News: 코스피 기관·외국인 매도에 3175선까지 밀려 삼성SDI 4 7 하락
+True Value: 0.469
+Predicted Without: 0.225
+Predicted With: -0.151
+
+
+Date: 2021-11-09
+Most Influencial News: 삼전에 대한 개미의 변심 개인 투자자 올해 첫 매도 우위
+True Value: 1.395
+Predicted Without: 0.489
+Predicted With: 1.285
+
+
+Date: 2022-03-28
+Most Influencial News: 외국인은 매도세에도 돈 버는데 대형주 사는 동학개미는 울상
+True Value: 0.000
+Predicted Without: 0.553
+Predicted With: 0.076
+
+
+Date: 2022-05-03
+Most Influencial News: 카카오 2 대 급락 코스피 외인 기관 쌍끌이 매도에 약보합 마감
+True Value: -0.452
+Predicted Without: -0.481
+Predicted With: -0.285
+
+
+Date: 2022-09-30
+Most Influencial News: 더 떨어진다 하락 베팅 급증 공매도 쌓이는 시총 빅2
+True Value: 2.847
+Predicted Without: 0.461
+Predicted With: 0.757
+
+
+Date: 2022-10-04
+Most Influencial News: 9월 하락장서 공매도 40 급증 삼전·LG엔솔 1∼2위
+True Value: 3.730
+Predicted Without: 0.442
+Predicted With: 0.498
+
+
+Date: 2022-10-17
+Most Influencial News: 급락장 속 공매도폭탄 째깍째깍 삼전·네카오 국민株도 직격탄
+True Value: -0.314
+Predicted Without: 0.367
+Predicted With: -0.447
+
+
+Date: 2023-02-07
+Most Influencial News: fn오전시황 코스피 외인·기관 동반 매도에 하락 2450선
+True Value: 1.908
+Predicted Without: 0.489
+Predicted With: 1.517
+
+
+Date: 2023-04-19
+Most Influencial News: 코스피 외인·기관 매도에 장 초반 약보합 2 560대로 하락 종합
+True Value: 0.685
+Predicted Without: -0.408
+Predicted With: -0.818
+
+
+Date: 2023-07-13
+Most Influencial News: 2차전지 공매도한 롱숏펀드 저조한 수익률에 울상
+True Value: -1.127
+Predicted Without: -0.294
+Predicted With: -0.260
+
+
+Date: 2023-07-19
+Most Influencial News: 황제주 등극 에코프로 비엠도 덩달아 급등 공매도 세력 당혹
+True Value: -0.255
+Predicted Without: -0.718
+Predicted With: -1.372
+
+
+Date: 2023-07-26
+Most Influencial News: 외국인과 기관 매도세 등락 갈린 코스피·코스닥
+True Value: -0.353
+Predicted Without: -0.397
+Predicted With: -0.908
+
+
+Date: 2023-08-16
+Most Influencial News: 기관 매도 공세 언제까지 이달 들어 3조 매도
+True Value: 0.783
+Predicted Without: 0.186
+Predicted With: -0.066
+
+
+Date: 2023-09-01
+Most Influencial News: 코스피 기관·외인 매도에 하락 전환 코스닥은 상승
+True Value: -1.478
+Predicted Without: -0.712
+Predicted With: -1.475
+
+
+Date: 2023-09-11
+Most Influencial News: 공매도 위반 자산운용·증권사 적발
+True Value: 1.935
+Predicted Without: 0.683
+Predicted With: 1.744
+
+

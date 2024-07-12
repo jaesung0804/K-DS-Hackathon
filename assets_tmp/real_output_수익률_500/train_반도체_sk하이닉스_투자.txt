@@ -1,0 +1,21 @@
+Date: 2020-04-20
+Most Influencial News: 동학개미 성공할까 반등장세 투자성적표는 외국인 판정승
+True Value: -2.497
+Predicted Without: -1.409
+Predicted With: -1.986
+
+
+Date: 2021-10-27
+Most Influencial News: 주코노미 요즘것들의 주식투자 우량 기업 몰린 코스피 작지만 성장 기대되는 기업은 코스닥
+True Value: -0.49
+Predicted Without: -0.918
+Predicted With: -0.828
+
+
+Date: 2023-06-29
+Most Influencial News: 상반기 투자 개미가 1등 나만 마이너스야 이 종목에 희비
+True Value: 1.662
+Predicted Without: 1.599
+Predicted With: 1.974
+
+

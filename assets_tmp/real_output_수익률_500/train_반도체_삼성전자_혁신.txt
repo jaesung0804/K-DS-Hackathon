@@ -1,0 +1,14 @@
+Date: 2020-01-21
+Most Influencial News: 이건호의 데스크 시각 초경쟁 시대의 기업과 규제 혁신
+True Value: -1.603
+Predicted Without: -0.968
+Predicted With: -1.533
+
+
+Date: 2023-03-08
+Most Influencial News: 구미전자공고 찾은 이재용 회장 기술 인재가 제조업 혁신 좌우
+True Value: -0.659
+Predicted Without: -0.779
+Predicted With: -0.61
+
+

@@ -1,0 +1,147 @@
+Date: 2018-11-15
+Most Influencial News: 코스피 약보합 마감 유가 급락에 항공株 훨훨
+True Value: 1.989
+Predicted Without: 0.969
+Predicted With: 2.002
+
+
+Date: 2018-11-16
+Most Influencial News: 코스피 5거래일만에 상승 마감 2090선 코앞
+True Value: -2.368
+Predicted Without: 1.609
+Predicted With: -2.894
+
+
+Date: 2018-11-30
+Most Influencial News: fn 마감시황 코스피 강보합 마감 0 28 상승
+True Value: -2.657
+Predicted Without: 1.199
+Predicted With: -2.729
+
+
+Date: 2019-07-16
+Most Influencial News: fn마감시황 코스피 개인 매도에 하락 0 20 하락
+True Value: -0.131
+Predicted Without: 0.923
+Predicted With: 0.292
+
+
+Date: 2019-10-31
+Most Influencial News: 코스피 FOMC 관망하며 하락 마감 2080선 턱걸이
+True Value: 0.613
+Predicted Without: 1.082
+Predicted With: 0.739
+
+
+Date: 2019-11-12
+Most Influencial News: 장 마감 후 주요 공시 8일
+True Value: 2.337
+Predicted Without: 0.927
+Predicted With: 2.274
+
+
+Date: 2019-12-11
+Most Influencial News: 코스피 2090선 회복 기관 매수 힘입어 상승 마감
+True Value: -0.124
+Predicted Without: 0.723
+Predicted With: -0.037
+
+
+Date: 2020-01-15
+Most Influencial News: fn마감시황 코스피 4일 연속 상승세 0 43 상승
+True Value: -2.289
+Predicted Without: -1.000
+Predicted With: -2.267
+
+
+Date: 2020-02-27
+Most Influencial News: 키움증권 ELS 5종 출시 청약마감 28일
+True Value: -1.903
+Predicted Without: -1.556
+Predicted With: -1.540
+
+
+Date: 2020-03-04
+Most Influencial News: 美 증시 5 폭등했는데 코스피 용두사미 0 6 상승 마감
+True Value: 1.616
+Predicted Without: 1.091
+Predicted With: 1.642
+
+
+Date: 2020-10-07
+Most Influencial News: 코스피 5거래일 연속 상승 마감 2360 회복
+True Value: 0.482
+Predicted Without: 0.602
+Predicted With: 0.621
+
+
+Date: 2020-10-16
+Most Influencial News: fn마감시황 코스피 2360선으로 후퇴 빅히트 4 하락
+True Value: -2.067
+Predicted Without: -0.968
+Predicted With: -2.113
+
+
+Date: 2020-10-21
+Most Influencial News: 뉴욕증시 미국 부양책 불확실성 지속에 하락 마감 다우 1 44 하락
+True Value: -1.643
+Predicted Without: -0.802
+Predicted With: -1.421
+
+
+Date: 2021-01-07
+Most Influencial News: 개미들 2조 쏟아부었지만 코스피 3000 못지키고 마감
+True Value: 2.672
+Predicted Without: -1.541
+Predicted With: 2.348
+
+
+Date: 2021-02-26
+Most Influencial News: fn마감시황 코스피 100포인트 넘게 급등 3099 69 마감
+True Value: -4.714
+Predicted Without: -1.217
+Predicted With: -4.013
+
+
+Date: 2021-04-29
+Most Influencial News: 코스피 1 하락해 3100 마감 코스닥은 990선으로 밀려나
+True Value: 0.000
+Predicted Without: 1.487
+Predicted With: -0.096
+
+
+Date: 2021-09-15
+Most Influencial News: 코스피 기관 매수에 상승 마감 상생안 발표한 카카오 낙폭 축소
+True Value: 0.000
+Predicted Without: 0.460
+Predicted With: 0.178
+
+
+Date: 2021-12-10
+Most Influencial News: fn마감시황 기관 매수에 코스피 3020선으로 코스닥도 상승
+True Value: -2.429
+Predicted Without: -1.016
+Predicted With: -2.336
+
+
+Date: 2022-06-17
+Most Influencial News: 특징주 삼성전자 8거래일만에 소폭 반등 6만원대 마감 종합
+True Value: -1.027
+Predicted Without: -0.704
+Predicted With: -0.923
+
+
+Date: 2022-07-21
+Most Influencial News: 코스피 개인 매수에 0 67 상승 마감 2 380선 회복 종합
+True Value: 0.490
+Predicted Without: -0.529
+Predicted With: 0.646
+
+
+Date: 2023-09-12
+Most Influencial News: fn마감시황 코스피 4거래일 연속 하락세 끊었다
+True Value: 0.690
+Predicted Without: 0.774
+Predicted With: 0.493
+
+

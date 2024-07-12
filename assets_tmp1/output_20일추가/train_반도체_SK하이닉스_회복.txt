@@ -1,0 +1,175 @@
+Date: 2019-05-15
+Most Influencial News: 코스피 기관 매수에 상승전환 2080선 회복
+True Value: -0.134
+Predicted Without: 0.590
+Predicted With: 0.040
+
+
+Date: 2019-06-26
+Most Influencial News: 코스피 보합권 등락 장중 2 130선 회복 종합
+True Value: 3.298
+Predicted Without: 0.997
+Predicted With: 2.848
+
+
+Date: 2019-06-28
+Most Influencial News: 코스피 반도체 기대에 2 130선 회복 코스닥은 700선 내줘 종합
+True Value: -0.997
+Predicted Without: -0.883
+Predicted With: -1.093
+
+
+Date: 2019-08-06
+Most Influencial News: SK하이닉스 낸드·디램 회복세 SK증권
+True Value: -4.509
+Predicted Without: -1.389
+Predicted With: -4.406
+
+
+Date: 2019-09-06
+Most Influencial News: SK하이닉스 4Q 증익구간 진입 D램 수요 회복 KB證
+True Value: -1.325
+Predicted Without: -0.746
+Predicted With: -1.753
+
+
+Date: 2019-12-09
+Most Influencial News: 내년 韓·日 관계 회복 항공주 주목해야
+True Value: 0.124
+Predicted Without: -0.806
+Predicted With: -0.179
+
+
+Date: 2019-12-11
+Most Influencial News: 코스피 2090선 회복 기관 매수 힘입어 상승 마감
+True Value: -0.124
+Predicted Without: 0.723
+Predicted With: -0.037
+
+
+Date: 2020-01-02
+Most Influencial News: 美中리스크 완화에 D램 수요회복 기대감
+True Value: 0.638
+Predicted Without: 1.042
+Predicted With: 0.986
+
+
+Date: 2020-10-07
+Most Influencial News: 코스피 5거래일 연속 상승 마감 2360 회복
+True Value: 0.482
+Predicted Without: 0.602
+Predicted With: 0.621
+
+
+Date: 2020-10-29
+Most Influencial News: 충북형 뉴딜로 지역경제 회복 40조 투자유치에 최선 다할것
+True Value: -1.448
+Predicted Without: -1.026
+Predicted With: -1.341
+
+
+Date: 2020-11-04
+Most Influencial News: 코스피 미국 대선 앞두고 상승 출발 2320선 회복
+True Value: 2.211
+Predicted Without: 1.036
+Predicted With: 1.635
+
+
+Date: 2020-12-24
+Most Influencial News: 코스피 트럼프 변덕에도 2750선 회복 LG그룹株 날았다
+True Value: 1.724
+Predicted Without: 1.056
+Predicted With: 1.531
+
+
+Date: 2021-02-10
+Most Influencial News: 코스피 3100선 회복 실패 연기금 올해 30조 더 판다
+True Value: 0.398
+Predicted Without: 0.496
+Predicted With: 0.465
+
+
+Date: 2021-04-27
+Most Influencial News: 코스피 3200선 회복 실적개선 기대되는 테크주 담을까
+True Value: 2.662
+Predicted Without: 1.248
+Predicted With: 2.763
+
+
+Date: 2021-05-10
+Most Influencial News: 夏鬪 시동거는 노동계 실적회복 찬물 끼얹나
+True Value: 0.386
+Predicted Without: 0.255
+Predicted With: 0.068
+
+
+Date: 2021-08-24
+Most Influencial News: 외국인 팔 만큼 팔았나 코스피 장중 3100선 회복
+True Value: 1.942
+Predicted Without: 1.790
+Predicted With: 1.687
+
+
+Date: 2021-10-14
+Most Influencial News: 코스피 2 940대 회복 기관 7천억원 순매수 종합
+True Value: 1.957
+Predicted Without: -1.250
+Predicted With: 2.935
+
+
+Date: 2021-11-16
+Most Influencial News: 3000선 회복 노리는 코스피 외국인 본격 귀환은 언제쯤
+True Value: 0.901
+Predicted Without: 0.895
+Predicted With: 0.886
+
+
+Date: 2021-12-16
+Most Influencial News: FOMC 앞둔 코스피 3000선 회복 실패 2780선까진 단단
+True Value: 0.405
+Predicted Without: 1.952
+Predicted With: 0.129
+
+
+Date: 2022-04-05
+Most Influencial News: 리스크 정점 지났다 코스피 외국인 순매수 전환에 2750선 회복
+True Value: -0.427
+Predicted Without: -0.475
+Predicted With: -0.374
+
+
+Date: 2022-06-28
+Most Influencial News: 코스피 1 4 상승하며 2400선 회복 코스닥도 2 대 상승
+True Value: 0.316
+Predicted Without: -1.538
+Predicted With: 0.310
+
+
+Date: 2022-07-19
+Most Influencial News: 긴축 우려 완화에 코스피 2 370선 회복 환율 1 310원대로 하락 종합2보
+True Value: -0.990
+Predicted Without: -0.737
+Predicted With: -0.962
+
+
+Date: 2022-07-21
+Most Influencial News: 코스피 개인 매수에 0 67 상승 마감 2 380선 회복 종합
+True Value: 0.490
+Predicted Without: -0.529
+Predicted With: 0.646
+
+
+Date: 2023-04-11
+Most Influencial News: 반갑다 9만닉스 하반기 업황 회복 기대 반도체株 훨훨
+True Value: 1.213
+Predicted Without: 1.408
+Predicted With: 1.442
+
+
+Date: 2023-05-15
+Most Influencial News: 멀고 먼 반도체 수요 회복 하반기엔 수급 개선될까
+True Value: -0.917
+Predicted Without: -0.482
+Predicted With: -0.708
+
+

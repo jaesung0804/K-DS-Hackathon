@@ -1,0 +1,77 @@
+Date: 2019-06-05
+Most Influencial News: fn마감시황 코스피 외인 매도에 4일만 하락 코스닥 700선 회복
+True Value: 0.0
+Predicted Without: -0.876
+Predicted With: -1.194
+
+
+Date: 2019-06-21
+Most Influencial News: 코스피 기관 매수에 2 130선 회복 코스닥은 1 대 상승 종합2보
+True Value: -2.08
+Predicted Without: -0.603
+Predicted With: -0.68
+
+
+Date: 2019-06-28
+Most Influencial News: 코스피 2130선 회복 코스닥은 700아래로 추락
+True Value: -0.997
+Predicted Without: -0.429
+Predicted With: -0.326
+
+
+Date: 2019-08-21
+Most Influencial News: 코스피 외인 매수에 1 대 상승 코스닥은 600선 회복 종합2보
+True Value: -0.785
+Predicted Without: -0.368
+Predicted With: -0.86
+
+
+Date: 2019-10-02
+Most Influencial News: 코스피 기관 매수에 2 070선 회복 코스닥은 1 7 상승 종합2보
+True Value: -3.049
+Predicted Without: -1.108
+Predicted With: -3.174
+
+
+Date: 2020-03-27
+Most Influencial News: 코스피 하락 출발했다 반등 장중 1 730선 회복 종합
+True Value: 3.222
+Predicted Without: 0.844
+Predicted With: 0.385
+
+
+Date: 2020-10-29
+Most Influencial News: 코스피 개미·외국인 매수에 상승 코스닥은 800선 회복
+True Value: -1.448
+Predicted Without: -0.761
+Predicted With: -1.469
+
+
+Date: 2022-03-03
+Most Influencial News: 우크라 사태 지속에도 코스피 소폭 상승 2 700대 회복 종합
+True Value: 3.2
+Predicted Without: 0.642
+Predicted With: 1.11
+
+
+Date: 2022-03-17
+Most Influencial News: 코스피 기관 매수에 상승 마감 하루만에 7만전자 회복
+True Value: 6.438
+Predicted Without: 1.388
+Predicted With: 2.243
+
+
+Date: 2023-02-09
+Most Influencial News: fn오전시황 코스피 외국인 매수에 2470선 회복
+True Value: -0.527
+Predicted Without: 0.342
+Predicted With: 0.055
+
+
+Date: 2023-02-10
+Most Influencial News: 美금리 속도조절론 온기 빅테크株 회복세 MBN GOLD 주요산업 증시기상도
+True Value: -0.953
+Predicted Without: 0.241
+Predicted With: 0.33
+
+

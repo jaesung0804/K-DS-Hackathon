@@ -1,0 +1,28 @@
+Date: 2020-04-29
+Most Influencial News: 삼성전기·LG이노텍 스마트폰 카메라 수요 늘어 실적 선방
+True Value: -0.2
+Predicted Without: 0.757
+Predicted With: -0.502
+
+
+Date: 2021-04-27
+Most Influencial News: 코스피 실적장세 돌입 큰형님들’의 시간이 온다
+True Value: -0.719
+Predicted Without: 0.657
+Predicted With: -0.579
+
+
+Date: 2022-01-03
+Most Influencial News: FOMC 앞두고 코스피 관망세 삼성전자 4분기 실적발표 주목 주간 증시 전망
+True Value: 0.383
+Predicted Without: 0.479
+Predicted With: 1.475
+
+
+Date: 2023-07-10
+Most Influencial News: 삼성 DDR5·HBM3·3나노 로 실적 반전 노린다 삼성 반도체 위기 극복 해법은
+True Value: -0.572
+Predicted Without: -0.538
+Predicted With: 0.179
+
+

@@ -1,0 +1,56 @@
+Date: 2019-10-02
+Most Influencial News: 코스피 기관 매수에 2 070선 회복 코스닥은 1 7 상승 종합2보
+True Value: -3.049
+Predicted Without: -1.273
+Predicted With: -2.488
+
+
+Date: 2020-01-10
+Most Influencial News: 중동 불안감 완화에 코스피 1 대 급등 하루 만에 낙폭 회복
+True Value: -0.101
+Predicted Without: 0.917
+Predicted With: 0.199
+
+
+Date: 2020-03-27
+Most Influencial News: 코스피 하락 출발했다 반등 장중 1 730선 회복 종합
+True Value: 3.222
+Predicted Without: 1.831
+Predicted With: 3.648
+
+
+Date: 2020-08-06
+Most Influencial News: 코스피 개인 매수에 상승 출발 2290선 회복
+True Value: 0.496
+Predicted Without: 0.536
+Predicted With: 0.84
+
+
+Date: 2020-10-29
+Most Influencial News: 코스피 개미·외국인 매수에 상승 코스닥은 800선 회복
+True Value: -1.448
+Predicted Without: -1.202
+Predicted With: -1.316
+
+
+Date: 2021-03-11
+Most Influencial News: 코스피 3000선 회복 금리 하락에 1 대 반등
+True Value: 3.008
+Predicted Without: 1.015
+Predicted With: 2.799
+
+
+Date: 2021-10-19
+Most Influencial News: 코스피 기관 팔자 에 소폭 하락 3000선 회복
+True Value: 0.618
+Predicted Without: 0.748
+Predicted With: 0.225
+
+
+Date: 2022-02-09
+Most Influencial News: fn오전시황 코스피 외국인·기관 동반 매수에 2770선 회복
+True Value: 0.8
+Predicted Without: 0.462
+Predicted With: 0.532
+
+

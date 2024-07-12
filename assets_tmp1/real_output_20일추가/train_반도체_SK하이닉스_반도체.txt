@@ -1,0 +1,63 @@
+Date: 2018-12-18
+Most Influencial News: 반도체 위기론 중소형株가 반사이익
+True Value: -1.768
+Predicted Without: 1.326
+Predicted With: -1.905
+
+
+Date: 2020-01-08
+Most Influencial News: 이란 사태에도 외국인 반도체·금융株 샀다
+True Value: 3.617
+Predicted Without: 1.667
+Predicted With: 3.367
+
+
+Date: 2020-08-06
+Most Influencial News: 외국인·개미 반도체株 엇갈린 원픽 왜
+True Value: 0.496
+Predicted Without: 0.472
+Predicted With: 0.483
+
+
+Date: 2020-09-21
+Most Influencial News: 반도체·자동차株 쇼핑 외국인이 돌아온다
+True Value: 0.956
+Predicted Without: 0.732
+Predicted With: 0.694
+
+
+Date: 2021-05-17
+Most Influencial News: 다시 큰손 등판한 개미 낙폭 큰 반도체 대형주 싹쓸이’
+True Value: -0.844
+Predicted Without: -0.726
+Predicted With: -0.636
+
+
+Date: 2023-03-24
+Most Influencial News: 美 연내 금리인하 없다 코스피 반도체 대형株 주가 뚝
+True Value: -1.356
+Predicted Without: -2.942
+Predicted With: -1.155
+
+
+Date: 2023-04-28
+Most Influencial News: 반도체 장기 업사이클 초기 SK하이닉스 저점 매수 하이투자증권
+True Value: 0.788
+Predicted Without: -1.757
+Predicted With: 0.405
+
+
+Date: 2023-06-23
+Most Influencial News: 외국인 사흘간 1조 순매도 대형 반도체주는 안 팔아
+True Value: -0.351
+Predicted Without: -1.174
+Predicted With: -0.307
+
+
+Date: 2023-11-14
+Most Influencial News: 공매도 금지 효과 시들 다시 반도체 보라
+True Value: -1.366
+Predicted Without: -1.248
+Predicted With: -0.863
+
+

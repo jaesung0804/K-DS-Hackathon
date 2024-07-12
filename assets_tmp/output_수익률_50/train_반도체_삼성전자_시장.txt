@@ -1,0 +1,182 @@
+Date: 2018-11-08
+Most Influencial News: 폴더블 OLED 시장 규모 5년후 28조원 고속성장
+True Value: 0.114
+Predicted Without: 0.646
+Predicted With: 1.516
+
+
+Date: 2019-01-28
+Most Influencial News: 샤오미 지난해 印 스마트폰 시장서 삼성 제치고 첫 1위
+True Value: 0.670
+Predicted Without: -0.542
+Predicted With: 0.612
+
+
+Date: 2019-11-06
+Most Influencial News: 車·스마트폰 눈의 전쟁 18兆 시장 잡아라
+True Value: 1.139
+Predicted Without: 0.735
+Predicted With: 0.540
+
+
+Date: 2019-11-19
+Most Influencial News: 전자 빅2 매출 1위 시장은 삼성은 미주 LG는 국내
+True Value: 0.000
+Predicted Without: 0.478
+Predicted With: 0.450
+
+
+Date: 2019-11-25
+Most Influencial News: 5G 스마트폰 수요 확 늘어 중소형 OLED 시장 커진다
+True Value: 0.388
+Predicted Without: 0.381
+Predicted With: 0.494
+
+
+Date: 2019-12-24
+Most Influencial News: 삼성·LG 꽉 잡은 국내 노트북 시장에 해외업체 도전장
+True Value: -0.901
+Predicted Without: 0.166
+Predicted With: -0.154
+
+
+Date: 2020-03-13
+Most Influencial News: 삼성TV 세계 최대 북미시장서 독주
+True Value: -1.673
+Predicted Without: -0.904
+Predicted With: -1.018
+
+
+Date: 2020-05-25
+Most Influencial News: 개별종목 시장을 대하는 자세
+True Value: 0.205
+Predicted Without: 1.202
+Predicted With: 0.698
+
+
+Date: 2020-06-10
+Most Influencial News: 글로벌 증시 40 차지 美시장 삼성전자 같은 회사 20개 있는셈
+True Value: -0.180
+Predicted Without: -1.110
+Predicted With: -1.914
+
+
+Date: 2020-08-05
+Most Influencial News: 정우진 NHN 대표 시장을 가장 잘 아는 건 현장의 직원들이다
+True Value: -0.698
+Predicted Without: -1.220
+Predicted With: -0.896
+
+
+Date: 2021-03-08
+Most Influencial News: 시장 지배력 유지할 혁신기업 담아라 2030 암호화폐 투자는 필수
+True Value: -0.122
+Predicted Without: -0.148
+Predicted With: -0.262
+
+
+Date: 2021-06-02
+Most Influencial News: “6인치 파운드리로 전력 반도체 시장 공략” 코스닥 기업탐방
+True Value: 0.248
+Predicted Without: -0.241
+Predicted With: -0.378
+
+
+Date: 2021-07-23
+Most Influencial News: 반도체 업종 반등하나 ASML 美시장서 주가 5 대 급등
+True Value: -0.502
+Predicted Without: 0.389
+Predicted With: -0.510
+
+
+Date: 2021-09-14
+Most Influencial News: 움직이는 컴퓨터 전기차 보안 시장 잡아라
+True Value: 0.393
+Predicted Without: 0.518
+Predicted With: -0.074
+
+
+Date: 2021-10-06
+Most Influencial News: 개인용 클라우드 속속 철수 기업·공공시장 경쟁 세진다
+True Value: -1.247
+Predicted Without: -0.409
+Predicted With: -0.436
+
+
+Date: 2022-04-11
+Most Influencial News: 고급가전 컬러강판 강자 아주스틸 방화문·엘리베이터문 시장 똑똑
+True Value: 0.147
+Predicted Without: 0.296
+Predicted With: -0.034
+
+
+Date: 2022-04-12
+Most Influencial News: 韓 틈새시장 또 두드리는 中샤오미
+True Value: -1.325
+Predicted Without: -1.225
+Predicted With: -1.947
+
+
+Date: 2022-07-07
+Most Influencial News: 유가증권시장 공시 HSD엔진 DL건설 일성건설
+True Value: 3.191
+Predicted Without: 0.776
+Predicted With: 1.128
+
+
+Date: 2022-09-29
+Most Influencial News: 2000선 붕괴 가능성 위험자산 매력 떨어져 비관론 확산 추락하는 금융시장
+True Value: -0.567
+Predicted Without: 0.286
+Predicted With: 0.505
+
+
+Date: 2022-12-01
+Most Influencial News: 최대 시장 中 기술 동맹 美 선택 내몰린 韓
+True Value: 0.643
+Predicted Without: -0.785
+Predicted With: -0.542
+
+
+Date: 2023-02-02
+Most Influencial News: 印尼 법률시장 잡아라 김앤장도 진출
+True Value: 2.751
+Predicted Without: 1.511
+Predicted With: 3.380
+
+
+Date: 2023-02-20
+Most Influencial News: 가성비 갤럭시 북3 돌풍 판 커진 노트북 시장
+True Value: 0.160
+Predicted Without: 0.239
+Predicted With: 0.429
+
+
+Date: 2023-03-22
+Most Influencial News: 고부가시장 진입 못한 韓제조업 반도체도 6대분야 중 5개 밀려
+True Value: 1.327
+Predicted Without: -0.755
+Predicted With: 0.803
+
+
+Date: 2023-06-08
+Most Influencial News: 유가증권시장 공시 화인베스틸 광명전기
+True Value: -0.141
+Predicted Without: -0.921
+Predicted With: 0.364
+
+
+Date: 2023-06-22
+Most Influencial News: 유가증권시장 공시 한국카본 디아이
+True Value: 1.135
+Predicted Without: 1.248
+Predicted With: 0.928
+
+
+Date: 2023-08-22
+Most Influencial News: 프리미엄 통했다 삼성 글로벌 TV시장 선두 수성
+True Value: 0.000
+Predicted Without: -0.692
+Predicted With: -1.064
+
+

@@ -1,0 +1,679 @@
+Date: 2018-11-07
+Most Influencial News: 韓 초격차·美견제에 中 반도체 굴기 타격
+True Value: 0.571
+Predicted Without: -0.804
+Predicted With: -0.543
+
+
+Date: 2019-01-09
+Most Influencial News: 지자체 4곳 반도체 클러스터 최적지는 우리
+True Value: 3.937
+Predicted Without: 0.969
+Predicted With: 2.650
+
+
+Date: 2019-01-14
+Most Influencial News: 올해 투자유망 업종은 수소차와 헬스케어 반도체·디스플레이 당분간 조정
+True Value: -1.111
+Predicted Without: -0.625
+Predicted With: -1.898
+
+
+Date: 2019-01-23
+Most Influencial News: 마켓인사이트 반도체 호황에 베팅한 JKL 원방테크 투자로 3배 수익
+True Value: -0.356
+Predicted Without: 0.683
+Predicted With: 0.782
+
+
+Date: 2019-04-09
+Most Influencial News: 코스피 끌어올리는 외국인 반도체·2차전지 쓸어담았다
+True Value: 0.000
+Predicted Without: -0.381
+Predicted With: -0.472
+
+
+Date: 2019-04-25
+Most Influencial News: 반도체 꿈나무 키우자 삼성전자 과학교실 확대
+True Value: -0.223
+Predicted Without: -0.545
+Predicted With: -0.525
+
+
+Date: 2019-04-26
+Most Influencial News: 삼성취업 보장 대학 반도체학과 신설 경쟁
+True Value: 0.448
+Predicted Without: 0.257
+Predicted With: 0.166
+
+
+Date: 2019-04-30
+Most Influencial News: 월요전망대 30일 비메모리 반도체 육성전략 혁신성장 발판 마련할까
+True Value: -0.650
+Predicted Without: -0.372
+Predicted With: -0.296
+
+
+Date: 2019-05-31
+Most Influencial News: 삼성 반도체 탑재한 아우디’ 가을 첫 선
+True Value: -0.118
+Predicted Without: 1.133
+Predicted With: 1.462
+
+
+Date: 2019-08-01
+Most Influencial News: 사설 반도체 핵심소재 개발 삼성·SK 손잡고 한번 해보라
+True Value: -0.331
+Predicted Without: 0.301
+Predicted With: -0.070
+
+
+Date: 2019-08-22
+Most Influencial News: 반도체업계 에칭가스 재고 겨우 한달치 여전히 위기다 日 소재 수출 일부 풀었지만
+True Value: -1.011
+Predicted Without: -0.145
+Predicted With: -0.348
+
+
+Date: 2019-09-16
+Most Influencial News: 김영문 관세청장 인터뷰 반도체는 시간 싸움 부품 수입절차 단축
+True Value: -0.106
+Predicted Without: 0.651
+Predicted With: 0.973
+
+
+Date: 2019-12-19
+Most Influencial News: 바이코리아 인줄 알았는데 외국인은 반도체 몰빵
+True Value: -0.533
+Predicted Without: -0.441
+Predicted With: 0.095
+
+
+Date: 2020-01-02
+Most Influencial News: 삼성 화성 반도체공장 1분 정전 업계 수백억대 피해
+True Value: -1.075
+Predicted Without: -0.555
+Predicted With: -0.746
+
+
+Date: 2020-01-03
+Most Influencial News: 이재용의 새해 첫 업무 화성 반도체연구소부터 찾아갔다
+True Value: 0.543
+Predicted Without: 0.807
+Predicted With: 1.613
+
+
+Date: 2020-01-08
+Most Influencial News: 이란 사태에도 외국인 반도체·금융株 샀다
+True Value: 1.792
+Predicted Without: 1.104
+Predicted With: 1.848
+
+
+Date: 2020-01-30
+Most Influencial News: 6년만에 깎인 삼성 반도체 성과급 연봉 50 → 29 로 반토막’
+True Value: -3.215
+Predicted Without: -0.466
+Predicted With: -1.557
+
+
+Date: 2020-07-10
+Most Influencial News: 엔비디아 인텔 눌렀다 美 반도체 시총 1위 등극
+True Value: -0.189
+Predicted Without: 0.490
+Predicted With: 0.178
+
+
+Date: 2020-07-31
+Most Influencial News: 반도체기술 현장 찾은 이재용 머뭇거릴 시간 없다
+True Value: -1.864
+Predicted Without: -0.419
+Predicted With: -1.225
+
+
+Date: 2020-08-27
+Most Influencial News: 삼성 하반기 채용 시동 반도체 부문 직무설명회
+True Value: -1.418
+Predicted Without: -0.392
+Predicted With: 0.067
+
+
+Date: 2020-08-31
+Most Influencial News: 30조 들인 평택 2공장 가동 이재용 반도체 초격차 속도낸다
+True Value: -2.527
+Predicted Without: -0.276
+Predicted With: -0.470
+
+
+Date: 2020-10-07
+Most Influencial News: 돌아온 실적 시즌 활짝 갠’ 車·화학 IT·반도체도 맑음’
+True Value: 1.525
+Predicted Without: 0.298
+Predicted With: 0.676
+
+
+Date: 2020-12-16
+Most Influencial News: 차량용 반도체 최강자 NXP 매력 높아진다
+True Value: 0.000
+Predicted Without: 0.578
+Predicted With: 0.057
+
+
+Date: 2020-12-23
+Most Influencial News: 반도체 호황 가전은 집콕특수 車·정유·항공은 직격탄 산업계 되돌아보는 2020
+True Value: 2.213
+Predicted Without: 0.939
+Predicted With: 0.654
+
+
+Date: 2021-01-21
+Most Influencial News: 비트코인 채굴·中 수요 반도체株 다시 뜬다
+True Value: 1.032
+Predicted Without: 0.675
+Predicted With: 2.095
+
+
+Date: 2021-01-29
+Most Influencial News: 코로나 뚫고 영업익 36조 펜트업 효과’ 반도체·가전이 견인 삼성전자 어닝 서프라이즈’
+True Value: -2.031
+Predicted Without: -0.562
+Predicted With: -1.677
+
+
+Date: 2021-03-03
+Most Influencial News: 단독 몸값 높아진 매그나칩반도체 M amp;A 매물로 나왔다
+True Value: 0.478
+Predicted Without: 0.269
+Predicted With: 0.244
+
+
+Date: 2021-03-11
+Most Influencial News: 삼성 반도체공장 외국에 빼앗기면 안돼
+True Value: 1.360
+Predicted Without: -0.568
+Predicted With: 0.127
+
+
+Date: 2021-04-02
+Most Influencial News: 반도체 패권전쟁 美 인텔 이어 마이크론도 가세
+True Value: 2.292
+Predicted Without: 0.459
+Predicted With: 1.099
+
+
+Date: 2021-04-20
+Most Influencial News: 사설 세계는 반도체 전쟁 이재용 사면 머뭇거릴 이유 없다
+True Value: 0.720
+Predicted Without: -0.612
+Predicted With: -0.667
+
+
+Date: 2021-04-23
+Most Influencial News: 강남시선 文과 바이든이 반도체를 대하는 법
+True Value: 0.485
+Predicted Without: 0.422
+Predicted With: 0.597
+
+
+Date: 2021-05-25
+Most Influencial News: 반도체 쇼티지’ 수혜자 실리콘웍스 DDI 매출 2배 뛰었다
+True Value: 0.251
+Predicted Without: -0.244
+Predicted With: 0.092
+
+
+Date: 2021-06-02
+Most Influencial News: “6인치 파운드리로 전력 반도체 시장 공략” 코스닥 기업탐방
+True Value: 0.248
+Predicted Without: -0.241
+Predicted With: -0.378
+
+
+Date: 2021-06-08
+Most Influencial News: 이익 느는데 덜오른 섹터 1순위는 반도체
+True Value: 0.000
+Predicted Without: 0.453
+Predicted With: 0.629
+
+
+Date: 2021-06-18
+Most Influencial News: 인텔 반도체 호황 10년은 간다
+True Value: -0.494
+Predicted Without: 0.078
+Predicted With: -0.004
+
+
+Date: 2021-07-15
+Most Influencial News: KAIST서 삼성전자 반도체 인재 키운다
+True Value: 1.384
+Predicted Without: 0.556
+Predicted With: -0.228
+
+
+Date: 2021-07-23
+Most Influencial News: 반도체 업종 반등하나 ASML 美시장서 주가 5 대 급등
+True Value: -0.502
+Predicted Without: 0.389
+Predicted With: -0.510
+
+
+Date: 2021-08-25
+Most Influencial News: 반도체는 안보 美국방부 등에 업힌 인텔
+True Value: 0.132
+Predicted Without: 0.789
+Predicted With: 0.410
+
+
+Date: 2021-08-27
+Most Influencial News: 후한 값 주는 곳부터 반도체 공급하겠다 TSMC 가격 20 인상
+True Value: -0.402
+Predicted Without: -1.107
+Predicted With: -0.031
+
+
+Date: 2021-08-31
+Most Influencial News: 빅딜통한 힘쏠림 막아라 반도체 M amp;A장벽 더 높아졌다
+True Value: 2.815
+Predicted Without: 1.337
+Predicted With: 2.929
+
+
+Date: 2021-09-06
+Most Influencial News: 中 반도체 굴기 SMIC 대규모 증설 앞두고 수장 교체
+True Value: 0.914
+Predicted Without: -0.058
+Predicted With: -0.165
+
+
+Date: 2021-09-28
+Most Influencial News: 반도체 폐기물 재활용해 전량수입 광물 대체
+True Value: -1.802
+Predicted Without: 0.548
+Predicted With: 0.716
+
+
+Date: 2021-10-20
+Most Influencial News: 메모리 반도체 혹독한 겨울 이 왔다
+True Value: -0.425
+Predicted Without: 0.284
+Predicted With: -0.085
+
+
+Date: 2021-10-29
+Most Influencial News: AI·메타버스 업고 엔비디아 반도체 시총 1위
+True Value: -1.273
+Predicted Without: 1.107
+Predicted With: -1.578
+
+
+Date: 2021-11-15
+Most Influencial News: 인텔 中서 반도체 더 만들지마 바이든 對中기술안보 고삐
+True Value: 1.133
+Predicted Without: -0.629
+Predicted With: 0.851
+
+
+Date: 2021-12-29
+Most Influencial News: 삼성 반도체 사업장 친환경 버스 달린다
+True Value: -1.868
+Predicted Without: -0.684
+Predicted With: 0.462
+
+
+Date: 2022-01-20
+Most Influencial News: AI반도체 개발 4027억 마중물’ 붓는다
+True Value: 0.262
+Predicted Without: -0.225
+Predicted With: -0.248
+
+
+Date: 2022-03-11
+Most Influencial News: 바이든 삼성 불러 땡큐 텍사스 반도체공장 20조 투자
+True Value: -1.685
+Predicted Without: -0.437
+Predicted With: -0.337
+
+
+Date: 2022-03-28
+Most Influencial News: KT 드론 띄워 안전 지킨다 삼성 반도체 사업장에 설치
+True Value: -0.143
+Predicted Without: 0.462
+Predicted With: 0.082
+
+
+Date: 2022-04-05
+Most Influencial News: 재택근무 늘리던 삼성 반도체 기술유출 사건으로 다시 출근
+True Value: -0.144
+Predicted Without: 0.897
+Predicted With: -0.243
+
+
+Date: 2022-04-19
+Most Influencial News: 데스크 칼럼 반도체 초격차 만으론 부족하다
+True Value: 0.900
+Predicted Without: -0.339
+Predicted With: 0.004
+
+
+Date: 2022-04-20
+Most Influencial News: 박리다매 車반도체에 뛰어들 기업없어 2025년까지 공급난 예고
+True Value: 0.149
+Predicted Without: -0.200
+Predicted With: 0.071
+
+
+Date: 2022-04-29
+Most Influencial News: 삼성반도체 역대 최대매출 올렸지만 2분기 경영환경 산넘어 산
+True Value: 4.012
+Predicted Without: 0.857
+Predicted With: 2.935
+
+
+Date: 2022-05-11
+Most Influencial News: 신한울 원전 재개’ 탈원전 폐기 속도내고 배터리·반도체 첨단산업 키운다 윤석열 시대 Y노믹스 본격 가동
+True Value: 0.000
+Predicted Without: -0.497
+Predicted With: 0.515
+
+
+Date: 2022-05-19
+Most Influencial News: 첫 방한 첫 일정 삼성 반도체공장 尹대통령 함께 간다 바이든 방한 첫날부터 경제행보
+True Value: -0.881
+Predicted Without: 0.906
+Predicted With: -0.726
+
+
+Date: 2022-05-20
+Most Influencial News: fn사설 한국 오자마자 반도체 공장 가는 바이든 대통령
+True Value: 0.741
+Predicted Without: 0.483
+Predicted With: 0.500
+
+
+Date: 2022-05-24
+Most Influencial News: 난감한 韓 반도체·배터리업계 한쪽만 편들기 힘들어
+True Value: -2.062
+Predicted Without: -0.512
+Predicted With: -1.677
+
+
+Date: 2022-06-20
+Most Influencial News: 법인세 감면 최대 수혜는 반도체 삼성전자·SK하이닉스 2조 투자여력 생긴다
+True Value: -1.839
+Predicted Without: -0.769
+Predicted With: -1.510
+
+
+Date: 2022-06-29
+Most Influencial News: 차이나 톡 중국산 반도체 수입에 또 놀라지 않으려면
+True Value: -2.357
+Predicted Without: -0.398
+Predicted With: -0.634
+
+
+Date: 2022-07-06
+Most Influencial News: 사설 나토 정상들의 관심도 원전 반도체 배터리順
+True Value: -1.399
+Predicted Without: -0.405
+Predicted With: -1.227
+
+
+Date: 2022-07-11
+Most Influencial News: 원주에 삼성 반도체공장 반드시 유치할 것
+True Value: 0.170
+Predicted Without: 0.370
+Predicted With: 0.028
+
+
+Date: 2022-07-18
+Most Influencial News: 관세청 반도체 수출 지원사격 보세공장 통관 규제 철폐
+True Value: 3.167
+Predicted Without: 1.415
+Predicted With: 2.241
+
+
+Date: 2022-07-22
+Most Influencial News: 반도체 초강대국 달성 5년간 340조원 투입한다
+True Value: -0.809
+Predicted Without: 0.483
+Predicted With: -0.054
+
+
+Date: 2022-07-26
+Most Influencial News: 中 중저가 반도체 키우자 美 즉각 견제구
+True Value: 0.982
+Predicted Without: 0.352
+Predicted With: 0.050
+
+
+Date: 2022-07-27
+Most Influencial News: 삼성 반도체 인력 올해만 7000명 채용 정년 앞둔 간부 교수로
+True Value: 0.162
+Predicted Without: 0.281
+Predicted With: 0.148
+
+
+Date: 2022-09-07
+Most Influencial News: 충무로에서 반도체 인프라 뒷짐만 지는 정부
+True Value: -1.926
+Predicted Without: -0.153
+Predicted With: -0.264
+
+
+Date: 2022-09-20
+Most Influencial News: 입사 보장 채용연계 반도체학과 수시 경쟁률 작년보다 떨어졌다
+True Value: -1.064
+Predicted Without: -0.712
+Predicted With: -0.574
+
+
+Date: 2022-10-11
+Most Influencial News: 사설 美 반도체 수출 통제 민관 선방했지만 긴장 늦춰선 안 돼
+True Value: -1.423
+Predicted Without: -0.563
+Predicted With: -0.248
+
+
+Date: 2022-11-03
+Most Influencial News: 기자24시 반도체 겨울 똑똑한 치킨 만 산다
+True Value: -0.671
+Predicted Without: -1.169
+Predicted With: -2.670
+
+
+Date: 2022-11-10
+Most Influencial News: 대구 센서반도체 육성 첫발 뗐다
+True Value: -2.581
+Predicted Without: 0.305
+Predicted With: -0.350
+
+
+Date: 2022-11-16
+Most Influencial News: 반도체장비 슈퍼乙 ASML
+True Value: 0.481
+Predicted Without: 0.265
+Predicted With: 0.146
+
+
+Date: 2022-11-30
+Most Influencial News: 바이든 취임 후 첫 미국내 K반도체 공장 방문
+True Value: 2.640
+Predicted Without: 1.641
+Predicted With: 1.897
+
+
+Date: 2022-12-22
+Most Influencial News: 악성 재고 쏟아냈다 반도체株 곧 바닥
+True Value: 1.897
+Predicted Without: -0.717
+Predicted With: 0.147
+
+
+Date: 2023-01-30
+Most Influencial News: 日·네덜란드 반도체장비 이젠 中으로 수출 못한다
+True Value: -2.012
+Predicted Without: -0.754
+Predicted With: -0.968
+
+
+Date: 2023-02-01
+Most Influencial News: 반도체 호황기에 더 큰 이익 누리겠다 적자 감수하고 삼성 웨이
+True Value: 1.311
+Predicted Without: 0.377
+Predicted With: 0.618
+
+
+Date: 2023-02-07
+Most Influencial News: 中 화웨이 옥죄는 美 자국 반도체 부품공급 전면 통제
+True Value: 0.487
+Predicted Without: -0.960
+Predicted With: -0.462
+
+
+Date: 2023-02-16
+Most Influencial News: K반도체 미래 우수인력 양성에 달렸다
+True Value: 2.412
+Predicted Without: 0.421
+Predicted With: 0.582
+
+
+Date: 2023-02-27
+Most Influencial News: fn사설 설상가상 美 반도체 규제 민관 똘똘 뭉쳐 대처를
+True Value: -1.305
+Predicted Without: -0.585
+Predicted With: -1.021
+
+
+Date: 2023-03-15
+Most Influencial News: 반도체 격전 속으로 이재용 中·美 간다
+True Value: 1.356
+Predicted Without: 0.588
+Predicted With: 0.657
+
+
+Date: 2023-03-20
+Most Influencial News: 美와 첨단제품 中과는 범용제품 협력 K반도체 투트랙 전략 필요 김홍재의 이슈인사이드
+True Value: -1.794
+Predicted Without: -0.252
+Predicted With: 0.007
+
+
+Date: 2023-03-22
+Most Influencial News: 고부가시장 진입 못한 韓제조업 반도체도 6대분야 중 5개 밀려
+True Value: 1.327
+Predicted Without: -0.755
+Predicted With: 0.803
+
+
+Date: 2023-04-06
+Most Influencial News: 반도체 특화단지 우리 지역으로 지자체 15곳 신청 난립
+True Value: -2.504
+Predicted Without: -0.623
+Predicted With: -1.300
+
+
+Date: 2023-04-28
+Most Influencial News: 삼성 고성능 반도체에 집중 선제 투자로 초격차 지킬 것
+True Value: 1.393
+Predicted Without: -0.311
+Predicted With: -0.032
+
+
+Date: 2023-05-15
+Most Influencial News: 막오른 반도체 공룡 AI 혈투
+True Value: 0.624
+Predicted Without: 0.918
+Predicted With: 0.062
+
+
+Date: 2023-05-17
+Most Influencial News: 불황에 뭉치는 美·日 반도체 기업
+True Value: -0.612
+Predicted Without: -0.605
+Predicted With: -1.563
+
+
+Date: 2023-06-09
+Most Influencial News: 반도체·2차전지 대형주만 담는 외국인 증시 양극화 우려
+True Value: 1.551
+Predicted Without: 0.323
+Predicted With: 0.238
+
+
+Date: 2023-06-28
+Most Influencial News: 용인 반도체산단 착공 발표 아직도 끝나지 않은 발목 잡기 사설
+True Value: 0.138
+Predicted Without: -0.310
+Predicted With: -0.241
+
+
+Date: 2023-07-10
+Most Influencial News: 삼성 DDR5·HBM3·3나노 로 실적 반전 노린다 삼성 반도체 위기 극복 해법은
+True Value: -0.572
+Predicted Without: -0.538
+Predicted With: 0.179
+
+
+Date: 2023-07-11
+Most Influencial News: IPO 대어 파두 데이터센터 반도체 투자 확대
+True Value: 2.878
+Predicted Without: -0.379
+Predicted With: 1.395
+
+
+Date: 2023-07-18
+Most Influencial News: TSMC 너마저 반도체 바닥론 힘 실린다
+True Value: -1.774
+Predicted Without: -0.173
+Predicted With: -0.137
+
+
+Date: 2023-07-28
+Most Influencial News: 에코프로 100만원 붕괴 반도체·바이오 불끈
+True Value: -1.534
+Predicted Without: 0.211
+Predicted With: 0.143
+
+
+Date: 2023-08-16
+Most Influencial News: AMD의 자신감 저전력 AI 반도체로 승부
+True Value: -0.446
+Predicted Without: 0.203
+Predicted With: 0.059
+
+
+Date: 2023-09-13
+Most Influencial News: 낸드 추가감산으로 반도체 봄 앞당긴다
+True Value: 0.567
+Predicted Without: 0.200
+Predicted With: -0.466
+
+
+Date: 2023-09-18
+Most Influencial News: 채용연계 반도체 계약학과 수시 경쟁률 하락
+True Value: -2.500
+Predicted Without: -0.573
+Predicted With: -0.999
+
+
+Date: 2023-09-19
+Most Influencial News: 상장 첫날 25 폭등한 ARM 반도체 열기로 고평가 지적
+True Value: -0.570
+Predicted Without: 0.383
+Predicted With: -0.422
+
+
+Date: 2023-09-21
+Most Influencial News: 삼성·TSMC 보고있나 인텔 1 8나노 반도체 양산기술 공개
+True Value: -1.006
+Predicted Without: -0.151
+Predicted With: -0.057
+
+
+Date: 2023-10-12
+Most Influencial News: 반도체 적자 축소에도 고민 많은 삼성 D램 4분기에 반등 삼성전자 어닝 서프라이즈
+True Value: 1.026
+Predicted Without: 0.790
+Predicted With: 1.455
+
+

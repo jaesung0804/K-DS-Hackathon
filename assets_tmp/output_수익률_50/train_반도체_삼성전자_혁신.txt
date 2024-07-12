@@ -1,0 +1,63 @@
+Date: 2019-04-30
+Most Influencial News: 월요전망대 30일 비메모리 반도체 육성전략 혁신성장 발판 마련할까
+True Value: -0.650
+Predicted Without: -0.372
+Predicted With: -0.296
+
+
+Date: 2019-10-11
+Most Influencial News: 현장 돋보기 디지털혁신 파도 이제부터가 시작이다
+True Value: 1.236
+Predicted Without: 1.583
+Predicted With: 0.847
+
+
+Date: 2020-05-21
+Most Influencial News: 실리콘밸리 혁신 중심엔 이민자 코리안 드림 프로젝트 시작하자
+True Value: -0.100
+Predicted Without: -0.112
+Predicted With: -0.137
+
+
+Date: 2021-03-08
+Most Influencial News: 시장 지배력 유지할 혁신기업 담아라 2030 암호화폐 투자는 필수
+True Value: -0.122
+Predicted Without: -0.148
+Predicted With: -0.262
+
+
+Date: 2021-07-01
+Most Influencial News: CEO 9명 쿠팡이 혁신기업 마켓컬리·카뱅도 지목
+True Value: -0.743
+Predicted Without: -0.901
+Predicted With: 0.670
+
+
+Date: 2021-09-09
+Most Influencial News: 소비자가 원하는 방향으로 S펜 더 혁신할것
+True Value: -1.311
+Predicted Without: -0.257
+Predicted With: -0.233
+
+
+Date: 2022-01-24
+Most Influencial News: 혁신 점수 높아도 ESG 낮으면 탈락 지속가능성에 초점
+True Value: -0.661
+Predicted Without: 0.536
+Predicted With: 0.244
+
+
+Date: 2022-12-08
+Most Influencial News: 종자 혁신기술 유전자가위 규제 韓농업 갈라파고스 위기
+True Value: 0.509
+Predicted Without: -0.530
+Predicted With: 0.448
+
+
+Date: 2023-05-25
+Most Influencial News: 스마트 산업강국 함께하는 제조혁신 삼성전문가 40명 공장 샅샅이 분석 익산 농기계기업 살려냈다
+True Value: 0.438
+Predicted Without: -0.389
+Predicted With: -0.017
+
+

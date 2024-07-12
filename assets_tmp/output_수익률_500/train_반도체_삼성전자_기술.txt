@@ -1,0 +1,238 @@
+Date: 2019-09-11
+Most Influencial News: 갤럭시폴드는 완전히 새로운 기술혁신 성공한 도전이었다
+True Value: 0.319
+Predicted Without: -0.997
+Predicted With: 0.364
+
+
+Date: 2019-10-04
+Most Influencial News: SKT 日라쿠텐에 5G 기술수출
+True Value: 0.840
+Predicted Without: 1.240
+Predicted With: 0.549
+
+
+Date: 2019-10-30
+Most Influencial News: 고용부 산하 대학들 중기 기술독립 지원사격
+True Value: -1.370
+Predicted Without: -1.396
+Predicted With: -1.454
+
+
+Date: 2019-11-22
+Most Influencial News: 삼성전자 제품 수리왕 누구 1700명 참여 기술 경진대회
+True Value: 1.176
+Predicted Without: -0.984
+Predicted With: 1.175
+
+
+Date: 2019-11-29
+Most Influencial News: Hello CEO AI시대 첨단 기술기업 변신하려면 글로벌 1등기업과 손잡는게 지름길
+True Value: -1.949
+Predicted Without: -1.625
+Predicted With: -1.734
+
+
+Date: 2020-01-02
+Most Influencial News: 삼성전자 QLED 8K TV 美소비자기술협회 인증 획득
+True Value: -1.075
+Predicted Without: 1.056
+Predicted With: -1.358
+
+
+Date: 2020-03-12
+Most Influencial News: 플라즈마 기술로 공간 살균
+True Value: -2.495
+Predicted Without: 1.255
+Predicted With: -2.382
+
+
+Date: 2020-11-17
+Most Influencial News: 韓 기술경쟁력 美보다 2 5년 늦어 친환경 규제 대응도 미흡
+True Value: -0.905
+Predicted Without: -1.120
+Predicted With: -0.379
+
+
+Date: 2020-12-02
+Most Influencial News: 낸드 투자 확 늘리는 삼성 기술장벽 더 높이 쌓는다
+True Value: 2.507
+Predicted Without: 0.947
+Predicted With: 2.607
+
+
+Date: 2021-06-25
+Most Influencial News: 서울시 자율주행 등 미래교통 선도 미래차 기술 실증·상용화 도시될 것
+True Value: 0.493
+Predicted Without: 3.396
+Predicted With: 0.894
+
+
+Date: 2021-06-29
+Most Influencial News: 대표 CTO들이 뽑았다 5년 후 한국 먹여살릴 혁신기술은
+True Value: -1.099
+Predicted Without: -0.469
+Predicted With: -1.094
+
+
+Date: 2021-07-08
+Most Influencial News: AI 기술 가이드라인 미비 현실 활용 기대 이하
+True Value: -1.114
+Predicted Without: -1.813
+Predicted With: -1.315
+
+
+Date: 2021-08-17
+Most Influencial News: USB보다 20배 빨리 전송 퀄리타스 반도체 기술 확보
+True Value: -0.269
+Predicted Without: 0.428
+Predicted With: -0.206
+
+
+Date: 2021-09-28
+Most Influencial News: fn사설 자율주행 플랫폼도 美 독식 기술 종속 우려
+True Value: -1.802
+Predicted Without: -1.972
+Predicted With: -1.553
+
+
+Date: 2021-11-24
+Most Influencial News: 모빌리티 삼성전자 美서 6G 실험 차세대 기술 선점 나선다
+True Value: -0.664
+Predicted Without: -1.676
+Predicted With: -0.468
+
+
+Date: 2021-11-25
+Most Influencial News: 경찰청 삼성전자 보이스피싱 방지 기술개발 협약
+True Value: -1.471
+Predicted Without: 1.542
+Predicted With: -0.811
+
+
+Date: 2021-12-08
+Most Influencial News: 엑스포 명소 한국관 우리 작품 이지위드 두바이서 움직이는 디스플레이 기술 뽐내
+True Value: 0.000
+Predicted Without: 2.059
+Predicted With: 1.034
+
+
+Date: 2022-01-04
+Most Influencial News: 최고 기술 전문가 삼성명장’ 11인 선발
+True Value: 0.127
+Predicted Without: 0.600
+Predicted With: 0.145
+
+
+Date: 2022-02-08
+Most Influencial News: 짧게는 석유기업 담고 긴 호흡으론 기술株 반등 노려라
+True Value: 0.685
+Predicted Without: 1.272
+Predicted With: 0.743
+
+
+Date: 2022-05-09
+Most Influencial News: 경희대 김휘용 교수 연구팀 삼성미래기술사업 에 선정
+True Value: -0.602
+Predicted Without: -1.916
+Predicted With: -0.191
+
+
+Date: 2022-06-03
+Most Influencial News: 삼성의 고졸 기술인재 사랑 2007년부터 기능대회 후원
+True Value: 0.150
+Predicted Without: 1.673
+Predicted With: 0.156
+
+
+Date: 2022-06-23
+Most Influencial News: 삼성전자 AI 선행 기술연구·인재 영입 사활 초격차 실현
+True Value: -0.347
+Predicted Without: 0.893
+Predicted With: -0.094
+
+
+Date: 2022-08-04
+Most Influencial News: 기술패권시대 파운드리 보유국은 핵무기 가진 것
+True Value: 0.326
+Predicted Without: -0.550
+Predicted With: 0.451
+
+
+Date: 2022-09-16
+Most Influencial News: 초격차 환경기술에 7조 투자 탄소중립 속도 내는 삼성
+True Value: 0.357
+Predicted Without: 1.605
+Predicted With: 0.007
+
+
+Date: 2022-10-05
+Most Influencial News: 美 이번엔 슈퍼컴 기술 中 수출 막는다
+True Value: 1.449
+Predicted Without: 1.893
+Predicted With: 1.657
+
+
+Date: 2022-11-04
+Most Influencial News: 사설 어떤 위기가 와도 인재와 기술 만 있으면 두려울 것이 없다
+True Value: 0.338
+Predicted Without: -0.853
+Predicted With: 0.263
+
+
+Date: 2022-12-21
+Most Influencial News: 6G·AI·로봇 삼성이 주목한 올해의 기술
+True Value: -1.024
+Predicted Without: -0.522
+Predicted With: -0.602
+
+
+Date: 2023-02-24
+Most Influencial News: 플라잉카 등 UAM 네크워크 선도 삼성전자 5G 국제표준기술 확보
+True Value: -1.129
+Predicted Without: -0.759
+Predicted With: -0.953
+
+
+Date: 2023-03-08
+Most Influencial News: 구미전자공고 찾은 이재용 회장 기술 인재가 제조업 혁신 좌우
+True Value: -0.659
+Predicted Without: -0.779
+Predicted With: -0.610
+
+
+Date: 2023-05-24
+Most Influencial News: 기후위기 대응 첨단기술 부산 총출동
+True Value: 0.146
+Predicted Without: 1.246
+Predicted With: 0.466
+
+
+Date: 2023-06-22
+Most Influencial News: 요즘은 AI 밖에 안보여 트렌드 기술 공감 제14회 퓨처ICT 포럼
+True Value: 1.135
+Predicted Without: 0.998
+Predicted With: 1.597
+
+
+Date: 2023-06-28
+Most Influencial News: 양자기술 3조 투자 글로벌 4대 강국 도약
+True Value: 0.138
+Predicted Without: 0.874
+Predicted With: 0.421
+
+
+Date: 2023-09-21
+Most Influencial News: 삼성·TSMC 보고있나 인텔 1 8나노 반도체 양산기술 공개
+True Value: -1.006
+Predicted Without: -0.612
+Predicted With: -0.715
+
+
+Date: 2023-10-23
+Most Influencial News: 천리길 함께 간다 이재용 1년 기술·네트워크 광폭 경영
+True Value: -0.581
+Predicted Without: -0.625
+Predicted With: -0.380
+
+

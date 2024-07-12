@@ -1,0 +1,21 @@
+Date: 2021-11-26
+Most Influencial News: 사설 美는 삼성 공장에 재산세 30년 감면 우린 토지세 더 걷을 궁리만
+True Value: -1.9
+Predicted Without: -1.325
+Predicted With: -1.982
+
+
+Date: 2021-12-20
+Most Influencial News: fn사설 글로벌 반도체 공급망 재편 국면을 기회 삼길
+True Value: -1.154
+Predicted Without: -1.084
+Predicted With: -1.165
+
+
+Date: 2022-11-17
+Most Influencial News: fn사설 금융의 삼성전자 나오려면 금산 분리 족쇄 풀길
+True Value: -2.073
+Predicted Without: 1.736
+Predicted With: -2.104
+
+

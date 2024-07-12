@@ -1,0 +1,63 @@
+Date: 2018-11-23
+Most Influencial News: 한경로보뉴스 전일 기관 거래소에서 삼성전자 1 64 SK하이닉스 0 89 등 순매수
+True Value: 0.0
+Predicted Without: -0.396
+Predicted With: -0.15
+
+
+Date: 2019-01-04
+Most Influencial News: 코스피 보합권서 맴맴 삼성전자·SK하이닉스하락
+True Value: 1.04
+Predicted Without: -1.571
+Predicted With: 0.155
+
+
+Date: 2019-04-25
+Most Influencial News: 특징주 삼성전자·SK하이닉스 기관·외인 쌍끌이 매도에 주르르
+True Value: 2.166
+Predicted Without: 1.202
+Predicted With: 1.037
+
+
+Date: 2019-05-09
+Most Influencial News: 현대차·하이닉스 기관 저평가 대형주 매수
+True Value: -5.355
+Predicted Without: -2.428
+Predicted With: -5.78
+
+
+Date: 2019-06-21
+Most Influencial News: 20일 외국인 거래소에서 하나금융지주 2 01 SK하이닉스 0 15 등 순매도
+True Value: -2.08
+Predicted Without: -0.633
+Predicted With: -1.622
+
+
+Date: 2019-08-13
+Most Influencial News: 12일 외국인 거래소에서 삼성전기 3 02 SK하이닉스 1 64 등 순매수
+True Value: 0.0
+Predicted Without: -1.008
+Predicted With: 0.485
+
+
+Date: 2023-04-06
+Most Influencial News: 하이닉스 문제 있나 2조 교환사채에 주가하락 증권가 시각은 달랐다
+True Value: -0.946
+Predicted Without: 1.185
+Predicted With: -0.837
+
+
+Date: 2023-05-17
+Most Influencial News: 외국인 삼성전자·SK하이닉스 줍줍 코스피 강세 출발
+True Value: 1.659
+Predicted Without: -1.116
+Predicted With: 1.515
+
+
+Date: 2023-10-06
+Most Influencial News: 엇갈린 반도체 빅2 외국인들 SK하이닉스 골라 담는 이유
+True Value: 0.166
+Predicted Without: 0.49
+Predicted With: -0.138
+
+

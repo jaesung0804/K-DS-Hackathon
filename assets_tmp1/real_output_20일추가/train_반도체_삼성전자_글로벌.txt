@@ -1,0 +1,14 @@
+Date: 2021-02-25
+Most Influencial News: 삼성전자 글로벌 청년리더 착한 성장 돕는다
+True Value: 4.024
+Predicted Without: 1.443
+Predicted With: 3.791
+
+
+Date: 2021-12-20
+Most Influencial News: fn사설 글로벌 반도체 공급망 재편 국면을 기회 삼길
+True Value: -1.154
+Predicted Without: -1.084
+Predicted With: -1.165
+
+

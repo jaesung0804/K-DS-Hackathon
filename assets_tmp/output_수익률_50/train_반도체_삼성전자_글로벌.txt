@@ -1,0 +1,91 @@
+Date: 2019-08-07
+Most Influencial News: 인하대 글로벌 MBA와 리더십 프로그램
+True Value: -0.690
+Predicted Without: -0.304
+Predicted With: -0.326
+
+
+Date: 2019-11-29
+Most Influencial News: Hello CEO AI시대 첨단 기술기업 변신하려면 글로벌 1등기업과 손잡는게 지름길
+True Value: -1.949
+Predicted Without: -0.519
+Predicted With: -1.107
+
+
+Date: 2020-01-13
+Most Influencial News: CEO 권평오 KOTRA 사장 韓스타트업 글로벌 공급망 참여 지원하겠다
+True Value: 0.840
+Predicted Without: -0.415
+Predicted With: -0.110
+
+
+Date: 2020-02-20
+Most Influencial News: 삼성 작년 글로벌 TV점유율 30 첫 돌파
+True Value: -0.332
+Predicted Without: -0.665
+Predicted With: -0.235
+
+
+Date: 2020-06-10
+Most Influencial News: 글로벌 증시 40 차지 美시장 삼성전자 같은 회사 20개 있는셈
+True Value: -0.180
+Predicted Without: -1.110
+Predicted With: -1.914
+
+
+Date: 2021-01-05
+Most Influencial News: 새해 경영 화두는 글로벌 게임 체인저
+True Value: 1.084
+Predicted Without: 0.673
+Predicted With: 2.657
+
+
+Date: 2021-06-07
+Most Influencial News: 삼성 무선이어폰 글로벌 점유율 2위 샤오미 바짝 추격
+True Value: -0.365
+Predicted Without: -1.072
+Predicted With: -0.046
+
+
+Date: 2021-12-07
+Most Influencial News: 299일 만에 무역 1조달러 돌파 文 글로벌 공급망 불안 대비 제58회 무역의날
+True Value: 1.442
+Predicted Without: 1.149
+Predicted With: 2.074
+
+
+Date: 2022-03-08
+Most Influencial News: 삼성전자 글로벌 인플레이션 파고 고급화·다양화로 뛰어넘는다
+True Value: -0.856
+Predicted Without: -0.265
+Predicted With: -0.360
+
+
+Date: 2022-07-12
+Most Influencial News: 시행 18년맞은 GCSI 글로벌 고객만족경영 역량 극대화 방안 제시
+True Value: -1.190
+Predicted Without: -0.790
+Predicted With: -1.280
+
+
+Date: 2022-09-27
+Most Influencial News: 시론 플랫폼 기업도 글로벌로
+True Value: 0.557
+Predicted Without: 0.525
+Predicted With: 1.172
+
+
+Date: 2023-01-04
+Most Influencial News: 글로벌 거점 늘리고 부품 현지화 중기 새해는 해외로
+True Value: 4.332
+Predicted Without: 1.128
+Predicted With: 3.058
+
+
+Date: 2023-08-22
+Most Influencial News: 프리미엄 통했다 삼성 글로벌 TV시장 선두 수성
+True Value: 0.000
+Predicted Without: -0.692
+Predicted With: -1.064
+
+

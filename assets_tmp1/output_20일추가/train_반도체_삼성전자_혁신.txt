@@ -1,0 +1,119 @@
+Date: 2018-11-26
+Most Influencial News: 멀티카메라·폴더블폰·5G·2차전지 등 4차 산업혁명 관련 혁신기술株에 기회
+True Value: 0.472
+Predicted Without: -0.723
+Predicted With: 0.299
+
+
+Date: 2019-01-03
+Most Influencial News: 위기 마주한 재계 생존해법은 변화’ 혁신’ 미래경쟁력’
+True Value: -2.968
+Predicted Without: -1.376
+Predicted With: -2.706
+
+
+Date: 2019-02-14
+Most Influencial News: 2월 폐업 국회에 P2P대출 등 금융혁신法 올스톱
+True Value: 2.814
+Predicted Without: 1.648
+Predicted With: 2.792
+
+
+Date: 2019-05-02
+Most Influencial News: 현대차에 등장한 노 테이블 미팅 기업문화도 혁신·소통 바람
+True Value: 0.109
+Predicted Without: 0.983
+Predicted With: 0.111
+
+
+Date: 2019-11-27
+Most Influencial News: 스타트업 지킴이로 혁신 동행 나선 이재용
+True Value: 0.772
+Predicted Without: 0.545
+Predicted With: 0.532
+
+
+Date: 2020-01-03
+Most Influencial News: 문재인 대통령 경제혁신에 힘 쏟아 상생 도약
+True Value: 0.543
+Predicted Without: -1.358
+Predicted With: 0.481
+
+
+Date: 2020-09-21
+Most Influencial News: 이번엔 배터리 혁신 테슬라 매직 에 쏠린 눈
+True Value: -0.169
+Predicted Without: 1.138
+Predicted With: -0.110
+
+
+Date: 2020-12-16
+Most Influencial News: 미래 모빌리티 이끌 전문가 전면에 혁신 속도 내는 정의선號
+True Value: 0.000
+Predicted Without: 0.662
+Predicted With: 0.064
+
+
+Date: 2021-08-19
+Most Influencial News: 기업가 정신 깨워야 국가도 혁신 작은정부 필요한 시대
+True Value: -1.083
+Predicted Without: 0.652
+Predicted With: -1.287
+
+
+Date: 2021-10-22
+Most Influencial News: Science in Biz 하드웨어 집착하는 무늬만 혁신 이젠 속을 바꿔라
+True Value: 0.285
+Predicted Without: -1.035
+Predicted With: 0.119
+
+
+Date: 2021-10-27
+Most Influencial News: 포토 더 똑똑해졌네 식물도 키우네 삼성·LG 혁신가전 총출동
+True Value: -1.406
+Predicted Without: 0.359
+Predicted With: -0.657
+
+
+Date: 2022-01-24
+Most Influencial News: 혁신기업 30곳 담았다 KEDI 30 ETF 내달 출격
+True Value: -0.661
+Predicted Without: -1.264
+Predicted With: -0.268
+
+
+Date: 2022-07-08
+Most Influencial News: 자율차 특허 늘어 한국차 혁신기업 질주
+True Value: 0.859
+Predicted Without: 1.281
+Predicted With: 0.412
+
+
+Date: 2022-11-22
+Most Influencial News: 한국은 뛰어난 혁신 국가 스웨덴 스타트업들 韓시장 진출 희망 북유럽 리포트
+True Value: -1.303
+Predicted Without: -0.914
+Predicted With: -1.315
+
+
+Date: 2023-07-18
+Most Influencial News: 삼성전자 혁신 스타트업에 1억 지원
+True Value: -1.774
+Predicted Without: -0.204
+Predicted With: -0.689
+
+
+Date: 2023-08-23
+Most Influencial News: 혁신 강조한 전경련 정경유착 끊고 美 CSIS 같은 싱크탱크로
+True Value: 0.751
+Predicted Without: 0.959
+Predicted With: 0.598
+
+
+Date: 2023-11-07
+Most Influencial News: 이복현 은행 이자수익 60조 삼성·현대차보다 많아 어떤 혁신했나
+True Value: 0.000
+Predicted Without: -1.414
+Predicted With: 0.118
+
+

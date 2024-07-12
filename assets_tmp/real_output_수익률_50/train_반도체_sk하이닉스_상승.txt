@@ -1,0 +1,196 @@
+Date: 2018-11-22
+Most Influencial News: 미국발 악재에 코스피·코스닥도 상승분 반납 1980선 열어놔야
+True Value: 1.762
+Predicted Without: 1.509
+Predicted With: -0.665
+
+
+Date: 2018-11-23
+Most Influencial News: 코스피 상승 출발 후 2 070대 보합권 등락 종합2보
+True Value: 0.0
+Predicted Without: 0.21
+Predicted With: 0.715
+
+
+Date: 2019-06-21
+Most Influencial News: 코스피 기관 매수에 2 130선 회복 코스닥은 1 대 상승 종합2보
+True Value: -2.08
+Predicted Without: -0.603
+Predicted With: -0.68
+
+
+Date: 2019-08-21
+Most Influencial News: 코스피 외인 매수에 1 대 상승 코스닥은 600선 회복 종합2보
+True Value: -0.785
+Predicted Without: -0.368
+Predicted With: -0.86
+
+
+Date: 2019-10-02
+Most Influencial News: 코스피 기관 매수에 2 070선 회복 코스닥은 1 7 상승 종합2보
+True Value: -3.049
+Predicted Without: -1.108
+Predicted With: -3.174
+
+
+Date: 2019-11-12
+Most Influencial News: 코스피 상승 출발 후 하락세 장중 2 130선 흔들 종합
+True Value: 2.337
+Predicted Without: 0.439
+Predicted With: 1.596
+
+
+Date: 2020-05-26
+Most Influencial News: 코스피 코로나19 진정 기대 유지되며 상승 출발
+True Value: 0.614
+Predicted Without: -0.284
+Predicted With: -0.059
+
+
+Date: 2020-05-29
+Most Influencial News: 코스피 올해 마이너스 성장 전망에 하락 전환 환율은 상승
+True Value: -2.861
+Predicted Without: -1.595
+Predicted With: -3.939
+
+
+Date: 2020-07-30
+Most Influencial News: 외국인 오늘도 삼전 산다 1 7 상승 코스피는 보합권서 등락
+True Value: 2.524
+Predicted Without: 1.047
+Predicted With: 3.215
+
+
+Date: 2020-08-25
+Most Influencial News: 외국인이 돌아왔다 코스피 코로나 재확산에도 상승
+True Value: 1.987
+Predicted Without: -0.72
+Predicted With: -0.24
+
+
+Date: 2020-09-24
+Most Influencial News: 코스피 뉴욕증시 훈풍에 사흘 만에 상승 동학개미 사자
+True Value: 0.837
+Predicted Without: -0.55
+Predicted With: -0.305
+
+
+Date: 2020-10-29
+Most Influencial News: 코스피 개미·외국인 매수에 상승 코스닥은 800선 회복
+True Value: -1.448
+Predicted Without: -0.761
+Predicted With: -1.469
+
+
+Date: 2020-12-24
+Most Influencial News: \xa0 fn마감시황 코스피 外人·기관 매수에 0 96 상승 LG그룹주상승
+True Value: 1.724
+Predicted Without: 0.38
+Predicted With: 1.127
+
+
+Date: 2021-02-16
+Most Influencial News: 설 연휴 보낸 코스피 1 2 상승 출발 외국인 사고 개인 팔고
+True Value: 0.379
+Predicted Without: 0.801
+Predicted With: 0.462
+
+
+Date: 2021-04-12
+Most Influencial News: 국민연금이 팔아치웠던 대형주 외인 매수세에 상승 탄력 붙나
+True Value: -1.786
+Predicted Without: -0.609
+Predicted With: -1.318
+
+
+Date: 2021-05-28
+Most Influencial News: fn마감시황 코스피 3160선에서 소폭 하락 코스닥은 상승
+True Value: -0.398
+Predicted Without: -0.797
+Predicted With: -0.34
+
+
+Date: 2021-09-14
+Most Influencial News: fn마감시황 코스피 5거래일만 돌아온 외인 상승 마감
+True Value: 0.939
+Predicted Without: -0.317
+Predicted With: -0.271
+
+
+Date: 2021-09-23
+Most Influencial News: 당분간 상승 모멘텀 안보여 종목별 차별화 심해질 듯
+True Value: -1.402
+Predicted Without: -0.115
+Predicted With: -0.19
+
+
+Date: 2021-10-01
+Most Influencial News: 한숨돌린 코스피 악재 완화 기대감에 상승 코스닥도상승
+True Value: -2.913
+Predicted Without: -1.129
+Predicted With: -2.419
+
+
+Date: 2021-11-24
+Most Influencial News: 코스피 하루만에 3000선 하회 삼성전자 3거래일간 7 상승
+True Value: 0.42
+Predicted Without: 0.648
+Predicted With: 0.128
+
+
+Date: 2021-12-10
+Most Influencial News: fn마감시황 기관 매수에 코스피 3020선으로 코스닥도 상승
+True Value: -2.429
+Predicted Without: -0.717
+Predicted With: -0.598
+
+
+Date: 2022-03-03
+Most Influencial News: 우크라 사태 지속에도 코스피 소폭 상승 2 700대 회복 종합
+True Value: 3.2
+Predicted Without: 0.642
+Predicted With: 1.11
+
+
+Date: 2022-03-17
+Most Influencial News: 코스피 기관 매수에 상승 마감 하루만에 7만전자 회복
+True Value: 6.438
+Predicted Without: 1.388
+Predicted With: 2.243
+
+
+Date: 2022-06-17
+Most Influencial News: 코스피 2 450대 강보합 마감 FOMC 불확실성 해소에도 상승 제한 종합
+True Value: -1.027
+Predicted Without: -0.599
+Predicted With: -1.02
+
+
+Date: 2023-06-07
+Most Influencial News: 지난달 증시 거래대금 32 급감 6월 상승장 가능할까
+True Value: -0.644
+Predicted Without: -1.065
+Predicted With: -1.22
+
+
+Date: 2023-08-01
+Most Influencial News: 돈 많은 동학개미 코스피·코스닥 1 대 상승
+True Value: 1.378
+Predicted Without: -0.88
+Predicted With: -0.803
+
+
+Date: 2023-08-30
+Most Influencial News: 코스피 개인 매수에 0 5 상승 2 550대로 올라 종합
+True Value: 0.675
+Predicted Without: 0.669
+Predicted With: 1.465
+
+
+Date: 2023-09-01
+Most Influencial News: 코스피 기관·외인 매도에 하락 전환 코스닥은 상승
+True Value: -1.478
+Predicted Without: -0.712
+Predicted With: -1.475
+
+

@@ -1,0 +1,231 @@
+Date: 2018-11-23
+Most Influencial News: 한경로보뉴스 전일 기관 거래소에서 삼성전자 1 64 SK하이닉스 0 89 등 순매수
+True Value: 0.0
+Predicted Without: -0.396
+Predicted With: -0.15
+
+
+Date: 2019-04-25
+Most Influencial News: 특징주 삼성전자·SK하이닉스 기관·외인 쌍끌이 매도에 주르르
+True Value: 2.166
+Predicted Without: 1.202
+Predicted With: 1.037
+
+
+Date: 2019-05-09
+Most Influencial News: 현대차·하이닉스 기관 저평가 대형주 매수
+True Value: -5.355
+Predicted Without: -2.428
+Predicted With: -5.78
+
+
+Date: 2019-06-13
+Most Influencial News: 12일 거래소 기관 순매도상위에 화학 업종 4종목
+True Value: -3.349
+Predicted Without: -1.136
+Predicted With: -4.092
+
+
+Date: 2019-10-02
+Most Influencial News: 코스피 기관 매수에 2 070선 회복 코스닥은 1 7 상승 종합2보
+True Value: -3.049
+Predicted Without: -1.273
+Predicted With: -2.488
+
+
+Date: 2019-12-11
+Most Influencial News: 코스피 외국인·기관 동반 매도에 약세
+True Value: -0.124
+Predicted Without: 0.497
+Predicted With: 0.289
+
+
+Date: 2020-02-11
+Most Influencial News: 10일 거래소 기관 순매도상위에 전기 전자 업종 5종목
+True Value: 1.012
+Predicted Without: 1.867
+Predicted With: 1.323
+
+
+Date: 2020-05-14
+Most Influencial News: 13일 거래소 기관 순매도상위에 서비스업 업종 4종목
+True Value: -3.589
+Predicted Without: -1.403
+Predicted With: -4.187
+
+
+Date: 2020-07-13
+Most Influencial News: SK바이오팜 외인 매도 폭탄에도 기관 계속 매수 왜
+True Value: 0.242
+Predicted Without: -0.009
+Predicted With: -0.047
+
+
+Date: 2020-07-15
+Most Influencial News: 14일 기관 거래소에서 삼성전자 0 75 NAVER 3 37 등 순매도
+True Value: 0.121
+Predicted Without: -1.552
+Predicted With: -0.715
+
+
+Date: 2020-07-17
+Most Influencial News: 16일 거래소 기관 순매도상위에 서비스업 업종 5종목
+True Value: 0.242
+Predicted Without: 0.373
+Predicted With: -0.192
+
+
+Date: 2021-06-10
+Most Influencial News: 코스피 외인·기관 매도에 하락 출발 3230선까지 하락
+True Value: 0.408
+Predicted Without: 0.994
+Predicted With: 0.339
+
+
+Date: 2021-08-10
+Most Influencial News: 코스피 외국인·기관 매도에 3260선 후퇴 코스닥 또 연고점
+True Value: -3.017
+Predicted Without: -1.293
+Predicted With: -3.308
+
+
+Date: 2021-09-03
+Most Influencial News: fn오전시황 코스피 외인·기관 순매도 3200선 무너져
+True Value: 0.469
+Predicted Without: 0.169
+Predicted With: 0.125
+
+
+Date: 2021-09-14
+Most Influencial News: 외인·기관 매수 속 개인은 던졌다 카카오·네이버 연일 부진
+True Value: 0.939
+Predicted Without: 0.432
+Predicted With: 0.771
+
+
+Date: 2021-09-15
+Most Influencial News: 코스피 기관 매수에 상승 마감 상생안 발표한 카카오 낙폭 축소
+True Value: 0.0
+Predicted Without: 1.027
+Predicted With: -0.109
+
+
+Date: 2021-10-19
+Most Influencial News: 코스피 기관 팔자 에 소폭 하락 3000선 회복
+True Value: 0.618
+Predicted Without: 0.748
+Predicted With: 0.225
+
+
+Date: 2021-11-18
+Most Influencial News: 코스피 장 초반 2 970대로 후퇴 기관 순매도 종합
+True Value: -0.452
+Predicted Without: 1.158
+Predicted With: -0.223
+
+
+Date: 2022-01-06
+Most Influencial News: 코스피 장 초반 소폭 하락 기관 1500억 순매도 중
+True Value: -0.398
+Predicted Without: -0.533
+Predicted With: -0.623
+
+
+Date: 2022-01-11
+Most Influencial News: 물량 쏟아내던 기관 경기민감株는 샀다
+True Value: 2.811
+Predicted Without: 1.626
+Predicted With: 3.1
+
+
+Date: 2022-02-09
+Most Influencial News: fn오전시황 코스피 외국인·기관 동반 매수에 2770선 회복
+True Value: 0.8
+Predicted Without: 0.462
+Predicted With: 0.532
+
+
+Date: 2022-05-10
+Most Influencial News: 코스피 외인·기관 매도에 약세 출발 2 630대 등락 종합
+True Value: 2.326
+Predicted Without: 0.586
+Predicted With: 1.54
+
+
+Date: 2022-05-31
+Most Influencial News: 외국인 팔자 ·기관 사자 시총 상위주들도 대부분 오름세
+True Value: 0.935
+Predicted Without: 2.408
+Predicted With: 1.358
+
+
+Date: 2022-11-02
+Most Influencial News: 외인·기관 쌍끌이 매수에 코스피 1 8 오른 2 330대 마감 종합
+True Value: 0.715
+Predicted Without: -0.815
+Predicted With: 0.78
+
+
+Date: 2022-11-23
+Most Influencial News: 코스피 보합권 등락 관망세 속 기관 매수세 종합
+True Value: 0.0
+Predicted Without: -0.307
+Predicted With: 0.13
+
+
+Date: 2022-12-06
+Most Influencial News: 코스피 장 초반 2 430대 보합권 등락 개인·기관 매수 종합
+True Value: 0.0
+Predicted Without: -1.148
+Predicted With: 0.306
+
+
+Date: 2023-01-04
+Most Influencial News: 개미들 “어 우리만 반대로 가네” 기관·외국인 증시 하락’ 베팅
+True Value: 7.143
+Predicted Without: 2.833
+Predicted With: 8.143
+
+
+Date: 2023-01-18
+Most Influencial News: 10거래일 만에 숨고르기 기관 팔자 에 코스피 하락
+True Value: -1.047
+Predicted Without: -0.435
+Predicted With: -1.123
+
+
+Date: 2023-02-07
+Most Influencial News: fn오전시황 코스피 외인·기관 동반 매도에 하락 2450선
+True Value: 1.908
+Predicted Without: 0.852
+Predicted With: 2.661
+
+
+Date: 2023-04-07
+Most Influencial News: fn오전시황 코스피 2477선 외인·기관 팔자 에 하락
+True Value: 6.325
+Predicted Without: 1.855
+Predicted With: 6.865
+
+
+Date: 2023-07-31
+Most Influencial News: 개인 포홀 4 2조 살 때 기관은 저평가 실적주 샀다
+True Value: -3.594
+Predicted Without: -1.264
+Predicted With: -3.314
+
+
+Date: 2023-08-31
+Most Influencial News: 이달만 삼성전자 1조 넘게 팔더니 기관 이 종목 은 담았다
+True Value: 2.01
+Predicted Without: 0.587
+Predicted With: 2.113
+
+
+Date: 2023-10-13
+Most Influencial News: 외인·기관 팔자 에도 반도체·이차전지 활약에 증시 상승 출발
+True Value: 0.403
+Predicted Without: -0.533
+Predicted With: 0.335
+
+

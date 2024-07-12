@@ -1,0 +1,189 @@
+Date: 2018-11-22
+Most Influencial News: 내년 실적전망 13조差 삼성전자 시계제로
+True Value: 0.831
+Predicted Without: 0.599
+Predicted With: 1.060
+
+
+Date: 2019-02-01
+Most Influencial News: LG전자 작년 최대 실적 달성했지만 4분기 스마트폰만 3200억원 적자
+True Value: 0.433
+Predicted Without: 1.115
+Predicted With: 0.215
+
+
+Date: 2019-03-26
+Most Influencial News: 불효자된 반도체 빼니 실적반등 보인다
+True Value: -0.549
+Predicted Without: 1.188
+Predicted With: -0.459
+
+
+Date: 2019-04-01
+Most Influencial News: 전기·전자 부품株 공략해야 올해 승부株는 파워로직스 작년 이어 최대 실적 기대
+True Value: 0.896
+Predicted Without: 1.164
+Predicted With: 1.221
+
+
+Date: 2019-05-03
+Most Influencial News: 삼성전기 적자 PLP사업 떼내고 실적 날개 단다
+True Value: -1.307
+Predicted Without: 0.903
+Predicted With: -1.369
+
+
+Date: 2019-08-01
+Most Influencial News: 회복 못하는 삼성 실적 하반기 현금흐름 예측도 어렵다
+True Value: -0.331
+Predicted Without: -0.918
+Predicted With: -0.293
+
+
+Date: 2019-09-05
+Most Influencial News: 삼성·SK·LG 등 주요그룹 실적 부진한데 효성그룹 나홀로 好실적 행진
+True Value: 3.628
+Predicted Without: 1.914
+Predicted With: 3.398
+
+
+Date: 2019-09-18
+Most Influencial News: 실적개선 기대 통신3사 주가 반등땐 차익도 기대
+True Value: 1.706
+Predicted Without: 0.920
+Predicted With: 2.017
+
+
+Date: 2019-12-24
+Most Influencial News: 민간기업은 실적 따라 보너스 지급 들쭉날쭉
+True Value: -0.901
+Predicted Without: -0.617
+Predicted With: -0.926
+
+
+Date: 2020-04-06
+Most Influencial News: 실적시즌을 준비하며
+True Value: 3.617
+Predicted Without: 2.314
+Predicted With: 3.439
+
+
+Date: 2021-01-11
+Most Influencial News: 삼성SDI·LGD·금호석유 실적장세 이끌까
+True Value: 2.477
+Predicted Without: 2.667
+Predicted With: 2.458
+
+
+Date: 2021-04-08
+Most Influencial News: 불붙은 TV·냉장고 보복소비 깜짝실적 이끌었다
+True Value: -1.051
+Predicted Without: -1.235
+Predicted With: -0.827
+
+
+Date: 2021-04-22
+Most Influencial News: 패널 가격 급등에 LGD 실적개선 기대
+True Value: -0.242
+Predicted Without: 2.003
+Predicted With: -0.063
+
+
+Date: 2021-05-18
+Most Influencial News: 생보사 빅3’ 나란히 최대실적 순익 300 급증
+True Value: 0.000
+Predicted Without: -0.791
+Predicted With: -0.121
+
+
+Date: 2021-11-18
+Most Influencial News: 코스피 기업 누적 순익 128조 코로나 이전 뛰어넘었다 상장사 3분기도 깜짝실적
+True Value: -0.707
+Predicted Without: -0.825
+Predicted With: -0.774
+
+
+Date: 2022-01-03
+Most Influencial News: FOMC 앞두고 코스피 관망세 삼성전자 4분기 실적발표 주목 주간 증시 전망
+True Value: 0.383
+Predicted Without: -0.947
+Predicted With: 0.165
+
+
+Date: 2022-01-20
+Most Influencial News: 한미반도체 영업익 84 껑충 실적 신기록
+True Value: 0.262
+Predicted Without: -1.375
+Predicted With: 0.191
+
+
+Date: 2022-04-27
+Most Influencial News: 실적 질주한 현대차 기아 주가 깜짝 반등
+True Value: -1.664
+Predicted Without: -0.895
+Predicted With: -1.617
+
+
+Date: 2022-07-15
+Most Influencial News: 인수합병 자금 꿈 대신 실적으로 몰린다
+True Value: 4.348
+Predicted Without: 3.813
+Predicted With: 4.023
+
+
+Date: 2022-08-09
+Most Influencial News: 건설사 실적 희비 삼성물산 훨훨 대우건설 뚝뚝
+True Value: -1.316
+Predicted Without: -1.347
+Predicted With: -1.362
+
+
+Date: 2022-10-24
+Most Influencial News: 배터리 웃고 IT 울고 실적발표 앞두고 초긴장
+True Value: 2.862
+Predicted Without: 0.793
+Predicted With: 2.998
+
+
+Date: 2022-11-14
+Most Influencial News: 코로나 이후 경영실적 초과회복 상생에 달렸다
+True Value: -1.590
+Predicted Without: -0.787
+Predicted With: -1.451
+
+
+Date: 2023-01-13
+Most Influencial News: MK라씨로 기관 실적개선 기대 신세계 매수
+True Value: 0.496
+Predicted Without: 0.916
+Predicted With: 0.348
+
+
+Date: 2023-04-10
+Most Influencial News: 대기업 실적쇼크에 나라 곳간 위태롭다
+True Value: 1.077
+Predicted Without: 0.831
+Predicted With: 0.860
+
+
+Date: 2023-06-30
+Most Influencial News: 실적 개선 기대감 들썩이는 의류OEM株 MBN GOLD 증시기상도
+True Value: -0.276
+Predicted Without: 1.419
+Predicted With: -0.394
+
+
+Date: 2023-10-13
+Most Influencial News: 이번에도 삼성전자 추월 현대차·기아 3분기 실적도 달린다 e종목은 왜
+True Value: -1.306
+Predicted Without: -1.049
+Predicted With: -1.337
+
+
+Date: 2023-10-24
+Most Influencial News: 4분기도 쉽지 않다 상장사 절반 이상 실적 전망치 낮춰
+True Value: 0.146
+Predicted Without: 0.568
+Predicted With: 0.208
+
+

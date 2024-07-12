@@ -1,0 +1,154 @@
+Date: 2018-12-24
+Most Influencial News: 올해 해외서 한국을 빛낸 브랜드 갤럭시 신라면 인천공항
+True Value: 0.388
+Predicted Without: 1.031
+Predicted With: 0.417
+
+
+Date: 2019-01-09
+Most Influencial News: 수요 둔화·화웨이 추격 갤럭시도 꽉 막혀
+True Value: 3.937
+Predicted Without: 1.975
+Predicted With: 3.660
+
+
+Date: 2019-03-27
+Most Influencial News: 삼성전자 6 7인치 大화면 갤럭시A70 공개
+True Value: 0.221
+Predicted Without: 0.611
+Predicted With: 0.240
+
+
+Date: 2019-04-15
+Most Influencial News: 갤럭시폴드 美서 하루만에 완판
+True Value: 0.427
+Predicted Without: -0.379
+Predicted With: 0.187
+
+
+Date: 2019-06-18
+Most Influencial News: 갤럭시 모델명 끝에 s 성능 강화형 라인 추가
+True Value: 1.025
+Predicted Without: 2.747
+Predicted With: 0.909
+
+
+Date: 2019-08-29
+Most Influencial News: 갤럭시 노트10 숨은 병기는 게임’
+True Value: -1.699
+Predicted Without: -1.390
+Predicted With: -1.809
+
+
+Date: 2020-01-14
+Most Influencial News: 갤럭시S20 실물사진 유출 에지 없고 인덕션 카메라
+True Value: 0.000
+Predicted Without: 0.622
+Predicted With: -0.033
+
+
+Date: 2020-02-18
+Most Influencial News: 갤럭시Z플립 vs 레이저 낙하실험 승자는
+True Value: -2.764
+Predicted Without: -2.548
+Predicted With: -2.769
+
+
+Date: 2020-04-27
+Most Influencial News: 삼성전자 갤럭시 A31 사전판매 돌입
+True Value: 1.013
+Predicted Without: 0.770
+Predicted With: 0.906
+
+
+Date: 2021-01-21
+Most Influencial News: 갤럭시S21 공시지원금 SKT도 50만원 주기로
+True Value: 1.032
+Predicted Without: 0.957
+Predicted With: 1.240
+
+
+Date: 2021-02-22
+Most Influencial News: 갤럭시 S21 울트라 영국을 홀리다
+True Value: -0.484
+Predicted Without: -0.380
+Predicted With: -0.439
+
+
+Date: 2021-08-10
+Most Influencial News: 韓銀 디지털화폐 갤럭시워치서도 쓴다
+True Value: -1.595
+Predicted Without: 1.850
+Predicted With: -1.987
+
+
+Date: 2021-08-17
+Most Influencial News: 애플 샤오미 물리칠 비장의 무기 삼성 갤럭시 폴드 탄생 뒤엔 이 기술이
+True Value: -0.269
+Predicted Without: 0.555
+Predicted With: -0.322
+
+
+Date: 2021-09-06
+Most Influencial News: 갤럭시 워치·버즈 이마트24 에서 팝니다
+True Value: 0.914
+Predicted Without: 2.003
+Predicted With: 1.003
+
+
+Date: 2021-11-11
+Most Influencial News: 내년 갤럭시 시간표 나왔다 1월 S21보급형 2월 S22 공개
+True Value: -0.427
+Predicted Without: 0.564
+Predicted With: -0.461
+
+
+Date: 2022-02-23
+Most Influencial News: 갤럭시S22 사전판매 신기록 S펜 탑재한 울트라가 견인
+True Value: -0.545
+Predicted Without: 0.594
+Predicted With: -0.734
+
+
+Date: 2022-08-11
+Most Influencial News: 갤럭시도 보라해♥ BTS컬러 공식색상으로
+True Value: 1.354
+Predicted Without: 1.413
+Predicted With: 1.300
+
+
+Date: 2022-08-12
+Most Influencial News: 갤럭시Z플립4 x BTS 컬래버 보라퍼플로 물든 타임스스퀘어 갤럭시 폴더블 에 힘준다
+True Value: 0.501
+Predicted Without: 1.092
+Predicted With: 0.635
+
+
+Date: 2022-09-21
+Most Influencial News: 파두·아우토크립트·갤럭시코프 유망 기술기업 IPO 시장 몰려온다
+True Value: -0.896
+Predicted Without: -0.449
+Predicted With: -0.830
+
+
+Date: 2023-04-28
+Most Influencial News: 적자위기 속 구원투수는 갤럭시 S23 삼성전자 감산으로 불황 돌파
+True Value: 1.393
+Predicted Without: 0.603
+Predicted With: 1.091
+
+
+Date: 2023-07-19
+Most Influencial News: 갤럭시 언팩 특명 중국 시장 잡아라
+True Value: -0.417
+Predicted Without: 0.634
+Predicted With: -0.325
+
+
+Date: 2023-07-27
+Most Influencial News: 국내 첫 갤럭시 언팩 한국이 폴더블폰 원조 각인
+True Value: 2.722
+Predicted Without: 0.852
+Predicted With: 2.548
+
+

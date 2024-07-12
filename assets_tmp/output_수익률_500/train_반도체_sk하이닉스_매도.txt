@@ -1,0 +1,266 @@
+Date: 2019-04-25
+Most Influencial News: 특징주 삼성전자·SK하이닉스 기관·외인 쌍끌이 매도에 주르르
+True Value: 2.166
+Predicted Without: 1.202
+Predicted With: 1.037
+
+
+Date: 2019-05-31
+Most Influencial News: 30일 거래소 외국인 순매도상위에 전기 전자 업종 4종목
+True Value: -0.910
+Predicted Without: 0.864
+Predicted With: -0.206
+
+
+Date: 2019-06-13
+Most Influencial News: 12일 거래소 기관 순매도상위에 화학 업종 4종목
+True Value: -3.349
+Predicted Without: -1.136
+Predicted With: -4.092
+
+
+Date: 2019-06-21
+Most Influencial News: 20일 외국인 거래소에서 하나금융지주 2 01 SK하이닉스 0 15 등 순매도
+True Value: -2.080
+Predicted Without: -0.633
+Predicted With: -1.622
+
+
+Date: 2019-08-07
+Most Influencial News: 06일 거래소 외국인 순매도상위에 전기 전자 업종 4종목
+True Value: 1.806
+Predicted Without: 1.174
+Predicted With: 1.726
+
+
+Date: 2019-09-02
+Most Influencial News: 8월 외국인 韓주식 2 6조원 순매도 절반은 삼성전자
+True Value: 0.258
+Predicted Without: 0.459
+Predicted With: 0.353
+
+
+Date: 2019-09-03
+Most Influencial News: fn오후시황 코스피 외국인 매도에도 1970선 상승세
+True Value: -0.773
+Predicted Without: -0.670
+Predicted With: -0.840
+
+
+Date: 2019-10-15
+Most Influencial News: 14일 거래소 외국인 순매도상위에 금융업 업종 5종목
+True Value: 0.870
+Predicted Without: 0.860
+Predicted With: 1.213
+
+
+Date: 2019-11-07
+Most Influencial News: 06일 외국인 거래소에서 KODEX 200 0 05 현대차 1 2 등 순매도
+True Value: 0.120
+Predicted Without: -0.524
+Predicted With: 0.275
+
+
+Date: 2019-11-26
+Most Influencial News: 25일 거래소 외국인 순매도상위에 전기 전자 업종 3종목
+True Value: 0.734
+Predicted Without: -1.068
+Predicted With: 0.550
+
+
+Date: 2019-12-09
+Most Influencial News: 매도 동참한 운용사 낙폭과대·업황반등株는 샀다
+True Value: 0.124
+Predicted Without: -0.092
+Predicted With: -0.004
+
+
+Date: 2019-12-11
+Most Influencial News: 코스피 외국인·기관 동반 매도에 약세
+True Value: -0.124
+Predicted Without: 0.497
+Predicted With: 0.289
+
+
+Date: 2020-01-17
+Most Influencial News: 16일 거래소 외국인 순매도상위에 화학 업종 5종목
+True Value: -0.202
+Predicted Without: -0.460
+Predicted With: -0.083
+
+
+Date: 2020-02-11
+Most Influencial News: 10일 거래소 기관 순매도상위에 전기 전자 업종 5종목
+True Value: 1.012
+Predicted Without: 1.867
+Predicted With: 1.323
+
+
+Date: 2020-05-07
+Most Influencial News: 06일 외국인 거래소에서 삼성전자 1 44 KB금융 0 91 등 순매도
+True Value: 0.000
+Predicted Without: -0.491
+Predicted With: -0.081
+
+
+Date: 2020-05-14
+Most Influencial News: 13일 거래소 기관 순매도상위에 서비스업 업종 4종목
+True Value: -3.589
+Predicted Without: -1.403
+Predicted With: -4.187
+
+
+Date: 2020-05-27
+Most Influencial News: 26일 거래소 외국인 순매도상위에 전기 전자 업종 5종목
+True Value: -0.611
+Predicted Without: 1.180
+Predicted With: 0.365
+
+
+Date: 2020-07-13
+Most Influencial News: SK바이오팜 외인 매도 폭탄에도 기관 계속 매수 왜
+True Value: 0.242
+Predicted Without: -0.009
+Predicted With: -0.047
+
+
+Date: 2020-07-14
+Most Influencial News: 13일 외국인 거래소에서 NAVER 0 67 카카오 0 98 등 순매도
+True Value: -0.120
+Predicted Without: 0.303
+Predicted With: -0.094
+
+
+Date: 2020-07-15
+Most Influencial News: 14일 기관 거래소에서 삼성전자 0 75 NAVER 3 37 등 순매도
+True Value: 0.121
+Predicted Without: -1.552
+Predicted With: -0.715
+
+
+Date: 2020-07-17
+Most Influencial News: 16일 거래소 기관 순매도상위에 서비스업 업종 5종목
+True Value: 0.242
+Predicted Without: 0.373
+Predicted With: -0.192
+
+
+Date: 2020-10-06
+Most Influencial News: 개미들 이래서 공매도 금지 간절히 원하나 1년간 공매도 무려 100조
+True Value: -0.240
+Predicted Without: -0.604
+Predicted With: -0.024
+
+
+Date: 2020-12-10
+Most Influencial News: 개미털기 는 옛말 외국인 대량 매도하자 개인이 사들였다
+True Value: -3.320
+Predicted Without: -1.700
+Predicted With: -3.015
+
+
+Date: 2021-06-10
+Most Influencial News: 코스피 외인·기관 매도에 하락 출발 3230선까지 하락
+True Value: 0.408
+Predicted Without: 0.994
+Predicted With: 0.339
+
+
+Date: 2021-08-10
+Most Influencial News: 코스피 외국인·기관 매도에 3260선 후퇴 코스닥 또 연고점
+True Value: -3.017
+Predicted Without: -1.293
+Predicted With: -3.308
+
+
+Date: 2021-08-24
+Most Influencial News: 외국인 매도세 변화 이젠 삼성전자만 때린다
+True Value: 1.942
+Predicted Without: 0.939
+Predicted With: 1.207
+
+
+Date: 2021-09-03
+Most Influencial News: fn오전시황 코스피 외인·기관 순매도 3200선 무너져
+True Value: 0.469
+Predicted Without: 0.169
+Predicted With: 0.125
+
+
+Date: 2021-10-22
+Most Influencial News: fn오후시황 코스피 개인 매도에 3000선으로 후퇴
+True Value: 2.285
+Predicted Without: 0.852
+Predicted With: 2.246
+
+
+Date: 2021-11-18
+Most Influencial News: 코스피 장 초반 2 970대로 후퇴 기관 순매도 종합
+True Value: -0.452
+Predicted Without: 1.158
+Predicted With: -0.223
+
+
+Date: 2021-11-30
+Most Influencial News: 오미크론 쇼크 코스피 파는 개미 개장 10분도 안돼 5000억 순매도
+True Value: -1.724
+Predicted Without: -1.124
+Predicted With: -2.062
+
+
+Date: 2022-01-06
+Most Influencial News: 코스피 장 초반 소폭 하락 기관 1500억 순매도 중
+True Value: -0.398
+Predicted Without: -0.533
+Predicted With: -0.623
+
+
+Date: 2022-03-28
+Most Influencial News: 외국인은 매도세에도 돈 버는데 대형주 사는 동학개미는 울상
+True Value: 0.000
+Predicted Without: 1.114
+Predicted With: 0.442
+
+
+Date: 2022-05-10
+Most Influencial News: 코스피 외인·기관 매도에 약세 출발 2 630대 등락 종합
+True Value: 2.326
+Predicted Without: 0.586
+Predicted With: 1.540
+
+
+Date: 2022-09-30
+Most Influencial News: 삼전·SK하닉에 몰린 공매도 하락장서도 뜬 종목 공통점은
+True Value: 2.847
+Predicted Without: -0.710
+Predicted With: 3.020
+
+
+Date: 2022-10-04
+Most Influencial News: 9월 하락장서 공매도 40 급증 삼전·LG엔솔 1∼2위
+True Value: 3.730
+Predicted Without: 1.302
+Predicted With: 3.346
+
+
+Date: 2023-02-07
+Most Influencial News: fn오전시황 코스피 외인·기관 동반 매도에 하락 2450선
+True Value: 1.908
+Predicted Without: 0.852
+Predicted With: 2.661
+
+
+Date: 2023-07-10
+Most Influencial News: 외국인 바이 코리아 정점 지났나 삼성전자 빼면 순매도 전환
+True Value: -1.342
+Predicted Without: -0.445
+Predicted With: -1.077
+
+
+Date: 2023-08-16
+Most Influencial News: 기관 매도 공세 언제까지 이달 들어 3조 매도
+True Value: 0.783
+Predicted Without: 0.511
+Predicted With: 0.372
+
+

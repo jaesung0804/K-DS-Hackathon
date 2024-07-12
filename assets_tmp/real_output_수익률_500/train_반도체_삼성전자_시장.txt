@@ -1,0 +1,21 @@
+Date: 2019-04-23
+Most Influencial News: 메모리의 2배 시장인 비메모리 韓점유율은 4 3 삼성 비메모리 집중 투자
+True Value: -0.331
+Predicted Without: 0.875
+Predicted With: -0.098
+
+
+Date: 2020-03-13
+Most Influencial News: 삼성TV 세계 최대 북미시장서 독주
+True Value: -1.673
+Predicted Without: -1.115
+Predicted With: -1.302
+
+
+Date: 2021-12-06
+Most Influencial News: TV·전광판 우리가 접수한다 전통 광고시장 큰손 된 스타트업
+True Value: 0.926
+Predicted Without: 0.966
+Predicted With: 1.049
+
+

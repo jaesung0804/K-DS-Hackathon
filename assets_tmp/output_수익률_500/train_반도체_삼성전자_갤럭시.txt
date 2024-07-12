@@ -1,0 +1,196 @@
+Date: 2018-11-19
+Most Influencial News: 삼성 갤럭시J로 인도시장 재탈환 시동
+True Value: -0.795
+Predicted Without: -0.744
+Predicted With: -0.468
+
+
+Date: 2018-12-24
+Most Influencial News: 올해 해외서 한국을 빛낸 브랜드 갤럭시 신라면 인천공항
+True Value: 0.388
+Predicted Without: 0.542
+Predicted With: 0.553
+
+
+Date: 2019-03-27
+Most Influencial News: 삼성전자 6 7인치 大화면 갤럭시A70 공개
+True Value: 0.221
+Predicted Without: 0.531
+Predicted With: 0.184
+
+
+Date: 2019-04-24
+Most Influencial News: 삼성 갤럭시 폴드 출시 연기에도 주가 꿋꿋
+True Value: -0.996
+Predicted Without: -1.309
+Predicted With: -0.826
+
+
+Date: 2019-05-13
+Most Influencial News: 갤럭시폴드 재출격 임박 삼성 수뇌부 심야회동
+True Value: -0.583
+Predicted Without: -1.183
+Predicted With: -0.310
+
+
+Date: 2019-09-11
+Most Influencial News: 갤럭시폴드는 완전히 새로운 기술혁신 성공한 도전이었다
+True Value: 0.319
+Predicted Without: -0.997
+Predicted With: 0.364
+
+
+Date: 2019-12-13
+Most Influencial News: 단독 내년초 출시 갤럭시S11 반려동물 건강관리도 한다
+True Value: 2.627
+Predicted Without: 1.158
+Predicted With: 2.624
+
+
+Date: 2020-01-30
+Most Influencial News: 세계 최초 5G 지원 갤럭시 탭 S6 5G 출시
+True Value: -3.215
+Predicted Without: 0.989
+Predicted With: -2.965
+
+
+Date: 2020-02-11
+Most Influencial News: 소문무성 갤럭시폰’ 드디어 보나요
+True Value: 0.335
+Predicted Without: 1.004
+Predicted With: 0.433
+
+
+Date: 2020-02-18
+Most Influencial News: 갤럭시Z플립 vs 레이저 낙하실험 승자는
+True Value: -2.764
+Predicted Without: -4.244
+Predicted With: -2.815
+
+
+Date: 2020-02-28
+Most Influencial News: 스마트 골프의 시작 갤럭시 워치 액티브2 출시
+True Value: -3.041
+Predicted Without: -2.509
+Predicted With: -2.387
+
+
+Date: 2020-03-11
+Most Influencial News: 갤럭시 버즈 핑크·레드 출시
+True Value: -4.579
+Predicted Without: -1.924
+Predicted With: -4.383
+
+
+Date: 2020-05-04
+Most Influencial News: 황금빛 갤럭시 Z 플립’ 미러골드 색상 추가
+True Value: -3.000
+Predicted Without: -1.282
+Predicted With: -2.630
+
+
+Date: 2020-09-22
+Most Influencial News: 삼성전자 갤럭시노트20 미스틱 그린 25일 출시
+True Value: -1.689
+Predicted Without: -0.814
+Predicted With: -1.921
+
+
+Date: 2021-11-17
+Most Influencial News: 삼성 SW 업데이트 구형 갤럭시워치도 최신기능 사용
+True Value: -0.842
+Predicted Without: 0.454
+Predicted With: -0.694
+
+
+Date: 2022-02-18
+Most Influencial News: 삼성 갤럭시북도 새모델 출격 갤럭시 생태계’ 더 강력해진다
+True Value: -0.933
+Predicted Without: -1.608
+Predicted With: -0.975
+
+
+Date: 2022-02-21
+Most Influencial News: 따끈따끈한 갤럭시S22 삼성카드로 사면 10 할인
+True Value: -0.135
+Predicted Without: 1.176
+Predicted With: 0.036
+
+
+Date: 2022-04-07
+Most Influencial News: 단독 삼성 갤럭시A 1차 출시국서 러시아 제외했다
+True Value: -0.730
+Predicted Without: 0.552
+Predicted With: -0.739
+
+
+Date: 2022-04-29
+Most Influencial News: 갤럭시S22에 칩 공급 퀄컴 사상 최대 매출
+True Value: 4.012
+Predicted Without: 1.485
+Predicted With: 3.457
+
+
+Date: 2022-06-27
+Most Influencial News: 컬래버’ 진심인 갤럭시 폰꾸族’ 마음도 잡았다
+True Value: 0.685
+Predicted Without: -1.468
+Predicted With: 0.483
+
+
+Date: 2022-11-17
+Most Influencial News: 퀄컴 갤럭시S23에 쓰일 모바일 칩 공개
+True Value: -2.073
+Predicted Without: 0.728
+Predicted With: -1.714
+
+
+Date: 2023-05-02
+Most Influencial News: 똑똑해지는 이미지센서 갤럭시로 달 사진 찍는 비결
+True Value: 0.305
+Predicted Without: -0.697
+Predicted With: 0.211
+
+
+Date: 2023-07-14
+Most Influencial News: 점유율 4 삼성 엑시노스 신형 갤럭시 탑재로 반등 노려
+True Value: 2.086
+Predicted Without: 0.964
+Predicted With: 2.117
+
+
+Date: 2023-07-26
+Most Influencial News: 삼성전자 26일 갤럭시 언팩 개최
+True Value: -0.286
+Predicted Without: 0.585
+Predicted With: 0.096
+
+
+Date: 2023-08-10
+Most Influencial News: 갤럭시 vs 아이폰 판세 공급망 재편이 가른다
+True Value: -1.306
+Predicted Without: -1.088
+Predicted With: -1.271
+
+
+Date: 2023-08-21
+Most Influencial News: 삼성 지구를 위한 갤럭시 플라스틱 포장재 97 저감
+True Value: 0.452
+Predicted Without: 1.315
+Predicted With: 0.479
+
+
+Date: 2023-09-20
+Most Influencial News: 삼성 내달 보급형 갤럭시S23 출격
+True Value: -0.287
+Predicted Without: 0.566
+Predicted With: -0.138
+
+
+Date: 2023-10-18
+Most Influencial News: 갤럭시 스마트태그2 NFC 지원 분실 걱정 끝
+True Value: 1.585
+Predicted Without: 1.462
+Predicted With: 1.526
+
+

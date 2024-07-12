@@ -1,0 +1,28 @@
+Date: 2018-11-09
+Most Influencial News: 단독 한국 대표기업 수익성 비상
+True Value: 0.568
+Predicted Without: 1.716
+Predicted With: 0.393
+
+
+Date: 2019-03-22
+Most Influencial News: 한국산업의 브랜드파워 냉장고 삼성 셰프컬렉션 패밀리허브
+True Value: 1.527
+Predicted Without: 0.592
+Predicted With: 1.335
+
+
+Date: 2020-08-25
+Most Influencial News: fn논단 한국 기업이 강한 이유 K 이노베이션
+True Value: 0.535
+Predicted Without: -1.984
+Predicted With: 0.605
+
+
+Date: 2022-06-08
+Most Influencial News: 6만전자 로 본 한국 기업의 딜레마 조일훈의 6만전자 탐색전
+True Value: -0.305
+Predicted Without: -0.48
+Predicted With: -0.043
+
+

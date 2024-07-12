@@ -1,0 +1,259 @@
+Date: 2019-02-15
+Most Influencial News: 코스피 기관 대규모 순매수에 고공행진
+True Value: -3.053
+Predicted Without: -1.834
+Predicted With: -3.078
+
+
+Date: 2019-03-11
+Most Influencial News: 이런 펀드 어때요 재무 튼튼한 기업에 장기투자 수익률 코스피 5 P’ 목표
+True Value: -0.342
+Predicted Without: 0.837
+Predicted With: -0.482
+
+
+Date: 2019-04-16
+Most Influencial News: 코스피 13년만에 12거래일 랠리
+True Value: 0.425
+Predicted Without: 0.262
+Predicted With: 0.297
+
+
+Date: 2019-04-18
+Most Influencial News: 뛰는 코스피 위에 날아간 중소형株펀드
+True Value: -3.082
+Predicted Without: -1.264
+Predicted With: -2.861
+
+
+Date: 2019-10-15
+Most Influencial News: 내년 투자전략 증시 대기자금 증가·연기금 사자 코스피 훈풍 조짐
+True Value: 0.200
+Predicted Without: 0.988
+Predicted With: 0.073
+
+
+Date: 2020-03-25
+Most Influencial News: 코스피·코스닥 8 넘게 폭등 매수 사이드카 동시 발동
+True Value: 3.621
+Predicted Without: 1.456
+Predicted With: 3.218
+
+
+Date: 2020-11-17
+Most Influencial News: 위험자산에 쏠린 돈 코스피 연내 사상 최고치 찍는다 증시·원화가치 고공행진
+True Value: -0.905
+Predicted Without: -1.020
+Predicted With: -1.037
+
+
+Date: 2020-11-20
+Most Influencial News: 투자자예탁금 사상최대 65조 코스피 연이틀 연고점 경신
+True Value: 0.155
+Predicted Without: -1.651
+Predicted With: 0.003
+
+
+Date: 2020-11-24
+Most Influencial News: BBIG 코스피 반등 이끌고 삼성전자가 새 역사 축포 쐈다
+True Value: 0.296
+Predicted Without: -2.518
+Predicted With: 0.527
+
+
+Date: 2020-11-25
+Most Influencial News: 코스피 더 간다는데 개미는 곱버스 베팅
+True Value: -1.625
+Predicted Without: -1.338
+Predicted With: -1.525
+
+
+Date: 2020-12-09
+Most Influencial News: 내년 코스피 3200 간다 JP모간 한국 시장 전망 보고서
+True Value: 3.068
+Predicted Without: 2.173
+Predicted With: 3.274
+
+
+Date: 2020-12-23
+Most Influencial News: 백두산 정복한 코스피 황소의 해 유망 투자처는 어디
+True Value: 2.213
+Predicted Without: -0.927
+Predicted With: 1.715
+
+
+Date: 2021-01-05
+Most Influencial News: 늘어난 배당성향 코스피 3000 발판
+True Value: 1.084
+Predicted Without: 1.247
+Predicted With: 1.284
+
+
+Date: 2021-02-26
+Most Influencial News: 동학개미 1 9조 던졌지만 외국인 폭풍매수 코스피 3100 눈앞
+True Value: -3.283
+Predicted Without: -1.499
+Predicted With: -3.456
+
+
+Date: 2021-03-16
+Most Influencial News: 연기금 52거래일만의 귀환 코스피 박스권 뚫을까
+True Value: 1.222
+Predicted Without: 1.551
+Predicted With: 1.097
+
+
+Date: 2021-05-11
+Most Influencial News: 코스피 사상 최고 공매도·금리인상 공포 날렸다
+True Value: -2.404
+Predicted Without: -1.651
+Predicted With: -2.402
+
+
+Date: 2021-06-09
+Most Influencial News: 코스피 고배당50에 삼성전자 편입
+True Value: -0.977
+Predicted Without: -0.329
+Predicted With: -0.709
+
+
+Date: 2021-06-10
+Most Influencial News: 코스피 고배당50 14개 종목 신규 편입 순환매 장세 배당주 관심
+True Value: -0.123
+Predicted Without: 1.011
+Predicted With: -0.050
+
+
+Date: 2021-06-14
+Most Influencial News: 코스피 시총 TOP10·레버리지 지수 나온다
+True Value: -0.617
+Predicted Without: -0.323
+Predicted With: -0.550
+
+
+Date: 2021-06-29
+Most Influencial News: 코스피 두 배 수익 연기금·외국인 비결은
+True Value: -1.099
+Predicted Without: -1.551
+Predicted With: -1.142
+
+
+Date: 2021-08-24
+Most Influencial News: 외국인 팔 만큼 팔았나 코스피 장중 3100선 회복
+True Value: 3.138
+Predicted Without: 1.796
+Predicted With: 3.520
+
+
+Date: 2021-10-13
+Most Influencial News: 동학개미 어쩌나 7만전자 무너지자 코스피 2900도 위태
+True Value: -0.290
+Predicted Without: 0.349
+Predicted With: 0.027
+
+
+Date: 2021-11-05
+Most Influencial News: 美 조기 금리인상 우려 완화 삼천피에 묶인 코스피 힘받나
+True Value: -0.567
+Predicted Without: 1.054
+Predicted With: -0.070
+
+
+Date: 2021-11-18
+Most Influencial News: 코스피 기업 누적 순익 128조 코로나 이전 뛰어넘었다 상장사 3분기도 깜짝실적
+True Value: -0.707
+Predicted Without: -0.825
+Predicted With: -0.774
+
+
+Date: 2021-12-02
+Most Influencial News: 코스피 3중악재 덮쳤지만 증권가 주식비중 더 늘려라
+True Value: 1.882
+Predicted Without: 1.320
+Predicted With: 2.643
+
+
+Date: 2022-01-03
+Most Influencial News: FOMC 앞두고 코스피 관망세 삼성전자 4분기 실적발표 주목 주간 증시 전망
+True Value: 0.383
+Predicted Without: -0.947
+Predicted With: 0.165
+
+
+Date: 2022-01-06
+Most Influencial News: 기관 변심에 코스피 1월 효과 사라지나
+True Value: -0.646
+Predicted Without: -1.645
+Predicted With: -0.495
+
+
+Date: 2022-04-28
+Most Influencial News: 호재가 없다 코스피 한달새 시총 73조원 증발
+True Value: -0.308
+Predicted Without: -0.877
+Predicted With: -0.499
+
+
+Date: 2022-05-16
+Most Influencial News: 코스피 50 뛸 때 개미 수익률 고작 1 9
+True Value: -0.301
+Predicted Without: -0.829
+Predicted With: -0.478
+
+
+Date: 2022-05-20
+Most Influencial News: 긴축 에 쪼그라드는 코스피 시총 톱10 올 평균 15 하락 금융시장 덮친 S공포
+True Value: 0.741
+Predicted Without: 0.731
+Predicted With: 0.796
+
+
+Date: 2022-07-11
+Most Influencial News: 상하이 2 오를 때 코스피 10 급락 제값 못받는 한국
+True Value: 0.170
+Predicted Without: 0.348
+Predicted With: -0.046
+
+
+Date: 2022-07-22
+Most Influencial News: 돌아온 외국인 코스피 2400선 회복
+True Value: -0.809
+Predicted Without: -0.393
+Predicted With: -0.868
+
+
+Date: 2022-07-27
+Most Influencial News: 코스피 올랐는데 또 헛물 켠 개미 곱버스 만 잔뜩 샀네
+True Value: 0.162
+Predicted Without: 0.871
+Predicted With: 0.236
+
+
+Date: 2022-08-19
+Most Influencial News: KEDI 30 ETF 코스피 압도 베어마켓 랠리서 더 빛났다
+True Value: -0.976
+Predicted Without: -2.252
+Predicted With: -1.207
+
+
+Date: 2023-05-31
+Most Influencial News: 美 훈풍 타고 살아난 투심 코스피 연중 최고치
+True Value: -1.245
+Predicted Without: 0.580
+Predicted With: -1.064
+
+
+Date: 2023-06-26
+Most Influencial News: 코스피 2800 간다 시장 주도주는 S·A·B·B
+True Value: 1.117
+Predicted Without: 0.804
+Predicted With: 1.019
+
+
+Date: 2023-06-28
+Most Influencial News: 한경 머니콘서트 2023 하반기 코스피 2900 간다
+True Value: 0.138
+Predicted Without: 0.474
+Predicted With: 0.247
+
+

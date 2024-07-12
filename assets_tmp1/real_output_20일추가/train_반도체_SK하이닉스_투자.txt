@@ -1,0 +1,49 @@
+Date: 2018-12-07
+Most Influencial News: SK하이닉스 단기부진 여전히 저평가 매수 이베스트투자證
+True Value: 1.212
+Predicted Without: -1.363
+Predicted With: 1.634
+
+
+Date: 2019-11-07
+Most Influencial News: 하반기 우수한 성적표 받은 외국인투자자 개미는 저조
+True Value: 0.12
+Predicted Without: -1.077
+Predicted With: -0.085
+
+
+Date: 2021-10-05
+Most Influencial News: 저가매수’ vs 인버스’ 조정장 속 개미들 투자 선택은
+True Value: -2.1
+Predicted Without: -1.446
+Predicted With: -2.289
+
+
+Date: 2021-12-02
+Most Influencial News: 코스피 내년 3000이 최대치 글로벌 투자은행들 줄하향
+True Value: 3.004
+Predicted Without: 1.775
+Predicted With: 3.008
+
+
+Date: 2022-12-27
+Most Influencial News: 한산한 연말 증시 배당 노린 금융투자 순매수세에 코스피 소폭 상승
+True Value: 0.0
+Predicted Without: -0.577
+Predicted With: -0.014
+
+
+Date: 2023-04-28
+Most Influencial News: 반도체 장기 업사이클 초기 SK하이닉스 저점 매수 하이투자증권
+True Value: 0.788
+Predicted Without: -1.757
+Predicted With: 0.405
+
+
+Date: 2023-06-29
+Most Influencial News: 상반기 투자 개미가 1등 나만 마이너스야 이 종목에 희비
+True Value: 1.662
+Predicted Without: 1.167
+Predicted With: 1.487
+
+

@@ -1,0 +1,63 @@
+Date: 2019-01-22
+Most Influencial News: 수출급감 반도체 전망에 박성욱 2분기 지켜봐야
+True Value: -0.597
+Predicted Without: 0.745
+Predicted With: -2.118
+
+
+Date: 2020-01-08
+Most Influencial News: 이란 사태에도 외국인 반도체·금융株 샀다
+True Value: 3.617
+Predicted Without: 1.657
+Predicted With: 2.647
+
+
+Date: 2020-07-07
+Most Influencial News: 꿈에 부푼 코스피 반도체 최악의 2분기 해피엔딩 예감
+True Value: -1.395
+Predicted Without: -0.619
+Predicted With: -1.141
+
+
+Date: 2020-09-21
+Most Influencial News: 반도체·자동차株 쇼핑 외국인이 돌아온다
+True Value: 0.956
+Predicted Without: 0.294
+Predicted With: 0.389
+
+
+Date: 2021-08-13
+Most Influencial News: 골드만삭스 韓반도체 긍정시각 유지 모건스탠리와 정반대 의견
+True Value: 0.995
+Predicted Without: 0.928
+Predicted With: 0.958
+
+
+Date: 2022-06-02
+Most Influencial News: 반도체 빅2 역대급 실적 상장사 3분의 1은 마이너스 성장
+True Value: -0.926
+Predicted Without: 0.045
+Predicted With: -0.058
+
+
+Date: 2022-09-27
+Most Influencial News: 하나증권 코스피 하단 2 100 예상 내년 1분기 반도체 저점
+True Value: -0.606
+Predicted Without: -1.048
+Predicted With: -1.803
+
+
+Date: 2022-11-23
+Most Influencial News: 증권가 반도체 업황 최악이지만 저점 매수할 만해
+True Value: 0.0
+Predicted Without: -0.3
+Predicted With: -0.304
+
+
+Date: 2023-08-28
+Most Influencial News: 외국인이 올해 배터리 팔고 반도체 주식만 산 이유 자이앤트TV
+True Value: -0.515
+Predicted Without: 0.502
+Predicted With: 0.098
+
+

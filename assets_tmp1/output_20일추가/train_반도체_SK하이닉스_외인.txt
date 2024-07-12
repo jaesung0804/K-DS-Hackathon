@@ -1,0 +1,112 @@
+Date: 2019-05-21
+Most Influencial News: 공매도 시장은 외인 놀이터 대량보유자 공시의 97 차지
+True Value: -0.846
+Predicted Without: -0.933
+Predicted With: -1.033
+
+
+Date: 2019-09-23
+Most Influencial News: 지난달 외인 많이 산 10개 종목 주가 저점 대비 15 상승
+True Value: 0.730
+Predicted Without: 0.696
+Predicted With: 0.641
+
+
+Date: 2020-04-16
+Most Influencial News: 외인과 개인 주거니 받거니 데칼코마니 매매 반복
+True Value: -1.215
+Predicted Without: -0.056
+Predicted With: -0.235
+
+
+Date: 2020-07-13
+Most Influencial News: SK바이오팜 외인 매도 폭탄에도 기관 계속 매수 왜
+True Value: 0.242
+Predicted Without: 0.008
+Predicted With: -0.169
+
+
+Date: 2020-09-04
+Most Influencial News: 코스피 외인 매수세에 장중 2400선 돌파
+True Value: 0.000
+Predicted Without: 1.161
+Predicted With: 0.029
+
+
+Date: 2021-04-12
+Most Influencial News: 국민연금이 팔아치웠던 대형주 외인 매수세에 상승 탄력 붙나
+True Value: -1.786
+Predicted Without: -0.706
+Predicted With: -1.557
+
+
+Date: 2021-08-13
+Most Influencial News: 하이닉스 시총 2위 네이버에 내줄 판 외인 매물 폭탄
+True Value: 0.995
+Predicted Without: -1.417
+Predicted With: 1.296
+
+
+Date: 2021-10-07
+Most Influencial News: 외인 팔자 못버틴 코스피 9개월만에 최저점 전문가 조언은
+True Value: -0.829
+Predicted Without: 1.354
+Predicted With: -0.815
+
+
+Date: 2022-01-12
+Most Influencial News: 코스피 외인 매수에 상승 출발 2940선 등락
+True Value: 0.391
+Predicted Without: 0.482
+Predicted With: 0.031
+
+
+Date: 2022-04-07
+Most Influencial News: 급격한 금리 인상 가능성 외인·기관 쌍끌이 매도세
+True Value: 0.442
+Predicted Without: -0.593
+Predicted With: 0.597
+
+
+Date: 2022-11-25
+Most Influencial News: 코스피 외인·기관 쌍끌이 순매수에 상승 2 440대 종합2보
+True Value: -2.071
+Predicted Without: -0.695
+Predicted With: -1.969
+
+
+Date: 2023-01-12
+Most Influencial News: 뜻밖의 1월 효과 외인 1 8조원 쓸어담았다
+True Value: -0.573
+Predicted Without: -1.182
+Predicted With: -0.713
+
+
+Date: 2023-03-31
+Most Influencial News: 외인·기관 쌍끌이 매도에 힘 잃은 코스피 삼전·하이닉스 반등
+True Value: -0.225
+Predicted Without: 1.269
+Predicted With: 0.047
+
+
+Date: 2023-05-18
+Most Influencial News: 코스피·코스닥 외인·기관 쌍끌이 매수에 상승 2차전지·인터넷 강세
+True Value: 1.850
+Predicted Without: 1.544
+Predicted With: 1.824
+
+
+Date: 2023-07-05
+Most Influencial News: 외인 기관 매도에도 코스피·코스닥 동반 상승 에코프로비엠 강세
+True Value: -1.018
+Predicted Without: 1.100
+Predicted With: -1.204
+
+
+Date: 2023-09-05
+Most Influencial News: fn오후시황 코스피 외인 순매수 자금 늘자 상승폭 확대
+True Value: 0.168
+Predicted Without: -0.800
+Predicted With: 0.057
+
+

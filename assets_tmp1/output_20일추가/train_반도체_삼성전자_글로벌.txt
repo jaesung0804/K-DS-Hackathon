@@ -1,0 +1,147 @@
+Date: 2018-11-20
+Most Influencial News: 글로벌 100대 브랜드 중국 12개 한국은 삼성만
+True Value: -1.947
+Predicted Without: -1.644
+Predicted With: -1.857
+
+
+Date: 2019-04-23
+Most Influencial News: 미세먼지·알레르기 99 999 차단 삼성 제트 무선청소기 글로벌 인정
+True Value: -0.331
+Predicted Without: 1.055
+Predicted With: -0.223
+
+
+Date: 2019-06-26
+Most Influencial News: 글로벌 원유 13 생산 영업이익 애플의 3배
+True Value: 0.219
+Predicted Without: -1.388
+Predicted With: 0.256
+
+
+Date: 2019-12-18
+Most Influencial News: 민·관 힘 합쳐 글로벌 시장 선도할 로봇기업 만들자 2019 미래 로봇 리더스 포럼
+True Value: -0.705
+Predicted Without: -0.572
+Predicted With: -0.972
+
+
+Date: 2020-01-31
+Most Influencial News: 글로벌 증시 ESG 지표가 투자 핵심 변수로 뜨는데 한국선 돈 빠지는 사회책임 펀드
+True Value: -1.399
+Predicted Without: -0.771
+Predicted With: -1.303
+
+
+Date: 2020-05-06
+Most Influencial News: 삼성 외환위기 거치며 글로벌 대표기업 도약 현대차는 금융위기 이후 美 점유율 2배 늘려
+True Value: 1.443
+Predicted Without: 0.974
+Predicted With: 1.415
+
+
+Date: 2020-06-04
+Most Influencial News: 글로벌 경쟁사보다 저평가 종목 줄줄이 강세
+True Value: 0.183
+Predicted Without: 1.953
+Predicted With: 0.376
+
+
+Date: 2020-06-23
+Most Influencial News: 사설 팬데믹시대 위기 속에 기회 찾는 글로벌 기업들
+True Value: -1.154
+Predicted Without: -0.640
+Predicted With: -1.079
+
+
+Date: 2020-07-15
+Most Influencial News: 정의선 5년내 전기車 100만대 생산 글로벌 점유율 10 목표
+True Value: 1.673
+Predicted Without: 1.408
+Predicted With: 1.765
+
+
+Date: 2020-08-21
+Most Influencial News: 충무로에서 韓·日 글로벌 1위 제품 의 차이
+True Value: 0.903
+Predicted Without: 1.655
+Predicted With: 0.827
+
+
+Date: 2021-02-25
+Most Influencial News: 삼성전자 글로벌 청년리더 착한 성장 돕는다
+True Value: 4.024
+Predicted Without: 1.443
+Predicted With: 3.791
+
+
+Date: 2021-06-15
+Most Influencial News: 글로벌 XR시장 5년내 10배 커져 대중화 급물살
+True Value: 0.497
+Predicted Without: 0.635
+Predicted With: 0.438
+
+
+Date: 2021-12-20
+Most Influencial News: fn사설 글로벌 반도체 공급망 재편 국면을 기회 삼길
+True Value: -1.154
+Predicted Without: -1.084
+Predicted With: -1.165
+
+
+Date: 2022-06-22
+Most Influencial News: 매경 글로벌포럼 30년 우정 韓·베트남 이젠 팀VK 로 뛴다
+True Value: -1.538
+Predicted Without: -1.750
+Predicted With: -1.409
+
+
+Date: 2022-07-05
+Most Influencial News: 자동차 부품사 대성엘텍 디에이치글로벌에 팔린다
+True Value: 0.175
+Predicted Without: 0.825
+Predicted With: 0.330
+
+
+Date: 2022-08-04
+Most Influencial News: 될 놈이다 글로벌VC가 베팅한 신생 스타트업 中 50곳·韓 3곳 긱스
+True Value: 0.326
+Predicted Without: 0.594
+Predicted With: 0.105
+
+
+Date: 2022-08-05
+Most Influencial News: 글로벌 500대 기업 매출 中이 美 첫 추월
+True Value: 0.000
+Predicted Without: 0.846
+Predicted With: 0.349
+
+
+Date: 2022-09-27
+Most Influencial News: 시론 플랫폼 기업도 글로벌로
+True Value: 0.557
+Predicted Without: 1.156
+Predicted With: 0.456
+
+
+Date: 2023-01-20
+Most Influencial News: 글로벌 파운드리도 먹구름 올해 매출 작년보다 4 줄듯
+True Value: 0.488
+Predicted Without: 0.715
+Predicted With: 0.570
+
+
+Date: 2023-06-07
+Most Influencial News: 글로벌 불확실성 해법 찾자 4대 그룹 릴레이 전략회의
+True Value: -0.976
+Predicted Without: -1.304
+Predicted With: -0.989
+
+
+Date: 2023-08-14
+Most Influencial News: 한국 AI분야 잠재력 뛰어나 구글의 글로벌 R amp;D 요충지
+True Value: -0.296
+Predicted Without: 0.575
+Predicted With: 0.029
+
+

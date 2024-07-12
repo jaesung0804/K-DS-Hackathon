@@ -1,0 +1,63 @@
+Date: 2019-11-29
+Most Influencial News: Hello CEO AI시대 첨단 기술기업 변신하려면 글로벌 1등기업과 손잡는게 지름길
+True Value: -1.949
+Predicted Without: -1.625
+Predicted With: -1.734
+
+
+Date: 2020-12-02
+Most Influencial News: 낸드 투자 확 늘리는 삼성 기술장벽 더 높이 쌓는다
+True Value: 2.507
+Predicted Without: 0.947
+Predicted With: 2.607
+
+
+Date: 2021-11-24
+Most Influencial News: 모빌리티 삼성전자 美서 6G 실험 차세대 기술 선점 나선다
+True Value: -0.664
+Predicted Without: -1.676
+Predicted With: -0.468
+
+
+Date: 2022-01-04
+Most Influencial News: 최고 기술 전문가 삼성명장’ 11인 선발
+True Value: 0.127
+Predicted Without: 0.6
+Predicted With: 0.145
+
+
+Date: 2022-06-23
+Most Influencial News: 삼성전자 AI 선행 기술연구·인재 영입 사활 초격차 실현
+True Value: -0.347
+Predicted Without: 0.893
+Predicted With: -0.094
+
+
+Date: 2022-12-21
+Most Influencial News: 6G·AI·로봇 삼성이 주목한 올해의 기술
+True Value: -1.024
+Predicted Without: -0.522
+Predicted With: -0.602
+
+
+Date: 2023-03-08
+Most Influencial News: 구미전자공고 찾은 이재용 회장 기술 인재가 제조업 혁신 좌우
+True Value: -0.659
+Predicted Without: -0.779
+Predicted With: -0.61
+
+
+Date: 2023-09-21
+Most Influencial News: 삼성·TSMC 보고있나 인텔 1 8나노 반도체 양산기술 공개
+True Value: -1.006
+Predicted Without: -0.612
+Predicted With: -0.715
+
+
+Date: 2023-10-23
+Most Influencial News: 천리길 함께 간다 이재용 1년 기술·네트워크 광폭 경영
+True Value: -0.581
+Predicted Without: -0.625
+Predicted With: -0.38
+
+

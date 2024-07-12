@@ -1,0 +1,231 @@
+Date: 2018-11-05
+Most Influencial News: 정부 경제전망 신뢰성 논란 한국경제 겨울이 오고 있다 내년 계획 못잡는 기업들
+True Value: -0.793
+Predicted Without: -0.538
+Predicted With: -0.531
+
+
+Date: 2018-12-24
+Most Influencial News: 목표주가 초비상 한국대표 대형주 90 무더기 하향
+True Value: 0.388
+Predicted Without: -0.384
+Predicted With: -0.178
+
+
+Date: 2019-05-23
+Most Influencial News: 한국 온 부시 첫 일정은 이재용 면담
+True Value: 0.805
+Predicted Without: 0.502
+Predicted With: -0.026
+
+
+Date: 2019-06-05
+Most Influencial News: 무역전쟁 리스크 커지자 미국으로 몰려가는 한국기업들
+True Value: 1.036
+Predicted Without: 0.352
+Predicted With: 0.340
+
+
+Date: 2019-06-20
+Most Influencial News: 김수언의 이슈프리즘 10년 후 한국을 걱정하는 이유
+True Value: 0.331
+Predicted Without: 0.619
+Predicted With: 0.313
+
+
+Date: 2019-07-04
+Most Influencial News: 이공계 CEO·석학들의 경고 한국 경제 10년 이상 장기침체
+True Value: 1.322
+Predicted Without: 0.626
+Predicted With: 0.823
+
+
+Date: 2019-07-09
+Most Influencial News: 김용준의 데스크 시각 전략전쟁의 시작 한국의 전략은
+True Value: 1.577
+Predicted Without: 0.578
+Predicted With: 0.912
+
+
+Date: 2019-07-31
+Most Influencial News: 매경이 만난 사람 한국경영자총협회 손경식 회장
+True Value: -2.578
+Predicted Without: 0.523
+Predicted With: -1.090
+
+
+Date: 2019-10-17
+Most Influencial News: 美 수입차 규제 한국은 제외해달라
+True Value: -0.394
+Predicted Without: -0.763
+Predicted With: -0.787
+
+
+Date: 2019-11-20
+Most Influencial News: 동남아여행 필수 앱 무브 한국어로 전용車·운전기사 불러
+True Value: -2.804
+Predicted Without: 0.241
+Predicted With: 0.542
+
+
+Date: 2020-03-02
+Most Influencial News: 캄보디아는 한국 금융회사들의 금맥
+True Value: 1.476
+Predicted Without: -1.552
+Predicted With: 1.635
+
+
+Date: 2020-05-22
+Most Influencial News: 천자 칼럼 한국산 TV의 힘
+True Value: -2.402
+Predicted Without: -0.628
+Predicted With: -1.194
+
+
+Date: 2020-10-22
+Most Influencial News: 한국판 러스트벨트 시간문제 중견·중소기업 스케일업 전략 중요
+True Value: -1.314
+Predicted Without: -1.019
+Predicted With: -0.624
+
+
+Date: 2020-10-29
+Most Influencial News: 기업인 기념·추모관 없는 한국
+True Value: -1.525
+Predicted Without: 0.444
+Predicted With: -1.410
+
+
+Date: 2020-11-05
+Most Influencial News: 트럼프 투자 압박 바이든은 불확실성 누가 되더라도 한국 기업들 부담 커진다
+True Value: 3.077
+Predicted Without: 0.592
+Predicted With: 1.413
+
+
+Date: 2021-02-01
+Most Influencial News: 테슬라 온라인주총 보셨나요 한국서도 매경 통하면 됩니다
+True Value: 1.220
+Predicted Without: 1.850
+Predicted With: 2.346
+
+
+Date: 2021-02-08
+Most Influencial News: 한국판 28㎓ 5G특화망 속도 붙이는 정부 이통사 곤혹
+True Value: -0.599
+Predicted Without: -0.346
+Predicted With: -0.014
+
+
+Date: 2021-03-15
+Most Influencial News: 한국의 메모리 경쟁력 세계 1위 더 이상 통하지 않는 상황 올 것
+True Value: -1.208
+Predicted Without: -0.920
+Predicted With: -1.191
+
+
+Date: 2021-03-24
+Most Influencial News: 회계는 사회적 공기 한국기업 투명경영·해외진출 도운 거인
+True Value: -0.978
+Predicted Without: 0.407
+Predicted With: -0.715
+
+
+Date: 2021-04-01
+Most Influencial News: 시론 제2 페이스북 한국에서 나온다
+True Value: 1.843
+Predicted Without: 0.231
+Predicted With: -0.602
+
+
+Date: 2021-04-22
+Most Influencial News: 한국에 또하나의 장벽 초미세 패키징
+True Value: -0.242
+Predicted Without: 0.792
+Predicted With: -0.131
+
+
+Date: 2021-06-09
+Most Influencial News: 마이크론 최첨단 D램 한국 추월 투자 적기 놓쳐선 안된다 사설
+True Value: -0.977
+Predicted Without: -0.885
+Predicted With: -1.206
+
+
+Date: 2021-06-21
+Most Influencial News: 코로나·기후변화 해법 찾는다 한국 양자컴 전쟁 이제 첫발
+True Value: -0.745
+Predicted Without: 0.197
+Predicted With: 0.013
+
+
+Date: 2021-09-29
+Most Influencial News: 재팬 톡 한국기업을 보는 日의 프레임
+True Value: -2.883
+Predicted Without: -0.512
+Predicted With: -1.294
+
+
+Date: 2022-05-20
+Most Influencial News: fn사설 한국 오자마자 반도체 공장 가는 바이든 대통령
+True Value: 0.741
+Predicted Without: 0.483
+Predicted With: 0.500
+
+
+Date: 2022-10-04
+Most Influencial News: 한국무역보험공사 美 수출입은행과 원스톱 협조금융 구축
+True Value: 3.955
+Predicted Without: 1.702
+Predicted With: 3.485
+
+
+Date: 2022-10-12
+Most Influencial News: KCSI 한국산업의 고객만족도 총체적 경험 제공이 1등 고객만족의 출발
+True Value: 0.722
+Predicted Without: -0.482
+Predicted With: 0.534
+
+
+Date: 2022-11-09
+Most Influencial News: 사설 구조조정 나선 美 빅테크 한국 강 건너 불구경할 때 아니다
+True Value: 0.324
+Predicted Without: -0.714
+Predicted With: 0.346
+
+
+Date: 2022-11-11
+Most Influencial News: 中수출통제 한국기업 피해 최소화
+True Value: 4.139
+Predicted Without: 1.119
+Predicted With: 1.768
+
+
+Date: 2022-11-25
+Most Influencial News: AI 스타트업 투자위해 한국지사 곧 설립할 것
+True Value: -0.651
+Predicted Without: -0.275
+Predicted With: 0.089
+
+
+Date: 2023-04-05
+Most Influencial News: 왓츠업 실리콘밸리 오픈AI의 미국 그리고 한국
+True Value: 0.472
+Predicted Without: -0.309
+Predicted With: 0.083
+
+
+Date: 2023-06-22
+Most Influencial News: 유가증권시장 공시 한국카본 디아이
+True Value: 1.135
+Predicted Without: 1.248
+Predicted With: 0.928
+
+
+Date: 2023-06-29
+Most Influencial News: 모자이크 코리아 한국서 창업 5300명 몰렸지만 비자발급은 2 도 안돼
+True Value: -0.413
+Predicted Without: 0.726
+Predicted With: 0.170
+
+

@@ -1,0 +1,140 @@
+Date: 2018-12-11
+Most Influencial News: 印 최고부호 딸 결혼식에 글로벌CEO 총출동
+True Value: 0.124
+Predicted Without: 0.532
+Predicted With: -0.189
+
+
+Date: 2019-01-03
+Most Influencial News: 글로벌 경쟁사와 싸울 시간도 모자란데 지배구조 그림만 그리다 날샐 판
+True Value: -2.968
+Predicted Without: -2.333
+Predicted With: -2.584
+
+
+Date: 2019-07-03
+Most Influencial News: 글로벌 고객만족 GCSI 15년 베트남 하노이서 1위 기업 인증식
+True Value: -1.838
+Predicted Without: 1.236
+Predicted With: -1.563
+
+
+Date: 2019-10-07
+Most Influencial News: 디지털 콕핏 글로벌 경쟁 뛰어든 현대차
+True Value: -0.521
+Predicted Without: 1.447
+Predicted With: -0.050
+
+
+Date: 2019-10-10
+Most Influencial News: 증권사 글로벌 매매 서비스 삼성전자 매도한 날 美 증시 애플 매수 가능
+True Value: -0.716
+Predicted Without: -0.752
+Predicted With: -0.566
+
+
+Date: 2019-10-28
+Most Influencial News: 글로벌 반도체 재고 소진 원익IPS·테스 연일 1년 신고가 경신
+True Value: 0.786
+Predicted Without: 0.807
+Predicted With: 0.613
+
+
+Date: 2019-11-29
+Most Influencial News: Hello CEO AI시대 첨단 기술기업 변신하려면 글로벌 1등기업과 손잡는게 지름길
+True Value: -1.949
+Predicted Without: -1.625
+Predicted With: -1.734
+
+
+Date: 2019-12-23
+Most Influencial News: 미래에셋코어테크펀드 반도체·5G통신장비 등 글로벌 경쟁력 갖춘 IT업종에 집중 이런 펀드 어때요
+True Value: -0.893
+Predicted Without: -0.529
+Predicted With: -0.647
+
+
+Date: 2020-05-06
+Most Influencial News: 삼성 외환위기 거치며 글로벌 대표기업 도약 현대차는 금융위기 이후 美 점유율 2배 늘려
+True Value: 1.443
+Predicted Without: 0.842
+Predicted With: 1.570
+
+
+Date: 2020-05-19
+Most Influencial News: 이재용 코로나 이후 글로벌 CEO로는 첫 中 방문 때를 놓치면 끝장
+True Value: 3.074
+Predicted Without: 1.542
+Predicted With: 3.334
+
+
+Date: 2020-06-23
+Most Influencial News: 사설 팬데믹시대 위기 속에 기회 찾는 글로벌 기업들
+True Value: -1.154
+Predicted Without: 0.934
+Predicted With: -0.361
+
+
+Date: 2020-07-15
+Most Influencial News: 그린 뉴딜 선봉에 선 정의선 글로벌 전기車 점유율 10 달성
+True Value: 1.673
+Predicted Without: 2.141
+Predicted With: 1.977
+
+
+Date: 2020-07-22
+Most Influencial News: 유경플레인바닐라글로벌자산배분펀드 선진·신흥국 주식 절반씩 16 수익
+True Value: -1.085
+Predicted Without: 1.725
+Predicted With: -0.631
+
+
+Date: 2021-05-03
+Most Influencial News: 미·중 백신 줄테니 내편에 서달라 무기가 된 백신 글로벌 리포트
+True Value: 0.245
+Predicted Without: 1.127
+Predicted With: 0.063
+
+
+Date: 2022-07-01
+Most Influencial News: 부산 베스트브랜드 2030 월드엑스포·가덕도신공항 부산 글로벌 도시로 우뚝
+True Value: -1.404
+Predicted Without: -1.036
+Predicted With: -1.133
+
+
+Date: 2022-08-16
+Most Influencial News: 美 수출 통제로 中 반도체 생태계에 비수 中 글로벌 공급망 파행
+True Value: 1.329
+Predicted Without: 0.956
+Predicted With: 1.977
+
+
+Date: 2022-09-27
+Most Influencial News: 시론 플랫폼 기업도 글로벌로
+True Value: 0.557
+Predicted Without: 0.895
+Predicted With: 0.599
+
+
+Date: 2023-01-04
+Most Influencial News: 글로벌 거점 늘리고 부품 현지화 중기 새해는 해외로
+True Value: 4.332
+Predicted Without: 2.537
+Predicted With: 4.389
+
+
+Date: 2023-06-28
+Most Influencial News: 양자기술 3조 투자 글로벌 4대 강국 도약
+True Value: 0.138
+Predicted Without: 0.874
+Predicted With: 0.421
+
+
+Date: 2023-08-14
+Most Influencial News: 한국 AI분야 잠재력 뛰어나 구글의 글로벌 R amp;D 요충지
+True Value: -0.296
+Predicted Without: 1.032
+Predicted With: -0.407
+
+

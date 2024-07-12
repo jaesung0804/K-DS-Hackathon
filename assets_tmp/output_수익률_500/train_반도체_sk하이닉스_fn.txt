@@ -1,0 +1,126 @@
+Date: 2019-09-03
+Most Influencial News: fn오후시황 코스피 외국인 매도에도 1970선 상승세
+True Value: -0.773
+Predicted Without: -0.670
+Predicted With: -0.840
+
+
+Date: 2020-01-03
+Most Influencial News: fn마감증시 새해 첫 거래일 코스피 1 대 하락
+True Value: -0.211
+Predicted Without: -0.928
+Predicted With: -0.671
+
+
+Date: 2020-04-21
+Most Influencial News: fn 오전시황 코스피 개인 매수에 1920선 상승세
+True Value: -0.854
+Predicted Without: -1.076
+Predicted With: -1.096
+
+
+Date: 2020-07-22
+Most Influencial News: fn오후시황 코스피 장중 2230선 돌파 상승세 지속
+True Value: -1.070
+Predicted Without: -0.294
+Predicted With: -0.648
+
+
+Date: 2020-09-25
+Most Influencial News: fn오후시황 코스피 개인 매수에도 2280선까지 밀려
+True Value: -1.661
+Predicted Without: -1.388
+Predicted With: -3.042
+
+
+Date: 2021-01-08
+Most Influencial News: fn스트리트 대한상의 회장
+True Value: 2.602
+Predicted Without: -3.772
+Predicted With: 2.696
+
+
+Date: 2021-05-11
+Most Influencial News: fn사설 반도체특별법 제정 머뭇거릴 시간 없다
+True Value: -5.385
+Predicted Without: -0.895
+Predicted With: -4.422
+
+
+Date: 2021-06-17
+Most Influencial News: fn오전시황 코스피 장중 최고 3270선 유지 코스닥은 소폭 하락 전환
+True Value: -2.317
+Predicted Without: -1.488
+Predicted With: -2.226
+
+
+Date: 2021-08-06
+Most Influencial News: fn오전시황 외국인 돌아왔나 코스피·코스닥 나란히 오름세
+True Value: -1.667
+Predicted Without: -0.785
+Predicted With: -1.328
+
+
+Date: 2021-09-03
+Most Influencial News: fn오전시황 코스피 외인·기관 순매도 3200선 무너져
+True Value: 0.469
+Predicted Without: 0.169
+Predicted With: 0.125
+
+
+Date: 2021-10-22
+Most Influencial News: fn오후시황 코스피 개인 매도에 3000선으로 후퇴
+True Value: 2.285
+Predicted Without: 0.852
+Predicted With: 2.246
+
+
+Date: 2022-02-09
+Most Influencial News: fn오전시황 코스피 외국인·기관 동반 매수에 2770선 회복
+True Value: 0.800
+Predicted Without: 0.462
+Predicted With: 0.532
+
+
+Date: 2022-05-20
+Most Influencial News: fn사설 한국 오자마자 반도체 공장 가는 바이든 대통령
+True Value: 1.351
+Predicted Without: 0.440
+Predicted With: 1.169
+
+
+Date: 2023-01-27
+Most Influencial News: 눈은 내려도 코스피는 오른다 오늘도 강보합으로 출발 fn개장시황
+True Value: -0.867
+Predicted Without: -0.803
+Predicted With: -1.249
+
+
+Date: 2023-02-07
+Most Influencial News: fn오전시황 코스피 외인·기관 동반 매도에 하락 2450선
+True Value: 1.908
+Predicted Without: 0.852
+Predicted With: 2.661
+
+
+Date: 2023-04-07
+Most Influencial News: fn오전시황 코스피 2477선 외인·기관 팔자 에 하락
+True Value: 6.325
+Predicted Without: 1.855
+Predicted With: 6.865
+
+
+Date: 2023-09-27
+Most Influencial News: 코스피 2500도 깨졌다 6개월 만에 최저 fn마감시황
+True Value: -0.261
+Predicted Without: 1.649
+Predicted With: 0.510
+
+
+Date: 2023-10-20
+Most Influencial News: fn마감시황 코스피 이틀 만에 다시 하락 전환
+True Value: 0.398
+Predicted Without: 0.302
+Predicted With: 0.121
+
+

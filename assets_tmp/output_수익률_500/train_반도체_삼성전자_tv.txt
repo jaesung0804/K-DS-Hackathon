@@ -1,0 +1,7 @@
+Date: 2021-09-29
+Most Influencial News: LG유플 tv 프리3 화면 커지고 무게 가볍게
+True Value: -2.883
+Predicted Without: -1.080
+Predicted With: -2.923
+
+

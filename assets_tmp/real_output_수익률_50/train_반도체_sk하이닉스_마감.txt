@@ -1,0 +1,98 @@
+Date: 2018-11-13
+Most Influencial News: fn마감시황 코스피 바이오주 급락에 유탄 이틀째 하락 마감
+True Value: -3.49
+Predicted Without: -0.635
+Predicted With: -1.673
+
+
+Date: 2019-06-05
+Most Influencial News: fn마감시황 코스피 외인 매도에 4일만 하락 코스닥 700선 회복
+True Value: 0.0
+Predicted Without: -0.876
+Predicted With: -1.194
+
+
+Date: 2020-07-09
+Most Influencial News: 코스피 외국인·기관 매도 공세에 하락 마감 2150선 후퇴
+True Value: -0.836
+Predicted Without: 0.387
+Predicted With: 0.482
+
+
+Date: 2020-12-24
+Most Influencial News: \xa0 fn마감시황 코스피 外人·기관 매수에 0 96 상승 LG그룹주상승
+True Value: 1.724
+Predicted Without: 0.38
+Predicted With: 1.127
+
+
+Date: 2021-05-28
+Most Influencial News: fn마감시황 코스피 3160선에서 소폭 하락 코스닥은 상승
+True Value: -0.398
+Predicted Without: -0.797
+Predicted With: -0.34
+
+
+Date: 2021-07-27
+Most Influencial News: 코스피 3 220대 후퇴 마감 외국인·기관 7천억 순매도 종합
+True Value: -0.855
+Predicted Without: 0.335
+Predicted With: -0.307
+
+
+Date: 2021-09-14
+Most Influencial News: fn마감시황 코스피 5거래일만 돌아온 외인 상승 마감
+True Value: 0.939
+Predicted Without: -0.317
+Predicted With: -0.271
+
+
+Date: 2021-12-10
+Most Influencial News: fn마감시황 기관 매수에 코스피 3020선으로 코스닥도 상승
+True Value: -2.429
+Predicted Without: -0.717
+Predicted With: -0.598
+
+
+Date: 2022-03-17
+Most Influencial News: 코스피 기관 매수에 상승 마감 하루만에 7만전자 회복
+True Value: 6.438
+Predicted Without: 1.388
+Predicted With: 2.243
+
+
+Date: 2022-04-19
+Most Influencial News: 삼성전자 SK하이닉스 모처럼 반등 코스피 약보합 마감
+True Value: 3.211
+Predicted Without: 0.794
+Predicted With: 2.484
+
+
+Date: 2022-05-03
+Most Influencial News: 카카오 2 대 급락 코스피 외인 기관 쌍끌이 매도에 약보합 마감
+True Value: -0.452
+Predicted Without: -0.481
+Predicted With: -0.285
+
+
+Date: 2022-06-17
+Most Influencial News: 코스피 2 450대 강보합 마감 FOMC 불확실성 해소에도 상승 제한 종합
+True Value: -1.027
+Predicted Without: -0.599
+Predicted With: -1.02
+
+
+Date: 2022-12-29
+Most Influencial News: 배당락·나스닥 하락에 코스피 2 300·코스닥 700선 붕괴 마감 종합
+True Value: -1.316
+Predicted Without: -0.57
+Predicted With: -0.807
+
+
+Date: 2023-05-16
+Most Influencial News: 코스피 2 470대서 강보합 마감 미·중 실물경제 지표 주시 종합
+True Value: 4.63
+Predicted Without: 0.675
+Predicted With: 3.885
+
+

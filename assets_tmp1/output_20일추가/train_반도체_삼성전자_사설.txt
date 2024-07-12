@@ -1,0 +1,154 @@
+Date: 2018-11-07
+Most Influencial News: fn사설 신약 강국 코리아’ 길 보여준 유한양행
+True Value: 0.571
+Predicted Without: -1.143
+Predicted With: 0.714
+
+
+Date: 2019-01-04
+Most Influencial News: fn사설 靑 재계와 소통 잦을수록 좋다
+True Value: -0.399
+Predicted Without: -1.114
+Predicted With: -0.436
+
+
+Date: 2019-03-07
+Most Influencial News: 사설 산업재해 없애자고 공장 다 문닫게 할 건가
+True Value: 1.023
+Predicted Without: 0.705
+Predicted With: 0.958
+
+
+Date: 2019-03-14
+Most Influencial News: 사설 전력 급한 삼성이 떠안은 송전 공사비 482억원
+True Value: 0.000
+Predicted Without: -0.955
+Predicted With: -0.030
+
+
+Date: 2019-07-24
+Most Influencial News: 사설 한국 대표기업이 24시간을 미래 아닌 과거에 쓰고 있다
+True Value: -1.903
+Predicted Without: -1.252
+Predicted With: -1.958
+
+
+Date: 2019-10-18
+Most Influencial News: fn사설 경제살리기 진심이라면 野 협조 이끌어내야
+True Value: -1.188
+Predicted Without: -0.649
+Predicted With: -1.208
+
+
+Date: 2019-10-24
+Most Influencial News: 사설 금리 인하 안 먹히는 상황이 늘어나고 있다
+True Value: -0.977
+Predicted Without: 0.979
+Predicted With: -1.108
+
+
+Date: 2020-06-23
+Most Influencial News: 사설 팬데믹시대 위기 속에 기회 찾는 글로벌 기업들
+True Value: -1.154
+Predicted Without: -0.640
+Predicted With: -1.079
+
+
+Date: 2020-08-13
+Most Influencial News: fn사설 테슬라도 액면분할 주주친화정책 주목할 만
+True Value: -0.508
+Predicted Without: -0.807
+Predicted With: -0.500
+
+
+Date: 2020-09-25
+Most Influencial News: 사설 국감 소환에 집단소송제까지 기업 때리기 끝이 없다
+True Value: 0.173
+Predicted Without: 0.324
+Predicted With: 0.278
+
+
+Date: 2021-04-23
+Most Influencial News: 사설 회담·통화·영상대면 왜 매번 美보다 中이 먼저인가
+True Value: 0.485
+Predicted Without: 1.694
+Predicted With: 0.360
+
+
+Date: 2021-11-26
+Most Influencial News: 사설 美는 삼성 공장에 재산세 30년 감면 우린 토지세 더 걷을 궁리만
+True Value: -1.900
+Predicted Without: -1.325
+Predicted With: -1.982
+
+
+Date: 2021-12-20
+Most Influencial News: fn사설 글로벌 반도체 공급망 재편 국면을 기회 삼길
+True Value: -1.154
+Predicted Without: -1.084
+Predicted With: -1.165
+
+
+Date: 2022-01-18
+Most Influencial News: 사설 대학 정원도 못 늘린 반쪽 반도체특별법 다시 통과시켜라
+True Value: -0.645
+Predicted Without: -0.406
+Predicted With: -0.991
+
+
+Date: 2022-02-16
+Most Influencial News: 사설 10대 기업 더 걷힌 법인세 95 납부 가 의미하는 것
+True Value: 1.493
+Predicted Without: 0.752
+Predicted With: 1.161
+
+
+Date: 2022-04-15
+Most Influencial News: fn사설 기업인 빠진 윤석열 1기 내각 아쉽다
+True Value: -1.333
+Predicted Without: -0.993
+Predicted With: -1.297
+
+
+Date: 2022-11-17
+Most Influencial News: fn사설 금융의 삼성전자 나오려면 금산 분리 족쇄 풀길
+True Value: -2.073
+Predicted Without: 1.736
+Predicted With: -2.104
+
+
+Date: 2022-12-09
+Most Influencial News: fn사설 애플과 TSMC 반도체 동맹 우리는 구경만 할 텐가
+True Value: 2.027
+Predicted Without: 1.058
+Predicted With: 1.464
+
+
+Date: 2023-05-26
+Most Influencial News: 퇴행의 정치가 막은 한·일 미래협력 경제·산업이 복원할 때 사설
+True Value: 2.180
+Predicted Without: 1.042
+Predicted With: 2.274
+
+
+Date: 2023-06-15
+Most Influencial News: 사설 尹 부산엑스포 유치전 진두지휘 파리의 대역전 응원한다
+True Value: -0.556
+Predicted Without: 1.153
+Predicted With: -0.405
+
+
+Date: 2023-07-06
+Most Influencial News: fn사설 자원개발 중요성 일깨워준 中 광물 수출 통제
+True Value: -0.556
+Predicted Without: 1.477
+Predicted With: -0.463
+
+
+Date: 2023-10-04
+Most Influencial News: 감산효과 반도체 수출 회복 조짐 기술력으로 압도하길 사설
+True Value: -1.316
+Predicted Without: -2.001
+Predicted With: -1.156
+
+

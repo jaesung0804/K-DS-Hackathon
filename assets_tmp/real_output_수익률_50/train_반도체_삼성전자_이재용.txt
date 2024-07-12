@@ -1,0 +1,126 @@
+Date: 2020-01-03
+Most Influencial News: 이재용의 새해 첫 업무 화성 반도체연구소부터 찾아갔다
+True Value: 0.543
+Predicted Without: 0.807
+Predicted With: 1.613
+
+
+Date: 2020-05-07
+Most Influencial News: 과거와 단절 선언한 이재용 국격에 맞는 새로운 삼성 만들겠다
+True Value: -0.813
+Predicted Without: -0.299
+Predicted With: -0.244
+
+
+Date: 2020-06-23
+Most Influencial News: 삼성 경영진 릴레이 고액기부 이재용의 동행경영 실천
+True Value: -1.154
+Predicted Without: -0.493
+Predicted With: -1.616
+
+
+Date: 2020-06-29
+Most Influencial News: 국민이 내린 판단은 무죄 이재용 뉴삼성 경영 탄력 받나
+True Value: -1.689
+Predicted Without: -1.192
+Predicted With: -2.324
+
+
+Date: 2020-07-31
+Most Influencial News: 반도체기술 현장 찾은 이재용 머뭇거릴 시간 없다
+True Value: -1.864
+Predicted Without: -0.419
+Predicted With: -1.225
+
+
+Date: 2020-08-28
+Most Influencial News: 3년간 4만명 채용 약속 지킨 이재용 삼성 내달 공채
+True Value: -0.36
+Predicted Without: 0.369
+Predicted With: 0.42
+
+
+Date: 2020-08-31
+Most Influencial News: 30조 들인 평택 2공장 가동 이재용 반도체 초격차 속도낸다
+True Value: -2.527
+Predicted Without: -0.276
+Predicted With: -0.47
+
+
+Date: 2021-04-20
+Most Influencial News: 사설 세계는 반도체 전쟁 이재용 사면 머뭇거릴 이유 없다
+True Value: 0.72
+Predicted Without: -0.612
+Predicted With: -0.667
+
+
+Date: 2021-05-03
+Most Influencial News: 삼성 지배력 더 키운 이재용 홍라희 경영권 안정 조력자
+True Value: 0.245
+Predicted Without: -1.067
+Predicted With: -0.884
+
+
+Date: 2021-08-17
+Most Influencial News: 6개월 공백에 초격차전략 흔들 이재용 승부수 띄운다 돌아온 이재용 행보와 과제
+True Value: -0.269
+Predicted Without: -0.149
+Predicted With: -0.135
+
+
+Date: 2021-08-19
+Most Influencial News: 취업제한 풀고 등기임원 복귀 시켜 책임경영 힘실어줘야 돌아온 이재용 행보와 과제
+True Value: -1.083
+Predicted Without: -0.686
+Predicted With: -0.277
+
+
+Date: 2021-10-28
+Most Influencial News: 이재용 진두지휘 모더나 양산 두달 앞당겨
+True Value: 0.856
+Predicted Without: -0.541
+Predicted With: 0.264
+
+
+Date: 2022-05-30
+Most Influencial News: 한일 관계 개선 기대에 이재용 부회장 일본 출장 검토
+True Value: 1.805
+Predicted Without: -0.182
+Predicted With: -0.217
+
+
+Date: 2022-10-28
+Most Influencial News: 미래전략실’ 부활하나 12월 조직개편에 쏠린 눈 이재용 회장 시대 개막
+True Value: -3.697
+Predicted Without: -1.042
+Predicted With: -2.857
+
+
+Date: 2023-03-15
+Most Influencial News: 반도체 격전 속으로 이재용 中·美 간다
+True Value: 1.356
+Predicted Without: 0.588
+Predicted With: 0.657
+
+
+Date: 2023-06-02
+Most Influencial News: 삼성 이재용의 미래 동행 호암상 수상자 만나 직접 격려 삼성판 노벨상 호암상 시상
+True Value: 1.834
+Predicted Without: -0.317
+Predicted With: 0.398
+
+
+Date: 2023-06-07
+Most Influencial News: 이건희 新경영 선언 30년 이재용 뉴 비전 내놓는다
+True Value: -0.976
+Predicted Without: -0.496
+Predicted With: -0.578
+
+
+Date: 2023-10-26
+Most Influencial News: 이재용 회장 KH 유산 되살려 위기 돌파
+True Value: -1.912
+Predicted Without: -0.334
+Predicted With: -0.987
+
+

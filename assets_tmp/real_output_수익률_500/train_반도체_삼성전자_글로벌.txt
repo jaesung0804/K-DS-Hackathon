@@ -1,0 +1,28 @@
+Date: 2019-10-28
+Most Influencial News: 글로벌 반도체 재고 소진 원익IPS·테스 연일 1년 신고가 경신
+True Value: 0.786
+Predicted Without: 0.807
+Predicted With: 0.613
+
+
+Date: 2019-11-29
+Most Influencial News: Hello CEO AI시대 첨단 기술기업 변신하려면 글로벌 1등기업과 손잡는게 지름길
+True Value: -1.949
+Predicted Without: -1.625
+Predicted With: -1.734
+
+
+Date: 2019-12-23
+Most Influencial News: 미래에셋코어테크펀드 반도체·5G통신장비 등 글로벌 경쟁력 갖춘 IT업종에 집중 이런 펀드 어때요
+True Value: -0.893
+Predicted Without: -0.529
+Predicted With: -0.647
+
+
+Date: 2020-05-19
+Most Influencial News: 이재용 코로나 이후 글로벌 CEO로는 첫 中 방문 때를 놓치면 끝장
+True Value: 3.074
+Predicted Without: 1.542
+Predicted With: 3.334
+
+

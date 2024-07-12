@@ -1,0 +1,224 @@
+Date: 2018-11-20
+Most Influencial News: 한경로보뉴스 전일 기관 거래소에서 SK하이닉스 2 37 삼성전자 0 57 등 순매도
+True Value: -3.295
+Predicted Without: 1.474
+Predicted With: -3.219
+
+
+Date: 2018-11-22
+Most Influencial News: 한경로보뉴스 전일 기관 거래소에서 삼성전기 4 8 삼성SDI 6 07 등 순매도
+True Value: 1.762
+Predicted Without: 2.361
+Predicted With: 1.858
+
+
+Date: 2019-01-11
+Most Influencial News: 코스피 기관 매도에 하락 전환
+True Value: -0.306
+Predicted Without: 0.972
+Predicted With: -0.363
+
+
+Date: 2019-03-14
+Most Influencial News: 코스피 기관 매도에 하락 출발 코스닥은 상승
+True Value: 0.749
+Predicted Without: -0.319
+Predicted With: 0.126
+
+
+Date: 2019-05-03
+Most Influencial News: 전일 외국인 거래소에서 SK하이닉스 1 25 삼성전기 2 84 등 순매도
+True Value: -0.372
+Predicted Without: 1.065
+Predicted With: -0.781
+
+
+Date: 2019-05-21
+Most Influencial News: 공매도 시장은 외인 놀이터 대량보유자 공시의 97 차지
+True Value: -0.846
+Predicted Without: -0.933
+Predicted With: -1.033
+
+
+Date: 2019-07-16
+Most Influencial News: fn마감시황 코스피 개인 매도에 하락 0 20 하락
+True Value: -0.131
+Predicted Without: 0.923
+Predicted With: 0.292
+
+
+Date: 2019-07-18
+Most Influencial News: 코스피 외국인 매도에 하락 2070선 출발
+True Value: 0.134
+Predicted Without: -0.714
+Predicted With: 0.492
+
+
+Date: 2019-07-31
+Most Influencial News: 공매도 대기자금 57兆 검은증시 공포감 확산 마켓워치
+True Value: -2.535
+Predicted Without: -1.271
+Predicted With: -2.525
+
+
+Date: 2019-08-09
+Most Influencial News: 08일 기관 거래소에서 삼성전자 1 27 POSCO 0 24 등 순매도
+True Value: 1.383
+Predicted Without: 0.878
+Predicted With: 1.299
+
+
+Date: 2019-09-02
+Most Influencial News: 8월 외국인 韓주식 2 6조원 순매도 절반은 삼성전자
+True Value: 0.258
+Predicted Without: 0.418
+Predicted With: 0.139
+
+
+Date: 2019-12-02
+Most Influencial News: 외국인 11월 국내주식 3 5조 순매도 넉 달 연속 팔자
+True Value: -0.494
+Predicted Without: -0.162
+Predicted With: -0.376
+
+
+Date: 2020-03-03
+Most Influencial News: 02일 외국인 거래소에서 삼성전자 1 48 SK하이닉스 4 78 등 순매도
+True Value: 0.760
+Predicted Without: 0.796
+Predicted With: 0.736
+
+
+Date: 2020-03-17
+Most Influencial News: 16일 외국인 거래소에서 삼성전자 2 1 현대차 4 93 등 순매도
+True Value: -0.248
+Predicted Without: 1.291
+Predicted With: -0.121
+
+
+Date: 2020-07-07
+Most Influencial News: 06일 외국인 거래소에서 SK바이오팜 30 셀트리온 1 29 등 순매도
+True Value: -1.395
+Predicted Without: -0.340
+Predicted With: -1.207
+
+
+Date: 2020-07-13
+Most Influencial News: SK바이오팜 외인 매도 폭탄에도 기관 계속 매수 왜
+True Value: 0.242
+Predicted Without: 0.008
+Predicted With: -0.169
+
+
+Date: 2020-07-14
+Most Influencial News: 13일 외국인 거래소에서 NAVER 0 67 카카오 0 98 등 순매도
+True Value: -0.120
+Predicted Without: 0.133
+Predicted With: -0.139
+
+
+Date: 2020-09-23
+Most Influencial News: 개인 매도 에 코스피1 ·코스닥2 하락
+True Value: 2.829
+Predicted Without: 1.212
+Predicted With: 2.841
+
+
+Date: 2020-10-06
+Most Influencial News: 최근 5년간 공매도 498조원 시총 1·2·3위 총합보다 많아
+True Value: -0.240
+Predicted Without: -0.500
+Predicted With: -0.176
+
+
+Date: 2021-09-03
+Most Influencial News: 코스피 외국인·기관 매도에 하락출발 카카오뱅크 6 대하락
+True Value: 0.469
+Predicted Without: 0.155
+Predicted With: 0.045
+
+
+Date: 2021-09-27
+Most Influencial News: 최근 3년 배당수익 높은 주식 선별 콜옵션 매도로 초과수익 이런 펀드 어때요
+True Value: 0.481
+Predicted Without: 0.559
+Predicted With: 0.322
+
+
+Date: 2022-04-07
+Most Influencial News: 급격한 금리 인상 가능성 외인·기관 쌍끌이 매도세
+True Value: 0.442
+Predicted Without: -0.593
+Predicted With: 0.597
+
+
+Date: 2022-09-30
+Most Influencial News: 삼전·SK하닉에 몰린 공매도 하락장서도 뜬 종목 공통점은
+True Value: 2.847
+Predicted Without: 1.140
+Predicted With: 2.636
+
+
+Date: 2022-10-24
+Most Influencial News: 카톡 먹통 다음날 카카오 공매도 물량 폭탄 카뱅 2위
+True Value: 1.436
+Predicted Without: -1.434
+Predicted With: 1.275
+
+
+Date: 2023-02-06
+Most Influencial News: 토끼 랠리 틈타 공매도 다시 기승
+True Value: -3.362
+Predicted Without: -2.340
+Predicted With: -3.046
+
+
+Date: 2023-03-31
+Most Influencial News: 외인·기관 쌍끌이 매도에 힘 잃은 코스피 삼전·하이닉스 반등
+True Value: -0.225
+Predicted Without: 1.269
+Predicted With: 0.047
+
+
+Date: 2023-06-23
+Most Influencial News: 외국인 사흘간 1조 순매도 대형 반도체주는 안 팔아
+True Value: -0.351
+Predicted Without: -1.174
+Predicted With: -0.307
+
+
+Date: 2023-07-05
+Most Influencial News: 외인 기관 매도에도 코스피·코스닥 동반 상승 에코프로비엠 강세
+True Value: -1.018
+Predicted Without: 1.100
+Predicted With: -1.204
+
+
+Date: 2023-07-13
+Most Influencial News: 2차전지 공매도한 롱숏펀드 저조한 수익률에 울상
+True Value: -1.127
+Predicted Without: -0.851
+Predicted With: -1.249
+
+
+Date: 2023-07-19
+Most Influencial News: 황제주 등극 에코프로 비엠도 덩달아 급등 공매도 세력 당혹
+True Value: -0.255
+Predicted Without: -1.054
+Predicted With: -0.078
+
+
+Date: 2023-09-27
+Most Influencial News: 코스피 기관 매도세에 하락 출발 코스닥은 0 5 상승
+True Value: -0.261
+Predicted Without: -0.472
+Predicted With: -0.057
+
+
+Date: 2023-11-14
+Most Influencial News: 공매도 금지 효과 시들 다시 반도체 보라
+True Value: -1.366
+Predicted Without: -1.248
+Predicted With: -0.863
+
+

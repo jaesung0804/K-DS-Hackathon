@@ -1,0 +1,98 @@
+Date: 2018-12-18
+Most Influencial News: 반도체 위기론 중소형株가 반사이익
+True Value: -1.768
+Predicted Without: 3.571
+Predicted With: -1.753
+
+
+Date: 2019-10-04
+Most Influencial News: 셀코리아 에도 외국인은 금융·반도체 샀다
+True Value: 1.006
+Predicted Without: 0.231
+Predicted With: -0.023
+
+
+Date: 2020-01-08
+Most Influencial News: 이란 사태에도 외국인 반도체·금융株 샀다
+True Value: 3.617
+Predicted Without: 4.698
+Predicted With: 4.167
+
+
+Date: 2020-09-21
+Most Influencial News: 반도체·자동차株 쇼핑 외국인이 돌아온다
+True Value: 0.956
+Predicted Without: 1.572
+Predicted With: 0.99
+
+
+Date: 2021-04-05
+Most Influencial News: 코스피 영업익 반도체 투톱 빼면 10 줄었다
+True Value: 1.418
+Predicted Without: 1.003
+Predicted With: 1.629
+
+
+Date: 2021-08-13
+Most Influencial News: 반도체 폭탄 쏟아내는 외국인 이 종목들만 쓸어담았다
+True Value: 0.995
+Predicted Without: 1.91
+Predicted With: 1.018
+
+
+Date: 2021-08-19
+Most Influencial News: 반도체 급락을 바라보는 시선 과한 우려 VS 유사산업 확산 가능
+True Value: -1.442
+Predicted Without: -1.622
+Predicted With: -0.682
+
+
+Date: 2021-11-24
+Most Influencial News: 미국 주식시장 흐름 분석해보니 韓 반도체·전통車·소비株 반등 할 것
+True Value: 0.42
+Predicted Without: 0.963
+Predicted With: 1.093
+
+
+Date: 2022-09-27
+Most Influencial News: 하나증권 코스피 하단 2 100 예상 내년 1분기 반도체 저점
+True Value: -0.606
+Predicted Without: -3.047
+Predicted With: -1.719
+
+
+Date: 2022-10-20
+Most Influencial News: 한미반도체 하반기 실적 모멘텀 둔화 주주환원은 확대 이베스트
+True Value: -2.906
+Predicted Without: -1.594
+Predicted With: -3.012
+
+
+Date: 2023-07-05
+Most Influencial News: 반도체·2차전지가 이끈 증시 외국인 순매수 10년래 최고
+True Value: -1.018
+Predicted Without: 0.87
+Predicted With: -1.008
+
+
+Date: 2023-09-04
+Most Influencial News: 메모리 편식 韓반도체 부진 늪 車·바이오는 美日보다 선전
+True Value: -0.667
+Predicted Without: 0.959
+Predicted With: -0.91
+
+
+Date: 2023-10-06
+Most Influencial News: 엇갈린 반도체 빅2 외국인들 SK하이닉스 골라 담는 이유
+True Value: 0.166
+Predicted Without: 0.49
+Predicted With: -0.138
+
+
+Date: 2023-10-13
+Most Influencial News: 외인·기관 팔자 에도 반도체·이차전지 활약에 증시 상승 출발
+True Value: 0.403
+Predicted Without: -0.533
+Predicted With: 0.335
+
+

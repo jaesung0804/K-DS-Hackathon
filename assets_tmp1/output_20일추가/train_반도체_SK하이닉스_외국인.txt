@@ -1,0 +1,392 @@
+Date: 2018-12-04
+Most Influencial News: 코스피 美中 관세휴전 소식에 큰 폭 뛰어 외국인 사자
+True Value: -2.128
+Predicted Without: -1.001
+Predicted With: -2.258
+
+
+Date: 2019-01-31
+Most Influencial News: 코스피 외국인 매수에 2200선 넉달만에 재등정
+True Value: -2.635
+Predicted Without: -0.765
+Predicted With: -2.454
+
+
+Date: 2019-04-08
+Most Influencial News: 외국인 더살까 FOMC·G2협상에 쏠린눈
+True Value: -1.392
+Predicted Without: -0.930
+Predicted With: -1.114
+
+
+Date: 2019-05-03
+Most Influencial News: 전일 외국인 거래소에서 SK하이닉스 1 25 삼성전기 2 84 등 순매도
+True Value: -0.372
+Predicted Without: 1.065
+Predicted With: -0.781
+
+
+Date: 2019-07-12
+Most Influencial News: 파월 반긴 외국인 코스피 2080선 껑충
+True Value: -1.060
+Predicted Without: -1.620
+Predicted With: -1.014
+
+
+Date: 2019-07-18
+Most Influencial News: 코스피 외국인 매도에 하락 2070선 출발
+True Value: 0.134
+Predicted Without: -0.714
+Predicted With: 0.492
+
+
+Date: 2019-08-23
+Most Influencial News: 22일 거래소 외국인 순매수상위에 서비스업 업종 5종목
+True Value: 0.813
+Predicted Without: 0.477
+Predicted With: 0.810
+
+
+Date: 2019-09-02
+Most Influencial News: 8월 외국인 韓주식 2 6조원 순매도 절반은 삼성전자
+True Value: 0.258
+Predicted Without: 0.418
+Predicted With: 0.139
+
+
+Date: 2019-11-07
+Most Influencial News: 하반기 우수한 성적표 받은 외국인투자자 개미는 저조
+True Value: 0.120
+Predicted Without: -1.077
+Predicted With: -0.085
+
+
+Date: 2019-12-02
+Most Influencial News: 외국인 11월 국내주식 3 5조 순매도 넉 달 연속 팔자
+True Value: -0.494
+Predicted Without: -0.162
+Predicted With: -0.376
+
+
+Date: 2019-12-24
+Most Influencial News: 23일 외국인 거래소에서 삼성바이오로직스 6 56 삼성전기 0 00 등 순매수
+True Value: -0.846
+Predicted Without: 1.915
+Predicted With: -0.606
+
+
+Date: 2020-01-08
+Most Influencial News: 이란 사태에도 외국인 반도체·금융株 샀다
+True Value: 3.617
+Predicted Without: 1.667
+Predicted With: 3.367
+
+
+Date: 2020-01-09
+Most Influencial News: 이란 사태에도 외국인 한국증시 순매수 행진 반도체 사랑
+True Value: 1.643
+Predicted Without: 1.149
+Predicted With: 2.081
+
+
+Date: 2020-02-07
+Most Influencial News: 06일 외국인 거래소에서 SK하이닉스 2 87 삼성전자 2 69 등 순매수
+True Value: -1.194
+Predicted Without: 0.691
+Predicted With: -1.103
+
+
+Date: 2020-03-03
+Most Influencial News: 02일 외국인 거래소에서 삼성전자 1 48 SK하이닉스 4 78 등 순매도
+True Value: 0.760
+Predicted Without: 0.796
+Predicted With: 0.736
+
+
+Date: 2020-03-17
+Most Influencial News: 16일 외국인 거래소에서 삼성전자 2 1 현대차 4 93 등 순매도
+True Value: -0.248
+Predicted Without: 1.291
+Predicted With: -0.121
+
+
+Date: 2020-03-19
+Most Influencial News: 동학개미운동 개인 vs 외국인 산 종목 수익률 비교해보니
+True Value: -5.609
+Predicted Without: -1.690
+Predicted With: -5.546
+
+
+Date: 2020-04-09
+Most Influencial News: 08일 외국인 거래소에서 삼성전자 2 02 KODEX 200TR 1 27 등 순매수
+True Value: 0.592
+Predicted Without: 0.636
+Predicted With: 0.639
+
+
+Date: 2020-05-19
+Most Influencial News: 18일 외국인 거래소에서 삼성전자 1 99 삼성전자우 1 59 등 순매수
+True Value: 1.973
+Predicted Without: 0.783
+Predicted With: 1.829
+
+
+Date: 2020-06-05
+Most Influencial News: 외국인·기관 네이버 팔고 삼성전자로 코로나증시 변곡점
+True Value: 3.079
+Predicted Without: 1.180
+Predicted With: 3.392
+
+
+Date: 2020-07-07
+Most Influencial News: 06일 외국인 거래소에서 SK바이오팜 30 셀트리온 1 29 등 순매도
+True Value: -1.395
+Predicted Without: -0.340
+Predicted With: -1.207
+
+
+Date: 2020-07-14
+Most Influencial News: 13일 외국인 거래소에서 NAVER 0 67 카카오 0 98 등 순매도
+True Value: -0.120
+Predicted Without: 0.133
+Predicted With: -0.139
+
+
+Date: 2020-07-21
+Most Influencial News: 외국인 경기민감주로 이동 네이버 팔고 삼성전자 샀다
+True Value: 2.311
+Predicted Without: 0.824
+Predicted With: 2.198
+
+
+Date: 2020-07-30
+Most Influencial News: 외국인 오늘도 삼전 산다 1 7 상승 코스피는 보합권서 등락
+True Value: 2.524
+Predicted Without: 1.821
+Predicted With: 2.377
+
+
+Date: 2020-07-31
+Most Influencial News: 외국인 덕에 장중 2280 터치 그런데 삼성전자만 산다
+True Value: -2.931
+Predicted Without: -1.088
+Predicted With: -2.549
+
+
+Date: 2020-08-06
+Most Influencial News: 외국인·개미 반도체株 엇갈린 원픽 왜
+True Value: 0.496
+Predicted Without: 0.472
+Predicted With: 0.483
+
+
+Date: 2020-09-02
+Most Influencial News: 떨어지면 산다 외국인 1 6조 매물 받아낸 동학개미
+True Value: 0.399
+Predicted Without: 0.418
+Predicted With: 0.172
+
+
+Date: 2020-09-07
+Most Influencial News: 셀 코리아 외국인 대형주 팔고 제약·바이오 담고
+True Value: -0.381
+Predicted Without: -0.337
+Predicted With: -0.522
+
+
+Date: 2020-09-21
+Most Influencial News: 반도체·자동차株 쇼핑 외국인이 돌아온다
+True Value: 0.956
+Predicted Without: 0.732
+Predicted With: 0.694
+
+
+Date: 2020-11-06
+Most Influencial News: 외국인 코스피 1兆 사자 美 기술주는 공화당 상원 에 환호
+True Value: 0.232
+Predicted Without: -1.474
+Predicted With: -0.230
+
+
+Date: 2020-11-13
+Most Influencial News: 예전과 달라졌다 BIG 정리하고 경기민감주로 환승하는 외국인
+True Value: 1.816
+Predicted Without: 1.035
+Predicted With: 1.849
+
+
+Date: 2020-12-08
+Most Influencial News: 코스피 하락 전환 후 2710선까지 밀려 외국인 기관 팔자
+True Value: -2.542
+Predicted Without: 1.250
+Predicted With: -2.347
+
+
+Date: 2021-03-12
+Most Influencial News: 미국발 훈풍 타고 돌아온 외국인 코스피 3000 탈환
+True Value: 2.190
+Predicted Without: 1.546
+Predicted With: 2.527
+
+
+Date: 2021-04-05
+Most Influencial News: 4월 이틀간 외국인 1조 순매수 3200선 재탈환 가능할까
+True Value: 1.418
+Predicted Without: 1.058
+Predicted With: 1.205
+
+
+Date: 2021-06-04
+Most Influencial News: 외국인 기관 매수 코스피 장중 3250 돌파 사상 최고치 넘어설까
+True Value: -0.388
+Predicted Without: -1.388
+Predicted With: -0.274
+
+
+Date: 2021-07-28
+Most Influencial News: 기업 비상업용 항공기 외국인 지분 50 제한 푼다
+True Value: -1.724
+Predicted Without: 1.600
+Predicted With: -1.922
+
+
+Date: 2021-08-24
+Most Influencial News: 외국인 팔 만큼 팔았나 코스피 장중 3100선 회복
+True Value: 1.942
+Predicted Without: 1.790
+Predicted With: 1.687
+
+
+Date: 2021-09-01
+Most Influencial News: 떨어질 만큼 떨어졌나 올해 삼성전자 20조 판 외국인 하루 3600억 사들였다
+True Value: 1.408
+Predicted Without: 0.728
+Predicted With: 1.546
+
+
+Date: 2021-09-03
+Most Influencial News: 코스피 외국인·기관 매도에 하락출발 카카오뱅크 6 대하락
+True Value: 0.469
+Predicted Without: 0.155
+Predicted With: 0.045
+
+
+Date: 2021-11-16
+Most Influencial News: 3000선 회복 노리는 코스피 외국인 본격 귀환은 언제쯤
+True Value: 0.901
+Predicted Without: 0.895
+Predicted With: 0.886
+
+
+Date: 2021-11-26
+Most Influencial News: 코스피 외국인·기관 팔자 에 하락세 금통위 결과에 주목
+True Value: -1.702
+Predicted Without: -1.331
+Predicted With: -1.827
+
+
+Date: 2021-12-14
+Most Influencial News: fn오전시황 외국인·기관 사자’에 코스피 상승세
+True Value: -0.412
+Predicted Without: -0.577
+Predicted With: -0.690
+
+
+Date: 2022-02-11
+Most Influencial News: 코스피 개인·외국인 사자 에 상승 코스닥은 소폭 하락
+True Value: 1.931
+Predicted Without: 0.989
+Predicted With: 2.188
+
+
+Date: 2022-04-05
+Most Influencial News: 리스크 정점 지났다 코스피 외국인 순매수 전환에 2750선 회복
+True Value: -0.427
+Predicted Without: -0.475
+Predicted With: -0.374
+
+
+Date: 2022-04-18
+Most Influencial News: 기업 배당금 10조는 외국인 몫 이달 9조 해외유출 우려
+True Value: 0.926
+Predicted Without: 0.779
+Predicted With: 0.891
+
+
+Date: 2022-04-19
+Most Influencial News: 쓸어담은 개미 울고 내던진 외국인 웃었다
+True Value: 3.211
+Predicted Without: 2.163
+Predicted With: 3.119
+
+
+Date: 2022-06-21
+Most Influencial News: 6600억어치 팔아치운 외국인 코스피·코스닥 연저점 경신
+True Value: 0.741
+Predicted Without: 1.317
+Predicted With: 0.506
+
+
+Date: 2022-07-26
+Most Influencial News: 안녕 6만전자 개미 손절하자 외국인은 5000억 쇼핑했다
+True Value: 0.500
+Predicted Without: 0.348
+Predicted With: 0.041
+
+
+Date: 2022-10-14
+Most Influencial News: 외국인 TSMC 팔고 삼전·SK하이닉스 산다
+True Value: 0.632
+Predicted Without: -1.652
+Predicted With: 0.170
+
+
+Date: 2022-12-02
+Most Influencial News: 한달간 K 주식 3 8조 쇼핑한 외국인 최애는 삼성전자 아닌 이 종목
+True Value: -3.306
+Predicted Without: -1.159
+Predicted With: -2.689
+
+
+Date: 2023-02-10
+Most Influencial News: BUY’ 외국인 2월에도 겁나게 사는데 코스피 2800 전망도
+True Value: -0.953
+Predicted Without: -0.783
+Predicted With: -0.958
+
+
+Date: 2023-02-22
+Most Influencial News: 코스피 외국인·기관 팔자 에 하락 코스닥도 하락
+True Value: -2.303
+Predicted Without: -0.949
+Predicted With: -2.296
+
+
+Date: 2023-05-22
+Most Influencial News: 외국인과 정반대로 가는 개인 2차전지株 일편단심
+True Value: 0.925
+Predicted Without: 0.494
+Predicted With: 0.498
+
+
+Date: 2023-06-23
+Most Influencial News: 외국인 사흘간 1조 순매도 대형 반도체주는 안 팔아
+True Value: -0.351
+Predicted Without: -1.174
+Predicted With: -0.307
+
+
+Date: 2023-07-10
+Most Influencial News: 한국에 흥미 잃어가는 외국인들 “그래도 삼성전자는 빼고”
+True Value: -1.342
+Predicted Without: -0.271
+Predicted With: -0.539
+
+
+Date: 2023-09-21
+Most Influencial News: fn오전시황 코스피 외국인·개인 Vs 기관·금투·연기금 힘겨루기
+True Value: -1.271
+Predicted Without: -1.024
+Predicted With: -1.463
+
+

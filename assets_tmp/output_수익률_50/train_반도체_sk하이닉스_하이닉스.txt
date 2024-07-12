@@ -1,0 +1,588 @@
+Date: 2018-11-05
+Most Influencial News: SK하이닉스 96단 4D 낸드 개발 성공 세계최초 CTF 기반
+True Value: -2.893
+Predicted Without: -0.796
+Predicted With: -3.115
+
+
+Date: 2018-11-30
+Most Influencial News: SK하이닉스 행복나래 주식 72만주 취득해 지분율 100 로
+True Value: -2.657
+Predicted Without: -1.508
+Predicted With: -3.932
+
+
+Date: 2018-12-10
+Most Influencial News: 三電 SK하이닉스 빼면 10대 그룹 상장사 영업익 감소
+True Value: -1.946
+Predicted Without: -0.360
+Predicted With: -0.703
+
+
+Date: 2019-01-04
+Most Influencial News: 코스피 보합권서 맴맴 삼성전자·SK하이닉스하락
+True Value: 1.040
+Predicted Without: -0.789
+Predicted With: -0.299
+
+
+Date: 2019-01-25
+Most Influencial News: SK하이닉스 기준급 17배 보너스 지급
+True Value: 5.816
+Predicted Without: 1.119
+Predicted With: 5.336
+
+
+Date: 2019-03-04
+Most Influencial News: 三電·SK하이닉스 뺀 100대 상장사 영업익 11 감소
+True Value: 0.143
+Predicted Without: -0.207
+Predicted With: -0.343
+
+
+Date: 2019-03-21
+Most Influencial News: SK하이닉스 산학연구과제 우수발명 교수 5명에 포상
+True Value: 7.660
+Predicted Without: 1.996
+Predicted With: 8.765
+
+
+Date: 2019-04-19
+Most Influencial News: SK하이닉스 中 우시 확장공장 본격 가동
+True Value: 3.283
+Predicted Without: 1.244
+Predicted With: 4.349
+
+
+Date: 2019-05-21
+Most Influencial News: 제이티 SK하이닉스에 장비 공급 계약
+True Value: -0.846
+Predicted Without: -0.592
+Predicted With: -0.447
+
+
+Date: 2019-06-03
+Most Influencial News: SK하이닉스 2분기 영업익 예상치 밑돌 가능성 등
+True Value: 1.991
+Predicted Without: 0.068
+Predicted With: -0.071
+
+
+Date: 2019-06-14
+Most Influencial News: SK하이닉스 시장 눈높이 지나치게 낮아 키움증권
+True Value: -0.630
+Predicted Without: -0.749
+Predicted With: -0.499
+
+
+Date: 2019-06-19
+Most Influencial News: SK하이닉스 공유 인프라 수익금으로 협력사 학자금 지원
+True Value: 5.994
+Predicted Without: 1.488
+Predicted With: 6.524
+
+
+Date: 2019-07-22
+Most Influencial News: 이석희 SK하이닉스 사장 전격 일본行
+True Value: 2.083
+Predicted Without: -0.525
+Predicted With: 1.533
+
+
+Date: 2019-08-12
+Most Influencial News: 테라비트 혁신 SK하이닉스 기술로 위기돌파
+True Value: 1.637
+Predicted Without: 0.151
+Predicted With: 0.063
+
+
+Date: 2019-08-20
+Most Influencial News: G2 분쟁에 삼성은 中 SK하이닉스는 美서 타격
+True Value: 1.731
+Predicted Without: -1.098
+Predicted With: -0.627
+
+
+Date: 2019-09-17
+Most Influencial News: 이천시 SK하이닉스 상생협력 정책공모전 개최
+True Value: -0.126
+Predicted Without: 0.639
+Predicted With: 0.725
+
+
+Date: 2019-09-25
+Most Influencial News: 충북소식 SK하이닉스·청주시기업인협의회 공예비엔날레 파트너십 협약
+True Value: -1.799
+Predicted Without: -0.778
+Predicted With: -0.348
+
+
+Date: 2019-09-26
+Most Influencial News: 마오타이에 취했더니 中주류회사 가치 하이닉스 4배
+True Value: 1.709
+Predicted Without: 0.502
+Predicted With: 0.599
+
+
+Date: 2019-11-28
+Most Influencial News: 미래산업 SK하이닉스와 반도체 검사 장비 공급 계약
+True Value: 0.121
+Predicted Without: -0.267
+Predicted With: -0.216
+
+
+Date: 2019-12-18
+Most Influencial News: 유가증권시장 공시 삼성물산 오뚜기 SK하이닉스
+True Value: 0.216
+Predicted Without: 0.384
+Predicted With: 0.441
+
+
+Date: 2019-12-19
+Most Influencial News: 키움증권 삼성전자·SK하이닉스 주가 연계 ELS 출시
+True Value: 0.645
+Predicted Without: 0.442
+Predicted With: -1.404
+
+
+Date: 2020-03-17
+Most Influencial News: 매그나칩 파운드리 인수전 SK하이닉스 투자자로 참여
+True Value: -0.248
+Predicted Without: -0.886
+Predicted With: -1.889
+
+
+Date: 2020-03-19
+Most Influencial News: SK하이닉스 中 우시서 선물받은 방역물품 지역 나눔
+True Value: -5.609
+Predicted Without: -1.833
+Predicted With: -5.562
+
+
+Date: 2020-04-13
+Most Influencial News: 전액장학금에 SK하이닉스 취업보장 고려대 신설학과는
+True Value: -3.210
+Predicted Without: -0.655
+Predicted With: -2.230
+
+
+Date: 2020-04-29
+Most Influencial News: SK하이닉스 국제기후단체 선정 물 경영 大賞
+True Value: 0.360
+Predicted Without: 0.735
+Predicted With: 1.295
+
+
+Date: 2020-05-18
+Most Influencial News: 美의 화웨이 고사 작전 삼성·하이닉스도 초비상
+True Value: -0.977
+Predicted Without: -0.284
+Predicted With: -0.910
+
+
+Date: 2020-05-20
+Most Influencial News: 日언론 화웨이 제재 소니·삼성·하이닉스 모두에 타격
+True Value: 1.693
+Predicted Without: -1.035
+Predicted With: 2.022
+
+
+Date: 2020-05-25
+Most Influencial News: 단독 다급한 화웨이 삼성·하이닉스에 SOS
+True Value: 0.123
+Predicted Without: 0.127
+Predicted With: 0.003
+
+
+Date: 2020-07-01
+Most Influencial News: SK하이닉스 청주에 LNG발전소 짓는다
+True Value: 0.235
+Predicted Without: -0.773
+Predicted With: 0.986
+
+
+Date: 2020-07-03
+Most Influencial News: 풀HD영화 124편 1초에 SK하이닉스 초고속 D램 본격 양산
+True Value: 1.185
+Predicted Without: 0.796
+Predicted With: 2.154
+
+
+Date: 2020-07-24
+Most Influencial News: 코로나에도 버텼다 현대차 선방 하이닉스 깜짝실적
+True Value: 1.578
+Predicted Without: -1.091
+Predicted With: 0.156
+
+
+Date: 2020-07-29
+Most Influencial News: SK그룹 하이닉스 이어 바이오주 로 또한번 도약하나
+True Value: 0.120
+Predicted Without: -0.368
+Predicted With: 0.030
+
+
+Date: 2020-08-28
+Most Influencial News: D램 바닥 찍었다 삼성전자·하이닉스 반등 신호
+True Value: -1.643
+Predicted Without: -0.557
+Predicted With: -0.264
+
+
+Date: 2020-09-01
+Most Influencial News: 내달 상장 日 키옥시아 SK하이닉스 주가 끌어올리나
+True Value: 0.133
+Predicted Without: -1.049
+Predicted With: 0.757
+
+
+Date: 2020-09-08
+Most Influencial News: 시트콤 SK하이닉스 광고였네
+True Value: 1.276
+Predicted Without: 0.508
+Predicted With: 1.183
+
+
+Date: 2020-09-14
+Most Influencial News: 3조 물린’ SK하이닉스 개미 구하기 작전명은 회장님 자사주 매입’
+True Value: 2.041
+Predicted Without: 0.497
+Predicted With: 0.732
+
+
+Date: 2020-10-27
+Most Influencial News: 마켓인사이트 SK하이닉스의 통 큰 베팅 우려하는 국내 신평사
+True Value: -0.721
+Predicted Without: -0.775
+Predicted With: -0.206
+
+
+Date: 2020-11-05
+Most Influencial News: SK하이닉스 컨콜 4분기 낸드 출하량 한자리 초반 성장 예상
+True Value: 3.486
+Predicted Without: -1.141
+Predicted With: 4.007
+
+
+Date: 2020-11-09
+Most Influencial News: SK하이닉스 시스템 반도체 역대급 실적 고지 보인다
+True Value: -0.348
+Predicted Without: -0.329
+Predicted With: 0.075
+
+
+Date: 2021-02-05
+Most Influencial News: SK하이닉스 노사 성과급 합의
+True Value: 2.000
+Predicted Without: 0.559
+Predicted With: 2.181
+
+
+Date: 2021-02-22
+Most Influencial News: SK하이닉스 낸드까지 좋아진다 목표주가 17만원
+True Value: 2.632
+Predicted Without: 0.058
+Predicted With: -0.036
+
+
+Date: 2021-03-03
+Most Influencial News: 삼성전자·SK하이닉스 급등 반도체 슈퍼사이클 기대감 확대
+True Value: 1.730
+Predicted Without: -0.863
+Predicted With: 0.911
+
+
+Date: 2021-04-28
+Most Influencial News: 삼성전자 SK하이닉스 반도체장비 가동 더 빨라진다
+True Value: -3.704
+Predicted Without: -0.902
+Predicted With: -2.033
+
+
+Date: 2021-05-27
+Most Influencial News: SK하이닉스 청주시에 1억원 어치 응원 키트 기탁
+True Value: 2.033
+Predicted Without: 0.272
+Predicted With: 0.084
+
+
+Date: 2021-06-09
+Most Influencial News: SK하이닉스 D램 제품서 일부 불량 中고객사 개별대응
+True Value: -3.922
+Predicted Without: -0.585
+Predicted With: -2.998
+
+
+Date: 2021-06-24
+Most Influencial News: 日 외국인 주주권 제한 추진 SK하이닉스도 영향권 정영효의 일본산업 분석
+True Value: 1.613
+Predicted Without: -0.783
+Predicted With: 1.344
+
+
+Date: 2021-07-06
+Most Influencial News: 단독 삼성전자 SK하이닉스 이어 현대차까지 디지털세 대상되나
+True Value: 1.626
+Predicted Without: 0.690
+Predicted With: 0.778
+
+
+Date: 2021-08-12
+Most Influencial News: 삼성전자·하이닉스 시총 하루 새 15兆 사라졌다
+True Value: -4.739
+Predicted Without: -0.868
+Predicted With: -3.259
+
+
+Date: 2021-10-12
+Most Influencial News: 엔씨·하이닉스·삼전 증권사 목표가 하향
+True Value: -2.660
+Predicted Without: -0.490
+Predicted With: -1.092
+
+
+Date: 2021-10-20
+Most Influencial News: SK하이닉스 MS ESG 협약 용인클러스터 하천 연구
+True Value: 0.205
+Predicted Without: 0.774
+Predicted With: 1.039
+
+
+Date: 2021-11-03
+Most Influencial News: 눈치작전 들어간 삼성 하이닉스 TSMC만큼만 미국에 자료 내겠다
+True Value: -1.860
+Predicted Without: -1.124
+Predicted With: -2.207
+
+
+Date: 2021-11-10
+Most Influencial News: 충북환경단체 SK하이닉스 LNG발전소 건축허가 무책임
+True Value: -0.459
+Predicted Without: 1.203
+Predicted With: 0.358
+
+
+Date: 2021-11-12
+Most Influencial News: 유진투자 SK하이닉스 과도한 저평가 목표가 상향
+True Value: -0.930
+Predicted Without: -0.842
+Predicted With: 0.050
+
+
+Date: 2021-11-16
+Most Influencial News: 개미들 11월에 삼전·SK하이닉스 던지고 엔비디아 집중 매입했다
+True Value: 0.901
+Predicted Without: 0.694
+Predicted With: 0.664
+
+
+Date: 2021-11-23
+Most Influencial News: 이게 얼마 만이냐 삼성전자·SK하이닉스 동반 급등
+True Value: -0.418
+Predicted Without: -0.742
+Predicted With: -2.725
+
+
+Date: 2021-11-25
+Most Influencial News: SK하이닉스 1억2000만원 기부
+True Value: -1.674
+Predicted Without: -0.332
+Predicted With: -0.165
+
+
+Date: 2021-12-06
+Most Influencial News: 삼성전자·하이닉스 판 개미들 중국 전기차 ETF 샀다
+True Value: 0.424
+Predicted Without: 0.309
+Predicted With: -0.210
+
+
+Date: 2021-12-13
+Most Influencial News: 10만 전자 재도전 삼성전자 8 상승 SK하이닉스 6 상승 상승 모드 돌입한 반도체주
+True Value: 0.830
+Predicted Without: -0.229
+Predicted With: -0.249
+
+
+Date: 2022-01-19
+Most Influencial News: SK하이닉스 현재 주가 저평가 국면 목표가 상향 IBK
+True Value: 0.395
+Predicted Without: -0.412
+Predicted With: -1.137
+
+
+Date: 2022-04-19
+Most Influencial News: 삼성전자 SK하이닉스 모처럼 반등 코스피 약보합 마감
+True Value: 3.211
+Predicted Without: 0.794
+Predicted With: 2.484
+
+
+Date: 2022-05-06
+Most Influencial News: SK하이닉스가 띄운 레고랜드 오늘 개장 年300만명 찾을까
+True Value: -1.826
+Predicted Without: -0.113
+Predicted With: -0.163
+
+
+Date: 2022-06-14
+Most Influencial News: 인플레이션 쇼크 SK하이닉스 올해 첫 10만원 선 붕괴
+True Value: 0.101
+Predicted Without: -0.543
+Predicted With: -0.725
+
+
+Date: 2022-07-06
+Most Influencial News: SK하이닉스 등 韓기업 봉쇄 대비 대규모 텐트도 설치
+True Value: -0.432
+Predicted Without: -0.466
+Predicted With: -0.767
+
+
+Date: 2022-07-11
+Most Influencial News: SK하이닉스 8만닉스 찍고 반등 건설·원전株 미래는
+True Value: -1.160
+Predicted Without: 0.304
+Predicted With: 0.327
+
+
+Date: 2022-08-22
+Most Influencial News: 대기업 상반기 설비투자 90조원 돌파 SK하이닉스 가장 많이 늘려
+True Value: -1.245
+Predicted Without: -0.590
+Predicted With: -0.463
+
+
+Date: 2022-09-02
+Most Influencial News: 서강대 수시전형 1030명 선발 SK하이닉스 계약 신설학과 주목
+True Value: -0.758
+Predicted Without: -0.811
+Predicted With: -0.235
+
+
+Date: 2022-09-21
+Most Influencial News: SK하이닉스 생물다양성 보전 위한 아이디어 경연
+True Value: 0.000
+Predicted Without: 0.364
+Predicted With: -0.021
+
+
+Date: 2022-10-12
+Most Influencial News: 韓은 예외라며 미중 반도체 전쟁 에 삼전·하이닉스 왜 등 터지나
+True Value: 4.213
+Predicted Without: 1.401
+Predicted With: 3.077
+
+
+Date: 2022-10-20
+Most Influencial News: SK하이닉스 CXL메모리에 연산기능 통합한 솔루션 최초 개발
+True Value: -2.906
+Predicted Without: -0.674
+Predicted With: -2.730
+
+
+Date: 2022-10-27
+Most Influencial News: 컨콜 SK하이닉스 내년 1분기까지 재고 피크 상황 지속될 것
+True Value: -4.153
+Predicted Without: -1.167
+Predicted With: -5.885
+
+
+Date: 2022-12-07
+Most Influencial News: 독거노인종합지원센터 SK하이닉스 취약계층 난방용품 지원
+True Value: -2.593
+Predicted Without: -0.443
+Predicted With: -1.530
+
+
+Date: 2022-12-09
+Most Influencial News: 키움증권 SK하이닉스 목표가 하향 연말 이후 저가매수 추천
+True Value: 3.426
+Predicted Without: -0.526
+Predicted With: 3.004
+
+
+Date: 2022-12-26
+Most Influencial News: 삼성·하이닉스 4분기 실적도 꽁꽁 아직 바닥 멀었다
+True Value: -1.028
+Predicted Without: -0.116
+Predicted With: -0.103
+
+
+Date: 2023-01-17
+Most Influencial News: SK하이닉스 마스터 제도 도입 1호 마스터에 마경수 기성
+True Value: 0.233
+Predicted Without: 0.394
+Predicted With: 0.412
+
+
+Date: 2023-02-08
+Most Influencial News: SK하이닉스 수요예측서 2 6조 뭉칫돈’ CJ대한통운도 흥행
+True Value: 4.515
+Predicted Without: -0.405
+Predicted With: 1.195
+
+
+Date: 2023-03-02
+Most Influencial News: 단독 SK하이닉스 세계최초 최선단 1b D램 인텔인증 눈앞
+True Value: -1.454
+Predicted Without: 0.832
+Predicted With: -1.310
+
+
+Date: 2023-03-07
+Most Influencial News: 반도체지표 온통 나쁨’ 삼성·SK하이닉스 실적 희망고문
+True Value: -0.892
+Predicted Without: -0.182
+Predicted With: -0.486
+
+
+Date: 2023-05-19
+Most Influencial News: SK하이닉스 동반성장협의회 ESG 경영 실천 공동 선언
+True Value: 3.953
+Predicted Without: 1.099
+Predicted With: 4.669
+
+
+Date: 2023-05-24
+Most Influencial News: 단독 SK하이닉스도 일본 오면 보조금 검토
+True Value: -0.204
+Predicted Without: 0.486
+Predicted With: -0.283
+
+
+Date: 2023-05-26
+Most Influencial News: SK하이닉스 美 델 테크놀로지스 월드 에서 최신기술 소개
+True Value: 5.507
+Predicted Without: 0.897
+Predicted With: 1.577
+
+
+Date: 2023-06-28
+Most Influencial News: 청주시 민선8기 1년간 SK하이닉스 등 27개사 투자유치
+True Value: 1.150
+Predicted Without: -0.636
+Predicted With: 0.770
+
+
+Date: 2023-08-17
+Most Influencial News: 7 상승 엔비디아發 훈풍에 SK하이닉스도 장 초반 강세
+True Value: -0.864
+Predicted Without: -0.480
+Predicted With: -0.289
+
+
+Date: 2023-08-29
+Most Influencial News: “ 엔비디아와 한몸’ SK하이닉스 세계서 가장 핫한 반도체 분야 지배”
+True Value: 2.330
+Predicted Without: 1.127
+Predicted With: 2.572
+
+
+Date: 2023-10-26
+Most Influencial News: SK하이닉스 세계 최고속 모바일용 D램’ 퀄컴 인증
+True Value: -5.882
+Predicted Without: -1.300
+Predicted With: -4.509
+
+

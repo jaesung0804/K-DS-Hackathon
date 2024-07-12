@@ -1,0 +1,119 @@
+Date: 2019-03-04
+Most Influencial News: 이재용 경제외교 감초 역할’ 톡톡
+True Value: -0.554
+Predicted Without: 0.688
+Predicted With: -0.508
+
+
+Date: 2019-09-02
+Most Influencial News: 박근혜 서울고법 형사 6부 이재용 형사 1부 배당 유력
+True Value: -0.455
+Predicted Without: -1.353
+Predicted With: -0.715
+
+
+Date: 2019-10-30
+Most Influencial News: 상생·인재·통 큰 투자 이재용의 100년기업
+True Value: -1.37
+Predicted Without: -0.93
+Predicted With: -1.369
+
+
+Date: 2019-11-27
+Most Influencial News: 스타트업 지킴이로 혁신 동행 나선 이재용
+True Value: 0.772
+Predicted Without: 0.545
+Predicted With: 0.532
+
+
+Date: 2019-12-04
+Most Influencial News: 단독 이재용 부회장 삼성 롤모델 발렌베리家 회장 만난다
+True Value: -0.902
+Predicted Without: -0.785
+Predicted With: -0.673
+
+
+Date: 2020-02-14
+Most Influencial News: 프로포폴 투약 혐의 檢 이재용부회장 수사
+True Value: 1.812
+Predicted Without: 2.173
+Predicted With: 1.674
+
+
+Date: 2020-05-07
+Most Influencial News: 과거와 단절 선언한 이재용 국격에 맞는 새로운 삼성 만들겠다
+True Value: -0.813
+Predicted Without: -0.617
+Predicted With: -0.855
+
+
+Date: 2020-10-20
+Most Influencial News: 이재용 이번엔 베트남 호찌민서 가전사업도 챙긴다
+True Value: 1.5
+Predicted Without: -0.865
+Predicted With: 1.669
+
+
+Date: 2020-11-06
+Most Influencial News: 사법 리스크·삼성생명법 이재용 앞에 놓인 2개의 난관 뉴 삼성 이재용 시대
+True Value: -0.332
+Predicted Without: 0.935
+Predicted With: -0.342
+
+
+Date: 2021-02-17
+Most Influencial News: 이재용 삼성 경영 가시밭길 법무부 5년간 취업 제한
+True Value: -2.002
+Predicted Without: -1.492
+Predicted With: -2.053
+
+
+Date: 2021-11-29
+Most Influencial News: 이재용 뉴삼성 시작됐다 삼성 30대 임원 발탁 예고
+True Value: 0.0
+Predicted Without: 0.437
+Predicted With: -0.28
+
+
+Date: 2022-05-25
+Most Influencial News: 450조 승부수 띄운 이재용 삼성 제2 반도체 신화 쓴다
+True Value: -0.15
+Predicted Without: -0.644
+Predicted With: -0.352
+
+
+Date: 2022-07-29
+Most Influencial News: 29일 형기 만료 이재용 5년 취업제한에 경영복귀는
+True Value: -0.808
+Predicted Without: 1.261
+Predicted With: -0.892
+
+
+Date: 2022-10-21
+Most Influencial News: 27일 이사회 앞둔 삼성전자 이재용 회장 승진’ 논의하나
+True Value: 0.721
+Predicted Without: -0.813
+Predicted With: 0.56
+
+
+Date: 2022-12-22
+Most Influencial News: 이번엔 베트남 이재용 회장 깜짝투자 나오나
+True Value: 1.897
+Predicted Without: -0.98
+Predicted With: 1.72
+
+
+Date: 2023-08-25
+Most Influencial News: 이재용 전경련 정경유착 재발 우려
+True Value: -1.613
+Predicted Without: -1.023
+Predicted With: -1.458
+
+
+Date: 2023-10-26
+Most Influencial News: 이재용 회장 KH 유산 되살려 위기 돌파
+True Value: -1.912
+Predicted Without: -0.487
+Predicted With: -1.39
+
+

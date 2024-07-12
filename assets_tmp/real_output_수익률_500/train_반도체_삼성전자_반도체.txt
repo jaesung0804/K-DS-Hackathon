@@ -1,0 +1,21 @@
+Date: 2020-01-20
+Most Influencial News: 삼성전자 시스템반도체·카메라모듈 수요 확대 등
+True Value: 1.794
+Predicted Without: 1.181
+Predicted With: 2.152
+
+
+Date: 2020-06-15
+Most Influencial News: 삼성바이오로직스·카카오 더 간다 반도체 수요도 증가할 것
+True Value: -4.589
+Predicted Without: -3.0
+Predicted With: -4.752
+
+
+Date: 2021-11-22
+Most Influencial News: 백악관 간 이재용 깜짝 발표 예고 미국 반도체공장 이번주 확정된다
+True Value: 5.197
+Predicted Without: 2.216
+Predicted With: 6.148
+
+

@@ -1,0 +1,210 @@
+Date: 2018-11-30
+Most Influencial News: fn 마감시황 코스피 강보합 마감 0 28 상승
+True Value: -2.657
+Predicted Without: 1.199
+Predicted With: -2.729
+
+
+Date: 2019-03-14
+Most Influencial News: 코스피 기관 매도에 하락 출발 코스닥은 상승
+True Value: 0.749
+Predicted Without: -0.319
+Predicted With: 0.126
+
+
+Date: 2019-06-05
+Most Influencial News: 코스피 하락 출발 후 2 060대 혼조세 코스닥은 소폭 상승 종합
+True Value: 0.0
+Predicted Without: 0.58
+Predicted With: 0.185
+
+
+Date: 2019-08-13
+Most Influencial News: 코스피 1930대 약세 상승 출발 후 하락
+True Value: 0.0
+Predicted Without: -1.351
+Predicted With: -0.818
+
+
+Date: 2019-11-27
+Most Influencial News: 코스피 소폭 상승 신기록 세운 美 증시와 달리 차분
+True Value: 0.486
+Predicted Without: 0.683
+Predicted With: 0.453
+
+
+Date: 2019-12-11
+Most Influencial News: 코스피 2090선 회복 기관 매수 힘입어 상승 마감
+True Value: -0.124
+Predicted Without: 0.723
+Predicted With: -0.037
+
+
+Date: 2020-03-04
+Most Influencial News: 美 증시 5 폭등했는데 코스피 용두사미 0 6 상승 마감
+True Value: 1.616
+Predicted Without: 1.091
+Predicted With: 1.642
+
+
+Date: 2020-07-02
+Most Influencial News: 코스피 상승→하락 반전 개미는 사자
+True Value: -1.055
+Predicted Without: -0.573
+Predicted With: -0.95
+
+
+Date: 2020-07-30
+Most Influencial News: 외국인 오늘도 삼전 산다 1 7 상승 코스피는 보합권서 등락
+True Value: 2.524
+Predicted Without: 1.821
+Predicted With: 2.377
+
+
+Date: 2020-09-03
+Most Influencial News: fn오전시황 코스피 개인 매수에 2360선 상승세
+True Value: 4.238
+Predicted Without: 1.297
+Predicted With: 4.182
+
+
+Date: 2021-02-03
+Most Influencial News: 개인 매수에 코스피 2 1 상승 3100선 재돌파
+True Value: 0.0
+Predicted Without: -1.36
+Predicted With: 0.097
+
+
+Date: 2021-04-12
+Most Influencial News: 국민연금이 팔아치웠던 대형주 외인 매수세에 상승 탄력 붙나
+True Value: -1.786
+Predicted Without: -0.706
+Predicted With: -1.557
+
+
+Date: 2021-08-03
+Most Influencial News: 상승랠리 마친 코스피 개인이 던진 곱버스 기관은 담았다
+True Value: 3.448
+Predicted Without: 1.209
+Predicted With: 2.111
+
+
+Date: 2021-09-15
+Most Influencial News: 코스피 기관 매수에 상승 마감 상생안 발표한 카카오 낙폭 축소
+True Value: 0.0
+Predicted Without: 0.46
+Predicted With: 0.178
+
+
+Date: 2021-09-23
+Most Influencial News: 당분간 상승 모멘텀 안보여 종목별 차별화 심해질 듯
+True Value: -1.402
+Predicted Without: 0.077
+Predicted With: -0.205
+
+
+Date: 2021-12-10
+Most Influencial News: fn마감시황 기관 매수에 코스피 3020선으로 코스닥도 상승
+True Value: -2.429
+Predicted Without: -1.016
+Predicted With: -2.336
+
+
+Date: 2021-12-14
+Most Influencial News: fn오전시황 외국인·기관 사자’에 코스피 상승세
+True Value: -0.412
+Predicted Without: -0.577
+Predicted With: -0.69
+
+
+Date: 2022-01-12
+Most Influencial News: 코스피 외인 매수에 상승 출발 2940선 등락
+True Value: 0.391
+Predicted Without: 0.482
+Predicted With: 0.031
+
+
+Date: 2022-02-11
+Most Influencial News: 코스피 개인·외국인 사자 에 상승 코스닥은 소폭 하락
+True Value: 1.931
+Predicted Without: 0.989
+Predicted With: 2.188
+
+
+Date: 2022-03-23
+Most Influencial News: 韓 증시 박스권 손보株는 상승 셀트리온형제는 하락
+True Value: 0.0
+Predicted Without: 1.711
+Predicted With: 0.335
+
+
+Date: 2022-07-21
+Most Influencial News: 코스피 개인 매수에 0 67 상승 마감 2 380선 회복 종합
+True Value: 0.49
+Predicted Without: -0.529
+Predicted With: 0.646
+
+
+Date: 2022-10-05
+Most Influencial News: 계좌 녹아내렸다 급락장서 증시 상승 베팅 동학개미 수익률 마이너스
+True Value: 4.176
+Predicted Without: 1.781
+Predicted With: 4.24
+
+
+Date: 2022-11-17
+Most Influencial News: 지정학적 위험 고조에 코스피 소폭 하락·환율 7 4원 상승 종합
+True Value: -4.153
+Predicted Without: -1.26
+Predicted With: -3.923
+
+
+Date: 2022-11-25
+Most Influencial News: 코스피 외인·기관 쌍끌이 순매수에 상승 2 440대 종합2보
+True Value: -2.071
+Predicted Without: -0.695
+Predicted With: -1.969
+
+
+Date: 2022-12-27
+Most Influencial News: 한산한 연말 증시 배당 노린 금융투자 순매수세에 코스피 소폭 상승
+True Value: 0.0
+Predicted Without: -0.577
+Predicted With: -0.014
+
+
+Date: 2023-05-18
+Most Influencial News: 코스피·코스닥 외인·기관 쌍끌이 매수에 상승 2차전지·인터넷 강세
+True Value: 1.85
+Predicted Without: 1.544
+Predicted With: 1.824
+
+
+Date: 2023-07-04
+Most Influencial News: 코스피 장 초반 1 올라 美물가상승 둔화·韓무역흑자 영향 종합
+True Value: 0.255
+Predicted Without: 0.681
+Predicted With: 0.159
+
+
+Date: 2023-07-05
+Most Influencial News: 외인 기관 매도에도 코스피·코스닥 동반 상승 에코프로비엠 강세
+True Value: -1.018
+Predicted Without: 1.1
+Predicted With: -1.204
+
+
+Date: 2023-09-05
+Most Influencial News: fn오후시황 코스피 외인 순매수 자금 늘자 상승폭 확대
+True Value: 0.168
+Predicted Without: -0.8
+Predicted With: 0.057
+
+
+Date: 2023-09-27
+Most Influencial News: 코스피 기관 매도세에 하락 출발 코스닥은 0 5 상승
+True Value: -0.261
+Predicted Without: -0.472
+Predicted With: -0.057
+
+

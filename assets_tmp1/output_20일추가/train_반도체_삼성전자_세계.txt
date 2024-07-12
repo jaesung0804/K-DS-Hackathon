@@ -1,0 +1,203 @@
+Date: 2019-01-02
+Most Influencial News: 삼성전자 특허군 출원 세계 2위
+True Value: 0.129
+Predicted Without: 1.384
+Predicted With: 0.082
+
+
+Date: 2019-01-11
+Most Influencial News: CES 2019 조성진 LG전자 부회장 세계 기술기업 50곳 M amp;A 검토
+True Value: 1.759
+Predicted Without: 1.551
+Predicted With: 1.990
+
+
+Date: 2019-06-19
+Most Influencial News: 딩위안 부총장 세계 최고 MBA로 성장한 CEIBS 비결은 산업현장 중심 커리큘럼
+True Value: 2.255
+Predicted Without: 0.795
+Predicted With: 2.077
+
+
+Date: 2019-11-05
+Most Influencial News: 악재 가득한 세계 경제 품질경영만이 살 길
+True Value: 0.765
+Predicted Without: 0.604
+Predicted With: 0.401
+
+
+Date: 2020-02-05
+Most Influencial News: 삼성 1초에 풀HD 영화 82편 전송할 D램 세계 첫 출시
+True Value: 1.019
+Predicted Without: 1.489
+Predicted With: 1.003
+
+
+Date: 2020-08-14
+Most Influencial News: 한국 세계 1위 제품 7개로 3위 일본과 같아졌다
+True Value: -1.193
+Predicted Without: -1.454
+Predicted With: -1.641
+
+
+Date: 2020-09-04
+Most Influencial News: 캐릭터 IP로 무장한 네이버·카카오 전세계 MZ세대 공략
+True Value: -1.418
+Predicted Without: -0.957
+Predicted With: -1.274
+
+
+Date: 2020-09-07
+Most Influencial News: 세계 1위 크롬북 에이서 꿈틀대는 한국시장 잡을 것 인터뷰
+True Value: 1.619
+Predicted Without: -0.611
+Predicted With: 1.357
+
+
+Date: 2020-11-13
+Most Influencial News: 영업이익 10 주주 환원 신세계 파격 배당 이유는
+True Value: 3.607
+Predicted Without: 1.949
+Predicted With: 3.457
+
+
+Date: 2020-12-07
+Most Influencial News: N3N 세계 유일 영상전송기술 구현
+True Value: 1.958
+Predicted Without: 1.281
+Predicted With: 1.906
+
+
+Date: 2021-01-20
+Most Influencial News: 세계시장 급변하는데 삼성은 방향타 잃어
+True Value: 0.230
+Predicted Without: -2.338
+Predicted With: 0.031
+
+
+Date: 2021-02-01
+Most Influencial News: 테슬라도 한다 전세계는 온라인 주총 열풍
+True Value: 1.220
+Predicted Without: 1.547
+Predicted With: 1.148
+
+
+Date: 2021-03-11
+Most Influencial News: EU 10년내 세계 반도체 20 생산
+True Value: 1.360
+Predicted Without: 0.910
+Predicted With: 1.328
+
+
+Date: 2021-04-15
+Most Influencial News: 갤버즈 라이브 세계서 가장 효과적인 광고로 뽑혀
+True Value: 0.119
+Predicted Without: -1.451
+Predicted With: 0.071
+
+
+Date: 2021-09-08
+Most Influencial News: 팹리스 세계 2위 칩 출하량 제한 반도체 품귀현상 당분간 지속될듯
+True Value: 0.263
+Predicted Without: 0.743
+Predicted With: 0.383
+
+
+Date: 2021-09-28
+Most Influencial News: 배도 비행기도 없다 물류 대란에 전세계 비상 걸렸다
+True Value: -1.802
+Predicted Without: -1.327
+Predicted With: -1.834
+
+
+Date: 2021-09-30
+Most Influencial News: 부산세계박람회 유치委 본격 가동
+True Value: 0.000
+Predicted Without: -0.614
+Predicted With: -0.066
+
+
+Date: 2022-02-08
+Most Influencial News: 전세계 기업 올림픽 열린다면 한국선 단 1개의 기업만 메달
+True Value: 0.685
+Predicted Without: 1.075
+Predicted With: 0.305
+
+
+Date: 2022-08-03
+Most Influencial News: 세계유일 기술로 반도체 건조기 톱3 된 에이펫
+True Value: -0.648
+Predicted Without: -0.224
+Predicted With: -0.433
+
+
+Date: 2022-08-24
+Most Influencial News: 전세계 TV 10대중 3대는 삼성 17년째 세계 1위 지켰다
+True Value: -0.169
+Predicted Without: -0.512
+Predicted With: 0.051
+
+
+Date: 2022-12-23
+Most Influencial News: 세계 500대 기업에 中 136개 vs 韓 16개
+True Value: -1.692
+Predicted Without: 1.958
+Predicted With: -1.581
+
+
+Date: 2023-01-13
+Most Influencial News: MK라씨로 기관 실적개선 기대 신세계 매수
+True Value: 0.496
+Predicted Without: 0.916
+Predicted With: 0.348
+
+
+Date: 2023-02-13
+Most Influencial News: iR52 장영실상 차세대 6G통신 발판 마련 세계 두번째 상용화
+True Value: 0.159
+Predicted Without: 1.069
+Predicted With: 0.159
+
+
+Date: 2023-02-22
+Most Influencial News: 초대형 프리미엄 TV 통했다 삼성 17년째 세계 1위
+True Value: -1.610
+Predicted Without: -0.498
+Predicted With: -1.344
+
+
+Date: 2023-04-17
+Most Influencial News: 韓 수출점유율 금융위기후 최저 中·대만에 세계시장 내줬다
+True Value: 0.307
+Predicted Without: 0.644
+Predicted With: 0.411
+
+
+Date: 2023-06-20
+Most Influencial News: 디지털 역량 키운 기업 전세계 고객 마음 사로잡았다
+True Value: 0.281
+Predicted Without: 0.829
+Predicted With: 0.333
+
+
+Date: 2023-08-24
+Most Influencial News: 여행용 TV로 전세계 MZ세대 사로잡자
+True Value: 1.639
+Predicted Without: 0.985
+Predicted With: 1.265
+
+
+Date: 2023-09-26
+Most Influencial News: 기고 K 디스플레이 세계 1위 향한 과제
+True Value: -1.153
+Predicted Without: -1.012
+Predicted With: -1.215
+
+
+Date: 2023-10-27
+Most Influencial News: V낸드 세계 첫 개발 경계현 삼성전자 사장 금탑훈장
+True Value: 0.900
+Predicted Without: 0.760
+Predicted With: 0.877
+
+

@@ -1,0 +1,28 @@
+Date: 2020-01-06
+Most Influencial News: 중동불안 vs 삼성전자 실적 연초 증시 가른다
+True Value: 0.0
+Predicted Without: -0.497
+Predicted With: 0.145
+
+
+Date: 2020-08-20
+Most Influencial News: 비대면·IT 선방 하반기 실적 반등 기대 속 코로나가 변수 상장사 상반기 실적 코로나 쇼크
+True Value: -4.152
+Predicted Without: -1.36
+Predicted With: -3.111
+
+
+Date: 2021-04-27
+Most Influencial News: 코스피 실적장세 돌입 큰형님들’의 시간이 온다
+True Value: -0.719
+Predicted Without: 1.147
+Predicted With: -0.371
+
+
+Date: 2023-07-10
+Most Influencial News: 삼성 DDR5·HBM3·3나노 로 실적 반전 노린다 삼성 반도체 위기 극복 해법은
+True Value: -0.572
+Predicted Without: -1.738
+Predicted With: -0.968
+
+

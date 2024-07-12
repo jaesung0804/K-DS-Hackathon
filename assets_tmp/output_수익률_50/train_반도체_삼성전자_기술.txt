@@ -1,0 +1,210 @@
+Date: 2018-11-30
+Most Influencial News: 삼성 OLED 핵심기술 중국 BOE에 통째 유출
+True Value: -3.013
+Predicted Without: 0.528
+Predicted With: -0.330
+
+
+Date: 2019-01-03
+Most Influencial News: 삼성전자 기술전문가 名匠제도 신설
+True Value: -2.968
+Predicted Without: -1.063
+Predicted With: -2.806
+
+
+Date: 2019-09-02
+Most Influencial News: 삼성전자 8K TV 기술 표준 첫 공개
+True Value: -0.455
+Predicted Without: -0.444
+Predicted With: -0.758
+
+
+Date: 2019-10-04
+Most Influencial News: SKT 日라쿠텐에 5G 기술수출
+True Value: 0.840
+Predicted Without: 0.836
+Predicted With: 1.385
+
+
+Date: 2019-11-22
+Most Influencial News: 삼성전자 제품 수리왕 누구 1700명 참여 기술 경진대회
+True Value: 1.176
+Predicted Without: -0.566
+Predicted With: 1.547
+
+
+Date: 2019-11-28
+Most Influencial News: 독보적 기술 가진 유니콘기업 韓에 없다
+True Value: -1.724
+Predicted Without: -0.443
+Predicted With: -0.241
+
+
+Date: 2019-11-29
+Most Influencial News: Hello CEO AI시대 첨단 기술기업 변신하려면 글로벌 1등기업과 손잡는게 지름길
+True Value: -1.949
+Predicted Without: -0.519
+Predicted With: -1.107
+
+
+Date: 2019-12-04
+Most Influencial News: 유니콘은 투자자가 만들어낸 환상일 뿐 원천 기술 가진 스타트업 성장 돕는 게 중요
+True Value: -0.902
+Predicted Without: -0.241
+Predicted With: -0.581
+
+
+Date: 2020-01-16
+Most Influencial News: 삼성·LG 추격하는 中 TV업체들 OLED 등 프리미엄기술까지 모방
+True Value: 2.881
+Predicted Without: 1.236
+Predicted With: 3.679
+
+
+Date: 2020-07-03
+Most Influencial News: SKT 5G 인빌딩 기술 스몰셀 어워드 서 수상
+True Value: 1.323
+Predicted Without: 0.329
+Predicted With: 0.337
+
+
+Date: 2020-07-31
+Most Influencial News: 반도체기술 현장 찾은 이재용 머뭇거릴 시간 없다
+True Value: -1.864
+Predicted Without: -0.419
+Predicted With: -1.225
+
+
+Date: 2021-02-09
+Most Influencial News: 매경시평 기술 패권 경쟁의 틈바구니에서
+True Value: -0.361
+Predicted Without: -0.184
+Predicted With: -0.476
+
+
+Date: 2021-03-30
+Most Influencial News: 해외로케 멈춘 광고 기술 이 파도쳤다
+True Value: 0.735
+Predicted Without: -0.245
+Predicted With: -0.318
+
+
+Date: 2021-04-06
+Most Influencial News: 삼성 미래기술육성사업’ 464억 지원 기초과학·소재 등 27개 연구과제 발표
+True Value: 0.703
+Predicted Without: 0.974
+Predicted With: 0.919
+
+
+Date: 2021-06-16
+Most Influencial News: 비용 9분의 1로 줄인 진공 증착 기술 마이크로 LED TV 생산에 사용될 것
+True Value: 1.112
+Predicted Without: 0.436
+Predicted With: 0.018
+
+
+Date: 2021-07-08
+Most Influencial News: AI 기술 가이드라인 미비 현실 활용 기대 이하
+True Value: -1.114
+Predicted Without: -0.873
+Predicted With: -1.015
+
+
+Date: 2021-11-15
+Most Influencial News: 인텔 中서 반도체 더 만들지마 바이든 對中기술안보 고삐
+True Value: 1.133
+Predicted Without: -0.629
+Predicted With: 0.851
+
+
+Date: 2022-01-04
+Most Influencial News: 최고 기술 전문가 삼성명장’ 11인 선발
+True Value: 0.127
+Predicted Without: 0.750
+Predicted With: 0.097
+
+
+Date: 2022-04-05
+Most Influencial News: 재택근무 늘리던 삼성 반도체 기술유출 사건으로 다시 출근
+True Value: -0.144
+Predicted Without: 0.897
+Predicted With: -0.243
+
+
+Date: 2022-04-07
+Most Influencial News: 기술 평가하며 큰돈 투자 집행 유망한 스타트업엔 서로 몰려 우리돈 받아달라 영업도 하죠
+True Value: -0.730
+Predicted Without: -0.512
+Predicted With: -1.537
+
+
+Date: 2022-06-03
+Most Influencial News: 삼성의 고졸 기술인재 사랑 2007년부터 기능대회 후원
+True Value: 0.150
+Predicted Without: 0.504
+Predicted With: 0.015
+
+
+Date: 2022-06-23
+Most Influencial News: 삼성전자 AI 선행 기술연구·인재 영입 사활 초격차 실현
+True Value: -0.347
+Predicted Without: 0.444
+Predicted With: 0.441
+
+
+Date: 2022-09-23
+Most Influencial News: 최준일 KAIST 교수 자율주행 기술 개발 실생활 연구가 비결
+True Value: 0.184
+Predicted Without: 1.512
+Predicted With: 1.459
+
+
+Date: 2022-12-01
+Most Influencial News: 최대 시장 中 기술 동맹 美 선택 내몰린 韓
+True Value: 0.643
+Predicted Without: -0.785
+Predicted With: -0.542
+
+
+Date: 2022-12-08
+Most Influencial News: 종자 혁신기술 유전자가위 규제 韓농업 갈라파고스 위기
+True Value: 0.509
+Predicted Without: -0.530
+Predicted With: 0.448
+
+
+Date: 2022-12-21
+Most Influencial News: 삼성 6G·로봇 등 7대 핵심기술 제시
+True Value: -1.024
+Predicted Without: -0.152
+Predicted With: -0.222
+
+
+Date: 2023-05-10
+Most Influencial News: 한경에세이 AI 시대는 기술의 시대다
+True Value: -1.072
+Predicted Without: -0.285
+Predicted With: -0.374
+
+
+Date: 2023-06-12
+Most Influencial News: 솜방망이 기술유출 처벌 강화되나
+True Value: -1.389
+Predicted Without: -0.531
+Predicted With: -0.409
+
+
+Date: 2023-06-16
+Most Influencial News: 한종희 디스플레이 기술도 기후 변화가 화두
+True Value: 0.420
+Predicted Without: 0.423
+Predicted With: -0.681
+
+
+Date: 2023-09-21
+Most Influencial News: 삼성·TSMC 보고있나 인텔 1 8나노 반도체 양산기술 공개
+True Value: -1.006
+Predicted Without: -0.151
+Predicted With: -0.057
+
+

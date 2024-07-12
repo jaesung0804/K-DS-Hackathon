@@ -1,0 +1,133 @@
+Date: 2018-12-27
+Most Influencial News: KRX300 수익률 코스피200 추월
+True Value: -0.261
+Predicted Without: -0.735
+Predicted With: -0.090
+
+
+Date: 2019-10-15
+Most Influencial News: 증권사 추천상품 코스피 최대 2150 연말 산타랠리 올까
+True Value: 0.200
+Predicted Without: 0.756
+Predicted With: 0.329
+
+
+Date: 2020-05-28
+Most Influencial News: 코스피 2000선 끌어올린 개미들 연초 이후 수익률은 24 거침없는 유동성장세
+True Value: 1.002
+Predicted Without: 1.103
+Predicted With: 1.429
+
+
+Date: 2020-11-24
+Most Influencial News: 키움자산운용 삼성전자·LG화학 코스피 우량주 선별
+True Value: 0.296
+Predicted Without: 1.899
+Predicted With: 0.506
+
+
+Date: 2020-12-09
+Most Influencial News: 코스피 더 간다는 외국계들 JP모건 내년 3200선 전망
+True Value: 3.068
+Predicted Without: 2.315
+Predicted With: 3.664
+
+
+Date: 2021-01-14
+Most Influencial News: 삼성전기서 분사한 솔루엠 ESL 세계3위 전자부품社 코스피 노크
+True Value: 0.000
+Predicted Without: -1.561
+Predicted With: 0.680
+
+
+Date: 2021-04-05
+Most Influencial News: 코로나 잘 넘긴 코스피 상장사 작년 매출 감소에도 순익 18 증가
+True Value: 0.708
+Predicted Without: 0.970
+Predicted With: 1.169
+
+
+Date: 2021-04-27
+Most Influencial News: 코스피 실적장세 돌입 큰형님들’의 시간이 온다
+True Value: -0.719
+Predicted Without: 1.147
+Predicted With: -0.371
+
+
+Date: 2021-06-14
+Most Influencial News: 거래소 시총 상위 10개사 구성 코스피200 TOP10 지수 발표
+True Value: -0.617
+Predicted Without: -0.355
+Predicted With: -0.225
+
+
+Date: 2021-07-13
+Most Influencial News: 반등은 했는데 코스피 추가 상승 결정지을 핵심 변수는
+True Value: 0.125
+Predicted Without: -0.366
+Predicted With: -0.134
+
+
+Date: 2021-10-07
+Most Influencial News: 이젠 2900도 불안하네 코스피 바닥이 안보인다
+True Value: 0.421
+Predicted Without: -0.913
+Predicted With: 0.170
+
+
+Date: 2022-01-27
+Most Influencial News: 코스피 PBR 1배 미만 바닥권 설 이후 저가매수 해 볼만
+True Value: -2.729
+Predicted Without: -1.382
+Predicted With: -2.334
+
+
+Date: 2022-02-03
+Most Influencial News: 美증시 급반등 코스피에 설선물 될까
+True Value: 0.000
+Predicted Without: 0.849
+Predicted With: -0.015
+
+
+Date: 2022-07-27
+Most Influencial News: 코스피 올랐는데 또 헛물 켠 개미 곱버스 만 잔뜩 샀네
+True Value: 0.162
+Predicted Without: 0.396
+Predicted With: 0.291
+
+
+Date: 2022-12-16
+Most Influencial News: 파월이 산타 돌려보냈다 잠시 설렜던 코스피 털썩
+True Value: 0.337
+Predicted Without: 0.731
+Predicted With: 0.220
+
+
+Date: 2023-02-20
+Most Influencial News: 코스피200 추종 안정적 AI 기법 활용으로 추가 수익도 이런 펀드 어때요
+True Value: 0.160
+Predicted Without: -0.409
+Predicted With: 0.298
+
+
+Date: 2023-04-11
+Most Influencial News: 감산 삼성전자의 힘 반도체 훈풍 타고 상승세 이어간다 코스피 8개월 만에 2500선 돌파
+True Value: 0.304
+Predicted Without: 0.909
+Predicted With: 0.217
+
+
+Date: 2023-09-01
+Most Influencial News: 코스피 떠나는 외국인 실적 기대주는 담았다
+True Value: 6.129
+Predicted Without: 3.382
+Predicted With: 6.041
+
+
+Date: 2023-10-19
+Most Influencial News: 코스피 약세장에 개인 털썩 순매수 톱10 모두 마이너스
+True Value: -1.418
+Predicted Without: 0.652
+Predicted With: -1.313
+
+

@@ -1,0 +1,224 @@
+Date: 2018-11-26
+Most Influencial News: 멀티카메라·폴더블폰·5G·2차전지 등 4차 산업혁명 관련 혁신기술株에 기회
+True Value: 0.472
+Predicted Without: -0.723
+Predicted With: 0.299
+
+
+Date: 2018-12-06
+Most Influencial News: 다산기술상 영광의 얼굴들’
+True Value: -2.292
+Predicted Without: -1.275
+Predicted With: -2.151
+
+
+Date: 2019-01-11
+Most Influencial News: CES 2019 조성진 LG전자 부회장 세계 기술기업 50곳 M amp;A 검토
+True Value: 1.759
+Predicted Without: 1.551
+Predicted With: 1.990
+
+
+Date: 2019-02-26
+Most Influencial News: 화웨이 폴더블폰 삼성에 도전장 냈지만 기술·가격 큰 격차
+True Value: -1.267
+Predicted Without: 1.848
+Predicted With: -1.028
+
+
+Date: 2019-11-11
+Most Influencial News: 기술력으로 사회문제 해결 돕는다
+True Value: -0.960
+Predicted Without: 0.738
+Predicted With: -1.027
+
+
+Date: 2020-01-06
+Most Influencial News: 5G·디스플레이·IoT가전 선도기술 뽐내는 韓기업
+True Value: 0.000
+Predicted Without: -0.745
+Predicted With: -0.115
+
+
+Date: 2020-01-16
+Most Influencial News: 삼성·LG 추격하는 中 TV업체들 OLED 등 프리미엄기술까지 모방
+True Value: 2.881
+Predicted Without: 1.799
+Predicted With: 3.013
+
+
+Date: 2020-03-11
+Most Influencial News: 삼성 배터리 기술 혁명 1회 충전해 800㎞ 달린다
+True Value: -4.579
+Predicted Without: -1.806
+Predicted With: -4.278
+
+
+Date: 2020-04-28
+Most Influencial News: 한국이 치고나갈 기회 과학기술 뉴딜 추진을
+True Value: 0.502
+Predicted Without: 1.046
+Predicted With: 0.541
+
+
+Date: 2020-05-15
+Most Influencial News: 젠슨 황 엔비디아 CEO 반도체도 SW기술력 없인 미래없다
+True Value: -0.312
+Predicted Without: -0.398
+Predicted With: -0.300
+
+
+Date: 2020-12-07
+Most Influencial News: N3N 세계 유일 영상전송기술 구현
+True Value: 1.958
+Predicted Without: 1.281
+Predicted With: 1.906
+
+
+Date: 2021-01-27
+Most Influencial News: 반도체 핵심기술 中 유출 장비업체 17명 기소
+True Value: -1.269
+Predicted Without: 1.287
+Predicted With: -1.448
+
+
+Date: 2021-03-02
+Most Influencial News: 신기술·신제품·신사업 국가대표 기업들 3新과 달린다
+True Value: 1.333
+Predicted Without: 1.099
+Predicted With: 1.179
+
+
+Date: 2021-03-23
+Most Influencial News: 데스크 칼럼 기술패권 시대 기업이 답이다
+True Value: -0.244
+Predicted Without: 0.739
+Predicted With: -0.361
+
+
+Date: 2021-04-05
+Most Influencial News: 미국 중국 동시에 한국 압박 기술동맹 우리와 맺자
+True Value: 0.708
+Predicted Without: 1.646
+Predicted With: 0.762
+
+
+Date: 2021-06-22
+Most Influencial News: 포스코·제노코·데시칸 대한민국 기술 선도기업
+True Value: 0.125
+Predicted Without: 0.372
+Predicted With: 0.316
+
+
+Date: 2021-07-12
+Most Influencial News: 도쿄올림픽 자율차 카메라 도 우리 기술 CEO
+True Value: 0.378
+Predicted Without: 0.851
+Predicted With: 0.240
+
+
+Date: 2021-08-17
+Most Influencial News: 애플 샤오미 물리칠 비장의 무기 삼성 갤럭시 폴드 탄생 뒤엔 이 기술이
+True Value: -0.269
+Predicted Without: 0.555
+Predicted With: -0.322
+
+
+Date: 2021-10-20
+Most Influencial News: 삼성SDS 첨단 물류기술 수출중기에 푼다
+True Value: -0.425
+Predicted Without: -0.276
+Predicted With: -0.437
+
+
+Date: 2022-02-21
+Most Influencial News: 우리 손으로 만든 반도체·휴대폰 기술 특허괴물의 무기 됐다
+True Value: -0.135
+Predicted Without: 0.647
+Predicted With: -0.224
+
+
+Date: 2022-04-08
+Most Influencial News: IR52 장영실상 전기차 충전시간 절반으로 현대차 新기술 대통령상 받았다
+True Value: -0.294
+Predicted Without: 0.561
+Predicted With: -0.366
+
+
+Date: 2022-08-02
+Most Influencial News: 짜지 않고 바삭 삼성출신이 반도체 기술로 만든 멸치
+True Value: 0.653
+Predicted Without: 1.150
+Predicted With: 0.837
+
+
+Date: 2022-08-03
+Most Influencial News: 세계유일 기술로 반도체 건조기 톱3 된 에이펫
+True Value: -0.648
+Predicted Without: -0.224
+Predicted With: -0.433
+
+
+Date: 2022-09-05
+Most Influencial News: 다중접속 엣지 컴퓨팅 특허출원 급증 특허청 초고속 통신기술 선점 필요
+True Value: -0.696
+Predicted Without: -1.363
+Predicted With: -0.906
+
+
+Date: 2022-09-21
+Most Influencial News: 파두·아우토크립트·갤럭시코프 유망 기술기업 IPO 시장 몰려온다
+True Value: -0.896
+Predicted Without: -0.449
+Predicted With: -0.830
+
+
+Date: 2022-11-16
+Most Influencial News: 반도체 기술개발 나선 부산대
+True Value: 0.481
+Predicted Without: 1.346
+Predicted With: 0.526
+
+
+Date: 2023-03-21
+Most Influencial News: 갤S23 삼각대 없이 선명하게 별 촬영 핵심 기술은
+True Value: 0.166
+Predicted Without: 0.841
+Predicted With: 0.103
+
+
+Date: 2023-04-11
+Most Influencial News: 이중연 대표 국내 유일 서버제조社 KTNF 기술 경쟁력 HP·델 못지않아
+True Value: 0.304
+Predicted Without: -1.391
+Predicted With: 0.112
+
+
+Date: 2023-05-10
+Most Influencial News: 한경에세이 AI 시대는 기술의 시대다
+True Value: -1.072
+Predicted Without: -0.896
+Predicted With: -1.134
+
+
+Date: 2023-07-03
+Most Influencial News: 美 빅테크 질주하는데 韓 기술주는 역주행
+True Value: 1.108
+Predicted Without: 0.751
+Predicted With: 1.075
+
+
+Date: 2023-07-14
+Most Influencial News: 삼성 에지패널 기술 中유출 톱텍 前 대표 징역 3년 확정
+True Value: 2.086
+Predicted Without: 1.016
+Predicted With: 2.212
+
+
+Date: 2023-10-04
+Most Influencial News: 감산효과 반도체 수출 회복 조짐 기술력으로 압도하길 사설
+True Value: -1.316
+Predicted Without: -2.001
+Predicted With: -1.156
+
+

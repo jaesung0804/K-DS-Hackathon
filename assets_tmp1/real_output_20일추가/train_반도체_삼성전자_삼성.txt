@@ -1,0 +1,28 @@
+Date: 2020-03-23
+Most Influencial News: 현대車 230 상승 삼성전자 90 상승 반등때도 대장株
+True Value: -6.388
+Predicted Without: -3.196
+Predicted With: -6.044
+
+
+Date: 2020-07-21
+Most Influencial News: 외국인 경기민감주로 이동 네이버 팔고 삼성전자 샀다
+True Value: 2.03
+Predicted Without: 0.933
+Predicted With: 1.992
+
+
+Date: 2021-01-11
+Most Influencial News: 삼성SDI·LGD·금호석유 실적장세 이끌까
+True Value: 2.477
+Predicted Without: 2.667
+Predicted With: 2.458
+
+
+Date: 2022-11-03
+Most Influencial News: 반도체 · 대형M amp;A JY 승부수 띄운다 뉴삼성 암초를 넘어라
+True Value: -0.671
+Predicted Without: -1.125
+Predicted With: -0.636
+
+

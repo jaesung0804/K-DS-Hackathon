@@ -1,0 +1,42 @@
+Date: 2018-11-22
+Most Influencial News: 내년 실적전망 13조差 삼성전자 시계제로
+True Value: 0.831
+Predicted Without: 0.599
+Predicted With: 1.06
+
+
+Date: 2019-04-01
+Most Influencial News: 전기·전자 부품株 공략해야 올해 승부株는 파워로직스 작년 이어 최대 실적 기대
+True Value: 0.896
+Predicted Without: 1.164
+Predicted With: 1.221
+
+
+Date: 2021-01-11
+Most Influencial News: 삼성SDI·LGD·금호석유 실적장세 이끌까
+True Value: 2.477
+Predicted Without: 2.667
+Predicted With: 2.458
+
+
+Date: 2022-01-03
+Most Influencial News: FOMC 앞두고 코스피 관망세 삼성전자 4분기 실적발표 주목 주간 증시 전망
+True Value: 0.383
+Predicted Without: -0.947
+Predicted With: 0.165
+
+
+Date: 2022-01-20
+Most Influencial News: 한미반도체 영업익 84 껑충 실적 신기록
+True Value: 0.262
+Predicted Without: -1.375
+Predicted With: 0.191
+
+
+Date: 2023-10-13
+Most Influencial News: 이번에도 삼성전자 추월 현대차·기아 3분기 실적도 달린다 e종목은 왜
+True Value: -1.306
+Predicted Without: -1.049
+Predicted With: -1.337
+
+

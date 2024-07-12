@@ -1,0 +1,42 @@
+Date: 2019-10-18
+Most Influencial News: 삼성 브랜드가치 72조 세계 6위
+True Value: -1.188
+Predicted Without: -0.378
+Predicted With: -0.042
+
+
+Date: 2020-03-13
+Most Influencial News: 삼성TV 세계 최대 북미시장서 독주
+True Value: -1.673
+Predicted Without: -0.904
+Predicted With: -1.018
+
+
+Date: 2021-04-20
+Most Influencial News: 사설 세계는 반도체 전쟁 이재용 사면 머뭇거릴 이유 없다
+True Value: 0.72
+Predicted Without: -0.612
+Predicted With: -0.667
+
+
+Date: 2022-06-08
+Most Influencial News: 진화한 비스포크 홈 으로 삼성 전세계 공략
+True Value: -0.305
+Predicted Without: 0.338
+Predicted With: -0.033
+
+
+Date: 2022-09-05
+Most Influencial News: 삼성 프리미엄폰 세계 점유율 올랐다
+True Value: -0.696
+Predicted Without: -0.646
+Predicted With: -0.169
+
+
+Date: 2023-09-26
+Most Influencial News: 기고 K 디스플레이 세계 1위 향한 과제
+True Value: -1.153
+Predicted Without: 0.203
+Predicted With: -0.057
+
+

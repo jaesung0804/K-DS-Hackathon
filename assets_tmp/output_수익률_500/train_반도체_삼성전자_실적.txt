@@ -1,0 +1,189 @@
+Date: 2018-11-12
+Most Influencial News: 국내외 경기 둔화·신흥국 환율 불안에 韓 간판기업들까지 실적 흔들
+True Value: 2.032
+Predicted Without: 1.127
+Predicted With: 2.065
+
+
+Date: 2018-11-29
+Most Influencial News: 쌍끌이에 힘받는 4분기 실적株
+True Value: 0.000
+Predicted Without: 0.904
+Predicted With: 0.239
+
+
+Date: 2019-10-31
+Most Influencial News: 상장사 최악 실적에도 증시 반등 왜
+True Value: 0.000
+Predicted Without: 1.108
+Predicted With: -0.091
+
+
+Date: 2019-11-01
+Most Influencial News: 기업실적 급락에 지자체도 稅收 쇼크
+True Value: 1.587
+Predicted Without: 0.990
+Predicted With: 1.657
+
+
+Date: 2020-01-06
+Most Influencial News: 중동불안 vs 삼성전자 실적 연초 증시 가른다
+True Value: 0.000
+Predicted Without: -0.497
+Predicted With: 0.145
+
+
+Date: 2020-03-05
+Most Influencial News: 상장사 실적 악화에 배당금도 줄였다
+True Value: 0.697
+Predicted Without: -1.455
+Predicted With: 1.024
+
+
+Date: 2020-03-27
+Most Influencial News: MK라씨로 코로나에도 실적견조 현대홈쇼핑 목표가 11만5천원
+True Value: 1.046
+Predicted Without: 0.761
+Predicted With: 0.887
+
+
+Date: 2020-04-20
+Most Influencial News: 실적발표 실시간 중계 현대차의 주주친화 경영
+True Value: -2.529
+Predicted Without: -0.988
+Predicted With: -2.122
+
+
+Date: 2020-08-20
+Most Influencial News: 비대면·IT 선방 하반기 실적 반등 기대 속 코로나가 변수 상장사 상반기 실적 코로나 쇼크
+True Value: -4.152
+Predicted Without: -1.360
+Predicted With: -3.111
+
+
+Date: 2020-11-05
+Most Influencial News: 아마존 올라탄 슈피겐코리아 사상 최고 실적
+True Value: 3.077
+Predicted Without: 1.671
+Predicted With: 3.425
+
+
+Date: 2020-11-19
+Most Influencial News: 4분기도 깜짝실적 기대 연간실적 플러스 돌아설 듯
+True Value: -0.309
+Predicted Without: -0.454
+Predicted With: -0.463
+
+
+Date: 2021-01-04
+Most Influencial News: 1000 2000 위기때 버팀목은 실적장세
+True Value: 2.469
+Predicted Without: 2.347
+Predicted With: 2.750
+
+
+Date: 2021-04-27
+Most Influencial News: 코스피 실적장세 돌입 큰형님들’의 시간이 온다
+True Value: -0.719
+Predicted Without: 1.147
+Predicted With: -0.371
+
+
+Date: 2021-06-04
+Most Influencial News: 車 전장사업 질주 파트론 최대 실적 보인다
+True Value: -0.725
+Predicted Without: 0.716
+Predicted With: -0.400
+
+
+Date: 2022-04-25
+Most Influencial News: 저평가 IT 종목에 분산투자 실적 성장주 골라 담았다 이런 펀드 어때요
+True Value: -1.045
+Predicted Without: -0.962
+Predicted With: -0.920
+
+
+Date: 2022-07-06
+Most Influencial News: 2분기 실적 시즌 비에이치·대한항공 등 추정치 상향 기업 노려라
+True Value: -1.399
+Predicted Without: -0.791
+Predicted With: -1.352
+
+
+Date: 2022-08-09
+Most Influencial News: 건설사 실적 희비 삼성물산 훨훨 대우건설 뚝뚝
+True Value: -1.316
+Predicted Without: 1.403
+Predicted With: -1.223
+
+
+Date: 2022-10-25
+Most Influencial News: 경기침체 우려 확대 대형주 실적 내년까지 역성장할수도
+True Value: 0.348
+Predicted Without: 1.104
+Predicted With: 0.238
+
+
+Date: 2023-01-13
+Most Influencial News: MK라씨로 기관 실적개선 기대 신세계 매수
+True Value: 0.496
+Predicted Without: 0.649
+Predicted With: 0.442
+
+
+Date: 2023-03-24
+Most Influencial News: 사상 최고 실적 올린 정유사 평균급여 1억5천만원 훌쩍
+True Value: 1.124
+Predicted Without: 0.607
+Predicted With: 1.193
+
+
+Date: 2023-04-05
+Most Influencial News: 어닝쇼크’ 증시 전망에 믿을 건 실적개선주
+True Value: 0.472
+Predicted Without: 1.239
+Predicted With: 0.682
+
+
+Date: 2023-05-26
+Most Influencial News: 하반기 박스피 이어질 듯 믿을 건 실적株 한국주식 원포인트 레슨
+True Value: 2.180
+Predicted Without: 0.697
+Predicted With: 2.013
+
+
+Date: 2023-07-10
+Most Influencial News: 삼성 DDR5·HBM3·3나노 로 실적 반전 노린다 삼성 반도체 위기 극복 해법은
+True Value: -0.572
+Predicted Without: -1.738
+Predicted With: -0.968
+
+
+Date: 2023-09-01
+Most Influencial News: 코스피 떠나는 외국인 실적 기대주는 담았다
+True Value: 6.129
+Predicted Without: 3.382
+Predicted With: 6.041
+
+
+Date: 2023-10-04
+Most Influencial News: 4분기 쉽지 않네 상장사 40 실적 하향
+True Value: -1.316
+Predicted Without: -1.375
+Predicted With: -1.274
+
+
+Date: 2023-10-27
+Most Influencial News: 현대차 실적 신기록 올 영업익 벌써 11조
+True Value: 0.900
+Predicted Without: 0.818
+Predicted With: 0.971
+
+
+Date: 2023-10-30
+Most Influencial News: 지금까진 어닝서프라이즈 실적 우려 내년 증시는 어렵다 불안한 증시
+True Value: 0.000
+Predicted Without: 0.645
+Predicted With: 0.033
+
+

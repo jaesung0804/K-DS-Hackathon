@@ -1,0 +1,7 @@
+Date: 2021-03-12
+Most Influencial News: 삼성전자 작년에만 법인세 10조 국내 전체의 18 부담
+True Value: 0.976
+Predicted Without: 0.389
+Predicted With: 0.02
+
+

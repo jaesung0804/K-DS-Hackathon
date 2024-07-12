@@ -1,0 +1,770 @@
+Date: 2018-11-09
+Most Influencial News: 단독 한국 대표기업 수익성 비상
+True Value: 0.568
+Predicted Without: 1.716
+Predicted With: 0.393
+
+
+Date: 2018-11-12
+Most Influencial News: 국내외 경기 둔화·신흥국 환율 불안에 韓 간판기업들까지 실적 흔들
+True Value: 2.032
+Predicted Without: 1.127
+Predicted With: 2.065
+
+
+Date: 2018-12-18
+Most Influencial News: fn스트리트 기업도시
+True Value: -0.639
+Predicted Without: -1.136
+Predicted With: -0.204
+
+
+Date: 2019-01-31
+Most Influencial News: 포토 정부·與 대기업과 스킨십
+True Value: -0.539
+Predicted Without: -0.633
+Predicted With: -0.702
+
+
+Date: 2019-02-25
+Most Influencial News: fn이사람 김연수 NH투자증권 본부장 올해 해외기업 M amp;A 분야 강화에 주력
+True Value: 0.424
+Predicted Without: 1.181
+Predicted With: 1.211
+
+
+Date: 2019-03-12
+Most Influencial News: 단독 수출기업 재고 비상 10년새 최악
+True Value: 2.291
+Predicted Without: 1.360
+Predicted With: 2.505
+
+
+Date: 2019-03-21
+Most Influencial News: 단독 미국을 제2의 생산기지로 속속 美공장 짓는 韓기업들
+True Value: 4.086
+Predicted Without: 1.402
+Predicted With: 4.456
+
+
+Date: 2019-04-10
+Most Influencial News: 툭하면 공장 멈출 판 기업 산안法 패닉
+True Value: 0.107
+Predicted Without: -1.187
+Predicted With: 0.029
+
+
+Date: 2019-04-30
+Most Influencial News: 마이너스 성장에 놀란 문 대통령 적극 소통으로 기업투자 살려라
+True Value: -0.650
+Predicted Without: -0.478
+Predicted With: -0.571
+
+
+Date: 2019-05-03
+Most Influencial News: 종합콘텐츠 기업 롯데컬처웍스 문화산업 리더로 우뚝
+True Value: -1.307
+Predicted Without: 1.233
+Predicted With: -1.130
+
+
+Date: 2019-05-20
+Most Influencial News: 선전은 중국몽의 도시 韓기업에 큰기회 될것 lt;
+True Value: 1.942
+Predicted Without: 1.001
+Predicted With: 2.089
+
+
+Date: 2019-05-29
+Most Influencial News: 청년취업 연계 프로그램 덕에 대기업 입사 성공했죠
+True Value: -1.763
+Predicted Without: -0.701
+Predicted With: -1.892
+
+
+Date: 2019-06-05
+Most Influencial News: 무역전쟁 리스크 커지자 미국으로 몰려가는 한국기업들
+True Value: 1.036
+Predicted Without: 1.039
+Predicted With: 0.982
+
+
+Date: 2019-06-10
+Most Influencial News: 靑 中화웨이와 거래는 기업 자율로 결정할 일
+True Value: 1.357
+Predicted Without: 1.602
+Predicted With: 1.840
+
+
+Date: 2019-06-18
+Most Influencial News: 대학 기업 가교 산학협력 중점교수 숭실대 1위
+True Value: 1.025
+Predicted Without: 0.935
+Predicted With: 0.898
+
+
+Date: 2019-07-02
+Most Influencial News: 외국 IT 기업 협력업체로 전락한 국내 SI 업체들
+True Value: -0.751
+Predicted Without: 1.843
+Predicted With: -0.265
+
+
+Date: 2019-07-03
+Most Influencial News: 글로벌 고객만족 GCSI 15년 베트남 하노이서 1위 기업 인증식
+True Value: -1.838
+Predicted Without: 1.236
+Predicted With: -1.563
+
+
+Date: 2019-07-17
+Most Influencial News: 强 대 强 맞선 韓·日 기업들은 속이 탄다
+True Value: -1.708
+Predicted Without: -0.923
+Predicted With: -1.555
+
+
+Date: 2019-07-24
+Most Influencial News: 100여 단체·기업 화이트리스트 韓제외 철회하라
+True Value: -1.903
+Predicted Without: -1.701
+Predicted With: -1.657
+
+
+Date: 2019-08-08
+Most Influencial News: 심판이 휘슬 자주 불면 위축되는데 유독 대기업에 엄격한 잣대 아쉽다
+True Value: -1.273
+Predicted Without: -1.099
+Predicted With: -1.423
+
+
+Date: 2019-08-13
+Most Influencial News: 韓부품·소재기업에 투자 NH아문디 애국펀드 실험
+True Value: -1.602
+Predicted Without: -0.744
+Predicted With: -1.305
+
+
+Date: 2019-08-26
+Most Influencial News: 아마존 히트상품 낸 경북 향토뿌리기업
+True Value: -0.796
+Predicted Without: 1.681
+Predicted With: -0.595
+
+
+Date: 2019-11-01
+Most Influencial News: 기업실적 급락에 지자체도 稅收 쇼크
+True Value: 1.587
+Predicted Without: 0.990
+Predicted With: 1.657
+
+
+Date: 2019-11-29
+Most Influencial News: Hello CEO AI시대 첨단 기술기업 변신하려면 글로벌 1등기업과 손잡는게 지름길
+True Value: -1.949
+Predicted Without: -1.625
+Predicted With: -1.734
+
+
+Date: 2020-01-21
+Most Influencial News: 이건호의 데스크 시각 초경쟁 시대의 기업과 규제 혁신
+True Value: -1.603
+Predicted Without: -0.968
+Predicted With: -1.533
+
+
+Date: 2020-02-17
+Most Influencial News: 대통령 격려 에도 기업들은 속이 탄다
+True Value: -0.485
+Predicted Without: 1.360
+Predicted With: -0.263
+
+
+Date: 2020-03-24
+Most Influencial News: 시총 상위기업도 목표가 줄하향
+True Value: 10.471
+Predicted Without: 3.064
+Predicted With: 10.910
+
+
+Date: 2020-04-21
+Most Influencial News: 슈퍼 與 규제강화 입법 우려되지만 기업인 출신 의원 親시장 입법 기대
+True Value: -1.697
+Predicted Without: -0.695
+Predicted With: -1.903
+
+
+Date: 2020-05-06
+Most Influencial News: 삼성 외환위기 거치며 글로벌 대표기업 도약 현대차는 금융위기 이후 美 점유율 2배 늘려
+True Value: 1.443
+Predicted Without: 0.842
+Predicted With: 1.570
+
+
+Date: 2020-05-12
+Most Influencial News: 중기부 K 방역 기업 스마트공장 구축 지원
+True Value: -1.033
+Predicted Without: -0.981
+Predicted With: -0.846
+
+
+Date: 2020-06-03
+Most Influencial News: 제일기획 中 빅데이터 기업 인수
+True Value: 6.031
+Predicted Without: 2.718
+Predicted With: 6.624
+
+
+Date: 2020-06-11
+Most Influencial News: 리쇼어링 최대 변수는 세금 법인세 내려야 기업 안떠난다
+True Value: -1.986
+Predicted Without: -0.975
+Predicted With: -1.064
+
+
+Date: 2020-06-23
+Most Influencial News: 사설 팬데믹시대 위기 속에 기회 찾는 글로벌 기업들
+True Value: -1.154
+Predicted Without: 0.934
+Predicted With: -0.361
+
+
+Date: 2020-06-29
+Most Influencial News: 中 지방정부 한국기업 유치 경쟁
+True Value: -1.689
+Predicted Without: -1.505
+Predicted With: -1.082
+
+
+Date: 2020-08-05
+Most Influencial News: 한국 기업은 중국지분 최소화로 안전장치
+True Value: -0.698
+Predicted Without: 1.504
+Predicted With: 0.017
+
+
+Date: 2020-08-24
+Most Influencial News: 대기업 판매관리·인건비 줄이며 버텼다
+True Value: 0.358
+Predicted Without: 1.257
+Predicted With: 0.281
+
+
+Date: 2020-08-25
+Most Influencial News: fn논단 한국 기업이 강한 이유 K 이노베이션
+True Value: 0.535
+Predicted Without: -1.984
+Predicted With: 0.605
+
+
+Date: 2020-08-31
+Most Influencial News: 대기업은 이미 3단계 긴장 끈 놓지 않는다 코로나 방역 이번주가 방향타
+True Value: -2.527
+Predicted Without: -0.859
+Predicted With: -2.066
+
+
+Date: 2020-09-21
+Most Influencial News: 대기업 앞 장송곡 시위 사라진다
+True Value: -0.169
+Predicted Without: -2.685
+Predicted With: 0.332
+
+
+Date: 2020-10-12
+Most Influencial News: 대기업 재택근무 해제 골목상권도 손님 늘어날까 기대 사회적 거리두기 완화
+True Value: 1.173
+Predicted Without: -1.292
+Predicted With: 1.306
+
+
+Date: 2020-10-22
+Most Influencial News: 한국판 러스트벨트 시간문제 중견·중소기업 스케일업 전략 중요
+True Value: -1.314
+Predicted Without: -2.542
+Predicted With: -0.674
+
+
+Date: 2020-10-29
+Most Influencial News: 기업인 기념·추모관 없는 한국
+True Value: -1.525
+Predicted Without: 1.407
+Predicted With: -1.228
+
+
+Date: 2020-12-07
+Most Influencial News: 환율 1130원대가 손익분기점 인데 원화 강세에 속 타는 수출기업
+True Value: 1.958
+Predicted Without: 1.794
+Predicted With: 2.195
+
+
+Date: 2020-12-14
+Most Influencial News: 기업들 조용한 새해맞이 종무·시무식 온라인 대체
+True Value: 0.545
+Predicted Without: 1.694
+Predicted With: 0.942
+
+
+Date: 2020-12-24
+Most Influencial News: 삼성이 키운 SW인재 기업들 앞다퉈 채용
+True Value: 5.277
+Predicted Without: 1.788
+Predicted With: 5.302
+
+
+Date: 2021-01-05
+Most Influencial News: 기업들 실탄 두둑 M amp;A 큰장 선다
+True Value: 1.084
+Predicted Without: 1.489
+Predicted With: 1.063
+
+
+Date: 2021-01-11
+Most Influencial News: 가전의 미래 홈코노미 대결 中 빠지고 韓·美기업 주도 CES 2021 사상 첫 온라인 개막
+True Value: 2.477
+Predicted Without: 2.055
+Predicted With: 3.353
+
+
+Date: 2021-02-16
+Most Influencial News: 그나마 플랫폼 기업만 고용늘려
+True Value: 0.831
+Predicted Without: 1.258
+Predicted With: 1.069
+
+
+Date: 2021-03-22
+Most Influencial News: 보상체계 고치며 MZ세대 달랬지만 재정부담 에 속앓이 성과급 논란 대기업 확산
+True Value: 0.122
+Predicted Without: 0.868
+Predicted With: 0.465
+
+
+Date: 2021-03-24
+Most Influencial News: 회계는 사회적 공기 한국기업 투명경영·해외진출 도운 거인
+True Value: -0.978
+Predicted Without: 1.097
+Predicted With: -1.280
+
+
+Date: 2021-03-26
+Most Influencial News: 작년 고용 8000명 늘린 30대 대기업 그 중 절반이 삼성전자
+True Value: 0.369
+Predicted Without: -1.072
+Predicted With: 0.602
+
+
+Date: 2021-04-02
+Most Influencial News: 中企 연봉 대기업 절반도 안되는데 올해는 더 벌어진다 임금 양극화 심화
+True Value: 2.292
+Predicted Without: -1.838
+Predicted With: 2.620
+
+
+Date: 2021-04-28
+Most Influencial News: 인도진출 韓기업 비상 사무소 폐쇄·가족 철수
+True Value: -0.965
+Predicted Without: 1.798
+Predicted With: -0.638
+
+
+Date: 2021-06-02
+Most Influencial News: 백신 구해와라 베트남 한국기업에 코로나 SOS
+True Value: 0.248
+Predicted Without: 1.096
+Predicted With: 0.331
+
+
+Date: 2021-07-01
+Most Influencial News: CEO 9명 쿠팡이 혁신기업 마켓컬리·카뱅도 지목
+True Value: -0.743
+Predicted Without: -1.856
+Predicted With: -1.053
+
+
+Date: 2021-07-06
+Most Influencial News: 사설 유엔 최초 선진국 진입 기업의 공이 가장 크다
+True Value: 0.995
+Predicted Without: 0.777
+Predicted With: 1.074
+
+
+Date: 2021-08-18
+Most Influencial News: 투자社 세워 벤처 육성 나선 중견기업들
+True Value: -0.404
+Predicted Without: -0.514
+Predicted With: -0.560
+
+
+Date: 2021-08-31
+Most Influencial News: 신장섭의 기업과 경제 주식투자로 잘못 배우는 기업경영
+True Value: 2.815
+Predicted Without: 1.331
+Predicted With: 3.053
+
+
+Date: 2021-09-07
+Most Influencial News: 中 한국제품 외면 국가대표기업도 힘못쓴다 현장르포
+True Value: -1.552
+Predicted Without: -1.375
+Predicted With: -1.315
+
+
+Date: 2021-09-17
+Most Influencial News: 네·카 대표 국감 뺑뺑이 돌 판 농해수위 증인 60 가 기업인
+True Value: 1.445
+Predicted Without: 1.198
+Predicted With: 1.485
+
+
+Date: 2021-10-01
+Most Influencial News: 머스크 쇼핑대목 공급망 대책 미리 세워라 韓기업 전전긍긍
+True Value: -1.215
+Predicted Without: -1.299
+Predicted With: -0.959
+
+
+Date: 2021-10-08
+Most Influencial News: Industry Review 갈라서는 美·中 韓기업 공급망 위기 돌파할 새 판 짜라
+True Value: -0.140
+Predicted Without: 1.519
+Predicted With: 0.086
+
+
+Date: 2021-10-19
+Most Influencial News: 청년실업 풀려면 대기업 수 늘려야
+True Value: 0.570
+Predicted Without: 0.967
+Predicted With: 0.635
+
+
+Date: 2021-10-21
+Most Influencial News: 반도체기업 정보 제한적으로 美에 제공
+True Value: -0.142
+Predicted Without: 1.287
+Predicted With: 0.228
+
+
+Date: 2021-11-11
+Most Influencial News: 다른 도시 출장갔다 발 묶일라 中진출 기업들 사업 위축 韓기업 덮친 中 코로나
+True Value: -0.427
+Predicted Without: 0.351
+Predicted With: -0.232
+
+
+Date: 2021-12-10
+Most Influencial News: 사설 나라 안팎이 격랑 기업들 비상한 각오 다져야
+True Value: -1.662
+Predicted Without: 0.984
+Predicted With: -1.782
+
+
+Date: 2021-12-22
+Most Influencial News: 대기업 일자리 7 늘 때 K게임 50 껑충
+True Value: 1.665
+Predicted Without: 1.735
+Predicted With: 1.835
+
+
+Date: 2021-12-27
+Most Influencial News: 집단감염 中시안 봉쇄 삼성 등 한국기업 비상
+True Value: -0.373
+Predicted Without: -0.695
+Predicted With: -0.686
+
+
+Date: 2021-12-28
+Most Influencial News: 매경·NH證 착한기업 지수 추종 초과수익까지 노린다
+True Value: 0.125
+Predicted Without: 1.272
+Predicted With: -0.064
+
+
+Date: 2022-01-12
+Most Influencial News: 단독 韓 중진국함정 탈출 주역은 대기업
+True Value: 0.000
+Predicted Without: -1.083
+Predicted With: 0.006
+
+
+Date: 2022-02-08
+Most Influencial News: 짧게는 석유기업 담고 긴 호흡으론 기술株 반등 노려라
+True Value: 0.685
+Predicted Without: 1.272
+Predicted With: 0.743
+
+
+Date: 2022-02-25
+Most Influencial News: 러 진출기업 우려가 결국 현실로 공급망 재점검 등 초비상
+True Value: 0.559
+Predicted Without: 0.538
+Predicted With: 0.430
+
+
+Date: 2022-03-18
+Most Influencial News: ESG 전문가·벤처기업인 눈에 띄네
+True Value: -0.702
+Predicted Without: -0.579
+Predicted With: -0.701
+
+
+Date: 2022-04-14
+Most Influencial News: 기업들 금리쇼크 이자비용만 70조원
+True Value: -1.747
+Predicted Without: -1.468
+Predicted With: -1.623
+
+
+Date: 2022-04-22
+Most Influencial News: 中에 매각 좌절된 매그나칩반도체 韓 기업이 눈독
+True Value: -1.034
+Predicted Without: 0.697
+Predicted With: -1.146
+
+
+Date: 2022-04-26
+Most Influencial News: 경제 상황 엄중해 기업인 헌신 절실
+True Value: -0.302
+Predicted Without: -1.347
+Predicted With: 0.018
+
+
+Date: 2022-05-02
+Most Influencial News: 물류비 하락에도 불안한 수출기업 中봉쇄 해제 이후 재상승 대비해야 두달 연속 무역적자
+True Value: -0.148
+Predicted Without: 1.184
+Predicted With: -0.188
+
+
+Date: 2022-05-25
+Most Influencial News: 부영그룹 삼성전자 등 기업 72곳과 대한상의 신 기업가정신 협의회’ 참여
+True Value: -0.150
+Predicted Without: 2.748
+Predicted With: -0.376
+
+
+Date: 2022-05-30
+Most Influencial News: 中 봉쇄 해제에 해운운임 꿈틀 해운업계 수출기업 희비’
+True Value: 1.805
+Predicted Without: 0.593
+Predicted With: 1.426
+
+
+Date: 2022-06-07
+Most Influencial News: 기업 살리기 외친 尹정부 그래도 기업 속타는 이유는
+True Value: -1.946
+Predicted Without: -1.177
+Predicted With: -1.466
+
+
+Date: 2022-06-08
+Most Influencial News: 6만전자 로 본 한국 기업의 딜레마 조일훈의 6만전자 탐색전
+True Value: -0.305
+Predicted Without: -0.480
+Predicted With: -0.043
+
+
+Date: 2022-06-10
+Most Influencial News: 너무 불안해 차이나 엑소더스 맨 앞줄에 선 한국기업
+True Value: -2.147
+Predicted Without: -1.474
+Predicted With: -1.876
+
+
+Date: 2022-06-24
+Most Influencial News: 문제를 찾고 해결하는 과정 인생살이가 곧 기업가정신
+True Value: 1.742
+Predicted Without: 0.972
+Predicted With: 1.896
+
+
+Date: 2022-07-06
+Most Influencial News: 2분기 실적 시즌 비에이치·대한항공 등 추정치 상향 기업 노려라
+True Value: -1.399
+Predicted Without: -0.791
+Predicted With: -1.352
+
+
+Date: 2022-07-08
+Most Influencial News: 착한 ESG 기업 소개하니 책도 돈쭐난다
+True Value: 0.859
+Predicted Without: -2.687
+Predicted With: 1.933
+
+
+Date: 2022-07-12
+Most Influencial News: 인플레 기름붓는 대기업 노조 임금 이기주의
+True Value: -1.190
+Predicted Without: -0.850
+Predicted With: -1.178
+
+
+Date: 2022-08-10
+Most Influencial News: 기업 덮친 高금리 리스크 빚 부담에 채무 조정하고 알짜자산 판다
+True Value: -1.500
+Predicted Without: -0.892
+Predicted With: -1.146
+
+
+Date: 2022-08-12
+Most Influencial News: 조지아·텍사스·델라웨어 투자기업 귀빈 대접하는 美 주정부
+True Value: 0.501
+Predicted Without: 1.250
+Predicted With: 0.903
+
+
+Date: 2022-09-19
+Most Influencial News: 그린워싱 막는 ESG 공시 韓 기업에 유리
+True Value: 0.356
+Predicted Without: 0.934
+Predicted With: 0.107
+
+
+Date: 2022-09-27
+Most Influencial News: 시론 플랫폼 기업도 글로벌로
+True Value: 0.557
+Predicted Without: 0.895
+Predicted With: 0.599
+
+
+Date: 2022-10-13
+Most Influencial News: 美 반도체장비 中수출 제한 한국기업엔 1년간 풀어줬다 차이나리스크 해소
+True Value: -1.075
+Predicted Without: 1.082
+Predicted With: -0.811
+
+
+Date: 2022-11-01
+Most Influencial News: 재고 쌓인 우량기업 현금흐름 꽉 막혔다
+True Value: 1.010
+Predicted Without: 0.946
+Predicted With: 1.616
+
+
+Date: 2022-11-03
+Most Influencial News: 허대식의 비즈니스 이노베이션 삼성전자·아마존·타깃 우량기업도 재고 리스크 속앓이
+True Value: -0.671
+Predicted Without: 1.065
+Predicted With: -0.285
+
+
+Date: 2022-11-11
+Most Influencial News: 中수출통제 한국기업 피해 최소화
+True Value: 4.139
+Predicted Without: 2.691
+Predicted With: 4.250
+
+
+Date: 2022-11-16
+Most Influencial News: 삼성 스마트폰 공장가동률 최저 10대 기업 재고 40 더 쌓였다
+True Value: 0.481
+Predicted Without: -0.698
+Predicted With: 0.530
+
+
+Date: 2022-11-23
+Most Influencial News: 0 01 대기업이 법인세 41 부담
+True Value: 0.660
+Predicted Without: 1.072
+Predicted With: 0.839
+
+
+Date: 2022-12-09
+Most Influencial News: 공급망 위기 극복 중소기업들 베트남서 해법 찾는다
+True Value: 2.027
+Predicted Without: 1.308
+Predicted With: 1.971
+
+
+Date: 2022-12-20
+Most Influencial News: 보안 투자 많이 하는 대기업 삼성전자·KT·쿠팡 업계 1위
+True Value: -1.513
+Predicted Without: -0.945
+Predicted With: -1.208
+
+
+Date: 2023-01-06
+Most Influencial News: 김주영 신한자산운용 이사 로봇기업 美 공급망 재편의 최대 수혜주
+True Value: 1.375
+Predicted Without: 1.526
+Predicted With: 1.410
+
+
+Date: 2023-01-17
+Most Influencial News: 탄소통상·반도체전쟁 수출기업 복합위기 파고 넘는다
+True Value: -0.164
+Predicted Without: -2.203
+Predicted With: 0.058
+
+
+Date: 2023-02-06
+Most Influencial News: 첨단산업 공장 된 美 미·텍·조 3각벨트 에 韓 대기업 몰린다
+True Value: -3.448
+Predicted Without: -1.645
+Predicted With: -3.340
+
+
+Date: 2023-03-02
+Most Influencial News: 中企 수출 비중 절반으로 50 비전 통해 국가경제 주도 취임 2년차 이영 중소벤처기업부 장관
+True Value: 0.330
+Predicted Without: 0.908
+Predicted With: 0.704
+
+
+Date: 2023-03-16
+Most Influencial News: 삼성전자 토종 협동로봇기업 지분 더 늘렸다
+True Value: 0.167
+Predicted Without: 0.767
+Predicted With: 0.088
+
+
+Date: 2023-05-25
+Most Influencial News: 中 봉쇄 문턱 낮춰라 美 반도체 기업 반기
+True Value: 0.438
+Predicted Without: 1.236
+Predicted With: 0.537
+
+
+Date: 2023-06-13
+Most Influencial News: 대기업 해외 쌓아둔 자금 유턴 본격화
+True Value: 1.408
+Predicted Without: 0.565
+Predicted With: 1.670
+
+
+Date: 2023-08-22
+Most Influencial News: 기업경기 18개월째 부진 반도체는 바닥 찍고 반등세 반도체 경기에 쏠린 눈
+True Value: 0.000
+Predicted Without: 1.473
+Predicted With: 0.061
+
+
+Date: 2023-09-12
+Most Influencial News: 영진전문대 반도체계열 대기업에 5년간 622명 취업
+True Value: -0.424
+Predicted Without: -1.264
+Predicted With: -0.420
+
+
+Date: 2023-09-22
+Most Influencial News: 레이더M ARM 훈풍 탄 반도체 기업 자금조달 속도
+True Value: -0.145
+Predicted Without: 0.466
+Predicted With: -0.360
+
+
+Date: 2023-10-16
+Most Influencial News: 동탄역 헤리움 센트럴 1 3차 대기업·산업단지 가까워 직주근접성 탁월
+True Value: -1.029
+Predicted Without: -0.459
+Predicted With: -1.125
+
+
+Date: 2023-10-24
+Most Influencial News: 사우디 韓기업인 특급대우 국빈오찬 초청
+True Value: 0.146
+Predicted Without: 0.660
+Predicted With: -0.043
+
+

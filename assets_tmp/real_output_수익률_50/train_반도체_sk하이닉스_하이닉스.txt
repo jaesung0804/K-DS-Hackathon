@@ -1,0 +1,28 @@
+Date: 2019-01-04
+Most Influencial News: 코스피 보합권서 맴맴 삼성전자·SK하이닉스하락
+True Value: 1.04
+Predicted Without: -0.789
+Predicted With: -0.299
+
+
+Date: 2019-03-04
+Most Influencial News: 三電·SK하이닉스 뺀 100대 상장사 영업익 11 감소
+True Value: 0.143
+Predicted Without: -0.207
+Predicted With: -0.343
+
+
+Date: 2022-04-19
+Most Influencial News: 삼성전자 SK하이닉스 모처럼 반등 코스피 약보합 마감
+True Value: 3.211
+Predicted Without: 0.794
+Predicted With: 2.484
+
+
+Date: 2022-12-09
+Most Influencial News: 키움증권 SK하이닉스 목표가 하향 연말 이후 저가매수 추천
+True Value: 3.426
+Predicted Without: -0.526
+Predicted With: 3.004
+
+

@@ -1,0 +1,42 @@
+Date: 2019-11-19
+Most Influencial News: 전자 빅2 매출 1위 시장은 삼성은 미주 LG는 국내
+True Value: 0.0
+Predicted Without: 0.478
+Predicted With: 0.45
+
+
+Date: 2020-03-13
+Most Influencial News: 삼성TV 세계 최대 북미시장서 독주
+True Value: -1.673
+Predicted Without: -0.904
+Predicted With: -1.018
+
+
+Date: 2020-06-10
+Most Influencial News: 글로벌 증시 40 차지 美시장 삼성전자 같은 회사 20개 있는셈
+True Value: -0.18
+Predicted Without: -1.11
+Predicted With: -1.914
+
+
+Date: 2021-06-02
+Most Influencial News: “6인치 파운드리로 전력 반도체 시장 공략” 코스닥 기업탐방
+True Value: 0.248
+Predicted Without: -0.241
+Predicted With: -0.378
+
+
+Date: 2023-06-08
+Most Influencial News: 유가증권시장 공시 화인베스틸 광명전기
+True Value: -0.141
+Predicted Without: -0.921
+Predicted With: 0.364
+
+
+Date: 2023-08-22
+Most Influencial News: 프리미엄 통했다 삼성 글로벌 TV시장 선두 수성
+True Value: 0.0
+Predicted Without: -0.692
+Predicted With: -1.064
+
+

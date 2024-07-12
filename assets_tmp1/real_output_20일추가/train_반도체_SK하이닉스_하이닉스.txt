@@ -1,0 +1,91 @@
+Date: 2018-11-20
+Most Influencial News: 한경로보뉴스 전일 기관 거래소에서 SK하이닉스 2 37 삼성전자 0 57 등 순매도
+True Value: -3.295
+Predicted Without: 1.474
+Predicted With: -3.219
+
+
+Date: 2018-11-21
+Most Influencial News: 특징주 美 기술주 급락 삼성電·SK하이닉스 2 3 약세
+True Value: 0.889
+Predicted Without: -1.12
+Predicted With: 0.678
+
+
+Date: 2018-12-07
+Most Influencial News: SK하이닉스 단기부진 여전히 저평가 매수 이베스트투자證
+True Value: 1.212
+Predicted Without: -1.363
+Predicted With: 1.634
+
+
+Date: 2019-05-03
+Most Influencial News: 전일 외국인 거래소에서 SK하이닉스 1 25 삼성전기 2 84 등 순매도
+True Value: -0.372
+Predicted Without: 1.065
+Predicted With: -0.781
+
+
+Date: 2020-02-07
+Most Influencial News: 06일 외국인 거래소에서 SK하이닉스 2 87 삼성전자 2 69 등 순매수
+True Value: -1.194
+Predicted Without: 0.691
+Predicted With: -1.103
+
+
+Date: 2020-02-14
+Most Influencial News: 13일 기관 거래소에서 셀트리온 2 59 SK하이닉스 2 등 순매수
+True Value: 2.451
+Predicted Without: 1.386
+Predicted With: 2.299
+
+
+Date: 2020-03-03
+Most Influencial News: 02일 외국인 거래소에서 삼성전자 1 48 SK하이닉스 4 78 등 순매도
+True Value: 0.76
+Predicted Without: 0.796
+Predicted With: 0.736
+
+
+Date: 2020-03-27
+Most Influencial News: 기관은 삼성전자 대신 하이닉스 눈독
+True Value: 3.222
+Predicted Without: 1.879
+Predicted With: 3.311
+
+
+Date: 2021-06-18
+Most Influencial News: 코스피 美 조기 긴축 우려에 하락 출발 삼성전자·SK하이닉스 1 대하락
+True Value: -1.581
+Predicted Without: -0.754
+Predicted With: -1.532
+
+
+Date: 2022-05-02
+Most Influencial News: SK하이닉스 사상최대 실적에도 목표가 낮추는 증권가
+True Value: -1.778
+Predicted Without: -0.276
+Predicted With: -0.826
+
+
+Date: 2022-11-22
+Most Influencial News: SK하이닉스 주가 하락시 분할 매수 대응이 적절 하이證
+True Value: -1.275
+Predicted Without: -1.654
+Predicted With: -1.396
+
+
+Date: 2023-03-31
+Most Influencial News: 외인·기관 쌍끌이 매도에 힘 잃은 코스피 삼전·하이닉스 반등
+True Value: -0.225
+Predicted Without: 1.269
+Predicted With: 0.047
+
+
+Date: 2023-04-28
+Most Influencial News: 반도체 장기 업사이클 초기 SK하이닉스 저점 매수 하이투자증권
+True Value: 0.788
+Predicted Without: -1.757
+Predicted With: 0.405
+
+

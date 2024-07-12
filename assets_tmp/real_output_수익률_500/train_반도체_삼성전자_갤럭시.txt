@@ -1,0 +1,14 @@
+Date: 2022-02-18
+Most Influencial News: 삼성 갤럭시북도 새모델 출격 갤럭시 생태계’ 더 강력해진다
+True Value: -0.933
+Predicted Without: -1.608
+Predicted With: -0.975
+
+
+Date: 2023-07-14
+Most Influencial News: 점유율 4 삼성 엑시노스 신형 갤럭시 탑재로 반등 노려
+True Value: 2.086
+Predicted Without: 0.964
+Predicted With: 2.117
+
+

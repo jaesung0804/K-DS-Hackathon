@@ -1,0 +1,63 @@
+Date: 2019-01-03
+Most Influencial News: 삼성전자 기술전문가 名匠제도 신설
+True Value: -2.968
+Predicted Without: -1.063
+Predicted With: -2.806
+
+
+Date: 2019-09-02
+Most Influencial News: 삼성전자 8K TV 기술 표준 첫 공개
+True Value: -0.455
+Predicted Without: -0.444
+Predicted With: -0.758
+
+
+Date: 2019-11-29
+Most Influencial News: Hello CEO AI시대 첨단 기술기업 변신하려면 글로벌 1등기업과 손잡는게 지름길
+True Value: -1.949
+Predicted Without: -0.519
+Predicted With: -1.107
+
+
+Date: 2020-07-31
+Most Influencial News: 반도체기술 현장 찾은 이재용 머뭇거릴 시간 없다
+True Value: -1.864
+Predicted Without: -0.419
+Predicted With: -1.225
+
+
+Date: 2021-04-06
+Most Influencial News: 삼성 미래기술육성사업’ 464억 지원 기초과학·소재 등 27개 연구과제 발표
+True Value: 0.703
+Predicted Without: 0.974
+Predicted With: 0.919
+
+
+Date: 2022-01-04
+Most Influencial News: 최고 기술 전문가 삼성명장’ 11인 선발
+True Value: 0.127
+Predicted Without: 0.75
+Predicted With: 0.097
+
+
+Date: 2022-06-23
+Most Influencial News: 삼성전자 AI 선행 기술연구·인재 영입 사활 초격차 실현
+True Value: -0.347
+Predicted Without: 0.444
+Predicted With: 0.441
+
+
+Date: 2022-12-21
+Most Influencial News: 삼성 6G·로봇 등 7대 핵심기술 제시
+True Value: -1.024
+Predicted Without: -0.152
+Predicted With: -0.222
+
+
+Date: 2023-09-21
+Most Influencial News: 삼성·TSMC 보고있나 인텔 1 8나노 반도체 양산기술 공개
+True Value: -1.006
+Predicted Without: -0.151
+Predicted With: -0.057
+
+

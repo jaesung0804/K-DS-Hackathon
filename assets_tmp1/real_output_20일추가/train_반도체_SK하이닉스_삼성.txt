@@ -1,0 +1,126 @@
+Date: 2018-11-20
+Most Influencial News: 한경로보뉴스 전일 기관 거래소에서 SK하이닉스 2 37 삼성전자 0 57 등 순매도
+True Value: -3.295
+Predicted Without: 1.474
+Predicted With: -3.219
+
+
+Date: 2018-11-21
+Most Influencial News: 특징주 美 기술주 급락 삼성電·SK하이닉스 2 3 약세
+True Value: 0.889
+Predicted Without: -1.12
+Predicted With: 0.678
+
+
+Date: 2018-11-22
+Most Influencial News: 한경로보뉴스 전일 기관 거래소에서 삼성전기 4 8 삼성SDI 6 07 등 순매도
+True Value: 1.762
+Predicted Without: 2.361
+Predicted With: 1.858
+
+
+Date: 2019-05-03
+Most Influencial News: 전일 외국인 거래소에서 SK하이닉스 1 25 삼성전기 2 84 등 순매도
+True Value: -0.372
+Predicted Without: 1.065
+Predicted With: -0.781
+
+
+Date: 2019-08-09
+Most Influencial News: 08일 기관 거래소에서 삼성전자 1 27 POSCO 0 24 등 순매도
+True Value: 1.383
+Predicted Without: 0.878
+Predicted With: 1.299
+
+
+Date: 2019-09-02
+Most Influencial News: 8월 외국인 韓주식 2 6조원 순매도 절반은 삼성전자
+True Value: 0.258
+Predicted Without: 0.418
+Predicted With: 0.139
+
+
+Date: 2020-02-07
+Most Influencial News: 06일 외국인 거래소에서 SK하이닉스 2 87 삼성전자 2 69 등 순매수
+True Value: -1.194
+Predicted Without: 0.691
+Predicted With: -1.103
+
+
+Date: 2020-03-03
+Most Influencial News: 02일 외국인 거래소에서 삼성전자 1 48 SK하이닉스 4 78 등 순매도
+True Value: 0.76
+Predicted Without: 0.796
+Predicted With: 0.736
+
+
+Date: 2020-03-17
+Most Influencial News: 16일 외국인 거래소에서 삼성전자 2 1 현대차 4 93 등 순매도
+True Value: -0.248
+Predicted Without: 1.291
+Predicted With: -0.121
+
+
+Date: 2020-03-27
+Most Influencial News: 기관은 삼성전자 대신 하이닉스 눈독
+True Value: 3.222
+Predicted Without: 1.879
+Predicted With: 3.311
+
+
+Date: 2020-04-09
+Most Influencial News: 08일 외국인 거래소에서 삼성전자 2 02 KODEX 200TR 1 27 등 순매수
+True Value: 0.592
+Predicted Without: 0.636
+Predicted With: 0.639
+
+
+Date: 2020-05-19
+Most Influencial News: 18일 외국인 거래소에서 삼성전자 1 99 삼성전자우 1 59 등 순매수
+True Value: 1.973
+Predicted Without: 0.783
+Predicted With: 1.829
+
+
+Date: 2020-07-21
+Most Influencial News: 외국인 경기민감주로 이동 네이버 팔고 삼성전자 샀다
+True Value: 2.311
+Predicted Without: 0.824
+Predicted With: 2.198
+
+
+Date: 2020-09-14
+Most Influencial News: 미 화웨이 제재 증권가는 삼성전자 반사이익 에 베팅
+True Value: 2.041
+Predicted Without: 0.725
+Predicted With: 1.42
+
+
+Date: 2021-06-18
+Most Influencial News: 코스피 美 조기 긴축 우려에 하락 출발 삼성전자·SK하이닉스 1 대하락
+True Value: -1.581
+Predicted Without: -0.754
+Predicted With: -1.532
+
+
+Date: 2022-04-15
+Most Influencial News: 코스피 한은 금리 인상에도 보합권 선방 삼성전자는 1 7 하락
+True Value: -1.818
+Predicted Without: -1.053
+Predicted With: -1.823
+
+
+Date: 2022-07-13
+Most Influencial News: 韓 증시 하락 출발 삼성전자·SK하닉·네이버 나란히 하락세
+True Value: 0.75
+Predicted Without: 0.542
+Predicted With: 0.712
+
+
+Date: 2022-12-02
+Most Influencial News: 한달간 K 주식 3 8조 쇼핑한 외국인 최애는 삼성전자 아닌 이 종목
+True Value: -3.306
+Predicted Without: -1.159
+Predicted With: -2.689
+
+

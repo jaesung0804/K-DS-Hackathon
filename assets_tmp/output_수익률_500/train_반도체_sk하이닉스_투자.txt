@@ -1,0 +1,399 @@
+Date: 2018-11-14
+Most Influencial News: NH투자 코스피 내년 1 950∼2 400선 등락
+True Value: -2.086
+Predicted Without: -1.170
+Predicted With: -2.481
+
+
+Date: 2018-11-19
+Most Influencial News: 30대그룹 올들어 65조원 투자 삼성·SK하이닉스가 거의 절반
+True Value: -0.428
+Predicted Without: 0.417
+Predicted With: -0.295
+
+
+Date: 2019-01-03
+Most Influencial News: SK 헬스케어 등 5대분야 80조 투자
+True Value: -4.785
+Predicted Without: 2.611
+Predicted With: -8.185
+
+
+Date: 2019-01-15
+Most Influencial News: 방어주에서 반도체주로 투자포커스 이동 모간스탠리
+True Value: 3.060
+Predicted Without: 1.811
+Predicted With: 3.550
+
+
+Date: 2019-02-07
+Most Influencial News: 설 연휴 中 시안 공장 찾은 이재용 삼성전자 부회장 반도체 성장 확신 中 투자속도 안 늦춘다
+True Value: 1.054
+Predicted Without: 0.707
+Predicted With: 1.033
+
+
+Date: 2019-03-21
+Most Influencial News: 기만행위 vs 어불성설 SK하이닉스 청주 투자액 놓고 공방
+True Value: 7.660
+Predicted Without: 1.570
+Predicted With: 7.216
+
+
+Date: 2019-03-25
+Most Influencial News: 투자 5敵 에 가로막힌 한국 콘티넨탈 천안공장 신설 대신 중국行
+True Value: -4.205
+Predicted Without: -1.940
+Predicted With: -3.366
+
+
+Date: 2019-04-16
+Most Influencial News: 이노션 올해는 상저하고 2분기부터 해외 사업 성장 부각 하이투자증권
+True Value: 0.878
+Predicted Without: 0.794
+Predicted With: 1.002
+
+
+Date: 2019-06-07
+Most Influencial News: 충칭시관계자 미중분쟁 韓투자기업 피해우려에 크게 걱정말라
+True Value: 0.461
+Predicted Without: 0.760
+Predicted With: 0.773
+
+
+Date: 2019-07-15
+Most Influencial News: 한국투자증권 SK TRS 거래 일감 규제 회피 논란으로 번지나
+True Value: 2.008
+Predicted Without: 1.781
+Predicted With: 2.105
+
+
+Date: 2019-10-14
+Most Influencial News: 국내 대표 대형주 투자 로스컷 5 로 철저한 리스크 이런 펀드 어때요
+True Value: 0.625
+Predicted Without: -0.394
+Predicted With: -0.382
+
+
+Date: 2020-01-07
+Most Influencial News: 소부장 투자상품 7일만에 목표수익 달성 상환완료 대박
+True Value: -0.318
+Predicted Without: 0.577
+Predicted With: 0.046
+
+
+Date: 2020-02-19
+Most Influencial News: 트러스톤다이나믹코리아50 年 5 6 안정적 수익 원하는 투자자에 안성맞춤
+True Value: 1.471
+Predicted Without: 0.906
+Predicted With: 1.393
+
+
+Date: 2020-02-21
+Most Influencial News: 유니테스트 2021년 사상 최대 실적 전망 DB금융투자
+True Value: -0.962
+Predicted Without: 0.768
+Predicted With: -1.046
+
+
+Date: 2020-03-06
+Most Influencial News: SK머티리얼즈 자회사 성장지속 지금은 살 때 한국투자증권
+True Value: -2.424
+Predicted Without: -0.881
+Predicted With: -2.378
+
+
+Date: 2020-04-08
+Most Influencial News: 벤처투자의 힘 기업가치 1000억 예비유니콘 4 6배 늘었다
+True Value: -1.515
+Predicted Without: 1.518
+Predicted With: -1.630
+
+
+Date: 2020-04-20
+Most Influencial News: 동학개미 성공할까 반등장세 투자성적표는 외국인 판정승
+True Value: -2.497
+Predicted Without: -1.409
+Predicted With: -1.986
+
+
+Date: 2020-05-26
+Most Influencial News: 유진테크 52주 신고가 경신 수확의 시기가 오고 있다 DB금융투자 BUY 유지
+True Value: 0.614
+Predicted Without: 1.031
+Predicted With: 0.859
+
+
+Date: 2020-06-02
+Most Influencial News: SK하이닉스 기술혁신·인프라 투자 세계 최고 D램 양산
+True Value: -0.359
+Predicted Without: 0.597
+Predicted With: -0.581
+
+
+Date: 2020-06-18
+Most Influencial News: 非수도권 경제자유구역 찬밥 동해안 자유무역지역은 3년간 외국인 투자 제로
+True Value: -0.691
+Predicted Without: 2.059
+Predicted With: -0.665
+
+
+Date: 2020-06-23
+Most Influencial News: 유진테크 10 이상 상승 눈앞으로 다가온 새로운 기회 한국투자증권 BUY 유지
+True Value: -0.942
+Predicted Without: -1.530
+Predicted With: -0.709
+
+
+Date: 2020-08-26
+Most Influencial News: 우리중소형고배당펀드 코로나 수혜주 집중투자 年39 수익
+True Value: 2.338
+Predicted Without: 1.644
+Predicted With: 2.787
+
+
+Date: 2020-09-16
+Most Influencial News: 한창 자회사 ㈜한주케미칼 유진투자증권과 대표주관사 계약 체결
+True Value: -0.488
+Predicted Without: 0.875
+Predicted With: -0.246
+
+
+Date: 2020-09-17
+Most Influencial News: 마켓인사이트 한창 자회사 한주케미칼 IPO 추진 상장 주관사에 유진투자증권
+True Value: 0.859
+Predicted Without: 1.327
+Predicted With: 1.104
+
+
+Date: 2020-09-28
+Most Influencial News: 투자자들이 외면했던 SRI펀드에 무슨 일이
+True Value: -0.483
+Predicted Without: -0.540
+Predicted With: -0.064
+
+
+Date: 2020-10-05
+Most Influencial News: 직접투자 두렵다면 워런 버핏이 추천한 ETF에 관심을
+True Value: -0.952
+Predicted Without: 1.185
+Predicted With: -0.964
+
+
+Date: 2020-11-11
+Most Influencial News: 세계 10대 사모펀드 베인캐피탈 한국 부동산에 첫 투자
+True Value: 0.578
+Predicted Without: 0.965
+Predicted With: 0.931
+
+
+Date: 2020-11-17
+Most Influencial News: 삼성전자·SK하이닉스 코로나에도 R amp;D에 투자 역대 최대
+True Value: 0.102
+Predicted Without: 1.765
+Predicted With: 0.044
+
+
+Date: 2021-01-19
+Most Influencial News: 패닉빠진 삼성 투자 중단 위기 성장시계 멈출 듯
+True Value: 0.385
+Predicted Without: 0.488
+Predicted With: 0.102
+
+
+Date: 2021-02-10
+Most Influencial News: 3기신도시 아니요 올해 땅 투자는 여기예요
+True Value: 0.398
+Predicted Without: 0.865
+Predicted With: 1.021
+
+
+Date: 2021-03-02
+Most Influencial News: 코스닥 상장 앞둔 KTB네트워크 바이오·AI·친환경 분야 집중 투자
+True Value: 2.120
+Predicted Without: 1.146
+Predicted With: 2.295
+
+
+Date: 2021-03-25
+Most Influencial News: SK그룹주에 투자한 개미들 “탈출 기회도 없다”
+True Value: -0.375
+Predicted Without: 1.174
+Predicted With: -0.350
+
+
+Date: 2021-04-14
+Most Influencial News: 1분기 설비투자 8조 1년새 세 배 늘었다
+True Value: -1.792
+Predicted Without: -1.564
+Predicted With: -1.319
+
+
+Date: 2021-06-23
+Most Influencial News: 부꾸미 알파고 처럼 투자한다 로보어드바이저 오해와 진실
+True Value: 1.639
+Predicted Without: 0.878
+Predicted With: 1.669
+
+
+Date: 2021-08-31
+Most Influencial News: 신장섭의 기업과 경제 주식투자로 잘못 배우는 기업경영
+True Value: 2.899
+Predicted Without: 1.027
+Predicted With: 2.773
+
+
+Date: 2021-09-08
+Most Influencial News: 베어링 고배당 펀드 배당 늘리는 기업에 투자해 年수익 42
+True Value: 1.435
+Predicted Without: 0.935
+Predicted With: 1.227
+
+
+Date: 2021-10-27
+Most Influencial News: 주코노미 요즘것들의 주식투자 우량 기업 몰린 코스피 작지만 성장 기대되는 기업은 코스닥
+True Value: -0.490
+Predicted Without: -0.918
+Predicted With: -0.828
+
+
+Date: 2021-12-08
+Most Influencial News: 한국투자증권 반도체 D램 업황 저점에 가까워져
+True Value: -1.235
+Predicted Without: -1.535
+Predicted With: -1.060
+
+
+Date: 2022-01-14
+Most Influencial News: 숨은 저평가株 가치투자 빅4 는 알고 있다
+True Value: -0.772
+Predicted Without: -1.542
+Predicted With: -0.571
+
+
+Date: 2022-03-29
+Most Influencial News: SK스퀘어 반도체·블록체인 투자 늘린다
+True Value: 1.695
+Predicted Without: 0.824
+Predicted With: 1.331
+
+
+Date: 2022-06-15
+Most Influencial News: SK하이닉스 주가 PBR 최하단 목표가 14만원 신한금융투자
+True Value: -1.211
+Predicted Without: -1.468
+Predicted With: -1.621
+
+
+Date: 2022-07-15
+Most Influencial News: IBK투자 코스피 하반기 2 100 바닥 변곡점은 11월
+True Value: 5.000
+Predicted Without: 2.151
+Predicted With: 4.220
+
+
+Date: 2022-09-14
+Most Influencial News: 투자 약속한 대만기업 발 뺐다 반도체 공장 韓에 안 짓는 이유
+True Value: -1.899
+Predicted Without: -1.619
+Predicted With: -1.443
+
+
+Date: 2022-10-14
+Most Influencial News: 침체 대비하는 것 TSMC 올해 설비투자 10 줄인다
+True Value: 0.632
+Predicted Without: 1.544
+Predicted With: 1.766
+
+
+Date: 2023-02-08
+Most Influencial News: 美 정부 반도체 對中 투자규제에 산업부 국내기업 예외적용 총력
+True Value: 4.515
+Predicted Without: 2.386
+Predicted With: 5.037
+
+
+Date: 2023-02-14
+Most Influencial News: 박광선 AMAT코리아 사장 한국은 중요한 시장 조만간 투자 발표
+True Value: 3.091
+Predicted Without: 1.162
+Predicted With: 3.650
+
+
+Date: 2023-03-02
+Most Influencial News: 박정호의 투자유치 매직 SK쉴더스 IPO보다 더 이득
+True Value: -1.454
+Predicted Without: -2.545
+Predicted With: -1.578
+
+
+Date: 2023-03-10
+Most Influencial News: SK스퀘어 좋은 사례를 만들어 가는 투자형 지주 IBK
+True Value: -2.687
+Predicted Without: -1.369
+Predicted With: -2.237
+
+
+Date: 2023-03-16
+Most Influencial News: SK 179조·LG 54조 투자 대기업 첨단 어벤저스
+True Value: -0.126
+Predicted Without: 1.154
+Predicted With: -0.628
+
+
+Date: 2023-04-12
+Most Influencial News: 삼성 현대차 투자하면 통크게 지원 방한 포르투갈 총리 韓기업 유치 세일즈 단독 인터뷰
+True Value: -1.634
+Predicted Without: -1.174
+Predicted With: -1.685
+
+
+Date: 2023-06-14
+Most Influencial News: 기업·기관투자가 C 레벨 소통의 장 마련
+True Value: -0.586
+Predicted Without: 1.311
+Predicted With: 0.469
+
+
+Date: 2023-06-21
+Most Influencial News: IBK투자증권 코스피 단기 과열 5 내외 조정 가능성
+True Value: -0.861
+Predicted Without: -0.744
+Predicted With: -1.381
+
+
+Date: 2023-06-29
+Most Influencial News: 상반기 투자 개미가 1등 나만 마이너스야 이 종목에 희비
+True Value: 1.662
+Predicted Without: 1.599
+Predicted With: 1.974
+
+
+Date: 2023-07-18
+Most Influencial News: 與김학용 삼성·SK 반도체 협력업체 15곳 6000억 투자계획 유치
+True Value: 0.512
+Predicted Without: 0.908
+Predicted With: 0.548
+
+
+Date: 2023-08-02
+Most Influencial News: 장유락 NH證 차장 수익률 효자였던 이 종목 지금도 투자
+True Value: -4.476
+Predicted Without: -1.632
+Predicted With: -3.424
+
+
+Date: 2023-08-07
+Most Influencial News: 中 옥죄기에 美 공급망 수혜주 반·방 에 투자 기회
+True Value: 1.499
+Predicted Without: 1.199
+Predicted With: 1.116
+
+
+Date: 2023-09-18
+Most Influencial News: 주식투자로 순이익보다 많이 번 기업개미
+True Value: -2.778
+Predicted Without: -1.553
+Predicted With: -2.744
+
+
